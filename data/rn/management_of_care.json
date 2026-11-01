@@ -1,0 +1,232 @@
+{
+  "track": "rn",
+  "category": "management_of_care",
+  "title": "Management of Care",
+  "questions": [
+    {
+      "id": "rn-management_of_care-001",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which task is most appropriate for the nurse to delegate to an unlicensed assistive personnel (UAP)?",
+      "options": [
+        "Evaluating a client's response to pain medication",
+        "Ambulating a stable client on postoperative day 2",
+        "Teaching a client how to self-administer insulin",
+        "Assessing a newly admitted client's skin integrity"
+      ],
+      "correctIndex": 1,
+      "explanation": "UAPs may perform routine tasks for stable clients, such as ambulation. Assessment, teaching, and evaluation require nursing judgment and cannot be delegated to a UAP."
+    },
+    {
+      "id": "rn-management_of_care-002",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client is about to sign a surgical consent form. What is the nurse's primary role in this process?",
+      "options": [
+        "Witnessing the client's signature",
+        "Explaining the risks and benefits of the surgery",
+        "Obtaining consent from the spouse instead of the client",
+        "Deciding whether the surgery is necessary"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provider performing the procedure explains risks, benefits, and alternatives. The nurse commonly witnesses that the client signed voluntarily and appeared to understand."
+    },
+    {
+      "id": "rn-management_of_care-003",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A visitor asks the nurse about the diagnosis of the client in the next room. Which response is best?",
+      "options": [
+        "\"I can only tell you if you are a close friend.\"",
+        "\"The client is doing well, but I can't say more.\"",
+        "\"I'm not able to share information about other clients.\"",
+        "\"You should ask the charge nurse instead.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Health information is confidential. The nurse must not disclose any details, including general status, to people who are not authorized to receive it."
+    },
+    {
+      "id": "rn-management_of_care-004",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client with a valid do-not-resuscitate (DNR) order becomes pulseless. What should the nurse do?",
+      "options": [
+        "Call a rapid response and start CPR",
+        "Begin chest compressions until the provider arrives",
+        "Ask the family whether CPR should be started",
+        "Honor the DNR order and stay with the client while notifying the provider"
+      ],
+      "correctIndex": 3,
+      "explanation": "A valid DNR order must be honored. The nurse does not start resuscitation, provides comfort and dignity, and notifies the provider according to policy."
+    },
+    {
+      "id": "rn-management_of_care-005",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "Which client should the nurse see first after receiving the shift report?",
+      "options": [
+        "A client with diabetes whose fasting glucose is 128 mg/dL",
+        "A client awaiting discharge teaching",
+        "A client with pneumonia who is newly confused and has an SpO2 of 88%",
+        "A client who reports pain of 4/10 one hour after an oral analgesic"
+      ],
+      "correctIndex": 2,
+      "explanation": "New confusion with low oxygen saturation suggests hypoxia, an airway and breathing problem. It takes priority over stable or expected findings."
+    },
+    {
+      "id": "rn-management_of_care-006",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client falls while getting out of bed. After the nurse assesses the client, which statement about the incident report is correct?",
+      "options": [
+        "Only the provider may complete the report",
+        "The report should be placed in the client's chart",
+        "The report is used for quality improvement and is not referenced in the medical record",
+        "The nurse should write \"incident report filed\" in the progress notes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Incident reports are internal quality and risk documents. The nurse documents the facts of the fall in the chart but does not mention the report itself."
+    },
+    {
+      "id": "rn-management_of_care-007",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A competent adult client says, \"I'm leaving the hospital now, even though my doctor hasn't discharged me.\" What should the nurse do first?",
+      "options": [
+        "Apply soft restraints to keep the client safe",
+        "Tell the client that leaving is not allowed",
+        "Explain the risks of leaving and notify the provider",
+        "Call security to escort the client back to the room"
+      ],
+      "correctIndex": 2,
+      "explanation": "A competent adult has the right to leave against medical advice. The nurse explains the risks, notifies the provider, and follows policy for an AMA form. Restraining the client would be false imprisonment."
+    },
+    {
+      "id": "rn-management_of_care-008",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "During an SBAR handoff, which statement is the \"Recommendation\" component?",
+      "options": [
+        "\"I'd like you to evaluate him and consider an order for IV furosemide.\"",
+        "\"I think he is developing fluid overload.\"",
+        "\"Mr. Lee is a 67-year-old admitted with heart failure.\"",
+        "\"His respiratory rate rose from 18 to 28 in the past hour.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "SBAR stands for Situation, Background, Assessment, Recommendation. The recommendation is the specific action the nurse is requesting."
+    },
+    {
+      "id": "rn-management_of_care-009",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "The RN is making assignments. Which client is most appropriate to assign to a licensed practical nurse (LPN)?",
+      "options": [
+        "A client newly diagnosed with diabetes who needs a teaching plan",
+        "A client admitted 30 minutes ago with chest pain",
+        "A client receiving a blood transfusion who has new hives",
+        "A client with stable chronic COPD who needs scheduled oral medications"
+      ],
+      "correctIndex": 3,
+      "explanation": "LPNs care for stable clients with predictable outcomes. New admissions, initial teaching plans, and clients with unstable or changing conditions belong with the RN."
+    },
+    {
+      "id": "rn-management_of_care-010",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "During a mass-casualty event using START triage, an adult who can't walk has a respiratory rate of 34/min. How should the nurse tag this client?",
+      "options": [
+        "Yellow (delayed)",
+        "Green (minor)",
+        "Black (expectant)",
+        "Red (immediate)"
+      ],
+      "correctIndex": 3,
+      "explanation": "In START triage, a breathing adult with a respiratory rate above 30/min is tagged immediate (red) because life-saving care is needed quickly."
+    },
+    {
+      "id": "rn-management_of_care-011",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A provider orders a medication dose that is three times the usual dose. The nurse's first action should be to:",
+      "options": [
+        "Hold the dose and clarify the order with the provider",
+        "Ask a pharmacist to change the order",
+        "Give the usual dose instead",
+        "Give the medication as ordered"
+      ],
+      "correctIndex": 0,
+      "explanation": "The nurse is accountable for every medication given and must clarify an unsafe order with the prescriber. If it isn't resolved, the nurse uses the chain of command."
+    },
+    {
+      "id": "rn-management_of_care-012",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "When should discharge planning begin for a hospitalized client?",
+      "options": [
+        "After the client's condition stabilizes",
+        "When the provider writes the discharge order",
+        "At the time of admission",
+        "On the day of discharge"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discharge planning starts at admission so the team can identify needs, resources, and teaching early and support a safe transition."
+    },
+    {
+      "id": "rn-management_of_care-013",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "After a sentinel event on the unit, the nurse manager wants to find the underlying system causes. Which process is most appropriate?",
+      "options": [
+        "Root cause analysis",
+        "Disciplinary action with written warnings",
+        "Peer review of the individual nurse involved",
+        "A client satisfaction survey"
+      ],
+      "correctIndex": 0,
+      "explanation": "Root cause analysis looks for system and process failures that contributed to the event, rather than blaming individuals."
+    },
+    {
+      "id": "rn-management_of_care-014",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client declines a recommended chemotherapy regimen after receiving full information. The nurse supports the decision. Which ethical principle does this demonstrate?",
+      "options": [
+        "Autonomy",
+        "Beneficence",
+        "Nonmaleficence",
+        "Veracity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Autonomy is the client's right to make informed decisions about their own care, including refusing treatment."
+    },
+    {
+      "id": "rn-management_of_care-015",
+      "track": "rn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "Just before surgery, a client says, \"I'm not really sure what they are going to do to me.\" What should the nurse do?",
+      "options": [
+        "Reassure the client that the surgeon is very experienced",
+        "Have the client sign the consent, since it was already explained",
+        "Notify the surgeon that the client needs more information before consent",
+        "Explain the surgical procedure in detail"
+      ],
+      "correctIndex": 2,
+      "explanation": "Informed consent requires understanding. As the client's advocate, the nurse notifies the surgeon, who must give the explanation before the client signs."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "track": "rn",
+  "category": "reduction_of_risk",
+  "title": "Reduction of Risk Potential",
+  "questions": [
+    {
+      "id": "rn-reduction_of_risk-001",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the normal adult serum potassium range?",
+      "options": [
+        "2.5–3.0 mEq/L",
+        "3.5–5.0 mEq/L",
+        "5.5–6.5 mEq/L",
+        "135–145 mEq/L"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normal serum potassium is about 3.5 to 5.0 mEq/L. Values outside this range can cause dysrhythmias."
+    },
+    {
+      "id": "rn-reduction_of_risk-002",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which finding is the earliest sign of hemorrhage in a postoperative client?",
+      "options": [
+        "Increasing heart rate and restlessness",
+        "Hypotension",
+        "Warm, flushed skin",
+        "Bradycardia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tachycardia and restlessness come early as the body compensates. Hypotension is a later sign."
+    },
+    {
+      "id": "rn-reduction_of_risk-003",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the main purpose of incentive spirometry after surgery?",
+      "options": [
+        "To relieve incision pain",
+        "To strengthen the abdominal muscles",
+        "To prevent atelectasis and pneumonia",
+        "To lower blood pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Slow, sustained deep breaths expand the alveoli and help prevent atelectasis and postoperative pneumonia."
+    },
+    {
+      "id": "rn-reduction_of_risk-004",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which action belongs on the preoperative checklist?",
+      "options": [
+        "Give a large breakfast",
+        "Skip the vital signs",
+        "Remove dentures, jewelry, and nail polish according to policy, and confirm NPO status",
+        "Leave dentures and jewelry in place"
+      ],
+      "correctIndex": 2,
+      "explanation": "Removing items that could cause airway problems or injury and confirming NPO status lowers surgical risk."
+    },
+    {
+      "id": "rn-reduction_of_risk-005",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "After a cardiac catheterization through the femoral artery, which intervention is a priority?",
+      "options": [
+        "Get the client up to walk right away",
+        "Apply heat to the insertion site",
+        "Keep the affected leg straight and check distal pulses and the site often",
+        "Elevate the head of the bed to 90 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keeping the leg straight helps prevent bleeding at the femoral site. Check the site, distal pulses, color, and temperature often."
+    },
+    {
+      "id": "rn-reduction_of_risk-006",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "A conscious client's blood glucose is 58 mg/dL. What should the nurse do first?",
+      "options": [
+        "Give the scheduled insulin",
+        "Give a high-fat snack",
+        "Give 15 grams of a fast-acting carbohydrate, such as 4 oz of juice",
+        "Let the client sleep"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule of 15: give 15 g of fast-acting carbohydrate, recheck in 15 minutes, and repeat if glucose is still below 70 mg/dL."
+    },
+    {
+      "id": "rn-reduction_of_risk-007",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "How should the nurse position a client for a thoracentesis?",
+      "options": [
+        "Supine with the arms at the sides",
+        "Trendelenburg",
+        "Prone with the legs elevated",
+        "Sitting upright and leaning over an overbed table"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sitting upright and leaning forward widens the intercostal spaces and lets fluid collect at the base for safe needle insertion."
+    },
+    {
+      "id": "rn-reduction_of_risk-008",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Fifteen minutes into a blood transfusion, the client develops chills and back pain. What should the nurse do first?",
+      "options": [
+        "Slow the transfusion",
+        "Stop the transfusion",
+        "Notify the blood bank",
+        "Give acetaminophen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stop the transfusion right away, keep the IV open with normal saline on new tubing, then notify the provider and the blood bank."
+    },
+    {
+      "id": "rn-reduction_of_risk-009",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "The nurse sees continuous bubbling in the water-seal chamber of a client's chest drainage system. What does this mean?",
+      "options": [
+        "The lung has fully re-expanded",
+        "An air leak in the system",
+        "Normal function",
+        "Too much suction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Continuous bubbling in the water-seal chamber suggests an air leak. Gentle intermittent bubbling or tidaling can be normal, depending on the situation."
+    },
+    {
+      "id": "rn-reduction_of_risk-010",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Arterial blood gases: pH 7.30, PaCO2 52 mm Hg, HCO3 24 mEq/L. How should the nurse interpret them?",
+      "options": [
+        "Respiratory acidosis",
+        "Metabolic acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "A low pH with a high PaCO2 and normal HCO3 indicates uncompensated respiratory acidosis."
+    },
+    {
+      "id": "rn-reduction_of_risk-011",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What should the nurse have the client do right before a paracentesis?",
+      "options": [
+        "Drink 1 liter of water",
+        "Eat a large meal",
+        "Lie prone",
+        "Empty the bladder"
+      ],
+      "correctIndex": 3,
+      "explanation": "Emptying the bladder lowers the risk of bladder puncture during needle insertion."
+    },
+    {
+      "id": "rn-reduction_of_risk-012",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which finding should the nurse report immediately for a client with a new lower-leg cast?",
+      "options": [
+        "Toes that are warm and pink",
+        "A cast that feels warm while drying",
+        "Mild itching under the cast",
+        "Pain not relieved by opioids and pain with passive toe movement"
+      ],
+      "correctIndex": 3,
+      "explanation": "Severe pain out of proportion to the injury, especially with passive stretch, suggests compartment syndrome, an emergency."
+    },
+    {
+      "id": "rn-reduction_of_risk-013",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Before a CT scan with IV contrast, which lab result is most important to review?",
+      "options": [
+        "TSH",
+        "Serum creatinine",
+        "Serum lipase",
+        "Hemoglobin A1C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contrast can be nephrotoxic. Renal function (creatinine and eGFR) is checked before giving it."
+    },
+    {
+      "id": "rn-reduction_of_risk-014",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client with a central venous catheter suddenly develops dyspnea, chest pain, and hypotension while the tubing is being changed. How should the nurse position the client?",
+      "options": [
+        "High Fowler's",
+        "Right side-lying with the head up",
+        "Left side-lying with the head down (left lateral Trendelenburg)",
+        "Prone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Suspected air embolism: clamp the line and place the client on the left side with the head down to trap air in the right atrium, give oxygen, and notify the provider."
+    },
+    {
+      "id": "rn-reduction_of_risk-015",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which change in the ECG should the nurse expect in a client with hypokalemia?",
+      "options": [
+        "Tall peaked T waves",
+        "Widened QRS with sine waves",
+        "Shortened QT interval",
+        "Flattened T waves and prominent U waves"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hypokalemia causes flattened T waves, ST depression, and U waves. Peaked T waves are seen with hyperkalemia."
+    }
+  ]
+}

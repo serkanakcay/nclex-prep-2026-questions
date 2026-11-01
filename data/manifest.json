@@ -1,0 +1,123 @@
+{
+  "version": "2026.11.01-9565d1f9",
+  "updatedAt": "2026-11-01T14:17:52Z",
+  "totalQuestions": 240,
+  "tracks": {
+    "rn": 120,
+    "pn": 120
+  },
+  "categories": [
+    {
+      "id": "management_of_care",
+      "track": "rn",
+      "title": "Management of Care",
+      "count": 15,
+      "file": "rn/management_of_care.json"
+    },
+    {
+      "id": "safety_infection_control",
+      "track": "rn",
+      "title": "Safety & Infection Control",
+      "count": 15,
+      "file": "rn/safety_infection_control.json"
+    },
+    {
+      "id": "health_promotion",
+      "track": "rn",
+      "title": "Health Promotion & Maintenance",
+      "count": 15,
+      "file": "rn/health_promotion.json"
+    },
+    {
+      "id": "psychosocial_integrity",
+      "track": "rn",
+      "title": "Psychosocial Integrity",
+      "count": 15,
+      "file": "rn/psychosocial_integrity.json"
+    },
+    {
+      "id": "basic_care_comfort",
+      "track": "rn",
+      "title": "Basic Care & Comfort",
+      "count": 15,
+      "file": "rn/basic_care_comfort.json"
+    },
+    {
+      "id": "pharmacological_therapies",
+      "track": "rn",
+      "title": "Pharmacological Therapies",
+      "count": 15,
+      "file": "rn/pharmacological_therapies.json"
+    },
+    {
+      "id": "reduction_of_risk",
+      "track": "rn",
+      "title": "Reduction of Risk Potential",
+      "count": 15,
+      "file": "rn/reduction_of_risk.json"
+    },
+    {
+      "id": "physiological_adaptation",
+      "track": "rn",
+      "title": "Physiological Adaptation",
+      "count": 15,
+      "file": "rn/physiological_adaptation.json"
+    },
+    {
+      "id": "management_of_care",
+      "track": "pn",
+      "title": "Coordinated Care",
+      "count": 15,
+      "file": "pn/management_of_care.json"
+    },
+    {
+      "id": "safety_infection_control",
+      "track": "pn",
+      "title": "Safety & Infection Control",
+      "count": 15,
+      "file": "pn/safety_infection_control.json"
+    },
+    {
+      "id": "health_promotion",
+      "track": "pn",
+      "title": "Health Promotion & Maintenance",
+      "count": 15,
+      "file": "pn/health_promotion.json"
+    },
+    {
+      "id": "psychosocial_integrity",
+      "track": "pn",
+      "title": "Psychosocial Integrity",
+      "count": 15,
+      "file": "pn/psychosocial_integrity.json"
+    },
+    {
+      "id": "basic_care_comfort",
+      "track": "pn",
+      "title": "Basic Care & Comfort",
+      "count": 15,
+      "file": "pn/basic_care_comfort.json"
+    },
+    {
+      "id": "pharmacological_therapies",
+      "track": "pn",
+      "title": "Pharmacological Therapies",
+      "count": 15,
+      "file": "pn/pharmacological_therapies.json"
+    },
+    {
+      "id": "reduction_of_risk",
+      "track": "pn",
+      "title": "Reduction of Risk Potential",
+      "count": 15,
+      "file": "pn/reduction_of_risk.json"
+    },
+    {
+      "id": "physiological_adaptation",
+      "track": "pn",
+      "title": "Physiological Adaptation",
+      "count": 15,
+      "file": "pn/physiological_adaptation.json"
+    }
+  ]
+}

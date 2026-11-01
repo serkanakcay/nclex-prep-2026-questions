@@ -1,0 +1,232 @@
+{
+  "track": "pn",
+  "category": "basic_care_comfort",
+  "title": "Basic Care & Comfort",
+  "questions": [
+    {
+      "id": "pn-basic_care_comfort-001",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "How often should the nurse reposition an immobile client at risk for pressure injury?",
+      "options": [
+        "Every 8 hours",
+        "Once per shift",
+        "At least every 2 hours",
+        "Only when the client asks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Repositioning at least every 2 hours (more often if the client is high risk) relieves pressure over bony prominences."
+    },
+    {
+      "id": "pn-basic_care_comfort-002",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A pressure injury shows partial-thickness skin loss with exposed pink dermis and no slough. What stage is it?",
+      "options": [
+        "Stage 2",
+        "Stage 3",
+        "Unstageable",
+        "Stage 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stage 2 is partial-thickness loss with exposed dermis, which may look like a shallow open ulcer or an intact blister."
+    },
+    {
+      "id": "pn-basic_care_comfort-003",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "What is the most reliable indicator of pain in an alert, oriented adult?",
+      "options": [
+        "Facial expression",
+        "Blood pressure",
+        "Heart rate",
+        "The client's self-report"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pain is subjective. When a client can communicate, their self-report is the most reliable indicator."
+    },
+    {
+      "id": "pn-basic_care_comfort-004",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "During a continuous enteral tube feeding, how should the nurse position the client?",
+      "options": [
+        "Trendelenburg",
+        "Prone",
+        "Head of bed elevated at least 30 degrees",
+        "Flat on the back"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keeping the head of the bed at 30 to 45 degrees lowers the risk of aspiration during tube feeding."
+    },
+    {
+      "id": "pn-basic_care_comfort-005",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which statement shows that a client understands how to use crutches?",
+      "options": [
+        "\"The crutch tops should touch my armpits.\"",
+        "\"I'll take big steps to move faster.\"",
+        "\"I'll support my weight on my hands.\"",
+        "\"I'll rest my armpits on the crutch pads.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Weight goes on the hands and arms, not the axillae, to avoid nerve damage. Crutch tops sit about 2 to 3 finger-widths below the axilla."
+    },
+    {
+      "id": "pn-basic_care_comfort-006",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with right-sided weakness is learning to use a cane. Which instruction is correct?",
+      "options": [
+        "Hold the cane in the left hand and move it forward with the right leg",
+        "Move the cane and the left leg together",
+        "Hold the cane in the right hand",
+        "Keep the cane 12 inches behind the body"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hold the cane on the stronger side and move it forward together with the weaker leg to widen the base of support."
+    },
+    {
+      "id": "pn-basic_care_comfort-007",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Where should the drainage bag of an indwelling urinary catheter be kept?",
+      "options": [
+        "Below the level of the bladder, off the floor",
+        "On the bed beside the client",
+        "Above the bladder to improve flow",
+        "Hooked to the side rail that moves"
+      ],
+      "correctIndex": 0,
+      "explanation": "Keeping the bag below the bladder prevents backflow and lowers the risk of catheter-associated urinary tract infection."
+    },
+    {
+      "id": "pn-basic_care_comfort-008",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with dysphagia after a stroke is eating lunch. Which intervention is appropriate?",
+      "options": [
+        "Rush the meal to prevent fatigue",
+        "Have the client lie flat after eating",
+        "Seat the client upright and teach the chin-tuck technique",
+        "Give thin liquids through a straw"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sitting upright, tucking the chin, eating slowly, and using thickened liquids as prescribed lower the risk of aspiration."
+    },
+    {
+      "id": "pn-basic_care_comfort-009",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "When cleaning a client's eyes during a bed bath, how should the PN wipe?",
+      "options": [
+        "From the outer canthus to the inner canthus",
+        "In a circular motion",
+        "From the inner canthus to the outer canthus",
+        "With the same part of the cloth for both eyes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Wipe from inner to outer canthus, using a clean part of the washcloth for each eye, so debris moves away from the tear duct."
+    },
+    {
+      "id": "pn-basic_care_comfort-010",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client is unconscious and can't move independently. Which exercise should the PN perform?",
+      "options": [
+        "Isometric exercises",
+        "Resistive exercises",
+        "Passive range of motion",
+        "Active range of motion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Passive ROM, done by the caregiver, keeps joints mobile and helps prevent contractures in clients who can't move on their own."
+    },
+    {
+      "id": "pn-basic_care_comfort-011",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "How should the PN position an unconscious client for oral care?",
+      "options": [
+        "High Fowler's",
+        "Prone",
+        "Supine with the head flat",
+        "Side-lying with the head turned to the side"
+      ],
+      "correctIndex": 3,
+      "explanation": "Side-lying lets fluid drain out of the mouth and lowers the risk of aspiration."
+    },
+    {
+      "id": "pn-basic_care_comfort-012",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client sprained an ankle 2 hours ago. Which intervention is appropriate?",
+      "options": [
+        "Massage the ankle",
+        "Keep the ankle dependent",
+        "Apply heat",
+        "Apply cold, wrapped in a cloth, for about 20 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "In the first 24 to 48 hours, cold reduces swelling and pain. Elevate the ankle and protect the skin with a barrier."
+    },
+    {
+      "id": "pn-basic_care_comfort-013",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "How can the PN help a client with impaired vision eat independently?",
+      "options": [
+        "Describe the food placement using the clock method",
+        "Mix all foods together",
+        "Serve only liquids",
+        "Feed the client every meal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Describing food by clock positions (for example, \"meat at 6 o'clock\") supports independence and dignity."
+    },
+    {
+      "id": "pn-basic_care_comfort-014",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which intervention supports bladder training for a client with urge incontinence?",
+      "options": [
+        "Give fluids mainly at bedtime",
+        "Limit fluids to 500 mL a day",
+        "Insert an indwelling catheter",
+        "Set a timed voiding schedule, such as every 2 hours, and gradually lengthen it"
+      ],
+      "correctIndex": 3,
+      "explanation": "Scheduled voiding with gradually longer intervals retrains the bladder. Adequate daytime fluids prevent concentrated, irritating urine."
+    },
+    {
+      "id": "pn-basic_care_comfort-015",
+      "track": "pn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which item is allowed on a clear liquid diet?",
+      "options": [
+        "Cream soup",
+        "Orange juice with pulp",
+        "Milk",
+        "Gelatin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clear liquids are transparent at room temperature, such as gelatin, broth, apple juice, and tea. Milk and cream soups are full liquids."
+    }
+  ]
+}

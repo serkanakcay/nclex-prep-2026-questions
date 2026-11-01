@@ -1,0 +1,232 @@
+{
+  "track": "pn",
+  "category": "management_of_care",
+  "title": "Coordinated Care",
+  "questions": [
+    {
+      "id": "pn-management_of_care-001",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which task is most appropriate for the nurse to delegate to an unlicensed assistive personnel (UAP)?",
+      "options": [
+        "Evaluating a client's response to pain medication",
+        "Ambulating a stable client on postoperative day 2",
+        "Teaching a client how to self-administer insulin",
+        "Assessing a newly admitted client's skin integrity"
+      ],
+      "correctIndex": 1,
+      "explanation": "UAPs may perform routine tasks for stable clients, such as ambulation. Assessment, teaching, and evaluation require nursing judgment and cannot be delegated to a UAP."
+    },
+    {
+      "id": "pn-management_of_care-002",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client is about to sign a surgical consent form. What is the nurse's primary role in this process?",
+      "options": [
+        "Witnessing the client's signature",
+        "Explaining the risks and benefits of the surgery",
+        "Obtaining consent from the spouse instead of the client",
+        "Deciding whether the surgery is necessary"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provider performing the procedure explains risks, benefits, and alternatives. The nurse commonly witnesses that the client signed voluntarily and appeared to understand."
+    },
+    {
+      "id": "pn-management_of_care-003",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A visitor asks the nurse about the diagnosis of the client in the next room. Which response is best?",
+      "options": [
+        "\"I can only tell you if you are a close friend.\"",
+        "\"The client is doing well, but I can't say more.\"",
+        "\"I'm not able to share information about other clients.\"",
+        "\"You should ask the charge nurse instead.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Health information is confidential. The nurse must not disclose any details, including general status, to people who are not authorized to receive it."
+    },
+    {
+      "id": "pn-management_of_care-004",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client with a valid do-not-resuscitate (DNR) order becomes pulseless. What should the nurse do?",
+      "options": [
+        "Call a rapid response and start CPR",
+        "Begin chest compressions until the provider arrives",
+        "Ask the family whether CPR should be started",
+        "Honor the DNR order and stay with the client while notifying the provider"
+      ],
+      "correctIndex": 3,
+      "explanation": "A valid DNR order must be honored. The nurse does not start resuscitation, provides comfort and dignity, and notifies the provider according to policy."
+    },
+    {
+      "id": "pn-management_of_care-005",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "Which client should the nurse see first after receiving the shift report?",
+      "options": [
+        "A client with diabetes whose fasting glucose is 128 mg/dL",
+        "A client awaiting discharge teaching",
+        "A client with pneumonia who is newly confused and has an SpO2 of 88%",
+        "A client who reports pain of 4/10 one hour after an oral analgesic"
+      ],
+      "correctIndex": 2,
+      "explanation": "New confusion with low oxygen saturation suggests hypoxia, an airway and breathing problem. It takes priority over stable or expected findings."
+    },
+    {
+      "id": "pn-management_of_care-006",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client falls while getting out of bed. After the nurse assesses the client, which statement about the incident report is correct?",
+      "options": [
+        "Only the provider may complete the report",
+        "The report should be placed in the client's chart",
+        "The report is used for quality improvement and is not referenced in the medical record",
+        "The nurse should write \"incident report filed\" in the progress notes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Incident reports are internal quality and risk documents. The nurse documents the facts of the fall in the chart but does not mention the report itself."
+    },
+    {
+      "id": "pn-management_of_care-007",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A competent adult client says, \"I'm leaving the hospital now, even though my doctor hasn't discharged me.\" What should the nurse do first?",
+      "options": [
+        "Apply soft restraints to keep the client safe",
+        "Tell the client that leaving is not allowed",
+        "Explain the risks of leaving and notify the provider",
+        "Call security to escort the client back to the room"
+      ],
+      "correctIndex": 2,
+      "explanation": "A competent adult has the right to leave against medical advice. The nurse explains the risks, notifies the provider, and follows policy for an AMA form. Restraining the client would be false imprisonment."
+    },
+    {
+      "id": "pn-management_of_care-008",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "During an SBAR handoff, which statement is the \"Recommendation\" component?",
+      "options": [
+        "\"I'd like you to evaluate him and consider an order for IV furosemide.\"",
+        "\"I think he is developing fluid overload.\"",
+        "\"Mr. Lee is a 67-year-old admitted with heart failure.\"",
+        "\"His respiratory rate rose from 18 to 28 in the past hour.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "SBAR stands for Situation, Background, Assessment, Recommendation. The recommendation is the specific action the nurse is requesting."
+    },
+    {
+      "id": "pn-management_of_care-009",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "Which action is within the scope of practice of the practical nurse (PN)?",
+      "options": [
+        "Performing the initial admission assessment",
+        "Developing the client's nursing care plan",
+        "Evaluating the outcomes of the plan of care",
+        "Reinforcing discharge teaching that the RN started"
+      ],
+      "correctIndex": 3,
+      "explanation": "PNs collect data and reinforce teaching started by the RN. Initial assessment, care planning, and evaluation are RN responsibilities."
+    },
+    {
+      "id": "pn-management_of_care-010",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which task can the PN appropriately assign to an assistive personnel?",
+      "options": [
+        "Collecting data on a client with new chest pain",
+        "Measuring vital signs on a stable client",
+        "Monitoring a client during a blood transfusion",
+        "Reinforcing teaching about a new medication"
+      ],
+      "correctIndex": 1,
+      "explanation": "Routine vital signs on a stable client are within the role of assistive personnel. Clients who are unstable or have new symptoms need a licensed nurse."
+    },
+    {
+      "id": "pn-management_of_care-011",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A caller says she is the client's daughter and asks for test results. What should the PN do first?",
+      "options": [
+        "Hang up without responding",
+        "Tell her the results are normal",
+        "Verify that the client has authorized release of information to this caller",
+        "Give the results because she is family"
+      ],
+      "correctIndex": 2,
+      "explanation": "Information may be shared only with people the client has authorized, and identity must be verified (for example, with a privacy code) according to facility policy."
+    },
+    {
+      "id": "pn-management_of_care-012",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client refuses a scheduled medication. Which action by the PN is best?",
+      "options": [
+        "Explore the reason, document the refusal, and report it to the RN or provider",
+        "Insist that the client take it now",
+        "Discard the medication and document that it was given",
+        "Hide the medication in the client's food"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clients have the right to refuse. The nurse explores the reasons, documents the refusal, and reports it so the plan of care can be adjusted."
+    },
+    {
+      "id": "pn-management_of_care-013",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A nurse tells a client, \"If you don't stay in bed, I'll have to tie you down.\" This statement is an example of:",
+      "options": [
+        "Battery",
+        "Negligence",
+        "Defamation",
+        "Assault"
+      ],
+      "correctIndex": 3,
+      "explanation": "Assault is a threat or attempt to cause harmful contact. Battery is the actual unconsented touching."
+    },
+    {
+      "id": "pn-management_of_care-014",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "While collecting data, the PN finds that a client's blood pressure dropped from 128/80 to 92/58. What is the PN's best action?",
+      "options": [
+        "Document the finding only",
+        "Give the next dose of the client's antihypertensive",
+        "Report the change to the RN promptly",
+        "Recheck the blood pressure in 4 hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "A significant change in a client's condition must be reported promptly to the RN or provider for further assessment and intervention."
+    },
+    {
+      "id": "pn-management_of_care-015",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "A client is in soft wrist restraints under a valid order. Which action is appropriate?",
+      "options": [
+        "Tie the restraints to the side rail",
+        "Check the restraints once per shift",
+        "Release the restraints and reposition the client at least every 2 hours",
+        "Use the restraints as a PRN order whenever needed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Restraints are tied to the bed frame, monitored often, and released at least every 2 hours for repositioning, skin care, and range of motion. PRN restraint orders are not permitted."
+    }
+  ]
+}

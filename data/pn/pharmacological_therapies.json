@@ -1,0 +1,232 @@
+{
+  "track": "pn",
+  "category": "pharmacological_therapies",
+  "title": "Pharmacological Therapies",
+  "questions": [
+    {
+      "id": "pn-pharmacological_therapies-001",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Before giving digoxin to an adult, the nurse counts an apical pulse of 54/min. What should the nurse do?",
+      "options": [
+        "Recheck the pulse in 4 hours and give it then",
+        "Hold the dose and notify the provider",
+        "Give the dose",
+        "Give half the dose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Digoxin slows the heart rate. Hold it for an adult apical pulse under 60/min (or per protocol) and notify the provider."
+    },
+    {
+      "id": "pn-pharmacological_therapies-002",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which lab value is monitored for a client taking warfarin?",
+      "options": [
+        "Serum albumin",
+        "aPTT",
+        "Platelet count only",
+        "INR"
+      ],
+      "correctIndex": 3,
+      "explanation": "Warfarin is monitored with the PT/INR. The usual INR target is 2 to 3 for most indications. Vitamin K reverses its effect."
+    },
+    {
+      "id": "pn-pharmacological_therapies-003",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client on a continuous heparin infusion has signs of serious bleeding. Which antidote should the nurse expect to give?",
+      "options": [
+        "Vitamin K",
+        "Flumazenil",
+        "Naloxone",
+        "Protamine sulfate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Protamine sulfate reverses heparin. Vitamin K reverses warfarin."
+    },
+    {
+      "id": "pn-pharmacological_therapies-004",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "When should the nurse give insulin lispro (rapid-acting) to a client with diabetes?",
+      "options": [
+        "Within 15 minutes of a meal",
+        "Two hours after eating",
+        "At bedtime",
+        "Only when blood glucose is above 300 mg/dL"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rapid-acting insulin starts working in about 15 minutes, so it is given within 15 minutes before (or right after) a meal to prevent hypoglycemia."
+    },
+    {
+      "id": "pn-pharmacological_therapies-005",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Which lab result is most important to monitor in a client taking furosemide?",
+      "options": [
+        "Hemoglobin A1C",
+        "Serum potassium",
+        "Serum calcium",
+        "Serum amylase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loop diuretics cause potassium loss. Hypokalemia can lead to dysrhythmias, especially in clients also taking digoxin."
+    },
+    {
+      "id": "pn-pharmacological_therapies-006",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client starting lisinopril should be taught to report which adverse effect immediately?",
+      "options": [
+        "Swelling of the lips, tongue, or face",
+        "Mild headache",
+        "Increased urination",
+        "Mild dizziness when standing"
+      ],
+      "correctIndex": 0,
+      "explanation": "ACE inhibitors can cause angioedema, a potential airway emergency. A dry cough is common but less urgent."
+    },
+    {
+      "id": "pn-pharmacological_therapies-007",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A postoperative client receiving IV morphine has a respiratory rate of 7/min and can't be roused. What should the nurse expect to give?",
+      "options": [
+        "Protamine sulfate",
+        "Flumazenil",
+        "Atropine",
+        "Naloxone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Naloxone reverses opioid-induced respiratory depression. Support the airway and monitor for re-sedation, since naloxone can wear off before the opioid."
+    },
+    {
+      "id": "pn-pharmacological_therapies-008",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "The provider orders amoxicillin 500 mg PO. The suspension contains 250 mg per 5 mL. How many mL should the nurse give?",
+      "options": [
+        "2.5 mL",
+        "5 mL",
+        "10 mL",
+        "20 mL"
+      ],
+      "correctIndex": 2,
+      "explanation": "Desired ÷ have × volume: 500 mg ÷ 250 mg × 5 mL = 10 mL."
+    },
+    {
+      "id": "pn-pharmacological_therapies-009",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking metformin is scheduled for a CT scan with iodinated contrast. What should the PN expect?",
+      "options": [
+        "Switch metformin to the IV form",
+        "Metformin may be held around the procedure and restarted after kidney function is checked",
+        "Metformin has no interaction with contrast",
+        "Double the metformin dose before the scan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iodinated contrast can impair kidney function and raise the risk of lactic acidosis with metformin. It is often held and restarted after renal function is confirmed (for example, 48 hours later)."
+    },
+    {
+      "id": "pn-pharmacological_therapies-010",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Which instruction should the PN reinforce for a client taking alendronate?",
+      "options": [
+        "Lie down right after taking it",
+        "Take it with a full glass of water and stay upright for at least 30 minutes",
+        "Take it with breakfast",
+        "Take it with milk at bedtime"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alendronate can irritate the esophagus. Take it in the morning with plain water on an empty stomach and stay upright for 30 minutes."
+    },
+    {
+      "id": "pn-pharmacological_therapies-011",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client with angina has sublingual nitroglycerin. What should the client do if chest pain isn't relieved 5 minutes after the first tablet?",
+      "options": [
+        "Wait 30 minutes and take another tablet",
+        "Drink water and lie flat",
+        "Call emergency services (911)",
+        "Take three tablets at once"
+      ],
+      "correctIndex": 2,
+      "explanation": "Current guidance: if pain isn't improved 5 minutes after one dose, call emergency services. Up to 3 doses may be taken 5 minutes apart as directed."
+    },
+    {
+      "id": "pn-pharmacological_therapies-012",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which instruction should the PN reinforce for a client prescribed an oral antibiotic?",
+      "options": [
+        "Stop taking it when you feel better",
+        "Take the full course exactly as prescribed",
+        "Save leftover pills for next time",
+        "Share it with family members who have similar symptoms"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finishing the prescribed course helps clear the infection and lowers the risk of antimicrobial resistance."
+    },
+    {
+      "id": "pn-pharmacological_therapies-013",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking atorvastatin reports unexplained muscle pain and weakness. What should the PN do?",
+      "options": [
+        "Suggest exercising more",
+        "Report it to the RN or provider promptly",
+        "Tell the client to double the dose",
+        "Tell the client this is normal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muscle pain on a statin may indicate myopathy or rhabdomyolysis and needs prompt evaluation."
+    },
+    {
+      "id": "pn-pharmacological_therapies-014",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking an MAOI antidepressant should avoid which food?",
+      "options": [
+        "Fresh chicken",
+        "White rice",
+        "Aged cheese",
+        "Fresh apples"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tyramine-rich foods such as aged cheeses, cured meats, and tap beer can cause a hypertensive crisis with MAOIs."
+    },
+    {
+      "id": "pn-pharmacological_therapies-015",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "The order is digoxin 0.25 mg PO. The tablets available are 0.125 mg. How many tablets should the PN give?",
+      "options": [
+        "0.5 tablet",
+        "1 tablet",
+        "2 tablets",
+        "4 tablets"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.25 mg ÷ 0.125 mg per tablet = 2 tablets."
+    }
+  ]
+}

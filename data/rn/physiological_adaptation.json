@@ -1,0 +1,232 @@
+{
+  "track": "rn",
+  "category": "physiological_adaptation",
+  "title": "Physiological Adaptation",
+  "questions": [
+    {
+      "id": "rn-physiological_adaptation-001",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client is admitted with diabetic ketoacidosis. Which intervention usually comes first?",
+      "options": [
+        "Restrict fluids",
+        "Give long-acting insulin subcutaneously",
+        "Give a high-carbohydrate meal",
+        "Give IV 0.9% sodium chloride"
+      ],
+      "correctIndex": 3,
+      "explanation": "DKA causes severe dehydration. Isotonic IV fluid replacement comes first, followed by IV regular insulin and potassium monitoring."
+    },
+    {
+      "id": "rn-physiological_adaptation-002",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which set of vital signs is consistent with early hypovolemic shock?",
+      "options": [
+        "Bradycardia and hypertension",
+        "Slow, deep respirations and warm skin",
+        "Bradycardia and fever",
+        "Tachycardia with a narrowing pulse pressure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Early shock causes compensatory tachycardia and vasoconstriction, which narrows the pulse pressure before blood pressure falls."
+    },
+    {
+      "id": "rn-physiological_adaptation-003",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client arrives reporting crushing chest pain. What is the nurse's priority diagnostic action?",
+      "options": [
+        "Order a chest X-ray first",
+        "Schedule a stress test",
+        "Get a 12-lead ECG within 10 minutes",
+        "Draw a lipid panel"
+      ],
+      "correctIndex": 2,
+      "explanation": "A 12-lead ECG within 10 minutes of arrival helps quickly identify ST-elevation MI so reperfusion isn't delayed."
+    },
+    {
+      "id": "rn-physiological_adaptation-004",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client has signs of an acute ischemic stroke. Within what time frame from last known well can IV thrombolytic therapy usually be given?",
+      "options": [
+        "Any time if a CT is normal",
+        "Within 12 hours",
+        "Within 3 to 4.5 hours",
+        "Within 24 hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "IV alteplase is generally given within 3 hours (up to 4.5 hours for eligible clients) of last known well, after a CT rules out hemorrhage."
+    },
+    {
+      "id": "rn-physiological_adaptation-005",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with COPD and chronic CO2 retention needs oxygen. What SpO2 target is typical?",
+      "options": [
+        "100%",
+        "88–92%",
+        "75–80%",
+        "96–100%"
+      ],
+      "correctIndex": 1,
+      "explanation": "For many clients with COPD who retain CO2, an SpO2 of about 88 to 92% avoids worsening hypercapnia."
+    },
+    {
+      "id": "rn-physiological_adaptation-006",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Using the rule of nines, what percentage of total body surface area is burned when both entire arms are burned?",
+      "options": [
+        "9%",
+        "18%",
+        "27%",
+        "36%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each arm is 9% of total body surface area in an adult, so both arms equal 18%."
+    },
+    {
+      "id": "rn-physiological_adaptation-007",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Which ECG change is classic for hyperkalemia?",
+      "options": [
+        "Delta waves",
+        "Tall, peaked T waves",
+        "Prominent U waves",
+        "Prolonged QT from hypocalcemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyperkalemia causes tall, peaked T waves, then a widened QRS and possibly a sine-wave pattern as levels rise."
+    },
+    {
+      "id": "rn-physiological_adaptation-008",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client is having an acute asthma attack. Which medication is given first?",
+      "options": [
+        "Leukotriene modifier",
+        "Inhaled corticosteroid",
+        "Short-acting beta-2 agonist such as albuterol",
+        "Long-acting beta agonist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Short-acting bronchodilators such as albuterol are the rescue medication for acute bronchospasm."
+    },
+    {
+      "id": "rn-physiological_adaptation-009",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "Which findings in a client with a head injury suggest increasing intracranial pressure (Cushing's triad)?",
+      "options": [
+        "Bradycardia, widening pulse pressure, and irregular respirations",
+        "Fever, tachycardia, and hypertension",
+        "Hypotension, bradycardia, and warm skin",
+        "Tachycardia, hypotension, and rapid breathing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cushing's triad is hypertension with widening pulse pressure, bradycardia, and irregular respirations. It is a late, ominous sign."
+    },
+    {
+      "id": "rn-physiological_adaptation-010",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A monitored client goes into pulseless ventricular fibrillation. What is the priority intervention after calling for help and starting CPR?",
+      "options": [
+        "Transcutaneous pacing",
+        "Synchronized cardioversion",
+        "Defibrillation as soon as possible",
+        "IV adenosine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pulseless VF is a shockable rhythm. Early unsynchronized defibrillation is the key intervention."
+    },
+    {
+      "id": "rn-physiological_adaptation-011",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Which finding is expected in a client with syndrome of inappropriate antidiuretic hormone (SIADH)?",
+      "options": [
+        "Severe dehydration",
+        "Serum sodium of 125 mEq/L",
+        "Large amounts of dilute urine",
+        "Serum sodium of 150 mEq/L"
+      ],
+      "correctIndex": 1,
+      "explanation": "SIADH causes water retention and dilutional hyponatremia with concentrated urine. Treatment includes fluid restriction."
+    },
+    {
+      "id": "rn-physiological_adaptation-012",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "After pituitary surgery, a client produces 5 L of urine in 24 hours with a specific gravity of 1.002. What does the nurse suspect?",
+      "options": [
+        "Acute kidney injury",
+        "Diabetes insipidus",
+        "Hyperaldosteronism",
+        "SIADH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diabetes insipidus (ADH deficiency) causes large volumes of dilute urine with a low specific gravity."
+    },
+    {
+      "id": "rn-physiological_adaptation-013",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "Three days after hip surgery, a client has sudden dyspnea, sharp chest pain, and anxiety. What should the nurse do first?",
+      "options": [
+        "Encourage walking",
+        "Raise the head of the bed and give oxygen, then notify the provider",
+        "Massage the calves",
+        "Give an oral analgesic and reassess in an hour"
+      ],
+      "correctIndex": 1,
+      "explanation": "These findings suggest pulmonary embolism. Support breathing (raise the head of the bed and give oxygen), get help right away, and prepare for diagnostics and anticoagulation."
+    },
+    {
+      "id": "rn-physiological_adaptation-014",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with suspected adrenal (Addisonian) crisis has severe hypotension. Which medication should the nurse expect to give first?",
+      "options": [
+        "IV hydrocortisone",
+        "IV insulin",
+        "IV potassium chloride",
+        "Oral levothyroxine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adrenal crisis is treated with rapid IV glucocorticoid replacement (hydrocortisone) and IV fluids. Hyperkalemia is common, so potassium isn't given."
+    },
+    {
+      "id": "rn-physiological_adaptation-015",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a T4 spinal cord injury has a pounding headache, BP 210/110, and flushing above the injury. What should the nurse do first?",
+      "options": [
+        "Sit the client upright and look for a cause such as a full bladder",
+        "Apply warm blankets",
+        "Lay the client flat",
+        "Give a sedative"
+      ],
+      "correctIndex": 0,
+      "explanation": "Autonomic dysreflexia: sit the client up to lower BP, loosen clothing, and find and remove the trigger (often bladder distension or constipation)."
+    }
+  ]
+}

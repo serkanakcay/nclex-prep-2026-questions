@@ -1,0 +1,232 @@
+{
+  "track": "pn",
+  "category": "physiological_adaptation",
+  "title": "Physiological Adaptation",
+  "questions": [
+    {
+      "id": "pn-physiological_adaptation-001",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client is admitted with diabetic ketoacidosis. Which intervention usually comes first?",
+      "options": [
+        "Restrict fluids",
+        "Give long-acting insulin subcutaneously",
+        "Give a high-carbohydrate meal",
+        "Give IV 0.9% sodium chloride"
+      ],
+      "correctIndex": 3,
+      "explanation": "DKA causes severe dehydration. Isotonic IV fluid replacement comes first, followed by IV regular insulin and potassium monitoring."
+    },
+    {
+      "id": "pn-physiological_adaptation-002",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which set of vital signs is consistent with early hypovolemic shock?",
+      "options": [
+        "Bradycardia and hypertension",
+        "Slow, deep respirations and warm skin",
+        "Bradycardia and fever",
+        "Tachycardia with a narrowing pulse pressure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Early shock causes compensatory tachycardia and vasoconstriction, which narrows the pulse pressure before blood pressure falls."
+    },
+    {
+      "id": "pn-physiological_adaptation-003",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client arrives reporting crushing chest pain. What is the nurse's priority diagnostic action?",
+      "options": [
+        "Order a chest X-ray first",
+        "Schedule a stress test",
+        "Get a 12-lead ECG within 10 minutes",
+        "Draw a lipid panel"
+      ],
+      "correctIndex": 2,
+      "explanation": "A 12-lead ECG within 10 minutes of arrival helps quickly identify ST-elevation MI so reperfusion isn't delayed."
+    },
+    {
+      "id": "pn-physiological_adaptation-004",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client has signs of an acute ischemic stroke. Within what time frame from last known well can IV thrombolytic therapy usually be given?",
+      "options": [
+        "Any time if a CT is normal",
+        "Within 12 hours",
+        "Within 3 to 4.5 hours",
+        "Within 24 hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "IV alteplase is generally given within 3 hours (up to 4.5 hours for eligible clients) of last known well, after a CT rules out hemorrhage."
+    },
+    {
+      "id": "pn-physiological_adaptation-005",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with COPD and chronic CO2 retention needs oxygen. What SpO2 target is typical?",
+      "options": [
+        "100%",
+        "88–92%",
+        "75–80%",
+        "96–100%"
+      ],
+      "correctIndex": 1,
+      "explanation": "For many clients with COPD who retain CO2, an SpO2 of about 88 to 92% avoids worsening hypercapnia."
+    },
+    {
+      "id": "pn-physiological_adaptation-006",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Using the rule of nines, what percentage of total body surface area is burned when both entire arms are burned?",
+      "options": [
+        "9%",
+        "18%",
+        "27%",
+        "36%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each arm is 9% of total body surface area in an adult, so both arms equal 18%."
+    },
+    {
+      "id": "pn-physiological_adaptation-007",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Which ECG change is classic for hyperkalemia?",
+      "options": [
+        "Delta waves",
+        "Tall, peaked T waves",
+        "Prominent U waves",
+        "Prolonged QT from hypocalcemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hyperkalemia causes tall, peaked T waves, then a widened QRS and possibly a sine-wave pattern as levels rise."
+    },
+    {
+      "id": "pn-physiological_adaptation-008",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client is having an acute asthma attack. Which medication is given first?",
+      "options": [
+        "Leukotriene modifier",
+        "Inhaled corticosteroid",
+        "Short-acting beta-2 agonist such as albuterol",
+        "Long-acting beta agonist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Short-acting bronchodilators such as albuterol are the rescue medication for acute bronchospasm."
+    },
+    {
+      "id": "pn-physiological_adaptation-009",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which findings suggest hypoglycemia?",
+      "options": [
+        "Slow, deep respirations",
+        "Shakiness, sweating, and confusion",
+        "Warm, dry skin and fruity breath",
+        "Increased thirst and urination"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hypoglycemia causes adrenergic symptoms (shakiness, sweating, tachycardia) and neuroglycopenic symptoms (confusion)."
+    },
+    {
+      "id": "pn-physiological_adaptation-010",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which intervention helps a client with pneumonia clear secretions?",
+      "options": [
+        "Encourage coughing, deep breathing, and adequate fluids",
+        "Keep the client flat in bed",
+        "Limit fluids",
+        "Discourage walking"
+      ],
+      "correctIndex": 0,
+      "explanation": "Deep breathing, coughing, fluids, and early mobility help mobilize secretions."
+    },
+    {
+      "id": "pn-physiological_adaptation-011",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with heart failure gains 3 lb (1.4 kg) overnight. What should the PN do?",
+      "options": [
+        "Report it to the RN or provider because it may mean fluid retention",
+        "Document it as normal",
+        "Encourage extra fluids",
+        "Recheck the weight next week"
+      ],
+      "correctIndex": 0,
+      "explanation": "A rapid gain (about 2 to 3 lb in a day, or 5 lb in a week) suggests fluid retention and worsening heart failure."
+    },
+    {
+      "id": "pn-physiological_adaptation-012",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "What should the PN do during the first 24 to 48 hours after a cast is applied to the forearm?",
+      "options": [
+        "Cover the cast with plastic",
+        "Keep the arm hanging down",
+        "Insert objects to scratch under the cast",
+        "Elevate the arm above heart level"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elevating the arm above the heart reduces swelling. Check circulation, sensation, and movement often."
+    },
+    {
+      "id": "pn-physiological_adaptation-013",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is consistent with hypothyroidism?",
+      "options": [
+        "Cold intolerance and weight gain",
+        "Heat intolerance and weight loss",
+        "Exophthalmos",
+        "Tremors and tachycardia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hypothyroidism slows metabolism, causing cold intolerance, fatigue, weight gain, constipation, and bradycardia."
+    },
+    {
+      "id": "pn-physiological_adaptation-014",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client develops hives, wheezing, and throat tightness after a medication. What is the first-line treatment?",
+      "options": [
+        "Oral diphenhydramine only",
+        "An inhaled corticosteroid",
+        "Intramuscular epinephrine",
+        "Watch and wait"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anaphylaxis is treated first with IM epinephrine (usually in the anterolateral thigh), then airway support and other medications."
+    },
+    {
+      "id": "pn-physiological_adaptation-015",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Which finding most likely indicates dehydration in an older adult?",
+      "options": [
+        "Moist mucous membranes",
+        "Decreased, concentrated urine output",
+        "Weight gain",
+        "Bradycardia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reduced, concentrated urine output is a common sign of dehydration. Older adults may also become confused, and skin turgor is less reliable in this age group."
+    }
+  ]
+}

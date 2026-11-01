@@ -1,0 +1,232 @@
+{
+  "track": "rn",
+  "category": "safety_infection_control",
+  "title": "Safety & Infection Control",
+  "questions": [
+    {
+      "id": "rn-safety_infection_control-001",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A client is admitted with suspected pulmonary tuberculosis. Which precaution is required?",
+      "options": [
+        "Standard precautions only",
+        "Droplet precautions with a surgical mask",
+        "Airborne precautions with an N95 respirator and a negative-pressure room",
+        "Contact precautions with gown and gloves"
+      ],
+      "correctIndex": 2,
+      "explanation": "TB spreads through airborne droplet nuclei. Airborne precautions require a fit-tested N95 (or higher) respirator and an airborne infection isolation room."
+    },
+    {
+      "id": "rn-safety_infection_control-002",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which infection requires droplet precautions?",
+      "options": [
+        "Pertussis",
+        "Scabies",
+        "Measles",
+        "Clostridioides difficile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pertussis spreads by large respiratory droplets. C. difficile and scabies need contact precautions, and measles needs airborne precautions."
+    },
+    {
+      "id": "rn-safety_infection_control-003",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "After caring for a client with Clostridioides difficile, how should the nurse perform hand hygiene?",
+      "options": [
+        "Hand hygiene isn't needed if gloves were worn",
+        "Use alcohol-based hand rub",
+        "Wash hands with soap and water",
+        "Wipe hands with a disinfectant wipe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alcohol doesn't reliably kill C. difficile spores. Washing with soap and water physically removes them."
+    },
+    {
+      "id": "rn-safety_infection_control-004",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A fire starts in a client's room. Using the RACE acronym, what is the nurse's first action?",
+      "options": [
+        "Contain the fire by closing doors",
+        "Rescue clients in immediate danger",
+        "Extinguish the fire",
+        "Activate the alarm"
+      ],
+      "correctIndex": 1,
+      "explanation": "RACE stands for Rescue, Alarm, Contain, Extinguish (or Evacuate). Removing clients from immediate danger comes first."
+    },
+    {
+      "id": "rn-safety_infection_control-005",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "When putting on personal protective equipment, which item does the nurse put on first?",
+      "options": [
+        "Mask or respirator",
+        "Gloves",
+        "Goggles or face shield",
+        "Gown"
+      ],
+      "correctIndex": 3,
+      "explanation": "The CDC sequence for putting on PPE is gown, mask or respirator, goggles or face shield, then gloves."
+    },
+    {
+      "id": "rn-safety_infection_control-006",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which intervention is most effective for preventing falls in a confused older adult?",
+      "options": [
+        "Keep the bed in the lowest position with the call light within reach",
+        "Keep the room dark at night",
+        "Give a sedative at bedtime",
+        "Keep all four side rails up"
+      ],
+      "correctIndex": 0,
+      "explanation": "A low bed, a call light within reach, and frequent rounding reduce fall risk. Four raised side rails count as a restraint and can increase injury risk."
+    },
+    {
+      "id": "rn-safety_infection_control-007",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Before giving a medication, which pair of identifiers is acceptable?",
+      "options": [
+        "Client's diagnosis and name",
+        "Room number and bed number",
+        "Name on the door and the client's response to their name",
+        "Client's name and date of birth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Use at least two client-specific identifiers, such as full name and date of birth. Room numbers are never acceptable identifiers."
+    },
+    {
+      "id": "rn-safety_infection_control-008",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A nurse gets a needlestick injury from a used needle. What is the first action?",
+      "options": [
+        "Squeeze the site to make it bleed",
+        "Wait until the end of the shift to report it",
+        "Apply alcohol and continue working",
+        "Wash the area with soap and water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wash the site right away with soap and water, then report the exposure promptly so post-exposure evaluation and prophylaxis can begin."
+    },
+    {
+      "id": "rn-safety_infection_control-009",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client has an absolute neutrophil count of 400/mm3. Which item should the nurse remove from the room?",
+      "options": [
+        "A digital tablet",
+        "A personal blanket washed at home",
+        "A family photograph",
+        "A vase of fresh flowers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Severe neutropenia calls for protective precautions. Fresh flowers and standing water can carry bacteria and fungi."
+    },
+    {
+      "id": "rn-safety_infection_control-010",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "When removing PPE after leaving an isolation room, which item does the nurse remove first?",
+      "options": [
+        "Goggles",
+        "Gloves",
+        "Mask",
+        "Gown"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gloves are the most contaminated item and come off first (or together with the gown), followed by goggles, gown, and mask or respirator last."
+    },
+    {
+      "id": "rn-safety_infection_control-011",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A confused client keeps pulling at a nasogastric tube. What should the nurse try first?",
+      "options": [
+        "Use less restrictive measures, such as covering the tube and providing distraction",
+        "Remove the tube",
+        "Apply bilateral wrist restraints",
+        "Request a sedative"
+      ],
+      "correctIndex": 0,
+      "explanation": "Restraints are a last resort. The nurse first uses less restrictive alternatives and frequent observation."
+    },
+    {
+      "id": "rn-safety_infection_control-012",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client with a cervical radiation implant notices the implant has come out onto the bed. What should the nurse do?",
+      "options": [
+        "Wrap it in linen and send it to the laundry",
+        "Pick it up with gloved hands and reinsert it",
+        "Use long-handled forceps to place it in a lead container",
+        "Leave the room and wait for the provider"
+      ],
+      "correctIndex": 2,
+      "explanation": "A dislodged radioactive source is never touched by hand. Use long-handled forceps, place it in a lead-lined container, and notify the radiation safety officer."
+    },
+    {
+      "id": "rn-safety_infection_control-013",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which precautions are required for a hospitalized client with varicella (chickenpox)?",
+      "options": [
+        "Contact only",
+        "Standard only",
+        "Airborne and contact",
+        "Droplet only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Varicella spreads through the air and through contact with lesions, so both airborne and contact precautions are used until the lesions crust over."
+    },
+    {
+      "id": "rn-safety_infection_control-014",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which precautions should the nurse start for a client with suspected bacterial meningitis caused by Neisseria meningitidis?",
+      "options": [
+        "Protective (reverse) isolation",
+        "Droplet",
+        "Airborne",
+        "Contact"
+      ],
+      "correctIndex": 1,
+      "explanation": "Meningococcal disease spreads by respiratory droplets. Droplet precautions continue until 24 hours after effective antibiotic therapy begins."
+    },
+    {
+      "id": "rn-safety_infection_control-015",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A client starts having a tonic-clonic seizure in bed. What should the nurse do first?",
+      "options": [
+        "Hold the client's arms down",
+        "Turn the client to the side and protect the head",
+        "Give oral medication",
+        "Insert an oral airway"
+      ],
+      "correctIndex": 1,
+      "explanation": "Turn the client to the side to keep the airway open and let secretions drain, and protect the head. Never force anything into the mouth or restrain movements."
+    }
+  ]
+}

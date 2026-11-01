@@ -1,0 +1,232 @@
+{
+  "track": "rn",
+  "category": "pharmacological_therapies",
+  "title": "Pharmacological Therapies",
+  "questions": [
+    {
+      "id": "rn-pharmacological_therapies-001",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Before giving digoxin to an adult, the nurse counts an apical pulse of 54/min. What should the nurse do?",
+      "options": [
+        "Recheck the pulse in 4 hours and give it then",
+        "Hold the dose and notify the provider",
+        "Give the dose",
+        "Give half the dose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Digoxin slows the heart rate. Hold it for an adult apical pulse under 60/min (or per protocol) and notify the provider."
+    },
+    {
+      "id": "rn-pharmacological_therapies-002",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which lab value is monitored for a client taking warfarin?",
+      "options": [
+        "Serum albumin",
+        "aPTT",
+        "Platelet count only",
+        "INR"
+      ],
+      "correctIndex": 3,
+      "explanation": "Warfarin is monitored with the PT/INR. The usual INR target is 2 to 3 for most indications. Vitamin K reverses its effect."
+    },
+    {
+      "id": "rn-pharmacological_therapies-003",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client on a continuous heparin infusion has signs of serious bleeding. Which antidote should the nurse expect to give?",
+      "options": [
+        "Vitamin K",
+        "Flumazenil",
+        "Naloxone",
+        "Protamine sulfate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Protamine sulfate reverses heparin. Vitamin K reverses warfarin."
+    },
+    {
+      "id": "rn-pharmacological_therapies-004",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "When should the nurse give insulin lispro (rapid-acting) to a client with diabetes?",
+      "options": [
+        "Within 15 minutes of a meal",
+        "Two hours after eating",
+        "At bedtime",
+        "Only when blood glucose is above 300 mg/dL"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rapid-acting insulin starts working in about 15 minutes, so it is given within 15 minutes before (or right after) a meal to prevent hypoglycemia."
+    },
+    {
+      "id": "rn-pharmacological_therapies-005",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Which lab result is most important to monitor in a client taking furosemide?",
+      "options": [
+        "Hemoglobin A1C",
+        "Serum potassium",
+        "Serum calcium",
+        "Serum amylase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loop diuretics cause potassium loss. Hypokalemia can lead to dysrhythmias, especially in clients also taking digoxin."
+    },
+    {
+      "id": "rn-pharmacological_therapies-006",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client starting lisinopril should be taught to report which adverse effect immediately?",
+      "options": [
+        "Swelling of the lips, tongue, or face",
+        "Mild headache",
+        "Increased urination",
+        "Mild dizziness when standing"
+      ],
+      "correctIndex": 0,
+      "explanation": "ACE inhibitors can cause angioedema, a potential airway emergency. A dry cough is common but less urgent."
+    },
+    {
+      "id": "rn-pharmacological_therapies-007",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A postoperative client receiving IV morphine has a respiratory rate of 7/min and can't be roused. What should the nurse expect to give?",
+      "options": [
+        "Protamine sulfate",
+        "Flumazenil",
+        "Atropine",
+        "Naloxone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Naloxone reverses opioid-induced respiratory depression. Support the airway and monitor for re-sedation, since naloxone can wear off before the opioid."
+    },
+    {
+      "id": "rn-pharmacological_therapies-008",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "The provider orders amoxicillin 500 mg PO. The suspension contains 250 mg per 5 mL. How many mL should the nurse give?",
+      "options": [
+        "2.5 mL",
+        "5 mL",
+        "10 mL",
+        "20 mL"
+      ],
+      "correctIndex": 2,
+      "explanation": "Desired ÷ have × volume: 500 mg ÷ 250 mg × 5 mL = 10 mL."
+    },
+    {
+      "id": "rn-pharmacological_therapies-009",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "During a vancomycin infusion, a client develops flushing and an itchy rash on the neck and upper body. What should the nurse do first?",
+      "options": [
+        "Give the next dose IV push",
+        "Stop or slow the infusion and notify the provider",
+        "Speed up the infusion to finish it sooner",
+        "Apply ice to the IV site"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vancomycin infusion reaction (formerly \"red man syndrome\") is related to the infusion rate. Stop or slow the infusion. It is usually given over at least 60 minutes."
+    },
+    {
+      "id": "rn-pharmacological_therapies-010",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client receiving IV magnesium sulfate for preeclampsia has absent deep tendon reflexes and a respiratory rate of 10/min. What should the nurse do?",
+      "options": [
+        "Stop the infusion and prepare to give calcium gluconate",
+        "Increase the infusion rate",
+        "Give naloxone",
+        "Document it as an expected finding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Loss of reflexes and respiratory depression indicate magnesium toxicity. Stop the infusion. Calcium gluconate is the antidote."
+    },
+    {
+      "id": "rn-pharmacological_therapies-011",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Which statement by a client taking lithium shows that the teaching was understood?",
+      "options": [
+        "\"I'll keep a steady salt intake and drink 2 to 3 liters of fluid a day.\"",
+        "\"I don't need blood tests once I feel better.\"",
+        "\"I'll cut back on salt and water.\"",
+        "\"I can take ibuprofen every day for pain.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Low sodium or dehydration raises lithium levels and the risk of toxicity. Regular blood levels are needed (therapeutic range is about 0.6 to 1.2 mEq/L), and NSAIDs can increase lithium levels."
+    },
+    {
+      "id": "rn-pharmacological_therapies-012",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which route is never used to give potassium chloride?",
+      "options": [
+        "IV push",
+        "Oral",
+        "Diluted IV infusion through a pump",
+        "Through a feeding tube as an oral liquid"
+      ],
+      "correctIndex": 0,
+      "explanation": "IV push potassium can cause fatal cardiac arrest. IV potassium is always diluted and infused on a pump at a controlled rate."
+    },
+    {
+      "id": "rn-pharmacological_therapies-013",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "Heparin 25,000 units in 250 mL is infusing. The order is 1,000 units per hour. At what rate (mL/hr) should the pump be set?",
+      "options": [
+        "5 mL/hr",
+        "10 mL/hr",
+        "25 mL/hr",
+        "100 mL/hr"
+      ],
+      "correctIndex": 1,
+      "explanation": "The concentration is 25,000 units ÷ 250 mL = 100 units/mL. 1,000 units/hr ÷ 100 units/mL = 10 mL/hr."
+    },
+    {
+      "id": "rn-pharmacological_therapies-014",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Which teaching is important for a client taking phenytoin long-term?",
+      "options": [
+        "Stop the medication if you feel drowsy",
+        "Take it with antacids to improve absorption",
+        "Practice good oral hygiene and see the dentist regularly",
+        "Avoid brushing your teeth"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phenytoin can cause gingival hyperplasia. Good oral care helps. The usual therapeutic level is 10 to 20 mcg/mL, and antacids reduce absorption."
+    },
+    {
+      "id": "rn-pharmacological_therapies-015",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "When should a client take levothyroxine?",
+      "options": [
+        "In the morning on an empty stomach, 30 to 60 minutes before breakfast",
+        "With calcium supplements",
+        "At bedtime with a snack",
+        "Only when feeling tired"
+      ],
+      "correctIndex": 0,
+      "explanation": "Levothyroxine is absorbed best on an empty stomach and should be separated from calcium, iron, and antacids."
+    }
+  ]
+}

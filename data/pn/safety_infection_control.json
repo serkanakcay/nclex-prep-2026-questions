@@ -1,0 +1,232 @@
+{
+  "track": "pn",
+  "category": "safety_infection_control",
+  "title": "Safety & Infection Control",
+  "questions": [
+    {
+      "id": "pn-safety_infection_control-001",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A client is admitted with suspected pulmonary tuberculosis. Which precaution is required?",
+      "options": [
+        "Standard precautions only",
+        "Droplet precautions with a surgical mask",
+        "Airborne precautions with an N95 respirator and a negative-pressure room",
+        "Contact precautions with gown and gloves"
+      ],
+      "correctIndex": 2,
+      "explanation": "TB spreads through airborne droplet nuclei. Airborne precautions require a fit-tested N95 (or higher) respirator and an airborne infection isolation room."
+    },
+    {
+      "id": "pn-safety_infection_control-002",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which infection requires droplet precautions?",
+      "options": [
+        "Pertussis",
+        "Scabies",
+        "Measles",
+        "Clostridioides difficile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pertussis spreads by large respiratory droplets. C. difficile and scabies need contact precautions, and measles needs airborne precautions."
+    },
+    {
+      "id": "pn-safety_infection_control-003",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "After caring for a client with Clostridioides difficile, how should the nurse perform hand hygiene?",
+      "options": [
+        "Hand hygiene isn't needed if gloves were worn",
+        "Use alcohol-based hand rub",
+        "Wash hands with soap and water",
+        "Wipe hands with a disinfectant wipe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alcohol doesn't reliably kill C. difficile spores. Washing with soap and water physically removes them."
+    },
+    {
+      "id": "pn-safety_infection_control-004",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A fire starts in a client's room. Using the RACE acronym, what is the nurse's first action?",
+      "options": [
+        "Contain the fire by closing doors",
+        "Rescue clients in immediate danger",
+        "Extinguish the fire",
+        "Activate the alarm"
+      ],
+      "correctIndex": 1,
+      "explanation": "RACE stands for Rescue, Alarm, Contain, Extinguish (or Evacuate). Removing clients from immediate danger comes first."
+    },
+    {
+      "id": "pn-safety_infection_control-005",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "When putting on personal protective equipment, which item does the nurse put on first?",
+      "options": [
+        "Mask or respirator",
+        "Gloves",
+        "Goggles or face shield",
+        "Gown"
+      ],
+      "correctIndex": 3,
+      "explanation": "The CDC sequence for putting on PPE is gown, mask or respirator, goggles or face shield, then gloves."
+    },
+    {
+      "id": "pn-safety_infection_control-006",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which intervention is most effective for preventing falls in a confused older adult?",
+      "options": [
+        "Keep the bed in the lowest position with the call light within reach",
+        "Keep the room dark at night",
+        "Give a sedative at bedtime",
+        "Keep all four side rails up"
+      ],
+      "correctIndex": 0,
+      "explanation": "A low bed, a call light within reach, and frequent rounding reduce fall risk. Four raised side rails count as a restraint and can increase injury risk."
+    },
+    {
+      "id": "pn-safety_infection_control-007",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Before giving a medication, which pair of identifiers is acceptable?",
+      "options": [
+        "Client's diagnosis and name",
+        "Room number and bed number",
+        "Name on the door and the client's response to their name",
+        "Client's name and date of birth"
+      ],
+      "correctIndex": 3,
+      "explanation": "Use at least two client-specific identifiers, such as full name and date of birth. Room numbers are never acceptable identifiers."
+    },
+    {
+      "id": "pn-safety_infection_control-008",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A nurse gets a needlestick injury from a used needle. What is the first action?",
+      "options": [
+        "Squeeze the site to make it bleed",
+        "Wait until the end of the shift to report it",
+        "Apply alcohol and continue working",
+        "Wash the area with soap and water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wash the site right away with soap and water, then report the exposure promptly so post-exposure evaluation and prophylaxis can begin."
+    },
+    {
+      "id": "pn-safety_infection_control-009",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "What is the minimum time the nurse should scrub hands when washing with soap and water?",
+      "options": [
+        "5 seconds",
+        "10 seconds",
+        "20 seconds",
+        "2 minutes"
+      ],
+      "correctIndex": 2,
+      "explanation": "The CDC recommends rubbing hands with soap for at least 20 seconds."
+    },
+    {
+      "id": "pn-safety_infection_control-010",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "After giving a subcutaneous injection, what should the nurse do with the needle?",
+      "options": [
+        "Put it in the regular trash",
+        "Recap it with both hands",
+        "Place it in the sharps container without recapping",
+        "Bend it before discarding"
+      ],
+      "correctIndex": 2,
+      "explanation": "To prevent needlestick injuries, never recap, bend, or break used needles. Drop them directly into a puncture-resistant sharps container."
+    },
+    {
+      "id": "pn-safety_infection_control-011",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client uses home oxygen. Which statement shows that the teaching was understood?",
+      "options": [
+        "\"I'll store the tanks next to the heater to keep them warm.\"",
+        "\"I'll use petroleum jelly on my nose for dryness.\"",
+        "\"I'll post a No Smoking sign and keep oxygen away from open flames.\"",
+        "\"I can light candles if I keep them across the room.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Oxygen supports combustion. Keep oxygen away from flames and heat, and use water-based lubricants instead of petroleum-based products."
+    },
+    {
+      "id": "pn-safety_infection_control-012",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which technique shows correct body mechanics when lifting?",
+      "options": [
+        "Bending at the waist with straight knees",
+        "Holding the object away from the body",
+        "Twisting the trunk while lifting",
+        "Bending the knees and keeping the load close to the body"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bend at the knees, keep a wide base of support, and hold the load close to the center of gravity to protect the back."
+    },
+    {
+      "id": "pn-safety_infection_control-013",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is on contact precautions for MRSA. How should the nurse handle the stethoscope?",
+      "options": [
+        "Share one stethoscope among all isolation rooms",
+        "Use the nurse's personal stethoscope and wipe it afterward",
+        "Use a dedicated stethoscope that stays in the room",
+        "Auscultate over the gown without a stethoscope"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dedicated, single-client equipment prevents the spread of organisms such as MRSA from room to room."
+    },
+    {
+      "id": "pn-safety_infection_control-014",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which precautions are used for a client with scabies?",
+      "options": [
+        "Contact",
+        "Droplet",
+        "Airborne",
+        "Standard only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Scabies spreads through direct skin contact and contaminated items, so contact precautions with gown and gloves are required."
+    },
+    {
+      "id": "pn-safety_infection_control-015",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A chemical splashes into a coworker's eyes. What should the nurse do first?",
+      "options": [
+        "Have the person rub the eyes",
+        "Cover the eyes with a dry dressing",
+        "Flush the eyes with running water for at least 15 minutes",
+        "Apply an antibiotic ointment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Immediate, continuous irrigation with water for at least 15 minutes is the priority, followed by medical evaluation."
+    }
+  ]
+}

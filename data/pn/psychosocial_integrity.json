@@ -1,0 +1,232 @@
+{
+  "track": "pn",
+  "category": "psychosocial_integrity",
+  "title": "Psychosocial Integrity",
+  "questions": [
+    {
+      "id": "pn-psychosocial_integrity-001",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which response by the nurse is an example of therapeutic communication?",
+      "options": [
+        "\"Tell me more about how you've been feeling.\"",
+        "\"You should talk to your doctor about that.\"",
+        "\"Why did you stop taking your medication?\"",
+        "\"Don't worry, everything will be fine.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Open-ended prompts encourage the client to share feelings. False reassurance, \"why\" questions, and deflecting are nontherapeutic."
+    },
+    {
+      "id": "pn-psychosocial_integrity-002",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client hospitalized for severe depression suddenly seems calm and starts giving away personal belongings. What should the nurse do?",
+      "options": [
+        "Plan for early discharge",
+        "Reduce the level of observation",
+        "Ask the client directly about thoughts of suicide",
+        "Praise the client for the improved mood"
+      ],
+      "correctIndex": 2,
+      "explanation": "A sudden lift in mood and giving away possessions can mean the client has decided on a suicide plan. The nurse asks directly and keeps the client safe."
+    },
+    {
+      "id": "pn-psychosocial_integrity-003",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with a history of heavy alcohol use was admitted 48 hours ago. Which finding needs immediate action?",
+      "options": [
+        "Tremors, visual hallucinations, and a temperature of 101.8°F (38.8°C)",
+        "Sleeping through the night",
+        "Asking for coffee",
+        "Mild anxiety"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hallucinations, autonomic hyperactivity, and fever 48 to 72 hours after the last drink suggest delirium tremens, a medical emergency."
+    },
+    {
+      "id": "pn-psychosocial_integrity-004",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client who was criticized by a supervisor comes home and yells at their children. Which defense mechanism is this?",
+      "options": [
+        "Sublimation",
+        "Displacement",
+        "Denial",
+        "Projection"
+      ],
+      "correctIndex": 1,
+      "explanation": "Displacement shifts emotions from the real source onto a safer target."
+    },
+    {
+      "id": "pn-psychosocial_integrity-005",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client who was just told of a terminal diagnosis says, \"The lab must have mixed up my results.\" Which stage of grief is this?",
+      "options": [
+        "Anger",
+        "Denial",
+        "Bargaining",
+        "Acceptance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Refusing to believe the news is typical of denial, often the first stage in Kübler-Ross's model."
+    },
+    {
+      "id": "pn-psychosocial_integrity-006",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which approach is best for a client having a severe anxiety attack?",
+      "options": [
+        "Teach relaxation techniques in detail",
+        "Encourage the client to talk about the cause",
+        "Use short, simple sentences and stay with the client in a calm environment",
+        "Leave the client alone to calm down"
+      ],
+      "correctIndex": 2,
+      "explanation": "During severe anxiety, attention narrows and learning is impaired. Stay with the client, stay calm, use simple direct statements, and reduce stimuli."
+    },
+    {
+      "id": "pn-psychosocial_integrity-007",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A nurse notices bruises in different stages of healing on a 3-year-old, and the explanation doesn't match the injuries. What is the nurse's responsibility?",
+      "options": [
+        "Ask the child who hurt them in front of the parents",
+        "Wait until there is proof",
+        "Report the suspected abuse according to state law and facility policy",
+        "Confront the parents"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nurses are mandated reporters. Reasonable suspicion of child abuse must be reported. Proof isn't required."
+    },
+    {
+      "id": "pn-psychosocial_integrity-008",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with dementia becomes agitated and insists on going home to \"feed the children.\" What is the best response?",
+      "options": [
+        "\"Tell me about your children. Let's walk to the lounge together.\"",
+        "\"Your children are grown and live far away.\"",
+        "\"You can't leave the facility.\"",
+        "\"If you don't calm down, you'll need medicine.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Validation and redirection reduce agitation in dementia better than arguing or repeatedly correcting the client's reality."
+    },
+    {
+      "id": "pn-psychosocial_integrity-009",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which statement by the nurse blocks therapeutic communication?",
+      "options": [
+        "\"Go on, I'm listening.\"",
+        "\"You seem upset today.\"",
+        "\"Why did you do that?\"",
+        "\"What happened next?\""
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Why\" questions can sound judgmental and make clients defensive."
+    },
+    {
+      "id": "pn-psychosocial_integrity-010",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client speaks limited English. How should the nurse reinforce discharge instructions?",
+      "options": [
+        "Use a qualified medical interpreter",
+        "Speak slowly and loudly in English",
+        "Ask the client's 10-year-old child to interpret",
+        "Give written English instructions only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A trained medical interpreter ensures accurate communication and protects confidentiality. Family members, especially children, should not interpret."
+    },
+    {
+      "id": "pn-psychosocial_integrity-011",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which intervention best supports a client with depression who has low energy?",
+      "options": [
+        "Let the client stay in bed all day",
+        "Encourage small, achievable daily tasks",
+        "Plan a full schedule of group activities",
+        "Make all decisions for the client"
+      ],
+      "correctIndex": 1,
+      "explanation": "Small, achievable goals build a sense of accomplishment without overwhelming the client."
+    },
+    {
+      "id": "pn-psychosocial_integrity-012",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which finding more likely points to delirium than dementia?",
+      "options": [
+        "Sudden onset of confusion that fluctuates during the day",
+        "Stable level of consciousness",
+        "Gradual memory decline over years",
+        "Irreversible progression"
+      ],
+      "correctIndex": 0,
+      "explanation": "Delirium starts suddenly, fluctuates, affects attention and consciousness, and is often reversible once the cause is treated."
+    },
+    {
+      "id": "pn-psychosocial_integrity-013",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A newly admitted client with obsessive-compulsive disorder spends a long time washing hands before meals. What should the PN do first?",
+      "options": [
+        "Allow time for the ritual while ensuring basic needs are met",
+        "Stop the ritual immediately",
+        "Point out how irrational the behavior is",
+        "Restrict access to sinks"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stopping a ritual abruptly raises anxiety. At first, allow time for the ritual and meet basic needs, then limit it gradually with the treatment team."
+    },
+    {
+      "id": "pn-psychosocial_integrity-014",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with paranoia refuses hospital meals, believing the food is poisoned. Which action is best?",
+      "options": [
+        "Insist the food is safe",
+        "Skip meals until the client trusts the staff",
+        "Offer sealed, individually packaged foods",
+        "Hide medication in the food"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sealed or packaged foods respect the client's fear while still meeting nutritional needs, and help build trust."
+    },
+    {
+      "id": "pn-psychosocial_integrity-015",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "After a mastectomy, a client won't look at the incision. What should the PN do?",
+      "options": [
+        "Ask the family to persuade her",
+        "Tell her it looks fine",
+        "Insist that the client look at it now",
+        "Encourage the client to talk about her feelings and accept her own timing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Body image changes take time. The nurse supports the client in expressing feelings and lets her look when she is ready."
+    }
+  ]
+}

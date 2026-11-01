@@ -1,0 +1,232 @@
+{
+  "track": "rn",
+  "category": "health_promotion",
+  "title": "Health Promotion & Maintenance",
+  "questions": [
+    {
+      "id": "rn-health_promotion-001",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "According to Erikson, which developmental task belongs to a 2-year-old?",
+      "options": [
+        "Autonomy vs. shame and doubt",
+        "Industry vs. inferiority",
+        "Trust vs. mistrust",
+        "Initiative vs. guilt"
+      ],
+      "correctIndex": 0,
+      "explanation": "Toddlers (about 1 to 3 years) work on autonomy vs. shame and doubt, which shows up as a desire to do things independently."
+    },
+    {
+      "id": "rn-health_promotion-002",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "By what age does a healthy infant usually triple their birth weight?",
+      "options": [
+        "4 months",
+        "6 months",
+        "12 months",
+        "18 months"
+      ],
+      "correctIndex": 2,
+      "explanation": "Infants usually double their birth weight by 5 to 6 months and triple it by about 12 months."
+    },
+    {
+      "id": "rn-health_promotion-003",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "At what age should average-risk adults begin colorectal cancer screening, according to current U.S. guidelines?",
+      "options": [
+        "35",
+        "45",
+        "55",
+        "65"
+      ],
+      "correctIndex": 1,
+      "explanation": "Current U.S. guidelines (USPSTF and ACS) recommend that average-risk adults start colorectal cancer screening at age 45."
+    },
+    {
+      "id": "rn-health_promotion-004",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Which vaccine is contraindicated during pregnancy?",
+      "options": [
+        "Inactivated influenza",
+        "COVID-19 mRNA",
+        "MMR (measles, mumps, rubella)",
+        "Tdap"
+      ],
+      "correctIndex": 2,
+      "explanation": "MMR is a live attenuated vaccine and is contraindicated during pregnancy. Tdap and inactivated influenza vaccines are recommended in pregnancy."
+    },
+    {
+      "id": "rn-health_promotion-005",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A client's last menstrual period began on January 10. Using Naegele's rule, what is the estimated date of birth?",
+      "options": [
+        "October 3",
+        "November 10",
+        "October 17",
+        "October 10"
+      ],
+      "correctIndex": 2,
+      "explanation": "Naegele's rule: add 7 days to the first day of the last menstrual period and subtract 3 months. January 10 + 7 days = January 17, minus 3 months = October 17."
+    },
+    {
+      "id": "rn-health_promotion-006",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "Why is folic acid supplementation recommended before and during early pregnancy?",
+      "options": [
+        "To prevent gestational diabetes",
+        "To prevent anemia of prematurity",
+        "To improve breast milk production",
+        "To reduce the risk of neural tube defects"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adequate folic acid before conception and in early pregnancy significantly lowers the risk of neural tube defects such as spina bifida."
+    },
+    {
+      "id": "rn-health_promotion-007",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "Which developmental task is the main focus of adolescence, according to Erikson?",
+      "options": [
+        "Identity vs. role confusion",
+        "Industry vs. inferiority",
+        "Intimacy vs. isolation",
+        "Generativity vs. stagnation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adolescents work toward identity vs. role confusion as they form a sense of self."
+    },
+    {
+      "id": "rn-health_promotion-008",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A healthy 55-year-old asks which vaccine is recommended for their age. Which vaccine is routinely recommended for adults 50 and older?",
+      "options": [
+        "HPV vaccine",
+        "Recombinant zoster (shingles) vaccine",
+        "BCG vaccine",
+        "Rotavirus vaccine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The two-dose recombinant zoster vaccine is recommended for immunocompetent adults 50 and older to prevent shingles and postherpetic neuralgia."
+    },
+    {
+      "id": "rn-health_promotion-009",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Eight hours after delivery, the nurse finds the fundus boggy and 2 cm above the umbilicus. What should the nurse do first?",
+      "options": [
+        "Notify the provider immediately",
+        "Document it as a normal finding",
+        "Massage the fundus until firm",
+        "Increase IV fluids"
+      ],
+      "correctIndex": 2,
+      "explanation": "A boggy fundus suggests uterine atony, the most common cause of postpartum hemorrhage. Fundal massage comes first, then assess bladder distension and notify the provider if it doesn't firm up."
+    },
+    {
+      "id": "rn-health_promotion-010",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "One minute after birth, a newborn has a heart rate of 110, a weak cry, some flexion, a grimace, and a pink body with blue extremities. What is the Apgar score?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "Heart rate under 100 would score 1, but 110 scores 2. Weak cry (respiratory effort) = 1, some flexion = 1, grimace = 1, acrocyanosis = 1. Total = 6."
+    },
+    {
+      "id": "rn-health_promotion-011",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "What is the normal baseline fetal heart rate range?",
+      "options": [
+        "80–100 bpm",
+        "100–120 bpm",
+        "110–160 bpm",
+        "160–200 bpm"
+      ],
+      "correctIndex": 2,
+      "explanation": "The normal baseline fetal heart rate is 110 to 160 beats per minute."
+    },
+    {
+      "id": "rn-health_promotion-012",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "Late decelerations appear on the monitor of a laboring client receiving oxytocin. What should the nurse do first?",
+      "options": [
+        "Have the client push with the next contraction",
+        "Prepare for immediate delivery",
+        "Stop the oxytocin and turn the client onto her side",
+        "Increase the oxytocin rate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Late decelerations point to uteroplacental insufficiency. Stop the oxytocin, reposition to the side, give IV fluids and oxygen as indicated, and notify the provider."
+    },
+    {
+      "id": "rn-health_promotion-013",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "The nurse teaches a 17-year-old male about testicular self-examination. Which instruction is correct?",
+      "options": [
+        "Start at age 40",
+        "Do it only if pain develops",
+        "Do it once a year",
+        "Do it monthly after a warm shower"
+      ],
+      "correctIndex": 3,
+      "explanation": "Monthly self-exams after a warm shower, when the scrotum is relaxed, help detect changes early. Testicular cancer is most common in young men."
+    },
+    {
+      "id": "rn-health_promotion-014",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "What should the nurse teach parents about car seat safety for a toddler?",
+      "options": [
+        "Keep the child rear-facing as long as possible, until the seat's height or weight limit",
+        "Use a booster seat starting at age 2",
+        "Turn the seat forward-facing at 12 months",
+        "Let the child ride in the front seat if an adult holds them"
+      ],
+      "correctIndex": 0,
+      "explanation": "The AAP recommends keeping children rear-facing for as long as possible, until they reach the maximum height or weight allowed by the seat manufacturer."
+    },
+    {
+      "id": "rn-health_promotion-015",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Which finding suggests that a 1-week-old breastfed infant is getting enough milk?",
+      "options": [
+        "Sleeping 6 hours between feedings",
+        "2 wet diapers per day",
+        "Losing 12% of birth weight",
+        "6 to 8 wet diapers per day"
+      ],
+      "correctIndex": 3,
+      "explanation": "After the first several days, 6 or more wet diapers a day and regular stools show adequate intake. A weight loss over 10% is a concern."
+    }
+  ]
+}

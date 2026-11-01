@@ -1,0 +1,232 @@
+{
+  "track": "rn",
+  "category": "basic_care_comfort",
+  "title": "Basic Care & Comfort",
+  "questions": [
+    {
+      "id": "rn-basic_care_comfort-001",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "How often should the nurse reposition an immobile client at risk for pressure injury?",
+      "options": [
+        "Every 8 hours",
+        "Once per shift",
+        "At least every 2 hours",
+        "Only when the client asks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Repositioning at least every 2 hours (more often if the client is high risk) relieves pressure over bony prominences."
+    },
+    {
+      "id": "rn-basic_care_comfort-002",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A pressure injury shows partial-thickness skin loss with exposed pink dermis and no slough. What stage is it?",
+      "options": [
+        "Stage 2",
+        "Stage 3",
+        "Unstageable",
+        "Stage 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Stage 2 is partial-thickness loss with exposed dermis, which may look like a shallow open ulcer or an intact blister."
+    },
+    {
+      "id": "rn-basic_care_comfort-003",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "What is the most reliable indicator of pain in an alert, oriented adult?",
+      "options": [
+        "Facial expression",
+        "Blood pressure",
+        "Heart rate",
+        "The client's self-report"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pain is subjective. When a client can communicate, their self-report is the most reliable indicator."
+    },
+    {
+      "id": "rn-basic_care_comfort-004",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "During a continuous enteral tube feeding, how should the nurse position the client?",
+      "options": [
+        "Trendelenburg",
+        "Prone",
+        "Head of bed elevated at least 30 degrees",
+        "Flat on the back"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keeping the head of the bed at 30 to 45 degrees lowers the risk of aspiration during tube feeding."
+    },
+    {
+      "id": "rn-basic_care_comfort-005",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which statement shows that a client understands how to use crutches?",
+      "options": [
+        "\"The crutch tops should touch my armpits.\"",
+        "\"I'll take big steps to move faster.\"",
+        "\"I'll support my weight on my hands.\"",
+        "\"I'll rest my armpits on the crutch pads.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Weight goes on the hands and arms, not the axillae, to avoid nerve damage. Crutch tops sit about 2 to 3 finger-widths below the axilla."
+    },
+    {
+      "id": "rn-basic_care_comfort-006",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with right-sided weakness is learning to use a cane. Which instruction is correct?",
+      "options": [
+        "Hold the cane in the left hand and move it forward with the right leg",
+        "Move the cane and the left leg together",
+        "Hold the cane in the right hand",
+        "Keep the cane 12 inches behind the body"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hold the cane on the stronger side and move it forward together with the weaker leg to widen the base of support."
+    },
+    {
+      "id": "rn-basic_care_comfort-007",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Where should the drainage bag of an indwelling urinary catheter be kept?",
+      "options": [
+        "Below the level of the bladder, off the floor",
+        "On the bed beside the client",
+        "Above the bladder to improve flow",
+        "Hooked to the side rail that moves"
+      ],
+      "correctIndex": 0,
+      "explanation": "Keeping the bag below the bladder prevents backflow and lowers the risk of catheter-associated urinary tract infection."
+    },
+    {
+      "id": "rn-basic_care_comfort-008",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with dysphagia after a stroke is eating lunch. Which intervention is appropriate?",
+      "options": [
+        "Rush the meal to prevent fatigue",
+        "Have the client lie flat after eating",
+        "Seat the client upright and teach the chin-tuck technique",
+        "Give thin liquids through a straw"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sitting upright, tucking the chin, eating slowly, and using thickened liquids as prescribed lower the risk of aspiration."
+    },
+    {
+      "id": "rn-basic_care_comfort-009",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A bag of total parenteral nutrition (TPN) runs out and the next bag hasn't arrived from pharmacy. What should the nurse hang?",
+      "options": [
+        "0.9% sodium chloride",
+        "10% dextrose in water",
+        "Nothing; just flush the line",
+        "Lactated Ringer's"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stopping TPN suddenly can cause rebound hypoglycemia. Hang 10% dextrose until the new bag is available."
+    },
+    {
+      "id": "rn-basic_care_comfort-010",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client has had a total hip arthroplasty with a posterior approach. Which instruction is correct?",
+      "options": [
+        "Avoid bending the hip more than 90 degrees",
+        "Sleep on the operative side without a pillow",
+        "Use a low toilet seat",
+        "Cross your legs when sitting"
+      ],
+      "correctIndex": 0,
+      "explanation": "Posterior hip precautions: avoid flexion over 90 degrees, adduction past midline, and internal rotation. A raised toilet seat and an abduction pillow help."
+    },
+    {
+      "id": "rn-basic_care_comfort-011",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which food should a client on a sodium-restricted diet avoid?",
+      "options": [
+        "Canned soup",
+        "Fresh apples",
+        "Fresh steamed broccoli",
+        "Plain brown rice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Canned soups, processed meats, and many packaged foods are high in sodium."
+    },
+    {
+      "id": "rn-basic_care_comfort-012",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with chronic kidney disease has a serum potassium of 5.8 mEq/L. Which food should the nurse teach the client to limit?",
+      "options": [
+        "Green beans",
+        "Apples",
+        "White rice",
+        "Bananas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bananas, oranges, potatoes, tomatoes, and dried fruits are high in potassium and should be limited in hyperkalemia."
+    },
+    {
+      "id": "rn-basic_care_comfort-013",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which finding indicates a healthy colostomy stoma?",
+      "options": [
+        "Dark purple and dry",
+        "Pale and dusky",
+        "Black with sloughing",
+        "Moist and pink to red"
+      ],
+      "correctIndex": 3,
+      "explanation": "A healthy stoma is moist and pink to beefy red. A pale, dusky, purple, or black stoma suggests poor blood supply and must be reported."
+    },
+    {
+      "id": "rn-basic_care_comfort-014",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client receiving hospice care is short of breath at rest. Which medication most effectively relieves the distress of dyspnea at the end of life?",
+      "options": [
+        "Furosemide",
+        "Low-dose morphine",
+        "Haloperidol",
+        "Ibuprofen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opioids such as low-dose morphine reduce air hunger and the anxiety that comes with dyspnea in palliative care."
+    },
+    {
+      "id": "rn-basic_care_comfort-015",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which suggestion supports sleep hygiene for a client with insomnia?",
+      "options": [
+        "Take long naps in the afternoon",
+        "Keep a consistent sleep and wake schedule",
+        "Have coffee after dinner",
+        "Watch television in bed"
+      ],
+      "correctIndex": 1,
+      "explanation": "A consistent schedule, limiting caffeine and screens before bed, and a dark, quiet room all promote sleep."
+    }
+  ]
+}

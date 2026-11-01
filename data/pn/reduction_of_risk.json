@@ -1,0 +1,232 @@
+{
+  "track": "pn",
+  "category": "reduction_of_risk",
+  "title": "Reduction of Risk Potential",
+  "questions": [
+    {
+      "id": "pn-reduction_of_risk-001",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the normal adult serum potassium range?",
+      "options": [
+        "2.5–3.0 mEq/L",
+        "3.5–5.0 mEq/L",
+        "5.5–6.5 mEq/L",
+        "135–145 mEq/L"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normal serum potassium is about 3.5 to 5.0 mEq/L. Values outside this range can cause dysrhythmias."
+    },
+    {
+      "id": "pn-reduction_of_risk-002",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which finding is the earliest sign of hemorrhage in a postoperative client?",
+      "options": [
+        "Increasing heart rate and restlessness",
+        "Hypotension",
+        "Warm, flushed skin",
+        "Bradycardia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tachycardia and restlessness come early as the body compensates. Hypotension is a later sign."
+    },
+    {
+      "id": "pn-reduction_of_risk-003",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the main purpose of incentive spirometry after surgery?",
+      "options": [
+        "To relieve incision pain",
+        "To strengthen the abdominal muscles",
+        "To prevent atelectasis and pneumonia",
+        "To lower blood pressure"
+      ],
+      "correctIndex": 2,
+      "explanation": "Slow, sustained deep breaths expand the alveoli and help prevent atelectasis and postoperative pneumonia."
+    },
+    {
+      "id": "pn-reduction_of_risk-004",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which action belongs on the preoperative checklist?",
+      "options": [
+        "Give a large breakfast",
+        "Skip the vital signs",
+        "Remove dentures, jewelry, and nail polish according to policy, and confirm NPO status",
+        "Leave dentures and jewelry in place"
+      ],
+      "correctIndex": 2,
+      "explanation": "Removing items that could cause airway problems or injury and confirming NPO status lowers surgical risk."
+    },
+    {
+      "id": "pn-reduction_of_risk-005",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "After a cardiac catheterization through the femoral artery, which intervention is a priority?",
+      "options": [
+        "Get the client up to walk right away",
+        "Apply heat to the insertion site",
+        "Keep the affected leg straight and check distal pulses and the site often",
+        "Elevate the head of the bed to 90 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keeping the leg straight helps prevent bleeding at the femoral site. Check the site, distal pulses, color, and temperature often."
+    },
+    {
+      "id": "pn-reduction_of_risk-006",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "A conscious client's blood glucose is 58 mg/dL. What should the nurse do first?",
+      "options": [
+        "Give the scheduled insulin",
+        "Give a high-fat snack",
+        "Give 15 grams of a fast-acting carbohydrate, such as 4 oz of juice",
+        "Let the client sleep"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rule of 15: give 15 g of fast-acting carbohydrate, recheck in 15 minutes, and repeat if glucose is still below 70 mg/dL."
+    },
+    {
+      "id": "pn-reduction_of_risk-007",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "How should the nurse position a client for a thoracentesis?",
+      "options": [
+        "Supine with the arms at the sides",
+        "Trendelenburg",
+        "Prone with the legs elevated",
+        "Sitting upright and leaning over an overbed table"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sitting upright and leaning forward widens the intercostal spaces and lets fluid collect at the base for safe needle insertion."
+    },
+    {
+      "id": "pn-reduction_of_risk-008",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Fifteen minutes into a blood transfusion, the client develops chills and back pain. What should the nurse do first?",
+      "options": [
+        "Slow the transfusion",
+        "Stop the transfusion",
+        "Notify the blood bank",
+        "Give acetaminophen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stop the transfusion right away, keep the IV open with normal saline on new tubing, then notify the provider and the blood bank."
+    },
+    {
+      "id": "pn-reduction_of_risk-009",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "How should the PN collect a urine specimen for culture from a client who can void?",
+      "options": [
+        "Collect it from the bedpan",
+        "Pour it from the urinal",
+        "Collect it from the catheter drainage bag",
+        "Collect a midstream clean-catch specimen"
+      ],
+      "correctIndex": 3,
+      "explanation": "A midstream clean-catch specimen lowers contamination from skin and urethral organisms."
+    },
+    {
+      "id": "pn-reduction_of_risk-010",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the normal adult serum sodium range?",
+      "options": [
+        "95–105 mEq/L",
+        "120–130 mEq/L",
+        "135–145 mEq/L",
+        "150–160 mEq/L"
+      ],
+      "correctIndex": 2,
+      "explanation": "Normal serum sodium is about 135 to 145 mEq/L."
+    },
+    {
+      "id": "pn-reduction_of_risk-011",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "A hemoglobin A1C test reflects average blood glucose over what period?",
+      "options": [
+        "24 hours",
+        "1 week",
+        "2 to 3 months",
+        "1 year"
+      ],
+      "correctIndex": 2,
+      "explanation": "A1C reflects average glycemia over the life span of red blood cells, about 2 to 3 months."
+    },
+    {
+      "id": "pn-reduction_of_risk-012",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the normal resting respiratory rate for an adult?",
+      "options": [
+        "6–10 breaths/min",
+        "12–20 breaths/min",
+        "24–30 breaths/min",
+        "30–40 breaths/min"
+      ],
+      "correctIndex": 1,
+      "explanation": "A normal adult resting respiratory rate is about 12 to 20 breaths per minute."
+    },
+    {
+      "id": "pn-reduction_of_risk-013",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "When getting a capillary blood glucose sample, which site should the PN use?",
+      "options": [
+        "The center pad of the fingertip",
+        "The side of the fingertip",
+        "A site with a bruise",
+        "A finger on the arm with an IV infusion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The side of the fingertip has fewer nerve endings and is less painful. Avoid fingers on the arm with an infusion running."
+    },
+    {
+      "id": "pn-reduction_of_risk-014",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "What is the most accurate way to confirm initial placement of a nasogastric tube?",
+      "options": [
+        "Place the end of the tube in water and watch for bubbles",
+        "Ask the client if it feels correct",
+        "Auscultate air injected into the tube",
+        "Radiographic (X-ray) confirmation"
+      ],
+      "correctIndex": 3,
+      "explanation": "An X-ray is the gold standard for confirming initial placement. Aspirate pH (often 5 or lower for gastric contents) helps with ongoing checks."
+    },
+    {
+      "id": "pn-reduction_of_risk-015",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is a normal oxygen saturation (SpO2) for a healthy adult?",
+      "options": [
+        "80–84%",
+        "85–89%",
+        "95–100%",
+        "70–75%"
+      ],
+      "correctIndex": 2,
+      "explanation": "A normal SpO2 is about 95 to 100% for healthy adults. Target ranges may be lower for some chronic conditions, such as COPD."
+    }
+  ]
+}
