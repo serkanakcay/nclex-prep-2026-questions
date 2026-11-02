@@ -143,15 +143,15 @@
       "track": "pn",
       "category": "reduction_of_risk",
       "difficulty": "easy",
-      "question": "What is the normal adult serum sodium range?",
+      "question": "The PN reviews a client's morning electrolytes. Which serum sodium result is within the normal adult range?",
       "options": [
-        "95–105 mEq/L",
-        "120–130 mEq/L",
-        "135–145 mEq/L",
-        "150–160 mEq/L"
+        "128 mEq/L",
+        "131 mEq/L",
+        "140 mEq/L",
+        "149 mEq/L"
       ],
       "correctIndex": 2,
-      "explanation": "Normal serum sodium is about 135 to 145 mEq/L."
+      "explanation": "Normal serum sodium is about 135 to 145 mEq/L, so 140 mEq/L is normal. Values below 135 indicate hyponatremia and above 145 indicate hypernatremia."
     },
     {
       "id": "pn-reduction_of_risk-011",
@@ -227,6 +227,756 @@
       ],
       "correctIndex": 2,
       "explanation": "A normal SpO2 is about 95 to 100% for healthy adults. Target ranges may be lower for some chronic conditions, such as COPD."
+    },
+    {
+      "id": "pn-reduction_of_risk-016",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which white blood cell count is within the normal adult range?",
+      "options": [
+        "2,000/mm3",
+        "7,500/mm3",
+        "15,000/mm3",
+        "25,000/mm3"
+      ],
+      "correctIndex": 1,
+      "explanation": "A normal adult WBC count is about 5,000 to 10,000/mm3. Higher values suggest infection or inflammation, and lower values increase infection risk."
+    },
+    {
+      "id": "pn-reduction_of_risk-017",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "A client's platelet count is 45,000/mm3. Which precaution is most important?",
+      "options": [
+        "Bleeding precautions, such as using a soft toothbrush and electric razor",
+        "Giving IM injections when possible",
+        "Encouraging contact sports",
+        "Airborne precautions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Normal platelets are about 150,000 to 400,000/mm3. A low count increases bleeding risk, so trauma and injections are minimized."
+    },
+    {
+      "id": "pn-reduction_of_risk-018",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the minimum hourly urine output that is generally acceptable for an adult after surgery?",
+      "options": [
+        "10 mL/hr",
+        "30 mL/hr",
+        "100 mL/hr",
+        "200 mL/hr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Output of at least 30 mL/hr (about 0.5 mL/kg/hr) suggests adequate kidney perfusion. Less should be reported."
+    },
+    {
+      "id": "pn-reduction_of_risk-019",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which finding in the leg should the nurse report as a possible deep vein thrombosis?",
+      "options": [
+        "One-sided calf swelling, warmth, and tenderness",
+        "Dry skin on the shins",
+        "Equal leg size with no pain",
+        "Cool, pale toes on both feet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unilateral swelling, warmth, redness, and pain suggest DVT. The leg should not be massaged."
+    },
+    {
+      "id": "pn-reduction_of_risk-020",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is scheduled for surgery under general anesthesia. Why is the client kept NPO beforehand?",
+      "options": [
+        "To prevent postoperative pain",
+        "To help the client lose weight",
+        "To reduce the need for IV fluids",
+        "To reduce the risk of aspiration during anesthesia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anesthesia relaxes protective airway reflexes. An empty stomach lowers the risk of aspirating stomach contents."
+    },
+    {
+      "id": "pn-reduction_of_risk-021",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which lab test is most specific for detecting damage to the heart muscle?",
+      "options": [
+        "Troponin",
+        "Serum albumin",
+        "Serum amylase",
+        "Hemoglobin A1C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Troponin rises within hours of myocardial injury and stays elevated for days, making it the preferred marker of MI."
+    },
+    {
+      "id": "pn-reduction_of_risk-022",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client who had a thyroidectomy yesterday reports tingling around the mouth and in the fingers. What should the nurse suspect?",
+      "options": [
+        "Normal postoperative healing",
+        "Thyroid storm",
+        "Hyperkalemia",
+        "Hypocalcemia from parathyroid injury"
+      ],
+      "correctIndex": 3,
+      "explanation": "Damage to or removal of the parathyroid glands during thyroid surgery can cause hypocalcemia. Tingling and muscle spasms are early signs."
+    },
+    {
+      "id": "pn-reduction_of_risk-023",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A child who had a tonsillectomy is swallowing frequently. What should the nurse suspect?",
+      "options": [
+        "Bleeding from the surgical site",
+        "Normal healing",
+        "Dehydration only",
+        "Hunger"
+      ],
+      "correctIndex": 0,
+      "explanation": "Frequent swallowing may mean blood is trickling down the throat. The nurse checks the throat and vital signs and notifies the provider."
+    },
+    {
+      "id": "pn-reduction_of_risk-024",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client reports a headache after a lumbar puncture. Which action may help?",
+      "options": [
+        "Lying flat and increasing fluids as ordered",
+        "Restricting fluids",
+        "Sitting upright for several hours",
+        "Getting up to walk right away"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post-lumbar-puncture headaches are caused by CSF leakage. Lying flat and fluids may reduce the headache."
+    },
+    {
+      "id": "pn-reduction_of_risk-025",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which lab result supports a diagnosis of heart failure in a client with shortness of breath?",
+      "options": [
+        "Normal hemoglobin",
+        "Low serum amylase",
+        "Low TSH",
+        "Elevated B-type natriuretic peptide (BNP)"
+      ],
+      "correctIndex": 3,
+      "explanation": "BNP is released by stretched ventricles and is elevated in heart failure."
+    },
+    {
+      "id": "pn-reduction_of_risk-026",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which preoperative finding should the nurse report to the surgeon before an elective surgery?",
+      "options": [
+        "Blood glucose of 98 mg/dL",
+        "Potassium of 4.2 mEq/L",
+        "Heart rate of 76/min",
+        "Temperature of 38.6 C (101.5 F)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fever may signal infection that increases surgical risk. The surgeon may postpone the procedure."
+    },
+    {
+      "id": "pn-reduction_of_risk-027",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client with a large abdominal incision coughs and says, \"Something gave way.\" The nurse sees the wound edges separated with tissue protruding. What should the nurse do first?",
+      "options": [
+        "Have the client walk to the bathroom",
+        "Cover the wound with a sterile saline-moistened dressing and position the client with knees bent",
+        "Apply a dry dressing and wait",
+        "Push the tissue back into the abdomen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Evisceration is an emergency. A moist sterile dressing protects the tissue and bending the knees reduces tension until the surgeon arrives."
+    },
+    {
+      "id": "pn-reduction_of_risk-028",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client who has been vomiting for 2 days has these blood gases: pH 7.50, PaCO2 46 mm Hg, HCO3 32 mEq/L. How should the nurse interpret them?",
+      "options": [
+        "Metabolic alkalosis",
+        "Respiratory alkalosis",
+        "Respiratory acidosis",
+        "Metabolic acidosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "The high pH and high bicarbonate indicate metabolic alkalosis, caused by loss of stomach acid. The PaCO2 rises slightly as compensation."
+    },
+    {
+      "id": "pn-reduction_of_risk-029",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client taking warfarin for atrial fibrillation has an INR of 2.5. How should the nurse interpret this result?",
+      "options": [
+        "Within the usual therapeutic range",
+        "Normal for someone not taking anticoagulants",
+        "Too low, requiring a higher dose",
+        "Dangerously high"
+      ],
+      "correctIndex": 0,
+      "explanation": "For most indications, including atrial fibrillation, the target INR is 2.0 to 3.0."
+    },
+    {
+      "id": "pn-reduction_of_risk-030",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the normal resting heart rate range for an adult?",
+      "options": [
+        "40 to 50 beats/min",
+        "60 to 100 beats/min",
+        "110 to 130 beats/min",
+        "140 to 160 beats/min"
+      ],
+      "correctIndex": 1,
+      "explanation": "A normal adult resting heart rate is 60 to 100 beats/min. Faster or slower rates should be reported if new or symptomatic."
+    },
+    {
+      "id": "pn-reduction_of_risk-031",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the normal adult oral temperature range?",
+      "options": [
+        "35.0 to 35.5 C",
+        "36.0 to 37.5 C",
+        "38.5 to 39.5 C",
+        "40.0 to 41.0 C"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normal oral temperature is about 36.0 to 37.5 C (96.8 to 99.5 F)."
+    },
+    {
+      "id": "pn-reduction_of_risk-032",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "How should the PN measure an accurate blood pressure?",
+      "options": [
+        "Take it over thick clothing",
+        "Use any cuff available",
+        "Use the correct cuff size with the arm supported at heart level",
+        "Have the client's legs crossed"
+      ],
+      "correctIndex": 2,
+      "explanation": "A cuff that is too small or a poorly positioned arm gives inaccurate readings."
+    },
+    {
+      "id": "pn-reduction_of_risk-033",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which finding should the PN report after a client's surgery?",
+      "options": [
+        "Drowsiness right after anesthesia that is improving",
+        "Temperature of 37.0 C",
+        "Mild incisional pain",
+        "Saturated dressing with bright red blood"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dressing soaked with fresh blood may mean hemorrhage and needs prompt reporting."
+    },
+    {
+      "id": "pn-reduction_of_risk-034",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "When should the PN collect a sputum specimen for culture?",
+      "options": [
+        "Early in the morning after the client rinses the mouth with water",
+        "After meals",
+        "At bedtime after brushing with toothpaste",
+        "Any time without rinsing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Secretions collect overnight. Rinsing with water reduces contamination from mouth bacteria."
+    },
+    {
+      "id": "pn-reduction_of_risk-035",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which client should the PN check first for low oxygen?",
+      "options": [
+        "A client with SpO2 of 95%",
+        "A client with SpO2 of 99%",
+        "A client with SpO2 of 97%",
+        "A client with SpO2 of 86% on room air"
+      ],
+      "correctIndex": 3,
+      "explanation": "An SpO2 below 90% indicates hypoxemia in most clients and needs prompt attention."
+    },
+    {
+      "id": "pn-reduction_of_risk-036",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the purpose of a 24-hour urine collection?",
+      "options": [
+        "To check for pregnancy",
+        "To check one random sample",
+        "To measure substances excreted over a full day",
+        "To test urine color only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Some substances, such as protein and creatinine, vary through the day, so all urine over 24 hours is collected."
+    },
+    {
+      "id": "pn-reduction_of_risk-037",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "How should the PN start a 24-hour urine collection?",
+      "options": [
+        "Collect urine for 12 hours",
+        "Collect only daytime urine",
+        "Save the first void",
+        "Have the client void, discard that urine, and note the time"
+      ],
+      "correctIndex": 3,
+      "explanation": "The first void is discarded because it was produced before the test started. All urine after that is saved."
+    },
+    {
+      "id": "pn-reduction_of_risk-038",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client has a blood pressure of 182/104 mm Hg and reports a headache. What should the PN do?",
+      "options": [
+        "Give a cup of coffee",
+        "Recheck it and report to the RN promptly",
+        "Document it and recheck next shift",
+        "Encourage a walk"
+      ],
+      "correctIndex": 1,
+      "explanation": "Very high blood pressure with headache may be a hypertensive urgency or emergency and needs prompt evaluation."
+    },
+    {
+      "id": "pn-reduction_of_risk-039",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which finding after a cardiac catheterization should the PN report immediately?",
+      "options": [
+        "Cool, pale foot on the affected leg with a weak pulse",
+        "A small, unchanged bruise",
+        "Mild soreness at the site",
+        "Warm feet with strong pulses"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cool skin and weak pulses suggest impaired circulation from a clot or bleeding. This is an emergency."
+    },
+    {
+      "id": "pn-reduction_of_risk-040",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client's blood glucose is 320 mg/dL. Which finding should the PN also check for?",
+      "options": [
+        "Pupil size",
+        "Low potassium only",
+        "Ketones in urine or blood",
+        "Hearing"
+      ],
+      "correctIndex": 2,
+      "explanation": "High glucose can lead to ketoacidosis, especially in type 1 diabetes. Ketone checks help identify DKA."
+    },
+    {
+      "id": "pn-reduction_of_risk-041",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is scheduled for a colonoscopy. Which instruction should the PN reinforce?",
+      "options": [
+        "Skip the bowel preparation if constipated",
+        "Drink red gelatin only",
+        "Complete the bowel preparation and follow the clear liquid diet as ordered",
+        "Eat a large dinner the night before"
+      ],
+      "correctIndex": 2,
+      "explanation": "Good bowel preparation allows a clear view. Red and purple liquids are avoided because they look like blood."
+    },
+    {
+      "id": "pn-reduction_of_risk-042",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is receiving oxygen by nasal cannula at 2 L/min. Which finding should the PN report?",
+      "options": [
+        "SpO2 of 96%",
+        "New confusion and restlessness",
+        "Pink skin",
+        "Comfortable breathing"
+      ],
+      "correctIndex": 1,
+      "explanation": "New confusion and restlessness can be early signs of hypoxia."
+    },
+    {
+      "id": "pn-reduction_of_risk-043",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client has an IV. Which finding suggests infiltration?",
+      "options": [
+        "Cool, pale, swollen skin at the site",
+        "Warm, red streak along the vein",
+        "Dry, intact dressing",
+        "Good blood return"
+      ],
+      "correctIndex": 0,
+      "explanation": "Infiltration causes coolness, swelling, and pallor. Phlebitis causes warmth, redness, and pain along the vein."
+    },
+    {
+      "id": "pn-reduction_of_risk-044",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client with diabetes has a fingerstick glucose of 62 mg/dL and is alert. After giving 15 g of carbohydrate, what should the PN do next?",
+      "options": [
+        "Have the client sleep",
+        "Give insulin",
+        "Wait 2 hours",
+        "Recheck the glucose in 15 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 15-15 rule: give 15 g of fast carbohydrate, recheck in 15 minutes, and repeat if still low."
+    },
+    {
+      "id": "pn-reduction_of_risk-045",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client's potassium level is 3.0 mEq/L. Which finding should the PN watch for?",
+      "options": [
+        "Peaked T waves",
+        "Muscle weakness and irregular heartbeat",
+        "Increased bowel activity",
+        "High blood pressure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Low potassium causes muscle weakness, cramps, constipation, and dysrhythmias."
+    },
+    {
+      "id": "pn-reduction_of_risk-046",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which action helps prevent blood clots in a client after surgery?",
+      "options": [
+        "Bed rest for several days",
+        "Crossing the legs",
+        "Early walking and leg exercises",
+        "Putting pillows under the knees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Early ambulation and leg exercises improve venous return. Pillows under the knees and crossed legs reduce blood flow."
+    },
+    {
+      "id": "pn-reduction_of_risk-047",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client on bed rest has new shortness of breath and chest pain. What should the PN do first?",
+      "options": [
+        "Document and recheck in 1 hour",
+        "Give a sedative",
+        "Ask the client to walk",
+        "Stay with the client, raise the head of the bed, and call for the RN"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sudden dyspnea and chest pain in a client on bed rest may indicate pulmonary embolism, an emergency."
+    },
+    {
+      "id": "pn-reduction_of_risk-048",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which value is a normal hemoglobin for an adult man?",
+      "options": [
+        "8 g/dL",
+        "10 g/dL",
+        "15 g/dL",
+        "21 g/dL"
+      ],
+      "correctIndex": 2,
+      "explanation": "Normal hemoglobin is about 14 to 18 g/dL for adult men and 12 to 16 g/dL for adult women."
+    },
+    {
+      "id": "pn-reduction_of_risk-049",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which client is ready to go to the bathroom with help after surgery?",
+      "options": [
+        "A client who is alert with stable vital signs",
+        "A client who is dizzy when sitting",
+        "A client still drowsy from anesthesia",
+        "A client with a blood pressure of 80/50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clients should be alert with stable vital signs and no dizziness before getting up."
+    },
+    {
+      "id": "pn-reduction_of_risk-050",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client had a cast placed on the arm 2 hours ago. Which instruction should the PN reinforce?",
+      "options": [
+        "Keep the arm elevated and wiggle the fingers",
+        "Put the cast on a hard surface",
+        "Keep the arm hanging down",
+        "Cover the cast with plastic while it dries"
+      ],
+      "correctIndex": 0,
+      "explanation": "Elevation reduces swelling and finger movement improves circulation. A wet cast needs air to dry."
+    },
+    {
+      "id": "pn-reduction_of_risk-051",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client with a peripheral IV catheter is due for a site check. What should the PN look for?",
+      "options": [
+        "Fingernail shape",
+        "Skin color on the other arm",
+        "Hair growth",
+        "Redness, swelling, pain, and leaking"
+      ],
+      "correctIndex": 3,
+      "explanation": "Regular IV site checks find phlebitis, infiltration, and infection early."
+    },
+    {
+      "id": "pn-reduction_of_risk-052",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client returns from a procedure using conscious sedation. Which action is a priority?",
+      "options": [
+        "Give a large meal",
+        "Monitor breathing and level of consciousness",
+        "Encourage walking right away",
+        "Remove the IV"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sedation can depress breathing. The PN monitors airway, breathing, and alertness until recovery."
+    },
+    {
+      "id": "pn-reduction_of_risk-053",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client with heart failure has a daily weight ordered. When should the PN weigh the client?",
+      "options": [
+        "Only weekly",
+        "At the same time each morning on the same scale with similar clothing",
+        "After meals",
+        "At different times each day"
+      ],
+      "correctIndex": 1,
+      "explanation": "Consistent conditions make weight changes meaningful. A gain may reflect fluid retention."
+    },
+    {
+      "id": "pn-reduction_of_risk-054",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client with a nasogastric tube has a gastric pH test. Which result supports gastric placement?",
+      "options": [
+        "pH of 8",
+        "pH of 7.4",
+        "pH of 10",
+        "pH of 4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gastric contents are acidic, usually pH 5 or lower. X-ray is still the most accurate check for initial placement."
+    },
+    {
+      "id": "pn-reduction_of_risk-055",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which statement by a client before surgery shows understanding of preoperative teaching?",
+      "options": [
+        "\"I'll practice deep breathing and coughing before surgery.\"",
+        "\"I'll eat a big breakfast the morning of surgery.\"",
+        "\"I'll take my aspirin as usual without asking.\"",
+        "\"I'll wear my jewelry into surgery.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Practicing breathing exercises helps prevent postoperative lung problems."
+    },
+    {
+      "id": "pn-reduction_of_risk-056",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client has a wound drain (Jackson-Pratt). How should the PN keep it working?",
+      "options": [
+        "Leave it full",
+        "Leave the bulb fully expanded",
+        "Empty it when half full and compress the bulb before closing",
+        "Pull on the tubing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Compressing the bulb creates suction, which removes drainage from the wound."
+    },
+    {
+      "id": "pn-reduction_of_risk-057",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client's urine output was 90 mL over the last 4 hours. What should the PN do?",
+      "options": [
+        "Report the low output to the RN",
+        "Ignore it",
+        "Encourage the client to hold urine",
+        "Restrict fluids"
+      ],
+      "correctIndex": 0,
+      "explanation": "Less than 30 mL/hr may indicate dehydration, kidney problems, or poor perfusion and should be reported."
+    },
+    {
+      "id": "pn-reduction_of_risk-058",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client with diabetes is NPO for surgery and has an order for insulin. What should the PN do?",
+      "options": [
+        "Skip insulin without asking",
+        "Give the dose with a meal",
+        "Give the full usual dose",
+        "Check with the RN or provider about the insulin dose while NPO"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insulin needs often change when NPO. Giving the usual dose without food can cause hypoglycemia."
+    },
+    {
+      "id": "pn-reduction_of_risk-059",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client recovering from surgery has a temperature of 38.4 C (101.1 F) on day 3. Which complication should the PN consider?",
+      "options": [
+        "Normal response to anesthesia only",
+        "Hypothyroidism",
+        "Wound or lung infection",
+        "Allergy to food"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fever several days after surgery often suggests infection such as pneumonia, wound infection, or UTI."
+    },
+    {
+      "id": "pn-reduction_of_risk-060",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client is receiving a blood transfusion and develops itching and hives. What should the PN do first?",
+      "options": [
+        "Remove the IV",
+        "Stop the transfusion and notify the RN",
+        "Slow the rate and continue",
+        "Give a sedative"
+      ],
+      "correctIndex": 1,
+      "explanation": "Any transfusion reaction is managed by stopping the transfusion first and keeping the IV line open with saline."
+    },
+    {
+      "id": "pn-reduction_of_risk-061",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "After a thoracentesis, the client becomes short of breath with a fast heart rate. What should the PN suspect?",
+      "options": [
+        "Anxiety only",
+        "Pneumothorax",
+        "Normal recovery",
+        "Dehydration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pneumothorax is a possible complication. The PN reports the findings to the RN immediately."
+    },
+    {
+      "id": "pn-reduction_of_risk-062",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client with a new cast on the leg reports pain that is not relieved by medication and worsens when the toes are moved. What should the PN do?",
+      "options": [
+        "Report it to the RN immediately",
+        "Give another pain pill",
+        "Encourage walking on the cast",
+        "Raise the leg higher and recheck tomorrow"
+      ],
+      "correctIndex": 0,
+      "explanation": "These are signs of compartment syndrome, which can cause permanent damage if not treated quickly."
+    },
+    {
+      "id": "pn-reduction_of_risk-063",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client is receiving IV fluids at 150 mL/hr and has new crackles and swollen ankles. What should the PN do?",
+      "options": [
+        "Encourage more oral fluids",
+        "Remove the IV",
+        "Report it to the RN, who may slow the fluids",
+        "Increase the IV rate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Crackles and edema suggest fluid overload, especially in clients with heart or kidney problems."
+    },
+    {
+      "id": "pn-reduction_of_risk-064",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client is scheduled for an MRI. Which question should the PN ask?",
+      "options": [
+        "\"Do you have a fear of heights?\"",
+        "\"Do you wear glasses?\"",
+        "\"Did you eat breakfast?\"",
+        "\"Do you have any metal implants, a pacemaker, or medication patches?\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Metal objects and some patches can be dangerous in the MRI magnet."
+    },
+    {
+      "id": "pn-reduction_of_risk-065",
+      "track": "pn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client's fingerstick glucose meter reads 'LO.' The client is sweaty and confused. What should the PN do?",
+      "options": [
+        "Treat for hypoglycemia per protocol and call for help",
+        "Encourage sleep",
+        "Give insulin",
+        "Recalibrate the meter and wait"
+      ],
+      "correctIndex": 0,
+      "explanation": "A 'LO' reading with symptoms of hypoglycemia must be treated right away. A serum glucose can be drawn but should not delay treatment."
     }
   ]
 }

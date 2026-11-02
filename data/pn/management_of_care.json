@@ -227,6 +227,756 @@
       ],
       "correctIndex": 2,
       "explanation": "Restraints are tied to the bed frame, monitored often, and released at least every 2 hours for repositioning, skin care, and range of motion. PRN restraint orders are not permitted."
+    },
+    {
+      "id": "pn-management_of_care-016",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client asks what an advance directive is. Which description should the nurse give?",
+      "options": [
+        "A hospital form that transfers the client's property to the family",
+        "A legal document stating the client's wishes for care if they become unable to decide",
+        "A provider's order that is written when the client is admitted",
+        "A consent that allows students to observe the client's care"
+      ],
+      "correctIndex": 1,
+      "explanation": "An advance directive, such as a living will or health care power of attorney, records the client's treatment wishes in case they lose decision-making capacity."
+    },
+    {
+      "id": "pn-management_of_care-017",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A nurse wants to post a photo on social media of a decorated cake that a client's family brought to the unit. The client's name is on the cake. What is the best action?",
+      "options": [
+        "Post it after blurring the client's face",
+        "Do not post it, because it identifies the client",
+        "Ask a coworker whether it seems acceptable",
+        "Post it, since the client is not shown"
+      ],
+      "correctIndex": 1,
+      "explanation": "Any image that can identify a client, including a name on an object, violates privacy rules. Nurses should not post client-related content on personal social media."
+    },
+    {
+      "id": "pn-management_of_care-018",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which ethical principle is the nurse upholding by telling a client the truth about a medication error that affected them?",
+      "options": [
+        "Veracity",
+        "Justice",
+        "Paternalism",
+        "Fidelity"
+      ],
+      "correctIndex": 0,
+      "explanation": "Veracity is the duty to tell the truth. Disclosure of errors also supports trust and is required by most facility policies."
+    },
+    {
+      "id": "pn-management_of_care-019",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client's health care proxy document names a sister as the decision-maker. When does the sister's authority to make decisions begin?",
+      "options": [
+        "Only after the client dies",
+        "When the provider and family disagree",
+        "As soon as the client is admitted",
+        "When the client becomes unable to make their own decisions"
+      ],
+      "correctIndex": 3,
+      "explanation": "A health care agent acts only when the client lacks decision-making capacity. While the client can decide, the client's own choices take precedence."
+    },
+    {
+      "id": "pn-management_of_care-020",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "The nurse suspects that an older adult client is being financially exploited by a caregiver. What is the nurse's legal obligation?",
+      "options": [
+        "Confront the caregiver about the concern",
+        "Document the concern only if the client agrees",
+        "Wait until there is proof before reporting",
+        "Report the suspicion to adult protective services according to state law"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nurses are mandated reporters of suspected elder abuse, including financial exploitation. A report is based on reasonable suspicion; proof is not required."
+    },
+    {
+      "id": "pn-management_of_care-021",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A nurse stops at a roadside crash and gives first aid until paramedics arrive. Which statement about the nurse's legal protection is accurate?",
+      "options": [
+        "Good Samaritan laws usually protect care given in good faith within the nurse's training",
+        "The nurse is protected regardless of what care is provided",
+        "Protection applies only to nurses who are off duty for more than 24 hours",
+        "The nurse can be sued only if a fee is charged"
+      ],
+      "correctIndex": 0,
+      "explanation": "Good Samaritan laws generally protect people who give emergency care in good faith, without pay, and within their level of training. Gross negligence is not protected."
+    },
+    {
+      "id": "pn-management_of_care-022",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client asks to read their own medical record. What should the nurse do?",
+      "options": [
+        "Give the client the chart without any process",
+        "Follow facility policy to give the client access to the record",
+        "Refuse, because the record belongs to the hospital",
+        "Allow it only if the provider is out of the room"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clients have a legal right to access their health information. The nurse follows the facility's process, which often includes having someone available to answer questions."
+    },
+    {
+      "id": "pn-management_of_care-023",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "During a handoff report at the bedside, which practice best protects client privacy?",
+      "options": [
+        "Discuss all clients on the unit in the hallway",
+        "Leave the report sheet on the overbed table",
+        "Speak loudly so the client can hear clearly",
+        "Ask visitors whether the client wants them present before discussing details"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bedside handoff improves safety, but the client decides who may hear their information. Report sheets with client data must be kept secure."
+    },
+    {
+      "id": "pn-management_of_care-024",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client who speaks only Spanish needs to receive information about a procedure. Which person should interpret?",
+      "options": [
+        "A trained medical interpreter",
+        "The client's 12-year-old child",
+        "The client's roommate",
+        "A housekeeper who speaks some Spanish"
+      ],
+      "correctIndex": 0,
+      "explanation": "A trained medical interpreter provides accurate, confidential interpretation. Family members, especially children, and untrained staff may omit or change information."
+    },
+    {
+      "id": "pn-management_of_care-025",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A nurse is worried that a provider has not responded to a client's worsening condition after two pages. What is the next appropriate action?",
+      "options": [
+        "Keep paging the same provider every hour",
+        "Follow the chain of command and notify the charge nurse or supervisor",
+        "Document that the provider failed to respond and wait",
+        "Ask the family to call the provider"
+      ],
+      "correctIndex": 1,
+      "explanation": "When a provider does not respond to an urgent concern, the nurse uses the chain of command so the client receives timely care."
+    },
+    {
+      "id": "pn-management_of_care-026",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "Using Maslow's hierarchy, which client need should the nurse address first?",
+      "options": [
+        "A client who wants to talk about feeling isolated",
+        "A client whose airway is partially blocked by secretions",
+        "A client who is anxious about losing their job",
+        "A client who wants help planning a return to school"
+      ],
+      "correctIndex": 1,
+      "explanation": "Physiological needs, especially airway and breathing, come before safety, love and belonging, and self-esteem needs."
+    },
+    {
+      "id": "pn-management_of_care-027",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "A client's family wants to talk with the nurse about organ donation as the client nears brain death. What is the most appropriate action?",
+      "options": [
+        "Tell the family it is too early to discuss donation",
+        "Ask the provider to decide whether the client is a candidate",
+        "Explain the donation process and have the family sign the forms",
+        "Notify the organ procurement organization according to policy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hospitals must notify the organ procurement organization about potential donors. Trained requesters from that organization usually talk with the family about donation."
+    },
+    {
+      "id": "pn-management_of_care-028",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "A nurse sees a colleague take a client's oxycodone tablet and put it in a pocket. What is the most appropriate action?",
+      "options": [
+        "Report the observation to the nurse manager or supervisor",
+        "Post an anonymous warning in the break room",
+        "Ignore it if the client's pain is controlled",
+        "Ask the colleague to give back the tablet and say nothing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suspected drug diversion endangers clients and the colleague. It must be reported through the chain of command so it can be investigated and the colleague can get help."
+    },
+    {
+      "id": "pn-management_of_care-029",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "A provider asks the nurse to carry out a verbal order during a non-emergency situation. Which response follows safe practice?",
+      "options": [
+        "Have another nurse take the order",
+        "Accept it and write it later at the end of the shift",
+        "Refuse to accept any order from the provider",
+        "Ask the provider to enter the order electronically unless it is an emergency"
+      ],
+      "correctIndex": 3,
+      "explanation": "Verbal orders increase the risk of error and are reserved for emergencies or when the provider cannot enter the order. When one is accepted, it must be written down and read back."
+    },
+    {
+      "id": "pn-management_of_care-030",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which action by the PN is an example of data collection?",
+      "options": [
+        "Creating a discharge teaching plan",
+        "Measuring a client's wound and noting the drainage color",
+        "Deciding that a client's condition is unstable",
+        "Developing the nursing care plan"
+      ],
+      "correctIndex": 1,
+      "explanation": "PNs collect data such as measurements and observations and report them. The RN analyzes the data and develops the plan of care."
+    },
+    {
+      "id": "pn-management_of_care-031",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client asks the PN about a new medication the RN taught them about yesterday. What is the PN's role?",
+      "options": [
+        "Reinforce the teaching the RN provided",
+        "Tell the client to wait for the provider",
+        "Develop a new teaching plan",
+        "Decline to discuss medications"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reinforcing teaching that has already been started is within the PN scope. The PN reports any new learning needs to the RN."
+    },
+    {
+      "id": "pn-management_of_care-032",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which entry in the medical record is documented correctly by the PN?",
+      "options": [
+        "\"Client seems to be in a bad mood.\"",
+        "\"Client had a good day.\"",
+        "\"Client states, 'My pain is 7 out of 10 in my lower back.'\"",
+        "\"Client is fine, see previous note.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Documentation should be objective, specific, and use the client's own words for subjective data."
+    },
+    {
+      "id": "pn-management_of_care-033",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "The PN makes an error while documenting on a paper record. What is the correct way to fix it?",
+      "options": [
+        "Erase the error and rewrite it",
+        "Draw a single line through it, write 'error', and add initials, date, and time",
+        "Tear out the page and start over",
+        "Use correction fluid over the error"
+      ],
+      "correctIndex": 1,
+      "explanation": "A single line keeps the original entry readable, which preserves the record's legal integrity."
+    },
+    {
+      "id": "pn-management_of_care-034",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which client right is the PN supporting by knocking and waiting before entering a client's room?",
+      "options": [
+        "Right to an interpreter",
+        "Right to refuse treatment",
+        "Right to informed consent",
+        "Right to privacy and dignity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Knocking and waiting respects the client's privacy and dignity, which are basic client rights."
+    },
+    {
+      "id": "pn-management_of_care-035",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which task can the PN assign to an assistive personnel in a long-term care facility?",
+      "options": [
+        "Assisting a stable resident with a shower",
+        "Reinforcing teaching on inhaler use",
+        "Giving a resident's oral medications",
+        "Checking a resident's feeding tube placement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hygiene for a stable resident is within the role of assistive personnel. Tube checks, teaching, and medications require a licensed nurse."
+    },
+    {
+      "id": "pn-management_of_care-036",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client wants to know their rights while living in a nursing home. Which right is protected by federal law?",
+      "options": [
+        "The right to change other residents' schedules",
+        "The right to refuse to pay for care",
+        "The right to choose their own personal physician",
+        "The right to have unlimited staff time"
+      ],
+      "correctIndex": 2,
+      "explanation": "Federal law protects residents' rights to choose their physician, participate in care, privacy, and freedom from abuse and unnecessary restraints."
+    },
+    {
+      "id": "pn-management_of_care-037",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which client should the PN report to the RN first?",
+      "options": [
+        "A client asking when lunch will be served",
+        "A client requesting help to call a family member",
+        "A client whose respiratory rate has risen from 16 to 30 breaths/min",
+        "A client who wants an extra blanket"
+      ],
+      "correctIndex": 2,
+      "explanation": "A sudden rise in respiratory rate is a significant change in condition that needs prompt RN assessment."
+    },
+    {
+      "id": "pn-management_of_care-038",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "The PN receives a telephone order from a provider for a stable client. What must the PN do?",
+      "options": [
+        "Ask another nurse to listen in place of a read-back",
+        "Write it down and read the entire order back to the provider",
+        "Carry out the order before writing it down",
+        "Repeat only the drug name"
+      ],
+      "correctIndex": 1,
+      "explanation": "Telephone orders are written down and read back in full to confirm accuracy, then signed by the provider according to policy."
+    },
+    {
+      "id": "pn-management_of_care-039",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client says, \"I don't want my wife to know anything about my test results.\" What should the PN do?",
+      "options": [
+        "Respect the request, document it, and inform the care team",
+        "Ask the provider to persuade the client to share",
+        "Tell the wife anyway because she is family",
+        "Tell the client the hospital will decide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Competent adults decide who receives their health information. The PN documents the request so all staff honor it."
+    },
+    {
+      "id": "pn-management_of_care-040",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "An assistive personnel tells the PN that a resident has a new reddened area on the sacrum that doesn't fade when pressed. What should the PN do first?",
+      "options": [
+        "Wait until the next shift to check it",
+        "Ask the assistive personnel to apply a heating pad",
+        "Massage the area to improve circulation",
+        "Collect data on the area and report it to the RN"
+      ],
+      "correctIndex": 3,
+      "explanation": "Non-blanchable redness is a stage 1 pressure injury. The PN gathers data, reports to the RN, and helps relieve pressure; massage can further damage tissue."
+    },
+    {
+      "id": "pn-management_of_care-041",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A PN is asked to perform a procedure the PN has never been trained to do. What is the best response?",
+      "options": [
+        "Ask the client how it is usually done",
+        "Do it while reading the procedure manual",
+        "Tell the RN about the lack of training and ask for help or reassignment",
+        "Refuse and leave the unit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nurses must practice within their competence. The PN tells the supervisor so the task is done safely by someone qualified or with proper training."
+    },
+    {
+      "id": "pn-management_of_care-042",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "The PN finds that a client's medication was not given at the scheduled time on the previous shift. What should the PN do?",
+      "options": [
+        "Skip the dose and say nothing",
+        "Report it to the RN or provider and follow instructions",
+        "Give a double dose to catch up",
+        "Document that the dose was given"
+      ],
+      "correctIndex": 1,
+      "explanation": "A missed dose is a medication error. The PN reports it so the provider can decide what to do, and the event is reported per facility policy."
+    },
+    {
+      "id": "pn-management_of_care-043",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A resident with dementia keeps trying to get out of bed at night. Which intervention should the PN try before any restraint?",
+      "options": [
+        "Offer toileting and check on the resident frequently",
+        "Raise all four side rails",
+        "Give a sedating medication without an order",
+        "Place the resident in a vest restraint"
+      ],
+      "correctIndex": 0,
+      "explanation": "Less restrictive measures come first. Unmet needs like toileting often cause night wandering; four raised side rails count as a restraint."
+    },
+    {
+      "id": "pn-management_of_care-044",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "During a shift report, which information is most important for the PN to share about a client with diabetes?",
+      "options": [
+        "The color of the client's room",
+        "The name of the client's roommate",
+        "The client's favorite television show",
+        "The latest blood glucose result and the insulin given"
+      ],
+      "correctIndex": 3,
+      "explanation": "Handoff reports should focus on information that affects care and safety, such as recent glucose values and medications given."
+    },
+    {
+      "id": "pn-management_of_care-045",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client becomes upset and says the PN is not doing a good job. Which response is most appropriate?",
+      "options": [
+        "\"Tell me what concerns you so we can work on it.\"",
+        "\"I'm doing my best with too many clients.\"",
+        "\"Other clients haven't complained.\"",
+        "\"You'll have to talk to my supervisor.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Inviting the client to share specific concerns shows respect and helps resolve the problem."
+    },
+    {
+      "id": "pn-management_of_care-046",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client's family member asks the PN to change a resident's medication time to fit visiting hours. What should the PN do?",
+      "options": [
+        "Refuse to discuss it",
+        "Explain that the request will be shared with the RN and provider",
+        "Give the medication whenever the family arrives",
+        "Change the time without telling anyone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Changes to medication times may affect effectiveness and require an order. The PN communicates the request to the RN or provider."
+    },
+    {
+      "id": "pn-management_of_care-047",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "Which situation is an example of false imprisonment?",
+      "options": [
+        "Using a bed alarm with the client's consent",
+        "Encouraging a client to rest after surgery",
+        "Keeping a competent client from leaving by locking the door",
+        "Asking a client to stay in the room during a fire drill"
+      ],
+      "correctIndex": 2,
+      "explanation": "Restraining or confining a competent client against their will without legal authority is false imprisonment."
+    },
+    {
+      "id": "pn-management_of_care-048",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "Which member of the health care team should the PN contact to arrange home medical equipment for a client being discharged?",
+      "options": [
+        "Dietitian",
+        "Chaplain",
+        "Pharmacist",
+        "Case manager or social worker"
+      ],
+      "correctIndex": 3,
+      "explanation": "Case managers and social workers coordinate discharge resources such as home equipment, services, and insurance approval."
+    },
+    {
+      "id": "pn-management_of_care-049",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "easy",
+      "question": "A client of a different faith asks the PN for help observing a religious practice before meals. What should the PN do?",
+      "options": [
+        "Suggest the client follow the hospital's routine instead",
+        "Ask the client to wait until discharge",
+        "Accommodate the request when it is safe and offer to contact a spiritual care provider",
+        "Tell the client hospital rules don't allow it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Respecting cultural and spiritual practices is part of client-centered care, as long as the practice is safe."
+    },
+    {
+      "id": "pn-management_of_care-050",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "The PN notes that the RN has written an order to give a medication to which the client has a documented allergy. What should the PN do?",
+      "options": [
+        "Give the medication because the RN ordered it",
+        "Ask the client if the allergy is still a problem and give it",
+        "Give half the dose and watch for a reaction",
+        "Hold the medication and clarify with the RN and provider"
+      ],
+      "correctIndex": 3,
+      "explanation": "The PN is accountable for medications given. An order for a drug with a documented allergy must be questioned before giving it."
+    },
+    {
+      "id": "pn-management_of_care-051",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client in a skilled nursing facility tells the PN that a staff member has been rough with them during care. What should the PN do?",
+      "options": [
+        "Tell the client they must be mistaken",
+        "Make sure the client is safe and report it right away according to facility policy",
+        "Wait to see if it happens again",
+        "Talk to the staff member privately first"
+      ],
+      "correctIndex": 1,
+      "explanation": "Possible abuse must be reported immediately. Nurses are mandated reporters, and the resident's safety comes first."
+    },
+    {
+      "id": "pn-management_of_care-052",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "The PN is working with an assistive personnel who has not completed a client's ordered vital signs. What should the PN do first?",
+      "options": [
+        "Ask the assistive personnel what prevented the task from being done",
+        "Do the task without saying anything",
+        "Complete an incident report on the assistive personnel",
+        "Report the assistive personnel to the director of nursing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Finding out why the task was missed helps solve the problem and supports teamwork. The PN then makes sure the vital signs are obtained."
+    },
+    {
+      "id": "pn-management_of_care-053",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client asks the PN to witness the signing of a will. What is the best response?",
+      "options": [
+        "Ask the client's roommate to sign instead",
+        "Agree, since witnessing is a routine nursing task",
+        "Explain that facility policy should be checked, since nurses usually don't witness legal documents unrelated to care",
+        "Sign as a witness without reading it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Witnessing legal documents like wills is usually outside the nurse's role and governed by facility policy. The PN can help the client find appropriate resources."
+    },
+    {
+      "id": "pn-management_of_care-054",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client tells the PN they want to leave against medical advice. What should the PN do first?",
+      "options": [
+        "Notify the RN and provider right away",
+        "Have the client sign the AMA form without explanation",
+        "Hide the client's clothes",
+        "Let the client leave without saying anything"
+      ],
+      "correctIndex": 0,
+      "explanation": "The RN and provider need to talk with the client about the risks. The PN does not detain the client but makes sure the right people are informed."
+    },
+    {
+      "id": "pn-management_of_care-055",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "A client being discharged needs help paying for medications. Which referral should the PN suggest to the RN?",
+      "options": [
+        "Physical therapy",
+        "Radiology",
+        "Respiratory therapy",
+        "Social services"
+      ],
+      "correctIndex": 3,
+      "explanation": "Social workers help clients find financial and community resources, including medication assistance programs."
+    },
+    {
+      "id": "pn-management_of_care-056",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "Which statement by an assistive personnel shows understanding of their role when a client's vital signs are abnormal?",
+      "options": [
+        "\"I'll recheck it tomorrow.\"",
+        "\"I'll tell the nurse right away.\"",
+        "\"I'll write it down and finish my other tasks first.\"",
+        "\"I'll give the client a pill to lower it.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Assistive personnel collect vital signs and report abnormal findings promptly to the nurse, who assesses and acts on them."
+    },
+    {
+      "id": "pn-management_of_care-057",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "medium",
+      "question": "The PN is caring for a client in a group home. Which action best supports continuity of care when the client goes to a new provider?",
+      "options": [
+        "Sending only the last nursing note",
+        "Mailing the records next month",
+        "Telling the client to remember their medications",
+        "Sending a complete, current medication list and care summary"
+      ],
+      "correctIndex": 3,
+      "explanation": "Accurate, timely transfer of information, especially medications, reduces errors during care transitions."
+    },
+    {
+      "id": "pn-management_of_care-058",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "The PN is caring for four residents. Which resident should the PN check on first?",
+      "options": [
+        "A resident who suddenly can't move the right arm and has slurred speech",
+        "A resident with arthritis requesting a warm pack",
+        "A resident with diabetes whose fasting glucose is 132 mg/dL",
+        "A resident with COPD whose SpO2 is 90% at baseline"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sudden weakness and slurred speech suggest a stroke, which is a time-sensitive emergency. The PN reports to the RN and activates the emergency response."
+    },
+    {
+      "id": "pn-management_of_care-059",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "An assistive personnel reports that a resident's oral temperature is 38.6 C (101.5 F) and the resident is more confused than usual. What should the PN do?",
+      "options": [
+        "Give acetaminophen and recheck in 4 hours",
+        "Tell the assistive personnel to remove the blankets and leave",
+        "Collect more data, including other vital signs, and report to the RN promptly",
+        "Document the temperature and continue rounds"
+      ],
+      "correctIndex": 2,
+      "explanation": "New fever with increased confusion in an older adult may signal infection or sepsis. The PN gathers more data and reports promptly so the client can be assessed."
+    },
+    {
+      "id": "pn-management_of_care-060",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "The RN asks the PN to perform the initial assessment on a newly admitted client while the RN finishes a task. What should the PN do?",
+      "options": [
+        "Refuse to see the client",
+        "Collect data such as vital signs and history, and tell the RN that the RN must complete the assessment",
+        "Do the assessment and sign the RN's name",
+        "Write the care plan based on the data collected"
+      ],
+      "correctIndex": 1,
+      "explanation": "The PN may collect admission data, but the comprehensive admission assessment is the RN's responsibility in most states."
+    },
+    {
+      "id": "pn-management_of_care-061",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "A client with a do-not-resuscitate order is found unresponsive and not breathing. A new assistive personnel starts chest compressions. What should the PN do?",
+      "options": [
+        "Stop the compressions, confirm the DNR order, and notify the RN and provider",
+        "Call a code and continue CPR",
+        "Ask the family what they want",
+        "Help with compressions"
+      ],
+      "correctIndex": 0,
+      "explanation": "A valid DNR order must be honored. The PN stops the resuscitation attempt, confirms the order, and notifies the RN and provider."
+    },
+    {
+      "id": "pn-management_of_care-062",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "The PN notices that the RN's documentation says a client's dressing was changed, but the dressing is dated yesterday. What should the PN do?",
+      "options": [
+        "Report the RN to the state board",
+        "Ignore it because it is the RN's note",
+        "Talk with the RN about the discrepancy",
+        "Change the documentation to match"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discrepancies in care and documentation should first be discussed directly with the nurse involved. If it is not resolved, the PN uses the chain of command."
+    },
+    {
+      "id": "pn-management_of_care-063",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "The PN is caring for a client who needs a blood transfusion. Which task is most appropriate for the PN, depending on state rules and facility policy?",
+      "options": [
+        "Assessing a transfusion reaction and choosing the treatment",
+        "Verifying the blood product with another licensed nurse and monitoring vital signs",
+        "Deciding whether the client needs a transfusion",
+        "Giving consent for the client"
+      ],
+      "correctIndex": 1,
+      "explanation": "Where allowed, the PN can help verify blood products and monitor the client. The provider orders the transfusion and the RN is responsible for assessment and response to reactions."
+    },
+    {
+      "id": "pn-management_of_care-064",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "A PN on a busy shift realizes that a client's ordered 0900 antibiotic will be delayed. What is the best action?",
+      "options": [
+        "Skip the dose and give the next one on time",
+        "Give two doses at the next scheduled time",
+        "Change the schedule in the medication record",
+        "Tell the RN about the delay and give the dose as soon as possible per policy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Time-critical medications such as antibiotics should be given promptly. The PN tells the RN so work can be reorganized and follows the facility's timing policy."
+    },
+    {
+      "id": "pn-management_of_care-065",
+      "track": "pn",
+      "category": "management_of_care",
+      "difficulty": "hard",
+      "question": "A client in a long-term care facility is placed on hospice. The family asks the PN what the PN's role will be. Which statement is accurate?",
+      "options": [
+        "\"I'll stop all care because hospice will take over.\"",
+        "\"I'll decide when the hospice team should visit.\"",
+        "\"I'll help with comfort care, collect data on symptoms, and report changes to the RN and hospice team.\"",
+        "\"I'll be making the decisions about medications.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "The PN contributes to comfort-focused care and communication with the hospice team within the PN scope of practice."
     }
   ]
 }

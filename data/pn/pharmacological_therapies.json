@@ -227,6 +227,756 @@
       ],
       "correctIndex": 2,
       "explanation": "0.25 mg ÷ 0.125 mg per tablet = 2 tablets."
+    },
+    {
+      "id": "pn-pharmacological_therapies-016",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client takes acetaminophen for arthritis pain and also uses an over-the-counter cold medicine. Which teaching is most important?",
+      "options": [
+        "Check labels, because many combination products also contain acetaminophen",
+        "Take both with alcohol to improve sleep",
+        "Acetaminophen has no daily limit",
+        "Cold medicines never contain pain relievers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hidden acetaminophen in combination products can lead to accidental overdose and liver damage. Clients should track their total daily dose."
+    },
+    {
+      "id": "pn-pharmacological_therapies-017",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which instruction is correct for insulin glargine?",
+      "options": [
+        "Do not mix it with other insulins in the same syringe",
+        "Shake the vial hard before drawing it up",
+        "Give it intravenously",
+        "Give it only right before meals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Glargine is a long-acting basal insulin that should not be mixed with other insulins because mixing changes how it is absorbed."
+    },
+    {
+      "id": "pn-pharmacological_therapies-018",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Before giving metoprolol, which assessment is most important?",
+      "options": [
+        "Skin turgor",
+        "Bowel sounds",
+        "Pupil size",
+        "Heart rate and blood pressure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Beta-blockers slow the heart and lower blood pressure. The dose is usually held and reported if the heart rate or blood pressure is below the ordered parameters."
+    },
+    {
+      "id": "pn-pharmacological_therapies-019",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client starting rifampin for tuberculosis should be told to expect which effect?",
+      "options": [
+        "White patches on the skin",
+        "Blue-green stools",
+        "Black tongue",
+        "Orange-red urine, sweat, and tears"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rifampin harmlessly colors body fluids orange-red and can stain soft contact lenses."
+    },
+    {
+      "id": "pn-pharmacological_therapies-020",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Ceftriaxone 1 g in 50 mL is ordered to infuse over 30 minutes. At what rate should the pump be set?",
+      "options": [
+        "25 mL/hr",
+        "50 mL/hr",
+        "100 mL/hr",
+        "150 mL/hr"
+      ],
+      "correctIndex": 2,
+      "explanation": "50 mL over 0.5 hour equals 100 mL/hr."
+    },
+    {
+      "id": "pn-pharmacological_therapies-021",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "The nurse is mixing regular insulin and NPH insulin in one syringe. Which insulin is drawn up first?",
+      "options": [
+        "Regular insulin (clear)",
+        "Neither; they can never be mixed",
+        "NPH insulin (cloudy)",
+        "Either one, order doesn't matter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clear regular insulin is drawn up before cloudy NPH so the regular vial is not contaminated with NPH."
+    },
+    {
+      "id": "pn-pharmacological_therapies-022",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking warfarin asks about eating green leafy vegetables. What is the best advice?",
+      "options": [
+        "Keep vitamin K intake consistent from day to day",
+        "Avoid all green vegetables completely",
+        "Eat large amounts of vegetables to boost the drug",
+        "Vegetables have no effect on warfarin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vitamin K counteracts warfarin. Consistent intake keeps the INR stable."
+    },
+    {
+      "id": "pn-pharmacological_therapies-023",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking spironolactone should avoid which product?",
+      "options": [
+        "Calcium-rich foods",
+        "Fresh apples",
+        "Salt substitutes containing potassium chloride",
+        "Low-sodium bread"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spironolactone is a potassium-sparing diuretic. Potassium-based salt substitutes can cause hyperkalemia."
+    },
+    {
+      "id": "pn-pharmacological_therapies-024",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client has taken prednisone 20 mg daily for 3 months and wants to stop because of weight gain. What should the nurse teach?",
+      "options": [
+        "Double the dose before stopping",
+        "Stop the medication today",
+        "Skip every other dose",
+        "Do not stop suddenly; the provider will taper the dose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Long-term corticosteroids suppress the adrenal glands. Stopping suddenly can cause adrenal crisis, so the dose is tapered."
+    },
+    {
+      "id": "pn-pharmacological_therapies-025",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A child weighs 22 lb. The order is a medication at 2 mg/kg. What dose should the child receive?",
+      "options": [
+        "10 mg",
+        "20 mg",
+        "44 mg",
+        "88 mg"
+      ],
+      "correctIndex": 1,
+      "explanation": "22 lb divided by 2.2 equals 10 kg. 10 kg times 2 mg/kg equals 20 mg."
+    },
+    {
+      "id": "pn-pharmacological_therapies-026",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking ciprofloxacin reports new pain in the back of the ankle. What should the nurse do?",
+      "options": [
+        "Tell the client to rest the leg and report the pain to the provider promptly",
+        "Apply a heating pad and ignore it",
+        "Encourage running to stretch the tendon",
+        "Give an extra dose of the antibiotic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fluoroquinolones can cause tendinitis and tendon rupture, especially of the Achilles tendon. The drug may need to be stopped."
+    },
+    {
+      "id": "pn-pharmacological_therapies-027",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "Which technique is correct when giving enoxaparin from a prefilled syringe?",
+      "options": [
+        "Inject into the deltoid muscle",
+        "Expel the air bubble and massage the site afterward",
+        "Aspirate before injecting",
+        "Leave the air bubble in, inject into the abdomen at least 2 inches from the navel, and do not rub"
+      ],
+      "correctIndex": 3,
+      "explanation": "The air bubble helps deliver the full dose. Rubbing or aspirating increases bruising."
+    },
+    {
+      "id": "pn-pharmacological_therapies-028",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client taking lisinopril is also prescribed a potassium supplement. Which lab value should the nurse monitor most closely?",
+      "options": [
+        "Serum amylase",
+        "Serum calcium",
+        "Serum potassium",
+        "Hemoglobin"
+      ],
+      "correctIndex": 2,
+      "explanation": "ACE inhibitors reduce potassium excretion. Combining them with potassium supplements increases the risk of hyperkalemia."
+    },
+    {
+      "id": "pn-pharmacological_therapies-029",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with a fentanyl transdermal patch has a fever of 39 C (102.2 F). Why should the nurse be concerned?",
+      "options": [
+        "Heat increases absorption of fentanyl and can cause overdose",
+        "Fever lowers the drug level",
+        "Fever makes the patch fall off harmlessly",
+        "Fentanyl causes fever"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fever and external heat increase skin blood flow and fentanyl absorption, raising the risk of respiratory depression."
+    },
+    {
+      "id": "pn-pharmacological_therapies-030",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which of the 'rights' of medication administration is the PN checking by comparing the client's wristband with the medication record?",
+      "options": [
+        "Right time",
+        "Right route",
+        "Right dose",
+        "Right client"
+      ],
+      "correctIndex": 3,
+      "explanation": "Checking two identifiers against the medication record confirms the right client."
+    },
+    {
+      "id": "pn-pharmacological_therapies-031",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "How should the PN give an oral medication to a client with a nasogastric tube connected to suction?",
+      "options": [
+        "Give it through the tube and keep the suction on",
+        "Give it through the tube, then clamp the tube for the ordered time before resuming suction",
+        "Mix it into the drainage container",
+        "Give it by mouth with water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tube is clamped for a set time, often about 30 minutes, so the medication can be absorbed before suction removes it."
+    },
+    {
+      "id": "pn-pharmacological_therapies-032",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which site is preferred for an IM injection in an adult who needs a 3-mL volume?",
+      "options": [
+        "Forearm",
+        "Dorsogluteal",
+        "Ventrogluteal",
+        "Deltoid"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ventrogluteal site has thick muscle and is away from large nerves and blood vessels. The deltoid holds smaller volumes."
+    },
+    {
+      "id": "pn-pharmacological_therapies-033",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client is prescribed a sublingual tablet. Where should the client place it?",
+      "options": [
+        "Between the cheek and gum",
+        "Under the tongue until it dissolves",
+        "Swallow it whole",
+        "Chew it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sublingual drugs are absorbed through the tissue under the tongue. Buccal drugs are placed between the cheek and gum."
+    },
+    {
+      "id": "pn-pharmacological_therapies-034",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which instruction should the PN reinforce for a client using a metered-dose inhaler with a spacer?",
+      "options": [
+        "Breathe out into the spacer forcefully after the puff",
+        "Shake it only once a week",
+        "Take all puffs as fast as possible",
+        "Breathe in slowly and deeply, then hold the breath for about 10 seconds"
+      ],
+      "correctIndex": 3,
+      "explanation": "Slow deep breaths and a breath-hold help the medication reach the lungs."
+    },
+    {
+      "id": "pn-pharmacological_therapies-035",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client taking an iron supplement should be told to expect which effect?",
+      "options": [
+        "Dark green or black stools",
+        "White stools",
+        "Red urine",
+        "Blue skin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iron commonly darkens stool. Taking it with vitamin C improves absorption."
+    },
+    {
+      "id": "pn-pharmacological_therapies-036",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which medication is commonly used for a client with gout attacks?",
+      "options": [
+        "Levothyroxine",
+        "Warfarin",
+        "Colchicine",
+        "Insulin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Colchicine reduces inflammation in acute gout. Allopurinol is used long-term to lower uric acid."
+    },
+    {
+      "id": "pn-pharmacological_therapies-037",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "How should the PN give eye drops?",
+      "options": [
+        "Place the drops in the lower conjunctival sac and have the client close the eye gently",
+        "Drop directly onto the cornea",
+        "Touch the dropper tip to the eye",
+        "Ask the client to rub the eye"
+      ],
+      "correctIndex": 0,
+      "explanation": "Drops go into the lower lid pocket. Pressing on the inner corner reduces systemic absorption, and the tip shouldn't touch the eye."
+    },
+    {
+      "id": "pn-pharmacological_therapies-038",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking warfarin asks about taking aspirin for a headache. What should the PN reinforce?",
+      "options": [
+        "Take aspirin with alcohol",
+        "Aspirin is always safe with warfarin",
+        "Take double the dose",
+        "Avoid aspirin unless the provider approves, because it increases bleeding risk"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aspirin and NSAIDs increase bleeding risk with warfarin. Clients should check with the provider before taking over-the-counter medications."
+    },
+    {
+      "id": "pn-pharmacological_therapies-039",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client is to receive a total of 1.5 g of a medication each day, divided into three equal doses. How many milligrams are in each dose?",
+      "options": [
+        "150 mg",
+        "300 mg",
+        "500 mg",
+        "750 mg"
+      ],
+      "correctIndex": 2,
+      "explanation": "1.5 g equals 1,500 mg. 1,500 mg divided by 3 doses equals 500 mg per dose."
+    },
+    {
+      "id": "pn-pharmacological_therapies-040",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking an opioid for pain should be watched for which common side effect?",
+      "options": [
+        "Increased appetite",
+        "Constipation",
+        "Diarrhea",
+        "Hyperactivity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opioids slow bowel motility, causing constipation. A bowel regimen is usually ordered."
+    },
+    {
+      "id": "pn-pharmacological_therapies-041",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking metformin reports mild nausea after doses. Which instruction should the PN reinforce?",
+      "options": [
+        "Take it on an empty stomach",
+        "Take metformin with meals",
+        "Skip doses when nauseated",
+        "Double the evening dose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taking metformin with food reduces GI upset. Symptoms often improve over time."
+    },
+    {
+      "id": "pn-pharmacological_therapies-042",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving NPH insulin at 0700 should be watched for hypoglycemia at about what time?",
+      "options": [
+        "Only before breakfast",
+        "Midnight the next day",
+        "Midafternoon",
+        "0730"
+      ],
+      "correctIndex": 2,
+      "explanation": "NPH peaks about 4 to 12 hours after injection, so hypoglycemia is most likely in the afternoon."
+    },
+    {
+      "id": "pn-pharmacological_therapies-043",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client is prescribed an antihypertensive. Which statement shows understanding?",
+      "options": [
+        "\"I'll stop the medicine when my blood pressure is normal.\"",
+        "\"I'll skip the dose if I feel fine.\"",
+        "\"I'll take extra salt.\"",
+        "\"I'll get up slowly from sitting or lying.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Orthostatic hypotension is common. Antihypertensives must be taken consistently even when the client feels well."
+    },
+    {
+      "id": "pn-pharmacological_therapies-044",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking a calcium channel blocker should avoid which drink?",
+      "options": [
+        "Grapefruit juice",
+        "Apple juice",
+        "Water",
+        "Milk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grapefruit can increase blood levels of many calcium channel blockers and other medications."
+    },
+    {
+      "id": "pn-pharmacological_therapies-045",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "The order is acetaminophen 650 mg PO. The liquid has 160 mg per 5 mL. How many mL should the PN give? (Round to the nearest tenth.)",
+      "options": [
+        "4.1 mL",
+        "15.6 mL",
+        "20.3 mL",
+        "32.5 mL"
+      ],
+      "correctIndex": 2,
+      "explanation": "650 mg divided by 160 mg times 5 mL equals 20.3 mL."
+    },
+    {
+      "id": "pn-pharmacological_therapies-046",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking an antibiotic develops severe watery diarrhea several times a day. What should the PN do?",
+      "options": [
+        "Give an over-the-counter antidiarrheal without an order",
+        "Restrict fluids",
+        "Encourage more antibiotic doses",
+        "Report it to the RN or provider promptly"
+      ],
+      "correctIndex": 3,
+      "explanation": "Severe diarrhea during antibiotic therapy may signal C. difficile infection and needs evaluation."
+    },
+    {
+      "id": "pn-pharmacological_therapies-047",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Which statement by a client taking omeprazole shows correct understanding?",
+      "options": [
+        "\"I'll take it after bedtime snacks only.\"",
+        "\"I'll take it before breakfast.\"",
+        "\"I'll take it only when I have pain.\"",
+        "\"I'll crush the capsule and chew it.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Proton pump inhibitors work best when taken 30 to 60 minutes before the first meal. Delayed-release capsules should not be crushed."
+    },
+    {
+      "id": "pn-pharmacological_therapies-048",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Before giving any medication, the PN asks the client about allergies. Why?",
+      "options": [
+        "To prevent an allergic reaction",
+        "To decide the route",
+        "To decide the time",
+        "To check the client's insurance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Allergy checks prevent giving a drug that could cause a reaction."
+    },
+    {
+      "id": "pn-pharmacological_therapies-049",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client asks why the PN wears gloves to apply a nitroglycerin ointment. What is the best answer?",
+      "options": [
+        "\"Gloves keep the ointment cold.\"",
+        "\"Gloves make the ointment work better.\"",
+        "\"Gloves keep the medication from being absorbed through my skin.\"",
+        "\"It's a rule with no reason.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Nitroglycerin is absorbed through the skin and can cause headache or hypotension in the nurse."
+    },
+    {
+      "id": "pn-pharmacological_therapies-050",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving an antihistamine such as diphenhydramine should be warned about which effect?",
+      "options": [
+        "Weight loss",
+        "Increased urination",
+        "Insomnia only",
+        "Drowsiness"
+      ],
+      "correctIndex": 3,
+      "explanation": "First-generation antihistamines cause sedation and anticholinergic effects such as dry mouth and urinary retention."
+    },
+    {
+      "id": "pn-pharmacological_therapies-051",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Which statement by a client prescribed levothyroxine requires the PN to report to the RN?",
+      "options": [
+        "\"I take it before breakfast.\"",
+        "\"My heart has been racing, and I can't sleep.\"",
+        "\"I'm getting regular blood tests.\"",
+        "\"I take it at the same time each day.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Palpitations and insomnia may indicate too much thyroid hormone and need dose evaluation."
+    },
+    {
+      "id": "pn-pharmacological_therapies-052",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking a loop diuretic asks which foods are high in potassium. Which food should the PN suggest?",
+      "options": [
+        "Baked potato",
+        "Rice",
+        "White bread",
+        "Pasta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Potatoes, bananas, oranges, and spinach are good sources of potassium."
+    },
+    {
+      "id": "pn-pharmacological_therapies-053",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "The PN is giving a subcutaneous heparin injection. Which action is correct?",
+      "options": [
+        "Massage the site after injecting",
+        "Inject into the deltoid muscle",
+        "Aspirate before injecting",
+        "Inject into the abdomen and do not massage the site"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heparin is given subcutaneously in the abdomen. Massaging or aspirating increases bruising."
+    },
+    {
+      "id": "pn-pharmacological_therapies-054",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking an NSAID for arthritis should report which finding?",
+      "options": [
+        "Black, tarry stools",
+        "Improved range of motion",
+        "Mild relief of joint pain",
+        "Better sleep"
+      ],
+      "correctIndex": 0,
+      "explanation": "NSAIDs can cause GI bleeding. Black stools may signal bleeding from the stomach."
+    },
+    {
+      "id": "pn-pharmacological_therapies-055",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client is prescribed a transdermal patch. Which instruction should the PN reinforce?",
+      "options": [
+        "Cut the patch if the dose is too high",
+        "Apply new patches over old ones",
+        "Remove the old patch and rotate sites",
+        "Apply over broken skin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Old patches are removed to prevent overdose, and sites are rotated to prevent skin irritation."
+    },
+    {
+      "id": "pn-pharmacological_therapies-056",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking an anticholinergic medication should be monitored for which effect?",
+      "options": [
+        "Low heart rate only",
+        "Dry mouth and urinary retention",
+        "Excess salivation",
+        "Diarrhea"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anticholinergics block secretions and cause dry mouth, constipation, urinary retention, and blurred vision."
+    },
+    {
+      "id": "pn-pharmacological_therapies-057",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client is on a sliding-scale insulin order. Which value does the PN check before giving the dose?",
+      "options": [
+        "Blood pressure",
+        "Blood glucose",
+        "Weight",
+        "Temperature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sliding-scale insulin doses are based on the current blood glucose result."
+    },
+    {
+      "id": "pn-pharmacological_therapies-058",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client receiving a scheduled opioid has a respiratory rate of 10/min and is drowsy but arousable. What should the PN do?",
+      "options": [
+        "Give half the dose",
+        "Give the dose as ordered",
+        "Hold the dose and report to the RN",
+        "Encourage the client to sleep"
+      ],
+      "correctIndex": 2,
+      "explanation": "Increased sedation and slowed breathing are warning signs of respiratory depression. The dose is held and the client is monitored."
+    },
+    {
+      "id": "pn-pharmacological_therapies-059",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with heart failure takes digoxin and furosemide. Which finding should the PN report immediately?",
+      "options": [
+        "Nausea and seeing yellow halos",
+        "Heart rate of 72/min",
+        "Weight loss of 0.5 kg",
+        "Clear urine"
+      ],
+      "correctIndex": 0,
+      "explanation": "These are signs of digoxin toxicity, which is more likely with furosemide-induced hypokalemia."
+    },
+    {
+      "id": "pn-pharmacological_therapies-060",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "The order is 1,000 mL of normal saline over 8 hours. At what rate should the pump be set?",
+      "options": [
+        "100 mL/hr",
+        "125 mL/hr",
+        "150 mL/hr",
+        "200 mL/hr"
+      ],
+      "correctIndex": 1,
+      "explanation": "1,000 mL divided by 8 hours equals 125 mL/hr."
+    },
+    {
+      "id": "pn-pharmacological_therapies-061",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client on a medication has an order to hold if the heart rate is below 60. The client's apical pulse is 56. Which drug is this most likely?",
+      "options": [
+        "Omeprazole",
+        "Acetaminophen",
+        "Furosemide",
+        "Metoprolol"
+      ],
+      "correctIndex": 3,
+      "explanation": "Beta-blockers such as metoprolol slow the heart rate, so they are held when the rate is low."
+    },
+    {
+      "id": "pn-pharmacological_therapies-062",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client taking an SSRI tells the PN they want to start St. John's wort. What should the PN do?",
+      "options": [
+        "Report it to the RN, because combining them can cause serotonin syndrome",
+        "Tell the client it is safe because it is natural",
+        "Ignore the comment",
+        "Suggest doubling the SSRI"
+      ],
+      "correctIndex": 0,
+      "explanation": "St. John's wort increases serotonin and can cause serotonin syndrome with SSRIs."
+    },
+    {
+      "id": "pn-pharmacological_therapies-063",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with diabetes takes glipizide. Which finding should the PN watch for?",
+      "options": [
+        "Weight loss",
+        "High blood pressure",
+        "Hyperkalemia",
+        "Hypoglycemia, especially if meals are skipped"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sulfonylureas stimulate insulin release and can cause hypoglycemia when meals are missed."
+    },
+    {
+      "id": "pn-pharmacological_therapies-064",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "The order is cephalexin 500 mg PO. The capsule available is 250 mg. The client has trouble swallowing. What should the PN do?",
+      "options": [
+        "Open the capsules and mix them into food without asking",
+        "Skip the dose",
+        "Ask the RN to check whether a liquid form can be ordered",
+        "Give one capsule only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Changing a dosage form requires checking with the pharmacist or provider. A liquid form is often available."
+    },
+    {
+      "id": "pn-pharmacological_therapies-065",
+      "track": "pn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client is taking a medication through a PEG tube. Which medication should not be crushed?",
+      "options": [
+        "An extended-release tablet",
+        "An immediate-release tablet listed as safe to crush",
+        "A plain vitamin tablet",
+        "A plain acetaminophen tablet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Crushing extended-release tablets releases the whole dose at once and can cause toxicity. A different form should be requested."
     }
   ]
 }

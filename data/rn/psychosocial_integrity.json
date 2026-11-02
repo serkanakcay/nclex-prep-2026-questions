@@ -227,6 +227,756 @@
       ],
       "correctIndex": 3,
       "explanation": "Opioid withdrawal causes yawning, rhinorrhea, tearing, dilated pupils, gooseflesh, aches, and GI upset. Pinpoint pupils and respiratory depression indicate intoxication."
+    },
+    {
+      "id": "rn-psychosocial_integrity-016",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client says, \"I just don't know what to do anymore.\" Which response uses the technique of reflection?",
+      "options": [
+        "\"Why do you feel that way?\"",
+        "\"You feel unsure about what to do.\"",
+        "\"Everything will be fine.\"",
+        "\"You should talk to your family.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Reflection repeats the client's feelings or ideas back so the client can explore them further. False reassurance and advice block communication."
+    },
+    {
+      "id": "rn-psychosocial_integrity-017",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which defense mechanism is shown when a client who failed an exam says, \"The test was unfair anyway\"?",
+      "options": [
+        "Conversion",
+        "Repression",
+        "Sublimation",
+        "Rationalization"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rationalization is giving a socially acceptable excuse to justify a behavior or outcome and protect self-esteem."
+    },
+    {
+      "id": "rn-psychosocial_integrity-018",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which finding is a common sign of grief after the death of a spouse?",
+      "options": [
+        "Sudden loss of hearing",
+        "Crying, trouble sleeping, and missing the person",
+        "Seeing flashing lights",
+        "A rash on both hands"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normal grief often includes sadness, crying, sleep changes, and yearning. Grief that is prolonged and disabling may need further evaluation."
+    },
+    {
+      "id": "rn-psychosocial_integrity-019",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which action by the nurse best builds trust with a newly admitted client on a mental health unit?",
+      "options": [
+        "Changing the schedule often",
+        "Avoiding eye contact",
+        "Keeping promises and being consistent",
+        "Sharing personal problems with the client"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trust develops when the nurse is honest, consistent, and reliable. The relationship stays focused on the client."
+    },
+    {
+      "id": "rn-psychosocial_integrity-020",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client who was in a serious car crash 2 months ago has nightmares, flashbacks, and avoids driving. Which condition do these findings suggest?",
+      "options": [
+        "Bipolar disorder",
+        "Schizophrenia",
+        "Generalized anxiety disorder",
+        "Post-traumatic stress disorder"
+      ],
+      "correctIndex": 3,
+      "explanation": "Intrusive memories, nightmares, avoidance, and hyperarousal lasting more than a month after trauma are characteristic of PTSD."
+    },
+    {
+      "id": "rn-psychosocial_integrity-021",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client is admitted after a suicide attempt. Which question is most important for the nurse to ask?",
+      "options": [
+        "\"Why would you do such a thing?\"",
+        "\"Don't you know how much your family loves you?\"",
+        "\"Are you having thoughts of harming yourself right now?\"",
+        "\"Have you thought about your future plans?\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Asking directly about current suicidal thoughts assesses immediate risk. Asking does not increase risk and is essential for safety planning."
+    },
+    {
+      "id": "rn-psychosocial_integrity-022",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with alcohol use disorder is starting disulfiram. Which instruction is most important?",
+      "options": [
+        "Alcohol is safe after 1 hour",
+        "Avoid all alcohol, including in mouthwash, cough syrups, and sauces",
+        "Drink only beer while taking the medication",
+        "Take the medication only when craving alcohol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disulfiram causes a severe reaction with even small amounts of alcohol, including hidden sources. The reaction can occur up to 2 weeks after the last dose."
+    },
+    {
+      "id": "rn-psychosocial_integrity-023",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which statement by a client shows the use of the defense mechanism projection?",
+      "options": [
+        "\"I can't remember the accident at all.\"",
+        "\"I'm fine,\" said after receiving bad news",
+        "\"I'll work out at the gym when I'm angry.\"",
+        "\"My coworkers don't like me,\" said by a client who dislikes the coworkers"
+      ],
+      "correctIndex": 3,
+      "explanation": "Projection is attributing one's own unacceptable feelings to another person. Sublimation, repression, and denial are shown by the other statements."
+    },
+    {
+      "id": "rn-psychosocial_integrity-024",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "During a crisis, a client is crying and can't focus on what the nurse is saying. What is the nurse's first goal?",
+      "options": [
+        "Refer the client to long-term psychoanalysis",
+        "Explore childhood experiences in depth",
+        "Ensure the client's safety and help the client return to the previous level of functioning",
+        "Teach long-term coping strategies right away"
+      ],
+      "correctIndex": 2,
+      "explanation": "Crisis intervention focuses on immediate safety and restoring prior functioning. Deeper exploration comes later."
+    },
+    {
+      "id": "rn-psychosocial_integrity-025",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with a new diagnosis of HIV says, \"My life is over.\" Which response by the nurse is best?",
+      "options": [
+        "\"You shouldn't feel that way.\"",
+        "\"This news is a lot to take in. Tell me what worries you most.\"",
+        "\"Don't worry, there are good medications.\"",
+        "\"Lots of people have HIV.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledging feelings and inviting the client to share concerns is therapeutic. Minimizing or dismissing feelings blocks communication."
+    },
+    {
+      "id": "rn-psychosocial_integrity-026",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which finding is most consistent with generalized anxiety disorder?",
+      "options": [
+        "Elevated mood with decreased need for sleep",
+        "A sudden episode of fear lasting minutes after a trigger",
+        "Hearing voices that comment on behavior",
+        "Excessive worry about many things on most days for at least 6 months"
+      ],
+      "correctIndex": 3,
+      "explanation": "GAD involves persistent, hard-to-control worry with symptoms such as restlessness, fatigue, and poor concentration."
+    },
+    {
+      "id": "rn-psychosocial_integrity-027",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with depression started sertraline 1 week ago and says, \"It isn't working.\" Which response is most accurate?",
+      "options": [
+        "\"Double the dose on your own.\"",
+        "\"Stop it and we'll try something else.\"",
+        "\"It may take 2 to 6 weeks to feel the full benefit, so keep taking it and tell us about any side effects.\"",
+        "\"If it doesn't work by tomorrow, it never will.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "SSRIs often take several weeks for full antidepressant effect. Clients are monitored for worsening depression or suicidal thoughts, especially early in treatment."
+    },
+    {
+      "id": "rn-psychosocial_integrity-028",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client in the emergency department says, \"My partner hit me, but I can't leave—I have nowhere to go.\" What is the most important nursing action?",
+      "options": [
+        "Document only and discharge the client",
+        "Tell the client to leave the partner immediately",
+        "Call the partner to discuss the problem",
+        "Help the client make a safety plan and provide information about shelters and hotlines"
+      ],
+      "correctIndex": 3,
+      "explanation": "The nurse supports the client's choices while helping with a safety plan and community resources. Pressuring the client or contacting the abuser can increase danger."
+    },
+    {
+      "id": "rn-psychosocial_integrity-029",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with a history of opioid use disorder is in severe pain after surgery. Which approach is most appropriate?",
+      "options": [
+        "Withhold all opioids to prevent relapse",
+        "Treat the pain adequately while monitoring closely and involving the care team",
+        "Give only placebo injections",
+        "Tell the client pain is part of recovery"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clients with substance use disorders have the right to effective pain control. A multimodal plan with close monitoring treats pain safely."
+    },
+    {
+      "id": "rn-psychosocial_integrity-030",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client taking clozapine has a sore throat and fever. Which lab test should the nurse expect to be checked?",
+      "options": [
+        "Thyroid-stimulating hormone",
+        "Absolute neutrophil count",
+        "Serum amylase",
+        "Serum calcium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clozapine can cause severe neutropenia (agranulocytosis). Fever or sore throat requires prompt evaluation of the ANC."
+    },
+    {
+      "id": "rn-psychosocial_integrity-031",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client taking haloperidol develops a stiff neck and the eyes roll upward. What is this reaction called?",
+      "options": [
+        "Serotonin syndrome",
+        "Akathisia",
+        "Acute dystonia",
+        "Tardive dyskinesia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Acute dystonic reactions occur early in antipsychotic treatment and are treated with anticholinergics such as diphenhydramine or benztropine."
+    },
+    {
+      "id": "rn-psychosocial_integrity-032",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which client behavior shows the 'working phase' of the nurse-client relationship?",
+      "options": [
+        "The client says goodbye and reviews progress",
+        "The client refuses to talk at the first meeting",
+        "The client and nurse agree on meeting times for the first time",
+        "The client discusses problems and practices new coping skills"
+      ],
+      "correctIndex": 3,
+      "explanation": "In the working phase, the client explores problems and tries new behaviors. Contracts are set in the orientation phase, and progress is reviewed at termination."
+    },
+    {
+      "id": "rn-psychosocial_integrity-033",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which therapy approach helps a client identify and change negative automatic thoughts?",
+      "options": [
+        "Cognitive behavioral therapy",
+        "Electroconvulsive therapy",
+        "Psychoanalysis focused on dreams only",
+        "Aversion therapy"
+      ],
+      "correctIndex": 0,
+      "explanation": "CBT teaches clients to recognize distorted thinking and replace it with more realistic thoughts, which changes feelings and behaviors."
+    },
+    {
+      "id": "rn-psychosocial_integrity-034",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client with bipolar disorder is taking lithium. What is the usual therapeutic serum level for maintenance?",
+      "options": [
+        "0.6 to 1.2 mEq/L",
+        "2.0 to 3.0 mEq/L",
+        "3.5 to 5.0 mEq/L",
+        "10 to 20 mEq/L"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maintenance lithium levels are about 0.6 to 1.2 mEq/L. Levels above 1.5 mEq/L raise the risk of toxicity."
+    },
+    {
+      "id": "rn-psychosocial_integrity-035",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which statement is an example of a client's use of the defense mechanism 'regression'?",
+      "options": [
+        "A client who blames others for mistakes",
+        "A 7-year-old who was toilet trained begins bedwetting after a sibling is born",
+        "A client who acts overly friendly toward someone they dislike",
+        "An adult who jogs when stressed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regression is returning to an earlier developmental behavior during stress."
+    },
+    {
+      "id": "rn-psychosocial_integrity-036",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client is admitted voluntarily to a psychiatric unit. Which right does this client have?",
+      "options": [
+        "No right to make phone calls",
+        "No right to refuse medications",
+        "No right to see visitors",
+        "The right to request discharge according to state law and facility policy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Voluntary clients keep their civil rights, including requesting discharge. The facility may hold them briefly for evaluation according to state law."
+    },
+    {
+      "id": "rn-psychosocial_integrity-037",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client with schizophrenia has a flat affect and little speech. How are these findings classified?",
+      "options": [
+        "Side effects of lithium",
+        "Signs of mania",
+        "Negative symptoms",
+        "Positive symptoms"
+      ],
+      "correctIndex": 2,
+      "explanation": "Negative symptoms include flat affect, alogia, avolition, and social withdrawal. Hallucinations and delusions are positive symptoms."
+    },
+    {
+      "id": "rn-psychosocial_integrity-038",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client taking an SSRI was recently started on tramadol. The client is agitated, sweating, and has muscle twitching and a temperature of 38.9 C (102 F). What should the nurse suspect?",
+      "options": [
+        "Neuroleptic malignant syndrome",
+        "Serotonin syndrome",
+        "Lithium toxicity",
+        "Opioid withdrawal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Serotonin syndrome causes agitation, hyperthermia, sweating, tremor, and clonus. It can occur when serotonergic drugs such as SSRIs and tramadol are combined."
+    },
+    {
+      "id": "rn-psychosocial_integrity-039",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client taking an antipsychotic has a temperature of 40 C (104 F), severe muscle rigidity, and fluctuating blood pressure. What is the priority action?",
+      "options": [
+        "Give the next scheduled dose",
+        "Encourage the client to exercise",
+        "Stop the antipsychotic and notify the provider immediately",
+        "Apply warm blankets"
+      ],
+      "correctIndex": 2,
+      "explanation": "These findings suggest neuroleptic malignant syndrome, a life-threatening emergency. The drug is stopped and supportive care, cooling, and possibly dantrolene or bromocriptine are started."
+    },
+    {
+      "id": "rn-psychosocial_integrity-040",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with alcohol withdrawal is being monitored with the CIWA-Ar scale. What is the purpose of this tool?",
+      "options": [
+        "To measure blood alcohol level",
+        "To diagnose liver failure",
+        "To assess for depression",
+        "To guide symptom-triggered dosing of benzodiazepines"
+      ],
+      "correctIndex": 3,
+      "explanation": "CIWA-Ar scores the severity of withdrawal symptoms. Scores guide when to give benzodiazepines and help prevent seizures and delirium tremens."
+    },
+    {
+      "id": "rn-psychosocial_integrity-041",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client in a manic phase is talking rapidly and interrupting group therapy. Which intervention is best?",
+      "options": [
+        "Allow the client to stay up all night",
+        "Encourage the client to lead the group",
+        "Provide a quiet, low-stimulation environment and redirect the client",
+        "Ask the client to compete in a team game"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reducing stimulation and setting calm limits help clients in mania regain control. Competitive or stimulating activities increase agitation."
+    },
+    {
+      "id": "rn-psychosocial_integrity-042",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with a history of violence is pacing, clenching fists, and shouting. What should the nurse do first?",
+      "options": [
+        "Argue with the client about the behavior",
+        "Speak calmly, keep a safe distance, and offer choices",
+        "Place the client in restraints immediately",
+        "Turn your back to show you are not a threat"
+      ],
+      "correctIndex": 1,
+      "explanation": "De-escalation is the first step when a client is agitated. Restraint or seclusion is used only if less restrictive measures fail and there is imminent danger."
+    },
+    {
+      "id": "rn-psychosocial_integrity-043",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with anorexia nervosa is admitted with a weight of 70% of expected. Which lab result is most concerning during refeeding?",
+      "options": [
+        "Serum glucose of 90 mg/dL",
+        "Serum sodium of 138 mEq/L",
+        "Hemoglobin of 12.5 g/dL",
+        "Serum phosphorus of 1.8 mg/dL"
+      ],
+      "correctIndex": 3,
+      "explanation": "Refeeding syndrome causes dangerous drops in phosphorus, potassium, and magnesium, which can lead to heart failure and arrhythmias."
+    },
+    {
+      "id": "rn-psychosocial_integrity-044",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with bulimia nervosa has frequent self-induced vomiting. Which finding should the nurse expect?",
+      "options": [
+        "Hypokalemia and dental enamel erosion",
+        "Hyperkalemia and weight loss below 60%",
+        "Bradycardia caused by hypercalcemia",
+        "Increased hair growth only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Repeated vomiting causes loss of potassium and stomach acid, leading to hypokalemia, metabolic alkalosis, and enamel erosion."
+    },
+    {
+      "id": "rn-psychosocial_integrity-045",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client is being involuntarily committed. Which statement about this client's rights is correct?",
+      "options": [
+        "The client loses all civil rights",
+        "The client may not have any visitors at all",
+        "The client keeps rights such as communication with an attorney and humane care",
+        "The client cannot refuse any treatment under any circumstance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Involuntarily committed clients retain many rights, including legal counsel, humane treatment, and in many cases the right to refuse some treatments unless a court rules otherwise."
+    },
+    {
+      "id": "rn-psychosocial_integrity-046",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which statement by a client with obsessive-compulsive disorder shows progress?",
+      "options": [
+        "\"I've cut down my hand washing from 20 times to 10 times before leaving.\"",
+        "\"I don't feel anxious, so I'll stop therapy.\"",
+        "\"I stopped going out so I won't need to check.\"",
+        "\"I can't leave until I check the door 30 times.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Gradually reducing rituals while managing anxiety shows progress in OCD treatment."
+    },
+    {
+      "id": "rn-psychosocial_integrity-047",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with dementia keeps asking for her late husband. Which approach is most appropriate?",
+      "options": [
+        "Ignore her questions",
+        "Remind her repeatedly that her husband has died",
+        "Tell her he will come later",
+        "Acknowledge her feelings and talk about her husband, then redirect"
+      ],
+      "correctIndex": 3,
+      "explanation": "Validation acknowledges the emotion behind the request without causing repeated grief. Lying or repeated reorientation can increase distress."
+    },
+    {
+      "id": "rn-psychosocial_integrity-048",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which finding suggests that a client taking lithium may be developing toxicity?",
+      "options": [
+        "Improved sleep",
+        "Coarse tremor, vomiting, and confusion",
+        "Weight loss and dry mouth only",
+        "Mild thirst during the first week"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coarse tremor, persistent GI symptoms, confusion, and ataxia suggest lithium toxicity and require holding the dose and checking a level."
+    },
+    {
+      "id": "rn-psychosocial_integrity-049",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client with major depression is about to start bupropion. Which history should the nurse report before the first dose?",
+      "options": [
+        "Seasonal allergies",
+        "A seizure disorder",
+        "Mild acne",
+        "Myopia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bupropion lowers the seizure threshold and is contraindicated in seizure disorders and in eating disorders such as bulimia."
+    },
+    {
+      "id": "rn-psychosocial_integrity-050",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client receiving long-term antipsychotic therapy has lip smacking and tongue thrusting. What should the nurse do?",
+      "options": [
+        "Tell the client this is a sign of improvement",
+        "Give an extra dose of the antipsychotic",
+        "Assess with the AIMS tool and report the findings to the provider",
+        "Ignore it because it is temporary"
+      ],
+      "correctIndex": 2,
+      "explanation": "These are signs of tardive dyskinesia, which may be permanent. Early detection with the Abnormal Involuntary Movement Scale allows treatment changes."
+    },
+    {
+      "id": "rn-psychosocial_integrity-051",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client says, \"I am the president and I control the weather.\" What type of thinking is this?",
+      "options": [
+        "Flight of ideas",
+        "Thought broadcasting",
+        "Ideas of reference",
+        "Delusion of grandeur"
+      ],
+      "correctIndex": 3,
+      "explanation": "A grandiose delusion is a fixed false belief of having great power, importance, or identity."
+    },
+    {
+      "id": "rn-psychosocial_integrity-052",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client in group therapy says, \"I'm not the only one who feels this way.\" Which therapeutic factor of groups does this show?",
+      "options": [
+        "Universality",
+        "Catharsis",
+        "Altruism",
+        "Instillation of hope"
+      ],
+      "correctIndex": 0,
+      "explanation": "Universality is realizing others share similar problems, which reduces isolation."
+    },
+    {
+      "id": "rn-psychosocial_integrity-053",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client taking phenelzine is at a party. Which food choice is safest?",
+      "options": [
+        "Fresh roasted chicken",
+        "Draft beer",
+        "Soy sauce",
+        "Aged salami"
+      ],
+      "correctIndex": 0,
+      "explanation": "MAOIs interact with tyramine-rich foods, such as aged meats, tap beer, and fermented products, causing hypertensive crisis. Fresh meats are safe."
+    },
+    {
+      "id": "rn-psychosocial_integrity-054",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client who was sexually assaulted arrives at the emergency department. What is a priority nursing action?",
+      "options": [
+        "Have the client shower before the exam",
+        "Provide privacy and support, and preserve evidence according to protocol",
+        "Question the client in the waiting room",
+        "Ask the client why they were in that place"
+      ],
+      "correctIndex": 1,
+      "explanation": "The nurse provides emotional support and privacy and preserves evidence, often with a sexual assault nurse examiner. Bathing can destroy evidence."
+    },
+    {
+      "id": "rn-psychosocial_integrity-055",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client in alcohol withdrawal has a heart rate of 118/min, tremors, and sweating 24 hours after the last drink. What should the nurse expect to give?",
+      "options": [
+        "Disulfiram",
+        "Haloperidol only",
+        "A benzodiazepine such as lorazepam",
+        "Naloxone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benzodiazepines treat alcohol withdrawal symptoms and help prevent seizures and delirium tremens."
+    },
+    {
+      "id": "rn-psychosocial_integrity-056",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A child who was told they will have surgery tomorrow is quiet and holding a stuffed toy. Which intervention is most appropriate for a 5-year-old?",
+      "options": [
+        "Give a detailed written handout",
+        "Avoid talking about the surgery",
+        "Show a video of the operation",
+        "Use therapeutic play with dolls to explain what will happen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Preschoolers understand best through play and simple, concrete explanations. Medical play reduces fear."
+    },
+    {
+      "id": "rn-psychosocial_integrity-057",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with schizophrenia has been taking an antipsychotic and now says, \"I feel restless and I can't sit still.\" Which side effect does this describe?",
+      "options": [
+        "Parkinsonism",
+        "Dystonia",
+        "Tardive dyskinesia",
+        "Akathisia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Akathisia is a feeling of inner restlessness with an urge to keep moving. It can be mistaken for agitation."
+    },
+    {
+      "id": "rn-psychosocial_integrity-058",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with depression who has been withdrawn suddenly appears more energetic 10 days after starting an antidepressant. Which action is most important?",
+      "options": [
+        "Reduce monitoring because the client is improving",
+        "Increase suicide observation and assess for suicidal thoughts",
+        "Give the client a pass to go home",
+        "Stop the medication"
+      ],
+      "correctIndex": 1,
+      "explanation": "As energy improves before mood does, clients may have the energy to act on suicidal plans. Close monitoring is needed."
+    },
+    {
+      "id": "rn-psychosocial_integrity-059",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client is on suicide precautions with one-to-one observation. Which action by the UAP requires the RN to intervene?",
+      "options": [
+        "The UAP leaves the client alone in the bathroom for privacy",
+        "The UAP stays within arm's length",
+        "The UAP documents the client's behavior",
+        "The UAP checks the room for sharp objects"
+      ],
+      "correctIndex": 0,
+      "explanation": "One-to-one observation means the client is never left unattended, including in the bathroom, to prevent self-harm."
+    },
+    {
+      "id": "rn-psychosocial_integrity-060",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with borderline personality disorder cuts their arm superficially after a disagreement with staff. What is the priority?",
+      "options": [
+        "Seclude the client for 24 hours",
+        "Ignore the injury so the behavior isn't reinforced",
+        "Treat the wound in a calm, matter-of-fact way and assess suicide risk",
+        "Lecture the client about the behavior"
+      ],
+      "correctIndex": 2,
+      "explanation": "Self-injury is treated without excess attention or punishment, and the nurse assesses safety. Later, the client is helped to use other coping skills."
+    },
+    {
+      "id": "rn-psychosocial_integrity-061",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with alcohol use disorder is admitted and is confused, with nystagmus and an unsteady gait. Which medication should the nurse expect to give before glucose?",
+      "options": [
+        "Flumazenil",
+        "Naloxone",
+        "Insulin",
+        "Thiamine"
+      ],
+      "correctIndex": 3,
+      "explanation": "These findings suggest Wernicke encephalopathy. Thiamine is given before glucose because glucose can worsen thiamine deficiency."
+    },
+    {
+      "id": "rn-psychosocial_integrity-062",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client taking lithium has a level of 2.1 mEq/L, diarrhea, and confusion. What does the nurse anticipate?",
+      "options": [
+        "Giving the next dose as scheduled",
+        "Holding lithium and preparing for treatments such as IV fluids or hemodialysis",
+        "Restricting fluids and sodium",
+        "Giving lithium with food"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lithium at 2.1 mEq/L with neurologic symptoms is moderate to severe toxicity. The drug is stopped, fluids are given, and dialysis may be needed."
+    },
+    {
+      "id": "rn-psychosocial_integrity-063",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client experiencing a panic attack is breathing rapidly and says, \"I'm going to die.\" Which response is best?",
+      "options": [
+        "\"Let's talk about your childhood.\"",
+        "\"Explain why you are panicking.\"",
+        "\"I'll stay with you. Breathe slowly with me.\"",
+        "\"There's nothing wrong with you.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "During panic, the nurse stays with the client, uses short, calm statements, and helps slow breathing. Insight-oriented discussion comes later."
+    },
+    {
+      "id": "rn-psychosocial_integrity-064",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with antisocial personality disorder tries to get special privileges by flattering the nurse. What is the best response?",
+      "options": [
+        "Set clear, consistent limits and enforce consequences",
+        "Grant the privilege to build rapport",
+        "Avoid the client completely",
+        "Let other clients decide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clients with antisocial traits may manipulate. Consistent limits from all staff reduce manipulation."
+    },
+    {
+      "id": "rn-psychosocial_integrity-065",
+      "track": "rn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A child's parent died 2 weeks ago. The child, 8 years old, asks, \"Will I die too?\" What is the most appropriate response?",
+      "options": [
+        "Say the parent is only sleeping",
+        "Tell the child not to talk about death",
+        "Answer honestly in simple terms and reassure the child about who will care for them",
+        "Change the subject to school"
+      ],
+      "correctIndex": 2,
+      "explanation": "School-age children understand death is permanent. Honest, concrete answers and reassurance about care and safety are helpful; euphemisms like 'sleeping' cause fear."
     }
   ]
 }

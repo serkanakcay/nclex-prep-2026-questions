@@ -227,6 +227,756 @@
       ],
       "correctIndex": 1,
       "explanation": "Reduced, concentrated urine output is a common sign of dehydration. Older adults may also become confused, and skin turgor is less reliable in this age group."
+    },
+    {
+      "id": "pn-physiological_adaptation-016",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is typical of left-sided heart failure?",
+      "options": [
+        "Crackles in the lungs and shortness of breath",
+        "Jugular vein distention only",
+        "Ascites only",
+        "Dependent edema without lung findings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Left-sided failure causes fluid to back up into the lungs. Right-sided failure causes peripheral edema, ascites, and JVD."
+    },
+    {
+      "id": "pn-physiological_adaptation-017",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client reports always feeling hot, losing weight despite a good appetite, and a racing heart. Which condition do these findings suggest?",
+      "options": [
+        "Addison's disease",
+        "Hypothyroidism",
+        "Diabetes insipidus",
+        "Hyperthyroidism"
+      ],
+      "correctIndex": 3,
+      "explanation": "Excess thyroid hormone speeds metabolism, causing heat intolerance, weight loss, tachycardia, and nervousness."
+    },
+    {
+      "id": "pn-physiological_adaptation-018",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client with a burn on the forearm has blisters and severe pain. How is this burn classified?",
+      "options": [
+        "Superficial (first-degree) only",
+        "Full-thickness",
+        "Superficial partial-thickness",
+        "Fourth-degree"
+      ],
+      "correctIndex": 2,
+      "explanation": "Blisters and severe pain indicate partial-thickness burns. Full-thickness burns are often painless because nerve endings are destroyed."
+    },
+    {
+      "id": "pn-physiological_adaptation-019",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which client position is best for someone who is short of breath from heart failure?",
+      "options": [
+        "High Fowler's",
+        "Prone",
+        "Trendelenburg",
+        "Flat supine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sitting upright reduces venous return and allows better lung expansion."
+    },
+    {
+      "id": "pn-physiological_adaptation-020",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with chronic kidney disease has a serum phosphorus that is high. Which medication is commonly used?",
+      "options": [
+        "A thiazide diuretic",
+        "An iron infusion only",
+        "A potassium supplement",
+        "A phosphate binder taken with meals"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phosphate binders, such as sevelamer or calcium acetate, are taken with meals to bind dietary phosphorus."
+    },
+    {
+      "id": "pn-physiological_adaptation-021",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with cirrhosis is confused and has a flapping tremor of the hands. Which medication is expected?",
+      "options": [
+        "Furosemide only",
+        "Morphine",
+        "Lactulose",
+        "Iron sulfate"
+      ],
+      "correctIndex": 2,
+      "explanation": "These signs suggest hepatic encephalopathy from high ammonia. Lactulose lowers ammonia by trapping it in the bowel and causing soft stools."
+    },
+    {
+      "id": "pn-physiological_adaptation-022",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with pancreatitis has severe abdominal pain. Which lab result supports the diagnosis?",
+      "options": [
+        "Elevated serum lipase",
+        "Normal lipase",
+        "Low white blood cell count",
+        "Low serum amylase"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lipase rises in acute pancreatitis and is more specific than amylase."
+    },
+    {
+      "id": "pn-physiological_adaptation-023",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with sickle cell disease is in a pain crisis. Which interventions are priorities?",
+      "options": [
+        "Restricting fluids",
+        "Cold packs to the joints",
+        "Ambulating quickly",
+        "Pain control, hydration, and oxygen if hypoxic"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hydration and pain relief reduce sickling and discomfort. Cold causes vasoconstriction and can worsen sickling."
+    },
+    {
+      "id": "pn-physiological_adaptation-024",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with type 1 diabetes is sick with the flu and not eating well. Which advice is correct?",
+      "options": [
+        "Avoid fluids",
+        "Keep taking insulin, check glucose often, and test for ketones",
+        "Take insulin only at bedtime",
+        "Stop insulin until eating normally"
+      ],
+      "correctIndex": 1,
+      "explanation": "Illness raises glucose even without eating. Insulin is continued, and ketone checks help detect DKA."
+    },
+    {
+      "id": "pn-physiological_adaptation-025",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Which ECG rhythm requires immediate CPR and defibrillation?",
+      "options": [
+        "Normal sinus rhythm",
+        "Sinus bradycardia at 56 with a pulse",
+        "Pulseless ventricular tachycardia",
+        "First-degree AV block"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pulseless VT is a shockable cardiac arrest rhythm treated with CPR and defibrillation."
+    },
+    {
+      "id": "pn-physiological_adaptation-026",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with a fractured femur becomes confused, short of breath, and has a petechial rash on the chest 2 days after the injury. What should the nurse suspect?",
+      "options": [
+        "Fat embolism syndrome",
+        "Normal healing",
+        "Allergic reaction to food",
+        "Hypoglycemia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fat embolism typically occurs 24 to 72 hours after a long-bone fracture and causes respiratory distress, confusion, and petechiae."
+    },
+    {
+      "id": "pn-physiological_adaptation-027",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a spinal cord injury at C5 has a heart rate of 48/min and blood pressure of 82/50 mm Hg. What does the nurse suspect?",
+      "options": [
+        "Hypovolemic shock with tachycardia",
+        "Neurogenic shock",
+        "Autonomic dysreflexia",
+        "Septic shock with fever"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loss of sympathetic tone after a high spinal injury causes hypotension with bradycardia, which is neurogenic shock."
+    },
+    {
+      "id": "pn-physiological_adaptation-028",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client in septic shock remains hypotensive after a fluid bolus of 30 mL/kg. Which medication is usually started next?",
+      "options": [
+        "Morphine",
+        "Furosemide",
+        "Metoprolol",
+        "Norepinephrine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Norepinephrine is the first-line vasopressor for septic shock that does not respond to fluids. The usual goal is a mean arterial pressure of at least 65 mm Hg."
+    },
+    {
+      "id": "pn-physiological_adaptation-029",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with acute kidney injury has a potassium of 6.8 mEq/L and peaked T waves. Which medication is given first to protect the heart?",
+      "options": [
+        "Digoxin",
+        "IV calcium gluconate",
+        "Oral potassium",
+        "IV potassium chloride"
+      ],
+      "correctIndex": 1,
+      "explanation": "IV calcium stabilizes the cardiac membrane right away. Insulin with glucose and other treatments then shift or remove potassium."
+    },
+    {
+      "id": "pn-physiological_adaptation-030",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding should the PN expect in a client with a urinary tract infection?",
+      "options": [
+        "Burning and frequent urination",
+        "Slow heart rate",
+        "Weight gain",
+        "Increased appetite"
+      ],
+      "correctIndex": 0,
+      "explanation": "UTIs commonly cause dysuria, frequency, and urgency. Older adults may show confusion instead."
+    },
+    {
+      "id": "pn-physiological_adaptation-031",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding suggests that a client with asthma is improving after a bronchodilator treatment?",
+      "options": [
+        "Increased use of neck muscles",
+        "Unable to speak in full sentences",
+        "Less wheezing and easier breathing",
+        "Lips turning blue"
+      ],
+      "correctIndex": 2,
+      "explanation": "Reduced wheezing and work of breathing show the airways are opening."
+    },
+    {
+      "id": "pn-physiological_adaptation-032",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client with COPD is taught pursed-lip breathing. What is its main purpose?",
+      "options": [
+        "To raise blood pressure",
+        "To increase coughing",
+        "To slow the heart rate",
+        "To keep airways open longer and release trapped air"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pursed-lip breathing creates back pressure that prevents airway collapse and helps empty the lungs."
+    },
+    {
+      "id": "pn-physiological_adaptation-033",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is a warning sign of a stroke that the PN should report right away?",
+      "options": [
+        "Dry skin",
+        "Gradual hair thinning",
+        "Sudden facial droop and arm weakness",
+        "Mild seasonal allergies"
+      ],
+      "correctIndex": 2,
+      "explanation": "BE FAST signs include balance, eyes, face, arm, speech, and time. Sudden changes need immediate action."
+    },
+    {
+      "id": "pn-physiological_adaptation-034",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client with hypertension asks about the effect of high blood pressure. Which organ can be damaged?",
+      "options": [
+        "Hair",
+        "Kidneys",
+        "Skin color",
+        "Teeth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Long-term high blood pressure damages blood vessels in the kidneys, heart, brain, and eyes."
+    },
+    {
+      "id": "pn-physiological_adaptation-035",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is a common sign of anemia?",
+      "options": [
+        "Fatigue and pale skin",
+        "Slow pulse",
+        "Flushed skin and high energy",
+        "Weight gain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Low hemoglobin reduces oxygen delivery, causing fatigue, pallor, and shortness of breath on exertion."
+    },
+    {
+      "id": "pn-physiological_adaptation-036",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which client has the highest risk of developing pneumonia?",
+      "options": [
+        "A young adult who runs daily",
+        "A healthy adult after a flu vaccine",
+        "A teenager with a sprained ankle",
+        "An older adult on bed rest with difficulty swallowing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Immobility and dysphagia increase the risk of aspiration and pneumonia."
+    },
+    {
+      "id": "pn-physiological_adaptation-037",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding suggests a client has a fever-related dehydration?",
+      "options": [
+        "Slow heart rate",
+        "Dry mucous membranes and dark urine",
+        "Weight gain",
+        "Moist mouth and clear urine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fever increases fluid loss. Dry mouth, concentrated urine, and tachycardia suggest dehydration."
+    },
+    {
+      "id": "pn-physiological_adaptation-038",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with heart failure is short of breath and has crackles. What should the PN do first?",
+      "options": [
+        "Raise the head of the bed and report to the RN",
+        "Give extra fluids",
+        "Encourage a walk",
+        "Encourage the client to lie flat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sitting up eases breathing. Crackles may mean worsening fluid overload that the RN needs to assess."
+    },
+    {
+      "id": "pn-physiological_adaptation-039",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with diabetes has a foot wound that is red, warm, and draining. What should the PN do?",
+      "options": [
+        "Soak the foot in hot water",
+        "Cover it and ignore it",
+        "Report the signs of infection to the RN",
+        "Have the client walk barefoot"
+      ],
+      "correctIndex": 2,
+      "explanation": "Foot infections in diabetes can spread quickly. Early reporting allows prompt treatment."
+    },
+    {
+      "id": "pn-physiological_adaptation-040",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with chronic kidney disease asks why fluids are limited. What should the PN reinforce?",
+      "options": [
+        "Fluids raise blood glucose",
+        "Fluids cause hair loss",
+        "Fluids cause kidney stones",
+        "The kidneys can't remove extra fluid, which can cause swelling and breathing problems"
+      ],
+      "correctIndex": 3,
+      "explanation": "Damaged kidneys cannot excrete excess fluid, which leads to edema, hypertension, and heart failure."
+    },
+    {
+      "id": "pn-physiological_adaptation-041",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with peripheral arterial disease reports leg pain when walking that goes away with rest. What is this called?",
+      "options": [
+        "Restless legs",
+        "Neuropathy only",
+        "Intermittent claudication",
+        "Phantom pain"
+      ],
+      "correctIndex": 2,
+      "explanation": "Claudication is caused by reduced blood flow to the muscles during activity."
+    },
+    {
+      "id": "pn-physiological_adaptation-042",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with venous insufficiency has leg swelling. Which instruction should the PN reinforce?",
+      "options": [
+        "Wear tight garters",
+        "Elevate the legs and wear compression stockings as ordered",
+        "Cross the legs often",
+        "Keep legs hanging down"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elevation and compression improve venous return. For arterial disease, legs are not elevated above the heart."
+    },
+    {
+      "id": "pn-physiological_adaptation-043",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with a seizure disorder has a tonic-clonic seizure lasting 6 minutes. What should the PN do?",
+      "options": [
+        "Call for help immediately, as this is a medical emergency",
+        "Put a spoon in the mouth",
+        "Wait until it stops",
+        "Hold the arms down"
+      ],
+      "correctIndex": 0,
+      "explanation": "A seizure lasting more than 5 minutes is status epilepticus and needs emergency treatment."
+    },
+    {
+      "id": "pn-physiological_adaptation-044",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with hypoglycemia is unconscious. What should be given?",
+      "options": [
+        "Nothing until the client wakes up",
+        "Insulin",
+        "Orange juice by mouth",
+        "Glucagon or IV dextrose per protocol"
+      ],
+      "correctIndex": 3,
+      "explanation": "Unconscious clients cannot swallow safely. Glucagon or IV dextrose is used instead."
+    },
+    {
+      "id": "pn-physiological_adaptation-045",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with cirrhosis has ascites. Which finding should the PN monitor daily?",
+      "options": [
+        "Height",
+        "Weight and abdominal girth",
+        "Shoe size",
+        "Eye color only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Daily weight and abdominal girth track fluid accumulation."
+    },
+    {
+      "id": "pn-physiological_adaptation-046",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with COPD has an SpO2 of 89% on 2 L/min oxygen and is at baseline. What should the PN do?",
+      "options": [
+        "Continue to monitor, since the target is often 88% to 92%",
+        "Remove the oxygen",
+        "Lay the client flat",
+        "Increase the oxygen to 10 L/min"
+      ],
+      "correctIndex": 0,
+      "explanation": "Many clients with COPD have a lower target range. Too much oxygen can worsen CO2 retention in some clients."
+    },
+    {
+      "id": "pn-physiological_adaptation-047",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Which finding should the PN report in a client with a new pacemaker?",
+      "options": [
+        "Mild soreness at the site",
+        "Clear, dry dressing",
+        "Hiccups and a heart rate below the set rate",
+        "Normal heart rate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Persistent hiccups may mean the lead is stimulating the diaphragm, and a heart rate below the set rate may mean malfunction."
+    },
+    {
+      "id": "pn-physiological_adaptation-048",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client with a nosebleed asks how to stop it. What should the PN reinforce?",
+      "options": [
+        "Blow the nose hard",
+        "Lie flat and tilt the head back",
+        "Pack the nose with tissue and lie down",
+        "Sit up, lean forward, and pinch the soft part of the nose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Leaning forward prevents swallowing blood. Firm pressure for 10 to 15 minutes usually stops bleeding."
+    },
+    {
+      "id": "pn-physiological_adaptation-049",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is a sign of hyperglycemia?",
+      "options": [
+        "Shakiness and sweating",
+        "Cold, clammy skin",
+        "Increased thirst and urination",
+        "Sudden hunger with tremors"
+      ],
+      "correctIndex": 2,
+      "explanation": "High glucose causes thirst, frequent urination, blurred vision, and fatigue."
+    },
+    {
+      "id": "pn-physiological_adaptation-050",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client has a burn from spilled hot coffee on the arm. What first aid should the PN reinforce?",
+      "options": [
+        "Break the blisters",
+        "Cool the area with cool running water",
+        "Apply ice directly",
+        "Apply butter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cool water stops the burning process. Ice and butter can damage tissue further."
+    },
+    {
+      "id": "pn-physiological_adaptation-051",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with heart failure is prescribed a low-sodium diet. Which food should the client avoid?",
+      "options": [
+        "Plain rice",
+        "Fresh chicken",
+        "Fresh fruit",
+        "Frozen dinners"
+      ],
+      "correctIndex": 3,
+      "explanation": "Processed and frozen foods are high in sodium, which causes fluid retention."
+    },
+    {
+      "id": "pn-physiological_adaptation-052",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with gastroesophageal reflux disease asks how to reduce symptoms. Which advice should the PN reinforce?",
+      "options": [
+        "Avoid eating 2 to 3 hours before bed and elevate the head of the bed",
+        "Eat large meals",
+        "Drink coffee at night",
+        "Lie down after meals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Avoiding late meals and elevating the head reduces acid reflux."
+    },
+    {
+      "id": "pn-physiological_adaptation-053",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with a history of angina has chest pain at rest. What should the PN do first?",
+      "options": [
+        "Encourage a walk",
+        "Offer a meal",
+        "Have the client rest and report to the RN immediately",
+        "Ignore it if it goes away"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chest pain at rest may be unstable angina or MI, which needs immediate evaluation."
+    },
+    {
+      "id": "pn-physiological_adaptation-054",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with pneumonia has a temperature of 39.0 C and a productive cough. Which intervention helps?",
+      "options": [
+        "Encourage fluids unless restricted",
+        "Discourage coughing",
+        "Restrict fluids",
+        "Keep the client flat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fluids thin secretions and replace losses from fever."
+    },
+    {
+      "id": "pn-physiological_adaptation-055",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with osteoporosis is at risk of which complication?",
+      "options": [
+        "Diabetes",
+        "Fractures",
+        "Hearing loss",
+        "High blood pressure"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weak bones break easily, often in the hip, spine, and wrist."
+    },
+    {
+      "id": "pn-physiological_adaptation-056",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with hypothyroidism is starting levothyroxine. Which finding should the PN report?",
+      "options": [
+        "Weight stabilizing",
+        "Better sleep",
+        "Improved energy",
+        "Chest pain and rapid heartbeat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thyroid replacement increases the heart's workload and can trigger angina, especially in older adults."
+    },
+    {
+      "id": "pn-physiological_adaptation-057",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with chronic bronchitis has thick sputum. Which intervention helps clear secretions?",
+      "options": [
+        "Limiting activity completely",
+        "Lying flat",
+        "Increasing fluid intake and coughing techniques",
+        "Holding the breath"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hydration and effective coughing help move thick secretions."
+    },
+    {
+      "id": "pn-physiological_adaptation-058",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with diabetes is sweaty, shaky, and has a glucose of 55 mg/dL but can swallow. What should the PN give first?",
+      "options": [
+        "A large meal",
+        "Insulin",
+        "Diet soda",
+        "4 ounces of fruit juice or regular soda"
+      ],
+      "correctIndex": 3,
+      "explanation": "15 g of fast-acting carbohydrate, such as juice, raises glucose quickly. Recheck in 15 minutes."
+    },
+    {
+      "id": "pn-physiological_adaptation-059",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a fractured leg has sudden shortness of breath and chest pain. What should the PN do?",
+      "options": [
+        "Call for help, raise the head of the bed, and stay with the client",
+        "Give a sedative",
+        "Recheck in an hour",
+        "Walk the client"
+      ],
+      "correctIndex": 0,
+      "explanation": "These findings suggest pulmonary or fat embolism, which is an emergency."
+    },
+    {
+      "id": "pn-physiological_adaptation-060",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a stroke has trouble swallowing. Which finding suggests aspiration?",
+      "options": [
+        "Eating quickly without trouble",
+        "Coughing and a wet voice during meals",
+        "Normal breathing",
+        "Clear voice"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coughing, choking, and a gurgly voice during eating are signs of aspiration."
+    },
+    {
+      "id": "pn-physiological_adaptation-061",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with peritoneal dialysis has cloudy outflow and abdominal pain. What should the PN do?",
+      "options": [
+        "Ignore it",
+        "Drink more fluids",
+        "Continue the dialysis",
+        "Report it to the RN immediately as possible peritonitis"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cloudy outflow is an early sign of peritonitis, a serious complication of peritoneal dialysis."
+    },
+    {
+      "id": "pn-physiological_adaptation-062",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a seizure is in the postictal phase. What should the PN do?",
+      "options": [
+        "Turn the client on the side and let the client rest",
+        "Give a meal",
+        "Leave the client alone",
+        "Encourage walking immediately"
+      ],
+      "correctIndex": 0,
+      "explanation": "Side-lying prevents aspiration. Clients are often tired and confused after a seizure."
+    },
+    {
+      "id": "pn-physiological_adaptation-063",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with an acute myocardial infarction is anxious and in pain. Which order should the PN expect the RN to carry out first?",
+      "options": [
+        "Encourage ambulation",
+        "Oxygen if SpO2 is low and medications such as nitroglycerin and aspirin as ordered",
+        "Give a large meal",
+        "Delay all treatment"
+      ],
+      "correctIndex": 1,
+      "explanation": "Early treatment aims to improve oxygen supply and reduce heart workload while preparing for reperfusion."
+    },
+    {
+      "id": "pn-physiological_adaptation-064",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a urinary catheter has no urine output for 2 hours and lower abdominal fullness. What should the PN check first?",
+      "options": [
+        "The client's diet",
+        "The color of the bag",
+        "The tubing for kinks or blockage",
+        "The client's temperature"
+      ],
+      "correctIndex": 2,
+      "explanation": "A kinked or blocked catheter can cause urinary retention. Checking the tubing is the first step."
+    },
+    {
+      "id": "pn-physiological_adaptation-065",
+      "track": "pn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with heat stroke has hot, dry skin and confusion. What is the priority action?",
+      "options": [
+        "Begin rapid cooling and call for emergency help",
+        "Encourage exercise",
+        "Cover with blankets",
+        "Give warm fluids"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heat stroke is life-threatening. Rapid cooling reduces the risk of organ damage."
     }
   ]
 }

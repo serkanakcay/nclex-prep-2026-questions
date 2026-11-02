@@ -227,6 +227,756 @@
       ],
       "correctIndex": 3,
       "explanation": "After the first several days, 6 or more wet diapers a day and regular stools show adequate intake. A weight loss over 10% is a concern."
+    },
+    {
+      "id": "rn-health_promotion-016",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "At about what age does a typical infant begin to sit without support?",
+      "options": [
+        "2 months",
+        "6 months",
+        "10 months",
+        "14 months"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most infants sit briefly without support by about 6 months and sit steadily by about 8 months."
+    },
+    {
+      "id": "rn-health_promotion-017",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "Which vaccine is routinely given to a healthy newborn before hospital discharge?",
+      "options": [
+        "Tdap vaccine",
+        "MMR vaccine",
+        "Varicella vaccine",
+        "Hepatitis B vaccine"
+      ],
+      "correctIndex": 3,
+      "explanation": "The first dose of hepatitis B vaccine is recommended within 24 hours of birth. MMR and varicella are given starting at 12 months."
+    },
+    {
+      "id": "rn-health_promotion-018",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "At what age is the HPV vaccine routinely recommended for both girls and boys?",
+      "options": [
+        "11 to 12 years",
+        "25 to 30 years",
+        "Only after age 45",
+        "2 to 3 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "HPV vaccination is routinely recommended at 11 to 12 years and can start at age 9, before most exposure to the virus."
+    },
+    {
+      "id": "rn-health_promotion-019",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "Which change in vision is a normal part of aging?",
+      "options": [
+        "Seeing flashes of light and floaters suddenly",
+        "Presbyopia, or difficulty focusing on close objects",
+        "A curtain-like shadow over the visual field",
+        "Sudden loss of vision in one eye"
+      ],
+      "correctIndex": 1,
+      "explanation": "Presbyopia develops with age as the lens loses flexibility. Sudden vision loss, flashes, or a curtain effect are emergencies that may signal retinal detachment or stroke."
+    },
+    {
+      "id": "rn-health_promotion-020",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "According to Piaget, which behavior is typical of a 4-year-old in the preoperational stage?",
+      "options": [
+        "Understanding that a tall glass and a wide glass can hold the same amount",
+        "Egocentric thinking and magical thinking",
+        "Abstract reasoning about hypothetical problems",
+        "Using logic to classify objects in a series"
+      ],
+      "correctIndex": 1,
+      "explanation": "Preschoolers in the preoperational stage think egocentrically and magically. Conservation and logical classification develop in the concrete operational stage."
+    },
+    {
+      "id": "rn-health_promotion-021",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A 42-year-old woman with average risk asks about breast cancer screening. Which recommendation reflects current U.S. Preventive Services Task Force guidance?",
+      "options": [
+        "Monthly mammograms after age 40",
+        "No mammography until age 60",
+        "Breast MRI every year for all women",
+        "Mammography every 2 years starting at age 40"
+      ],
+      "correctIndex": 3,
+      "explanation": "Current USPSTF guidance recommends screening mammography every 2 years for women aged 40 to 74 at average risk."
+    },
+    {
+      "id": "rn-health_promotion-022",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "When is the Tdap vaccine recommended during pregnancy?",
+      "options": [
+        "During each pregnancy, preferably between 27 and 36 weeks",
+        "It is never given during pregnancy",
+        "Only in the first pregnancy",
+        "Only after delivery"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tdap in each pregnancy passes protective antibodies to the baby against pertussis. The preferred window is early in the 27 to 36 week period."
+    },
+    {
+      "id": "rn-health_promotion-023",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "At which ages is blood lead screening commonly recommended for children at risk, including those enrolled in Medicaid?",
+      "options": [
+        "12 and 24 months",
+        "5 and 10 years",
+        "At birth only",
+        "Only when symptoms appear"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lead screening is done at about 12 and 24 months, when hand-to-mouth activity and exposure risk are high. Many lead-poisoned children have no symptoms."
+    },
+    {
+      "id": "rn-health_promotion-024",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Which finding best distinguishes true labor from false labor?",
+      "options": [
+        "Contractions that stay irregular",
+        "Progressive cervical dilation and effacement",
+        "Contractions that stop when the client walks",
+        "Discomfort felt only in the lower abdomen"
+      ],
+      "correctIndex": 1,
+      "explanation": "True labor causes progressive cervical change. False labor contractions are irregular and often ease with walking or rest."
+    },
+    {
+      "id": "rn-health_promotion-025",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A parent asks how to respond to a 2-year-old's temper tantrums. Which advice is best?",
+      "options": [
+        "Give the child what they want to stop the tantrum",
+        "Spank the child so they learn quickly",
+        "Lock the child in a room until morning",
+        "Keep the child safe and ignore the tantrum, then praise calm behavior"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tantrums are normal as toddlers seek autonomy. Staying calm, keeping the child safe, and not rewarding the tantrum work best."
+    },
+    {
+      "id": "rn-health_promotion-026",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A woman aged 25 with a normal history asks how often she needs cervical cancer screening. What is the usual recommendation?",
+      "options": [
+        "A Pap test only when symptoms occur",
+        "A Pap test every 3 years",
+        "A Pap test every year",
+        "No screening until age 30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Average-risk women aged 21 to 29 should have cervical cytology every 3 years. Options for ages 30 to 65 include HPV testing every 5 years."
+    },
+    {
+      "id": "rn-health_promotion-027",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "Which client meets the criteria for annual lung cancer screening with low-dose CT?",
+      "options": [
+        "A 58-year-old who smoked 1 pack a day for 25 years and quit 5 years ago",
+        "A 40-year-old who has never smoked",
+        "A 62-year-old who smoked half a pack a day for 10 years and quit 30 years ago",
+        "An 85-year-old in hospice care"
+      ],
+      "correctIndex": 0,
+      "explanation": "Screening is recommended for adults 50 to 80 with at least a 20 pack-year history who smoke now or quit within the past 15 years. 25 pack-years and quitting 5 years ago meet these criteria."
+    },
+    {
+      "id": "rn-health_promotion-028",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "On postpartum day 10, a client reports bright red vaginal bleeding with large clots. How should the nurse interpret this?",
+      "options": [
+        "It is normal if the client is breastfeeding",
+        "It is expected lochia alba",
+        "It is the expected lochia serosa",
+        "It is abnormal and may indicate late postpartum hemorrhage or retained tissue"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lochia rubra normally lasts about 3 to 4 days, followed by pinkish-brown serosa. Bright red bleeding with clots at day 10 is abnormal and needs evaluation."
+    },
+    {
+      "id": "rn-health_promotion-029",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A client who smokes wants to quit. Which statement shows correct understanding of the nicotine patch?",
+      "options": [
+        "\"I'll cut the patch in half to make it last longer.\"",
+        "\"I'll wear two patches if I have a craving.\"",
+        "\"I'll leave the same patch on for a whole week.\"",
+        "\"I'll put on a new patch each day on a clean, hairless area and rotate sites.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Patches are applied daily to clean, dry, hairless skin with rotation of sites. Cutting patches or adding extra doses is not recommended without guidance."
+    },
+    {
+      "id": "rn-health_promotion-030",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "When is screening for group B streptococcus usually done in pregnancy?",
+      "options": [
+        "At the first prenatal visit only",
+        "At 20 weeks of gestation",
+        "At 36 to 37 weeks of gestation",
+        "After delivery"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vaginal-rectal GBS culture is done at 36 0/7 to 37 6/7 weeks so results are current at the time of birth. Positive clients receive intrapartum antibiotics."
+    },
+    {
+      "id": "rn-health_promotion-031",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "An Rh-negative pregnant client has a negative antibody screen. When is Rh(D) immune globulin routinely given during pregnancy?",
+      "options": [
+        "At about 28 weeks of gestation",
+        "At the first prenatal visit",
+        "Only if the baby is Rh-negative",
+        "Every month during pregnancy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rh(D) immune globulin is given at about 28 weeks and again within 72 hours of birth if the newborn is Rh-positive, to prevent sensitization."
+    },
+    {
+      "id": "rn-health_promotion-032",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "When is routine screening for gestational diabetes usually performed?",
+      "options": [
+        "At 8 weeks of gestation",
+        "Between 24 and 28 weeks of gestation",
+        "Only after delivery",
+        "At 38 weeks of gestation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Most pregnant clients are screened with a glucose challenge test at 24 to 28 weeks, when insulin resistance increases."
+    },
+    {
+      "id": "rn-health_promotion-033",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "What is the purpose of giving vitamin K to a newborn shortly after birth?",
+      "options": [
+        "To raise the blood glucose",
+        "To prevent eye infection",
+        "To prevent jaundice",
+        "To prevent vitamin K deficiency bleeding"
+      ],
+      "correctIndex": 3,
+      "explanation": "Newborns have low vitamin K levels and a sterile gut at birth. An IM dose of phytonadione prevents vitamin K deficiency bleeding."
+    },
+    {
+      "id": "rn-health_promotion-034",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "At what age does the posterior fontanel usually close?",
+      "options": [
+        "By 2 to 3 months",
+        "By 12 to 18 months",
+        "At birth",
+        "By 3 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "The posterior fontanel closes by about 2 to 3 months, and the anterior fontanel closes by about 12 to 18 months."
+    },
+    {
+      "id": "rn-health_promotion-035",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "Which newborn reflex normally disappears by about 4 to 6 months of age?",
+      "options": [
+        "Blink reflex",
+        "Moro (startle) reflex",
+        "Cough reflex",
+        "Gag reflex"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Moro reflex fades by 4 to 6 months. Persistence beyond that age may suggest a neurologic problem. Protective reflexes such as blinking and gagging remain for life."
+    },
+    {
+      "id": "rn-health_promotion-036",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "A client asks about contraception. Which client should be advised against combined estrogen-progestin oral contraceptives?",
+      "options": [
+        "A 30-year-old who does not smoke",
+        "A 22-year-old with acne",
+        "A 37-year-old who smokes a pack of cigarettes daily",
+        "A 28-year-old with irregular periods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Women older than 35 who smoke have a high risk of stroke and blood clots with estrogen-containing contraceptives."
+    },
+    {
+      "id": "rn-health_promotion-037",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "Which task reflects Erikson's 'industry versus inferiority' stage?",
+      "options": [
+        "A 9-year-old working hard to earn a badge in a club",
+        "A young adult forming a close partnership",
+        "A toddler insisting on feeding themself",
+        "A teenager trying out different styles"
+      ],
+      "correctIndex": 0,
+      "explanation": "School-age children (6 to 12 years) develop a sense of competence by mastering skills and completing tasks."
+    },
+    {
+      "id": "rn-health_promotion-038",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "Which finding on a nonstress test indicates a reactive (reassuring) result?",
+      "options": [
+        "No accelerations in 40 minutes",
+        "A baseline heart rate of 90 bpm",
+        "Two or more accelerations of 15 bpm lasting 15 seconds within 20 minutes",
+        "Late decelerations with each contraction"
+      ],
+      "correctIndex": 2,
+      "explanation": "After 32 weeks, a reactive NST shows at least two accelerations of 15 bpm above baseline lasting 15 seconds within 20 minutes."
+    },
+    {
+      "id": "rn-health_promotion-039",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "During labor, the fetal monitor shows variable decelerations. What should the nurse do first?",
+      "options": [
+        "Prepare for immediate cesarean birth",
+        "Change the client's position",
+        "Increase the oxytocin rate",
+        "Document and continue to observe only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Variable decelerations usually result from cord compression. Repositioning the client is the first step to relieve pressure on the cord."
+    },
+    {
+      "id": "rn-health_promotion-040",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "During labor, the nurse sees early decelerations that mirror each contraction. Which action is appropriate?",
+      "options": [
+        "Stop the labor process",
+        "Give oxygen by face mask and call the provider for an emergency",
+        "Perform an immediate vaginal exam for prolapsed cord",
+        "Continue to monitor, since these are caused by head compression"
+      ],
+      "correctIndex": 3,
+      "explanation": "Early decelerations are caused by fetal head compression and are considered benign. No intervention is needed besides continued monitoring."
+    },
+    {
+      "id": "rn-health_promotion-041",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A newborn is 12 hours old and has yellow skin on the face and chest. What should the nurse do?",
+      "options": [
+        "Place the infant in direct sunlight",
+        "Reassure the parents that this is normal physiologic jaundice",
+        "Notify the provider, because jaundice within the first 24 hours is pathologic",
+        "Give the infant water between feedings"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jaundice that appears within 24 hours of birth suggests a pathologic cause, such as hemolysis, and needs prompt evaluation. Physiologic jaundice appears after 24 hours."
+    },
+    {
+      "id": "rn-health_promotion-042",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A pregnant client at 34 weeks reports a severe headache and blurred vision. Her blood pressure is 168/112 mm Hg. What should the nurse do first?",
+      "options": [
+        "Give acetaminophen and recheck in 4 hours",
+        "Encourage the client to increase sodium intake",
+        "Tell the client to rest at home",
+        "Notify the provider immediately and prepare for treatment of severe preeclampsia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Severe-range blood pressure with headache and visual changes indicates preeclampsia with severe features. Prompt treatment prevents eclampsia and stroke."
+    },
+    {
+      "id": "rn-health_promotion-043",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Which finding should the nurse expect in a newborn with developmental dysplasia of the hip?",
+      "options": [
+        "Unequal gluteal or thigh skin folds",
+        "Bilateral clubfoot",
+        "Equal leg lengths and symmetric folds",
+        "An absent Moro reflex"
+      ],
+      "correctIndex": 0,
+      "explanation": "Asymmetric skin folds, limited abduction, and a positive Ortolani or Barlow maneuver suggest developmental dysplasia of the hip."
+    },
+    {
+      "id": "rn-health_promotion-044",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A breastfeeding client has a red, painful, warm area on one breast and a fever of 38.5 C (101.3 F). Which instruction is correct?",
+      "options": [
+        "Avoid emptying the affected breast",
+        "Continue breastfeeding or pumping from both breasts and take the prescribed antibiotic",
+        "Apply a tight binder to suppress milk",
+        "Stop breastfeeding permanently"
+      ],
+      "correctIndex": 1,
+      "explanation": "With mastitis, continued milk removal helps clear the infection and is safe for the infant. Antibiotics, rest, and fluids are part of treatment."
+    },
+    {
+      "id": "rn-health_promotion-045",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A client 3 days after birth cries often and says she feels overwhelmed but is caring for her baby. What is the most likely explanation?",
+      "options": [
+        "A thyroid storm",
+        "Major depression requiring hospitalization",
+        "Postpartum blues, which usually resolve within 2 weeks",
+        "Postpartum psychosis requiring emergency care"
+      ],
+      "correctIndex": 2,
+      "explanation": "Postpartum blues peak in the first week and resolve within about 2 weeks. Symptoms that last longer or affect functioning need evaluation for postpartum depression."
+    },
+    {
+      "id": "rn-health_promotion-046",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Which statement by a pregnant client about a contraction stress test shows understanding?",
+      "options": [
+        "\"A positive result means the baby is doing well.\"",
+        "\"The test is done without any contractions.\"",
+        "\"The test measures my blood sugar.\"",
+        "\"A negative result means no late decelerations occurred with contractions.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "A negative contraction stress test is reassuring because the fetus tolerated contractions without late decelerations. A positive result suggests placental insufficiency."
+    },
+    {
+      "id": "rn-health_promotion-047",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A 68-year-old man who smoked for 30 years asks about recommended screening. Which test is recommended once for him?",
+      "options": [
+        "Annual chest X-ray",
+        "Abdominal aortic aneurysm ultrasound",
+        "Colonoscopy every year",
+        "Routine brain MRI"
+      ],
+      "correctIndex": 1,
+      "explanation": "A one-time ultrasound to screen for abdominal aortic aneurysm is recommended for men aged 65 to 75 who have ever smoked."
+    },
+    {
+      "id": "rn-health_promotion-048",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "easy",
+      "question": "When is newborn metabolic screening (such as for phenylketonuria) ideally collected?",
+      "options": [
+        "After 24 hours of age and after feeding has started",
+        "Only if the parents request it",
+        "At the 2-month visit",
+        "Immediately after birth"
+      ],
+      "correctIndex": 0,
+      "explanation": "Screening after 24 hours of protein feeding reduces false-negative results for disorders such as PKU. If done earlier, it is repeated."
+    },
+    {
+      "id": "rn-health_promotion-049",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "During the postpartum assessment, the nurse finds the uterus firm but there is a steady trickle of bright red blood. What should the nurse suspect?",
+      "options": [
+        "Uterine atony",
+        "A laceration of the cervix or vagina",
+        "A full bladder",
+        "Normal lochia serosa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bright red bleeding with a firm, contracted uterus suggests a genital tract laceration. Atony causes a boggy uterus."
+    },
+    {
+      "id": "rn-health_promotion-050",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A parent asks when a child should get the first dose of the MMR vaccine. What should the nurse say?",
+      "options": [
+        "At 2 months",
+        "At birth",
+        "At 12 to 15 months",
+        "At 10 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first MMR dose is given at 12 to 15 months, with the second at 4 to 6 years."
+    },
+    {
+      "id": "rn-health_promotion-051",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Which client should not receive a live attenuated vaccine such as varicella?",
+      "options": [
+        "A healthy adult with no history of chickenpox",
+        "A healthy 1-year-old",
+        "A child whose sibling has a cold",
+        "A child receiving high-dose chemotherapy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Live vaccines can cause disease in people with severely weakened immune systems, such as those receiving chemotherapy."
+    },
+    {
+      "id": "rn-health_promotion-052",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "An adolescent asks the nurse whether a visit about contraception will be shared with their parents. What is the best response?",
+      "options": [
+        "\"In most cases, information about contraception and sexual health is kept confidential, with some legal exceptions.\"",
+        "\"I can't talk with you without your parents present.\"",
+        "\"Everything you say will be told to your parents.\"",
+        "\"You need a parent's signature for every visit.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Many states allow minors to consent to confidential sexual and reproductive care. Confidentiality supports adolescents in seeking care, with exceptions for safety concerns."
+    },
+    {
+      "id": "rn-health_promotion-053",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A newborn's axillary temperature is 36.2 C (97.2 F). Which action is most appropriate first?",
+      "options": [
+        "Feed the newborn sterile water",
+        "Place the newborn skin-to-skin with the parent and cover with a warm blanket",
+        "Place the newborn near an open window",
+        "Bathe the newborn in warm water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Skin-to-skin contact and warm coverings help prevent cold stress, which can cause hypoglycemia and respiratory distress."
+    },
+    {
+      "id": "rn-health_promotion-054",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "During Leopold maneuvers, the nurse feels a hard, round, movable part in the upper abdomen (fundus). What does this most likely mean?",
+      "options": [
+        "The placenta is low-lying",
+        "The fetus is in a transverse lie",
+        "The fetus is in a vertex presentation",
+        "The fetus is in a breech presentation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The fetal head feels hard, round, and movable. If it is in the fundus, the buttocks are presenting, which means breech."
+    },
+    {
+      "id": "rn-health_promotion-055",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "A 30-year-old client who is planning a pregnancy has a history of a child with a neural tube defect. What dose of folic acid is usually recommended?",
+      "options": [
+        "0.4 mg weekly",
+        "No folic acid",
+        "4 mg daily before and during early pregnancy",
+        "40 mg daily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clients with a prior pregnancy affected by a neural tube defect usually take a higher dose, about 4 mg daily, starting at least 1 month before conception."
+    },
+    {
+      "id": "rn-health_promotion-056",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "medium",
+      "question": "Which statement by parents of a newborn boy who had a circumcision shows correct understanding of care?",
+      "options": [
+        "\"We'll apply petroleum jelly to the area with each diaper change.\"",
+        "\"We'll remove the yellow crust that forms.\"",
+        "\"We'll give him a tub bath right away.\"",
+        "\"We'll expect bright red bleeding for a few days.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Petroleum jelly protects the area from sticking to the diaper. Yellow exudate is normal healing and should not be removed; active bleeding should be reported."
+    },
+    {
+      "id": "rn-health_promotion-057",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A client in labor with oxytocin has contractions every 90 seconds lasting 90 seconds, and the fetal heart rate is 150 bpm with moderate variability. What should the nurse do first?",
+      "options": [
+        "Stop or reduce the oxytocin infusion",
+        "Increase the oxytocin to speed up delivery",
+        "Document as a normal labor pattern",
+        "Encourage the client to push"
+      ],
+      "correctIndex": 0,
+      "explanation": "Contractions this frequent with short rest periods indicate uterine tachysystole. Reducing or stopping oxytocin protects fetal oxygenation even when the heart rate is still reassuring."
+    },
+    {
+      "id": "rn-health_promotion-058",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A pregnant client at 30 weeks reports painless, bright red vaginal bleeding. Which action should the nurse avoid?",
+      "options": [
+        "Monitoring fetal heart rate",
+        "Placing the client on bed rest",
+        "Assessing vital signs",
+        "Performing a vaginal examination"
+      ],
+      "correctIndex": 3,
+      "explanation": "Painless bright red bleeding in the third trimester suggests placenta previa. A digital vaginal exam can cause severe hemorrhage and is avoided until previa is ruled out."
+    },
+    {
+      "id": "rn-health_promotion-059",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A pregnant client at 32 weeks has sudden severe abdominal pain, a rigid uterus, and dark red bleeding after a car crash. What does the nurse suspect?",
+      "options": [
+        "Placenta previa",
+        "Placental abruption",
+        "Braxton Hicks contractions",
+        "Normal labor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Placental abruption often follows trauma or hypertension and causes painful, rigid uterus with dark bleeding. It is an emergency for both client and fetus."
+    },
+    {
+      "id": "rn-health_promotion-060",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "The nurse is teaching a client with type 1 diabetes who is planning pregnancy. Which goal is most important before conception?",
+      "options": [
+        "Losing weight quickly in the first trimester",
+        "Stopping insulin once pregnant",
+        "Achieving good glucose control with an A1C as close to normal as safely possible",
+        "Avoiding all exercise"
+      ],
+      "correctIndex": 2,
+      "explanation": "High glucose levels early in pregnancy increase the risk of birth defects and miscarriage. Good control before conception is the main goal."
+    },
+    {
+      "id": "rn-health_promotion-061",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A newborn born to a mother with diabetes has jitteriness and a blood glucose of 35 mg/dL at 2 hours of age. What is the priority action?",
+      "options": [
+        "Feed the newborn or give glucose per protocol and recheck glucose",
+        "Give the newborn a bath to stimulate them",
+        "Wait and recheck at 6 hours",
+        "Place the newborn under phototherapy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Infants of diabetic mothers are at high risk for hypoglycemia due to high insulin levels. Symptomatic hypoglycemia is treated promptly by feeding or IV glucose."
+    },
+    {
+      "id": "rn-health_promotion-062",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A client in active labor has an amniotomy, and the nurse sees a loop of umbilical cord at the vaginal opening. What should the nurse do first?",
+      "options": [
+        "Encourage the client to push",
+        "Push the cord back into the vagina",
+        "Use a gloved hand to lift the presenting part off the cord and call for help",
+        "Place the client in a high Fowler's position"
+      ],
+      "correctIndex": 2,
+      "explanation": "With a prolapsed cord, the nurse relieves pressure by lifting the presenting part and positioning the client knee-chest or in Trendelenburg while emergency birth is arranged."
+    },
+    {
+      "id": "rn-health_promotion-063",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "Two hours after a vaginal birth, the client's fundus is boggy and displaced to the right, and the client has not voided. What should the nurse do first?",
+      "options": [
+        "Prepare for surgery",
+        "Give a second dose of oxytocin",
+        "Document the finding as normal",
+        "Help the client empty the bladder"
+      ],
+      "correctIndex": 3,
+      "explanation": "A full bladder pushes the uterus up and to the side and prevents it from contracting. Emptying the bladder lets the uterus firm up."
+    },
+    {
+      "id": "rn-health_promotion-064",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A client is 10 weeks pregnant and has a history of preterm birth. Which intervention may be offered to reduce the risk of recurrent preterm birth?",
+      "options": [
+        "Daily high-dose vitamin A",
+        "Progesterone therapy, depending on current guidance and cervical findings",
+        "Routine bed rest for the whole pregnancy",
+        "Avoidance of all prenatal visits"
+      ],
+      "correctIndex": 1,
+      "explanation": "Progesterone or cervical cerclage may be considered for selected clients with prior preterm birth or a short cervix. Strict bed rest is not recommended because it increases blood clot risk."
+    },
+    {
+      "id": "rn-health_promotion-065",
+      "track": "rn",
+      "category": "health_promotion",
+      "difficulty": "hard",
+      "question": "A client asks whether she can continue to breastfeed while taking a newly prescribed medication. What is the best nursing response?",
+      "options": [
+        "\"Stop breastfeeding until you are done with the medicine.\"",
+        "\"Let me check a reliable lactation drug reference and talk with your provider.\"",
+        "\"No medications are safe during breastfeeding.\"",
+        "\"All medications are safe while breastfeeding.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Many medications are compatible with breastfeeding, but some are not. The nurse checks a reliable reference and involves the provider before advising the client."
     }
   ]
 }

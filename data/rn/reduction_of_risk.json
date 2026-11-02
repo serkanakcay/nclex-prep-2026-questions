@@ -227,6 +227,756 @@
       ],
       "correctIndex": 3,
       "explanation": "Hypokalemia causes flattened T waves, ST depression, and U waves. Peaked T waves are seen with hyperkalemia."
+    },
+    {
+      "id": "rn-reduction_of_risk-016",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which white blood cell count is within the normal adult range?",
+      "options": [
+        "2,000/mm3",
+        "7,500/mm3",
+        "15,000/mm3",
+        "25,000/mm3"
+      ],
+      "correctIndex": 1,
+      "explanation": "A normal adult WBC count is about 5,000 to 10,000/mm3. Higher values suggest infection or inflammation, and lower values increase infection risk."
+    },
+    {
+      "id": "rn-reduction_of_risk-017",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "A client's platelet count is 45,000/mm3. Which precaution is most important?",
+      "options": [
+        "Bleeding precautions, such as using a soft toothbrush and electric razor",
+        "Giving IM injections when possible",
+        "Encouraging contact sports",
+        "Airborne precautions"
+      ],
+      "correctIndex": 0,
+      "explanation": "Normal platelets are about 150,000 to 400,000/mm3. A low count increases bleeding risk, so trauma and injections are minimized."
+    },
+    {
+      "id": "rn-reduction_of_risk-018",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the minimum hourly urine output that is generally acceptable for an adult after surgery?",
+      "options": [
+        "10 mL/hr",
+        "30 mL/hr",
+        "100 mL/hr",
+        "200 mL/hr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Output of at least 30 mL/hr (about 0.5 mL/kg/hr) suggests adequate kidney perfusion. Less should be reported."
+    },
+    {
+      "id": "rn-reduction_of_risk-019",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which finding in the leg should the nurse report as a possible deep vein thrombosis?",
+      "options": [
+        "One-sided calf swelling, warmth, and tenderness",
+        "Dry skin on the shins",
+        "Equal leg size with no pain",
+        "Cool, pale toes on both feet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unilateral swelling, warmth, redness, and pain suggest DVT. The leg should not be massaged."
+    },
+    {
+      "id": "rn-reduction_of_risk-020",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is scheduled for surgery under general anesthesia. Why is the client kept NPO beforehand?",
+      "options": [
+        "To prevent postoperative pain",
+        "To help the client lose weight",
+        "To reduce the need for IV fluids",
+        "To reduce the risk of aspiration during anesthesia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anesthesia relaxes protective airway reflexes. An empty stomach lowers the risk of aspirating stomach contents."
+    },
+    {
+      "id": "rn-reduction_of_risk-021",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which lab test is most specific for detecting damage to the heart muscle?",
+      "options": [
+        "Troponin",
+        "Serum albumin",
+        "Serum amylase",
+        "Hemoglobin A1C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Troponin rises within hours of myocardial injury and stays elevated for days, making it the preferred marker of MI."
+    },
+    {
+      "id": "rn-reduction_of_risk-022",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client who had a thyroidectomy yesterday reports tingling around the mouth and in the fingers. What should the nurse suspect?",
+      "options": [
+        "Normal postoperative healing",
+        "Thyroid storm",
+        "Hypocalcemia from parathyroid injury",
+        "Hyperkalemia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Damage to or removal of the parathyroid glands during thyroid surgery can cause hypocalcemia. Tingling and muscle spasms are early signs."
+    },
+    {
+      "id": "rn-reduction_of_risk-023",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A child who had a tonsillectomy is swallowing frequently. What should the nurse suspect?",
+      "options": [
+        "Normal healing",
+        "Dehydration only",
+        "Hunger",
+        "Bleeding from the surgical site"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frequent swallowing may mean blood is trickling down the throat. The nurse checks the throat and vital signs and notifies the provider."
+    },
+    {
+      "id": "rn-reduction_of_risk-024",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client reports a headache after a lumbar puncture. Which action may help?",
+      "options": [
+        "Lying flat and increasing fluids as ordered",
+        "Restricting fluids",
+        "Sitting upright for several hours",
+        "Getting up to walk right away"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post-lumbar-puncture headaches are caused by CSF leakage. Lying flat and fluids may reduce the headache."
+    },
+    {
+      "id": "rn-reduction_of_risk-025",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which lab result supports a diagnosis of heart failure in a client with shortness of breath?",
+      "options": [
+        "Normal hemoglobin",
+        "Elevated B-type natriuretic peptide (BNP)",
+        "Low serum amylase",
+        "Low TSH"
+      ],
+      "correctIndex": 1,
+      "explanation": "BNP is released by stretched ventricles and is elevated in heart failure."
+    },
+    {
+      "id": "rn-reduction_of_risk-026",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which preoperative finding should the nurse report to the surgeon before an elective surgery?",
+      "options": [
+        "Blood glucose of 98 mg/dL",
+        "Potassium of 4.2 mEq/L",
+        "Heart rate of 76/min",
+        "Temperature of 38.6 C (101.5 F)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fever may signal infection that increases surgical risk. The surgeon may postpone the procedure."
+    },
+    {
+      "id": "rn-reduction_of_risk-027",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client with a large abdominal incision coughs and says, \"Something gave way.\" The nurse sees the wound edges separated with tissue protruding. What should the nurse do first?",
+      "options": [
+        "Have the client walk to the bathroom",
+        "Apply a dry dressing and wait",
+        "Cover the wound with a sterile saline-moistened dressing and position the client with knees bent",
+        "Push the tissue back into the abdomen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Evisceration is an emergency. A moist sterile dressing protects the tissue and bending the knees reduces tension until the surgeon arrives."
+    },
+    {
+      "id": "rn-reduction_of_risk-028",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client who has been vomiting for 2 days has these blood gases: pH 7.50, PaCO2 46 mm Hg, HCO3 32 mEq/L. How should the nurse interpret them?",
+      "options": [
+        "Metabolic alkalosis",
+        "Respiratory alkalosis",
+        "Respiratory acidosis",
+        "Metabolic acidosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "The high pH and high bicarbonate indicate metabolic alkalosis, caused by loss of stomach acid. The PaCO2 rises slightly as compensation."
+    },
+    {
+      "id": "rn-reduction_of_risk-029",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client taking warfarin for atrial fibrillation has an INR of 2.5. How should the nurse interpret this result?",
+      "options": [
+        "Within the usual therapeutic range",
+        "Normal for someone not taking anticoagulants",
+        "Too low, requiring a higher dose",
+        "Dangerously high"
+      ],
+      "correctIndex": 0,
+      "explanation": "For most indications, including atrial fibrillation, the target INR is 2.0 to 3.0."
+    },
+    {
+      "id": "rn-reduction_of_risk-030",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the normal range for serum magnesium in adults?",
+      "options": [
+        "0.5 to 1.0 mg/dL",
+        "1.3 to 2.1 mEq/L",
+        "3.5 to 5.0 mEq/L",
+        "8.5 to 10.5 mg/dL"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normal magnesium is about 1.3 to 2.1 mEq/L. Calcium is about 8.5 to 10.5 mg/dL."
+    },
+    {
+      "id": "rn-reduction_of_risk-031",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "After a bronchoscopy, when may the client be given fluids?",
+      "options": [
+        "When the client asks",
+        "Only the next day",
+        "After the gag reflex returns",
+        "Immediately after the procedure"
+      ],
+      "correctIndex": 2,
+      "explanation": "The throat is numbed for bronchoscopy. Fluids are given only after the gag reflex returns to prevent aspiration."
+    },
+    {
+      "id": "rn-reduction_of_risk-032",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which ECG finding is expected with hypocalcemia?",
+      "options": [
+        "Peaked T waves",
+        "Shortened QT interval",
+        "Delta wave",
+        "Prolonged QT interval"
+      ],
+      "correctIndex": 3,
+      "explanation": "Low calcium prolongs the QT interval and can lead to dangerous dysrhythmias."
+    },
+    {
+      "id": "rn-reduction_of_risk-033",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which client is at highest risk for postoperative pneumonia?",
+      "options": [
+        "A 25-year-old after a dental procedure",
+        "A 30-year-old after knee arthroscopy",
+        "A 40-year-old after hand surgery",
+        "A 72-year-old smoker who had upper abdominal surgery"
+      ],
+      "correctIndex": 3,
+      "explanation": "Older age, smoking, and upper abdominal incisions that make deep breathing painful increase the risk of atelectasis and pneumonia."
+    },
+    {
+      "id": "rn-reduction_of_risk-034",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which value indicates that a client receiving heparin infusion has an aPTT in a typical therapeutic range?",
+      "options": [
+        "Equal to control",
+        "Half the control value",
+        "About 1.5 to 2.5 times the control value",
+        "5 times the control value"
+      ],
+      "correctIndex": 2,
+      "explanation": "Many protocols aim for an aPTT about 1.5 to 2.5 times the control, though facilities may use anti-Xa targets."
+    },
+    {
+      "id": "rn-reduction_of_risk-035",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "What is the purpose of a water-seal chamber in a chest drainage system?",
+      "options": [
+        "To measure the client's temperature",
+        "To let air leave the chest but not return",
+        "To provide suction only",
+        "To give medication"
+      ],
+      "correctIndex": 1,
+      "explanation": "The water seal acts as a one-way valve, allowing air out of the pleural space while preventing it from entering."
+    },
+    {
+      "id": "rn-reduction_of_risk-036",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Before a client has a liver biopsy, which lab result is most important?",
+      "options": [
+        "Coagulation studies such as PT/INR and platelets",
+        "Urine culture",
+        "Thyroid level",
+        "Serum amylase"
+      ],
+      "correctIndex": 0,
+      "explanation": "The liver is highly vascular. Clotting studies help predict bleeding risk after a biopsy."
+    },
+    {
+      "id": "rn-reduction_of_risk-037",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which position should the client be in after a liver biopsy?",
+      "options": [
+        "High Fowler's",
+        "Left side-lying",
+        "Prone",
+        "Right side-lying"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lying on the right side presses the liver against the chest wall and helps prevent bleeding."
+    },
+    {
+      "id": "rn-reduction_of_risk-038",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client's arterial blood gases are pH 7.48, PaCO2 30 mm Hg, HCO3 24 mEq/L. Which condition is most likely?",
+      "options": [
+        "Respiratory acidosis",
+        "Respiratory alkalosis from hyperventilation",
+        "Metabolic alkalosis",
+        "Metabolic acidosis"
+      ],
+      "correctIndex": 1,
+      "explanation": "A high pH with low PaCO2 and normal bicarbonate indicates respiratory alkalosis, often from anxiety, pain, or hypoxemia."
+    },
+    {
+      "id": "rn-reduction_of_risk-039",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client with a chest tube has no fluctuation (tidaling) in the water-seal chamber. What should the RN check first?",
+      "options": [
+        "Whether the tubing is kinked or blocked",
+        "The client's temperature",
+        "The suction level only",
+        "The client's blood pressure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Loss of tidaling may mean an obstruction or lung re-expansion. The RN checks for kinks and clots first."
+    },
+    {
+      "id": "rn-reduction_of_risk-040",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client's chest tube becomes disconnected from the drainage system. What should the RN do first?",
+      "options": [
+        "Clamp the tube for several hours",
+        "Remove the chest tube",
+        "Place the tube end in sterile water or saline",
+        "Wait for the provider"
+      ],
+      "correctIndex": 2,
+      "explanation": "Putting the end in sterile fluid creates a temporary water seal and prevents air from entering the chest."
+    },
+    {
+      "id": "rn-reduction_of_risk-041",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client had a percutaneous coronary intervention through the radial artery. Which assessment is most important?",
+      "options": [
+        "Pupil size",
+        "Bowel sounds",
+        "Circulation in the hand, including color, warmth, and capillary refill",
+        "Skin turgor on the abdomen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Radial access can cause bleeding or occlusion of the radial artery. Hand circulation is checked frequently."
+    },
+    {
+      "id": "rn-reduction_of_risk-042",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client's serum creatinine has risen from 0.9 to 2.1 mg/dL after a CT scan with contrast. Which finding should the RN monitor most closely?",
+      "options": [
+        "Hair loss",
+        "Urine output",
+        "Appetite",
+        "Skin color"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rising creatinine suggests acute kidney injury. Urine output is monitored closely for oliguria."
+    },
+    {
+      "id": "rn-reduction_of_risk-043",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client with a new tracheostomy dislodges the tube on day 2. What should the RN do first?",
+      "options": [
+        "Feed the client",
+        "Wait for the provider",
+        "Give a sedative",
+        "Call for help, keep the airway open, and use the obturator or emergency equipment as policy directs"
+      ],
+      "correctIndex": 3,
+      "explanation": "A new tract may close quickly. The RN maintains oxygenation and follows emergency policy while help arrives."
+    },
+    {
+      "id": "rn-reduction_of_risk-044",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client receiving a blood transfusion has dyspnea, crackles, and a rising blood pressure. What should the RN suspect?",
+      "options": [
+        "Transfusion-associated circulatory overload",
+        "Allergic reaction",
+        "Hypoglycemia",
+        "Hemolytic reaction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fluid overload causes dyspnea, crackles, and hypertension. The transfusion is stopped or slowed and diuretics may be ordered."
+    },
+    {
+      "id": "rn-reduction_of_risk-045",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is scheduled for an upper GI endoscopy. Which instruction is correct?",
+      "options": [
+        "Eat a large breakfast",
+        "Drink barium the night before",
+        "Stay NPO for the ordered time before the test",
+        "Take aspirin before the test"
+      ],
+      "correctIndex": 2,
+      "explanation": "The stomach must be empty to view it and to reduce aspiration risk under sedation."
+    },
+    {
+      "id": "rn-reduction_of_risk-046",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client has a serum potassium of 6.2 mEq/L. What should the RN do first?",
+      "options": [
+        "Encourage bananas",
+        "Place the client on a cardiac monitor and notify the provider",
+        "Restrict all fluids",
+        "Give potassium supplements"
+      ],
+      "correctIndex": 1,
+      "explanation": "Severe hyperkalemia can cause fatal dysrhythmias. Cardiac monitoring and prompt treatment are needed."
+    },
+    {
+      "id": "rn-reduction_of_risk-047",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "Which preoperative medication should the RN ask about holding before an elective surgery?",
+      "options": [
+        "Clopidogrel",
+        "Multivitamin",
+        "Saline nasal spray",
+        "Acetaminophen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antiplatelet drugs increase bleeding risk. The surgeon decides whether and when to hold them."
+    },
+    {
+      "id": "rn-reduction_of_risk-048",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which client is most at risk for malignant hyperthermia during surgery?",
+      "options": [
+        "A client with seasonal allergies",
+        "A client allergic to penicillin",
+        "A client who had local anesthesia for dental work",
+        "A client with a family member who had a reaction to general anesthesia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Malignant hyperthermia is an inherited reaction to volatile anesthetics and succinylcholine. Family history is a key risk factor."
+    },
+    {
+      "id": "rn-reduction_of_risk-049",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "easy",
+      "question": "Which normal range applies to fasting blood glucose in adults without diabetes?",
+      "options": [
+        "40 to 60 mg/dL",
+        "70 to 99 mg/dL",
+        "126 to 160 mg/dL",
+        "200 to 250 mg/dL"
+      ],
+      "correctIndex": 1,
+      "explanation": "A normal fasting glucose is about 70 to 99 mg/dL. 126 mg/dL or higher on repeat testing indicates diabetes."
+    },
+    {
+      "id": "rn-reduction_of_risk-050",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "During surgery, a client develops a rising end-tidal CO2, muscle rigidity, and tachycardia. Which drug should the RN expect to prepare?",
+      "options": [
+        "Dantrolene",
+        "Naloxone",
+        "Atropine",
+        "Succinylcholine"
+      ],
+      "correctIndex": 0,
+      "explanation": "These findings suggest malignant hyperthermia. Dantrolene is the antidote, and triggering agents are stopped."
+    },
+    {
+      "id": "rn-reduction_of_risk-051",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client after a transurethral resection of the prostate has continuous bladder irrigation. The output is bright red with clots. What should the RN do?",
+      "options": [
+        "Encourage the client to void around the catheter",
+        "Clamp the catheter",
+        "Increase the irrigation rate per protocol and notify the provider",
+        "Stop the irrigation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bright red output with clots suggests bleeding. Faster irrigation helps prevent clot obstruction, and the provider is notified."
+    },
+    {
+      "id": "rn-reduction_of_risk-052",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client receiving continuous bladder irrigation has an output that is less than the irrigation input and reports bladder spasms. What should the RN suspect first?",
+      "options": [
+        "Kidney failure",
+        "Dehydration",
+        "Normal recovery",
+        "Catheter obstruction"
+      ],
+      "correctIndex": 3,
+      "explanation": "Output should exceed the irrigant input. Less output with pain suggests a clot blocking the catheter."
+    },
+    {
+      "id": "rn-reduction_of_risk-053",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is recovering from a carotid endarterectomy. Which finding should the RN report immediately?",
+      "options": [
+        "Mild incisional pain",
+        "New hoarseness and difficulty swallowing with neck swelling",
+        "Blood pressure of 130/80 mm Hg",
+        "Heart rate of 80/min"
+      ],
+      "correctIndex": 1,
+      "explanation": "Swelling, hoarseness, and difficulty swallowing may indicate a hematoma or nerve injury that threatens the airway."
+    },
+    {
+      "id": "rn-reduction_of_risk-054",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client's hemoglobin dropped from 13.0 to 8.5 g/dL after a hip replacement. What should the RN assess first?",
+      "options": [
+        "Bowel sounds",
+        "Sleep pattern",
+        "Signs of bleeding and vital signs",
+        "Appetite"
+      ],
+      "correctIndex": 2,
+      "explanation": "A large drop in hemoglobin suggests blood loss. The RN checks for bleeding and hemodynamic changes and notifies the provider."
+    },
+    {
+      "id": "rn-reduction_of_risk-055",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is scheduled for coronary angiography and has a shellfish allergy. Which action is most appropriate?",
+      "options": [
+        "Cancel the procedure",
+        "Give the contrast without telling anyone",
+        "Have the client eat shellfish to test tolerance",
+        "Report all allergies, especially prior reactions to contrast, to the provider"
+      ],
+      "correctIndex": 3,
+      "explanation": "A shellfish allergy alone does not predict contrast reaction, but a history of prior contrast reaction does. All allergies are reported so the provider can plan premedication if needed."
+    },
+    {
+      "id": "rn-reduction_of_risk-056",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is receiving a unit of packed red blood cells. How long should the RN stay with the client at the start?",
+      "options": [
+        "The first 15 minutes",
+        "No monitoring is needed",
+        "The first 1 minute",
+        "Only at the end"
+      ],
+      "correctIndex": 0,
+      "explanation": "Most severe reactions occur early. The RN stays with the client for the first 15 minutes and checks vital signs per policy."
+    },
+    {
+      "id": "rn-reduction_of_risk-057",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "medium",
+      "question": "A client is receiving a magnesium infusion for hypomagnesemia. Which finding shows that treatment is effective?",
+      "options": [
+        "Worsening seizures",
+        "Fewer muscle twitches and no new dysrhythmias",
+        "New positive Chvostek sign",
+        "Increased tremors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Low magnesium causes neuromuscular irritability and dysrhythmias. Improvement in these signs shows effective replacement."
+    },
+    {
+      "id": "rn-reduction_of_risk-058",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client with a chest tube for a pneumothorax has a sudden increase in bubbling in the water-seal chamber and the tubing is intact. What should the RN do?",
+      "options": [
+        "Check the client and the system for an air leak and notify the provider",
+        "Strip the tubing vigorously",
+        "Clamp the tube for 2 hours",
+        "Raise the drainage system above the chest"
+      ],
+      "correctIndex": 0,
+      "explanation": "New bubbling can mean a leak in the system or at the insertion site. The RN locates the source and notifies the provider."
+    },
+    {
+      "id": "rn-reduction_of_risk-059",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client is 6 hours after a thyroidectomy and is restless with noisy, high-pitched breathing. What should the RN do first?",
+      "options": [
+        "Lower the head of the bed",
+        "Give an oral sedative",
+        "Call the rapid response team and prepare for airway support",
+        "Give the client water to drink"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stridor may indicate airway obstruction from swelling, hematoma, or laryngeal spasm. Immediate airway support is needed."
+    },
+    {
+      "id": "rn-reduction_of_risk-060",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client recovering from abdominal surgery has a rigid abdomen, fever, and rebound tenderness. What should the RN suspect?",
+      "options": [
+        "Normal postoperative pain",
+        "Constipation",
+        "Urinary retention only",
+        "Peritonitis"
+      ],
+      "correctIndex": 3,
+      "explanation": "These findings suggest peritonitis, which may result from anastomotic leak. The provider is notified urgently."
+    },
+    {
+      "id": "rn-reduction_of_risk-061",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client receiving TPN has a sudden onset of fever, chills, and hypotension. What should the RN suspect?",
+      "options": [
+        "Central line-associated bloodstream infection",
+        "Normal reaction to TPN",
+        "Dehydration only",
+        "Hypoglycemia"
+      ],
+      "correctIndex": 0,
+      "explanation": "TPN provides a rich medium for bacteria. Fever and hypotension suggest sepsis from the line."
+    },
+    {
+      "id": "rn-reduction_of_risk-062",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client recovering from spinal anesthesia reports a severe headache when sitting up. What should the RN do?",
+      "options": [
+        "Give a vasoconstrictor without an order",
+        "Restrict fluids",
+        "Have the client sit upright",
+        "Have the client lie flat, encourage fluids, and notify the anesthesia provider"
+      ],
+      "correctIndex": 3,
+      "explanation": "Post-dural puncture headaches often improve when lying flat. Persistent cases may need a blood patch."
+    },
+    {
+      "id": "rn-reduction_of_risk-063",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client has a serum sodium of 118 mEq/L and new confusion. Which precaution is most important?",
+      "options": [
+        "Neutropenic precautions",
+        "Contact precautions",
+        "Seizure precautions",
+        "Bleeding precautions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Severe hyponatremia can cause cerebral edema and seizures. Correction is gradual to avoid osmotic demyelination."
+    },
+    {
+      "id": "rn-reduction_of_risk-064",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client recovering from a laparoscopic cholecystectomy reports right shoulder pain. Which explanation is accurate?",
+      "options": [
+        "A broken shoulder",
+        "Referred pain from carbon dioxide gas used during surgery",
+        "Bile leaking into the arm",
+        "A sign of a heart attack in all cases"
+      ],
+      "correctIndex": 1,
+      "explanation": "CO2 used to inflate the abdomen irritates the diaphragm and refers pain to the shoulder. Walking helps absorb it."
+    },
+    {
+      "id": "rn-reduction_of_risk-065",
+      "track": "rn",
+      "category": "reduction_of_risk",
+      "difficulty": "hard",
+      "question": "A client's ABG shows pH 7.29, PaCO2 32 mm Hg, HCO3 16 mEq/L. Which condition does this indicate?",
+      "options": [
+        "Metabolic acidosis with partial respiratory compensation",
+        "Respiratory acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Low pH and low bicarbonate indicate metabolic acidosis. The low PaCO2 shows the lungs are trying to compensate."
     }
   ]
 }

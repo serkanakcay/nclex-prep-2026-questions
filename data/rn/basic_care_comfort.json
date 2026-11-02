@@ -227,6 +227,756 @@
       ],
       "correctIndex": 1,
       "explanation": "A consistent schedule, limiting caffeine and screens before bed, and a dark, quiet room all promote sleep."
+    },
+    {
+      "id": "rn-basic_care_comfort-016",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which pain scale is most appropriate for a 4-year-old who can't yet rate pain with numbers?",
+      "options": [
+        "Glasgow Coma Scale",
+        "FACES pain rating scale",
+        "Braden scale",
+        "0 to 10 numeric scale"
+      ],
+      "correctIndex": 1,
+      "explanation": "Young children can point to faces that show how they feel. Numeric scales require an understanding of numbers."
+    },
+    {
+      "id": "rn-basic_care_comfort-017",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which tool is used to assess a client's risk of developing a pressure injury?",
+      "options": [
+        "Morse scale",
+        "Mini-Mental State Examination",
+        "Apgar score",
+        "Braden scale"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Braden scale rates sensory perception, moisture, activity, mobility, nutrition, and friction and shear. Lower scores mean higher risk."
+    },
+    {
+      "id": "rn-basic_care_comfort-018",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client is on a full liquid diet. Which item may the client have?",
+      "options": [
+        "Baked chicken",
+        "Toast",
+        "Vanilla pudding",
+        "Scrambled eggs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Full liquid diets include foods that are liquid at room temperature or melt, such as pudding, milk, and cream soups."
+    },
+    {
+      "id": "rn-basic_care_comfort-019",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client with a cast on the leg reports itching under the cast. What should the nurse advise?",
+      "options": [
+        "Pour lotion under the cast",
+        "Insert a coat hanger to scratch",
+        "Remove the cast at night",
+        "Use cool air from a hair dryer on the cool setting"
+      ],
+      "correctIndex": 3,
+      "explanation": "Objects inserted under a cast can break the skin and cause infection. Cool air can relieve itching safely."
+    },
+    {
+      "id": "rn-basic_care_comfort-020",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client who had abdominal surgery is reluctant to cough. Which action helps the client cough effectively?",
+      "options": [
+        "Lying flat on the back",
+        "Splinting the incision with a pillow",
+        "Coughing only once a day",
+        "Holding the breath for 30 seconds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Splinting supports the incision and reduces pain, allowing deeper breaths and a more effective cough."
+    },
+    {
+      "id": "rn-basic_care_comfort-021",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which nonpharmacologic measure can help reduce a client's pain?",
+      "options": [
+        "Keeping the client awake",
+        "Guided imagery and relaxation breathing",
+        "Keeping the room noisy",
+        "Limiting family visits always"
+      ],
+      "correctIndex": 1,
+      "explanation": "Distraction, guided imagery, relaxation, heat or cold, and positioning can reduce pain and enhance analgesics."
+    },
+    {
+      "id": "rn-basic_care_comfort-022",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with constipation asks how to improve bowel function. Which recommendation is best?",
+      "options": [
+        "Use a stimulant laxative daily long term",
+        "Ignore the urge to defecate",
+        "Limit fluids to avoid bloating",
+        "Increase fiber, fluids, and physical activity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fiber, fluids, activity, and responding to the urge to defecate promote regular bowel movements."
+    },
+    {
+      "id": "rn-basic_care_comfort-023",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client has a nasogastric tube connected to low intermittent suction. Which action helps keep the client comfortable?",
+      "options": [
+        "Provide frequent oral and nasal care",
+        "Keep the client flat in bed",
+        "Give large amounts of ice chips",
+        "Tape the tube tightly against the nostril"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mouth breathing and the tube dry the mucous membranes. Frequent mouth and nose care prevents irritation and skin breakdown."
+    },
+    {
+      "id": "rn-basic_care_comfort-024",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which client is most at risk for developing a pressure injury?",
+      "options": [
+        "A young adult after a dental procedure",
+        "A walking adult with a cold",
+        "An older adult with incontinence who is confined to bed and eats poorly",
+        "A teenager with a fractured wrist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Immobility, moisture, and poor nutrition together greatly increase pressure injury risk."
+    },
+    {
+      "id": "rn-basic_care_comfort-025",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client asks about using a continuous passive motion (CPM) machine after a knee replacement. What is its main purpose?",
+      "options": [
+        "To replace physical therapy completely",
+        "To keep the knee straight at all times",
+        "To reduce the need for any pain medication",
+        "To improve range of motion in the knee"
+      ],
+      "correctIndex": 3,
+      "explanation": "CPM machines move the joint through a set range of motion to help prevent stiffness after knee surgery."
+    },
+    {
+      "id": "rn-basic_care_comfort-026",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client who is lactose intolerant needs calcium. Which food is a good choice?",
+      "options": [
+        "Calcium-fortified soy milk",
+        "Ice cream",
+        "Cottage cheese",
+        "Whole milk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fortified plant-based drinks and leafy greens provide calcium without lactose."
+    },
+    {
+      "id": "rn-basic_care_comfort-027",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client has a stage 3 pressure injury with slough. Which outcome shows that wound care is effective?",
+      "options": [
+        "Yellow slough covers more of the wound",
+        "Red, moist granulation tissue is filling the wound",
+        "The wound is larger and has a foul odor",
+        "The surrounding skin is warm and red"
+      ],
+      "correctIndex": 1,
+      "explanation": "Healthy granulation tissue is beefy red and moist. Increased size, odor, redness, or slough suggest infection or poor healing."
+    },
+    {
+      "id": "rn-basic_care_comfort-028",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client with chronic pain uses a TENS unit. Which statement shows correct understanding?",
+      "options": [
+        "\"I can place the electrodes over my eyes.\"",
+        "\"I should use it while in the bath.\"",
+        "\"The unit sends mild electrical signals that can block pain messages.\"",
+        "\"It will cure the cause of my pain.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "TENS units stimulate nerves to reduce pain perception. Electrodes are not placed on the head, front of the neck, or broken skin, and they are kept dry."
+    },
+    {
+      "id": "rn-basic_care_comfort-029",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client with a terminal illness has noisy, gurgling breathing in the last hours of life. Which intervention is appropriate?",
+      "options": [
+        "Give large amounts of IV fluids",
+        "Reposition the client to the side and consider an anticholinergic as ordered",
+        "Place the client flat on the back",
+        "Perform deep suctioning every 15 minutes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Terminal secretions are managed with positioning and medications such as glycopyrrolate or scopolamine. Deep suctioning is uncomfortable and often ineffective."
+    },
+    {
+      "id": "rn-basic_care_comfort-030",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client receiving intermittent enteral feedings has a gastric residual volume much higher than usual. What should the RN do first?",
+      "options": [
+        "Discard the residual and give the feeding faster",
+        "Double the next feeding",
+        "Hold the feeding, reassess the client, and follow the facility protocol",
+        "Lay the client flat"
+      ],
+      "correctIndex": 2,
+      "explanation": "A large residual may indicate delayed gastric emptying and aspiration risk. The RN assesses the client and follows the protocol and provider orders."
+    },
+    {
+      "id": "rn-basic_care_comfort-031",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client with a below-the-knee amputation should be positioned to prevent which complication?",
+      "options": [
+        "Foot drop",
+        "Wrist drop",
+        "Neck stiffness",
+        "Hip and knee flexion contracture"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clients should avoid pillows under the residual limb and lie prone several times a day to prevent flexion contractures."
+    },
+    {
+      "id": "rn-basic_care_comfort-032",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which diet is most appropriate for a client with a new ileostomy in the early recovery period?",
+      "options": [
+        "A low-fiber diet with gradual addition of foods and plenty of fluids",
+        "A diet high in nuts and popcorn",
+        "A fluid-restricted diet",
+        "A high-fiber diet with raw vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Low-fiber foods reduce the risk of food blockage, and extra fluids replace the loss of water through the ileostomy."
+    },
+    {
+      "id": "rn-basic_care_comfort-033",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which client should not receive a heat application?",
+      "options": [
+        "A client with chronic low back muscle spasm",
+        "A client with a fresh ankle sprain from 1 hour ago",
+        "A client with stiff joints from arthritis",
+        "A client with menstrual cramps"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat increases blood flow and swelling. In the first 24 to 48 hours after an acute injury, cold is used instead."
+    },
+    {
+      "id": "rn-basic_care_comfort-034",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which is an expected finding in a client in the last days of life?",
+      "options": [
+        "Increasing urine output",
+        "Rising blood pressure",
+        "Improving appetite",
+        "Mottled, cool extremities"
+      ],
+      "correctIndex": 3,
+      "explanation": "As circulation slows near death, the skin becomes mottled and cool, and urine output decreases."
+    },
+    {
+      "id": "rn-basic_care_comfort-035",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client on enteral feedings through a PEG tube needs medications. Which action is correct?",
+      "options": [
+        "Crush extended-release tablets",
+        "Mix all medications together in the formula bag",
+        "Flush with water before and after each medication",
+        "Give medications without flushing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Flushing prevents clogging and drug-formula interactions. Extended-release or enteric-coated drugs should not be crushed."
+    },
+    {
+      "id": "rn-basic_care_comfort-036",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client with a hip fracture is placed in Buck's traction. What is the purpose of the traction?",
+      "options": [
+        "To reduce muscle spasms and pain before surgery",
+        "To prevent infection",
+        "To allow walking",
+        "To permanently fix the fracture"
+      ],
+      "correctIndex": 0,
+      "explanation": "Buck's skin traction is often used briefly before surgery to reduce muscle spasms and pain."
+    },
+    {
+      "id": "rn-basic_care_comfort-037",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which finding indicates a client is receiving adequate nutrition?",
+      "options": [
+        "Brittle hair and nails",
+        "Stable weight and normal prealbumin",
+        "Weight loss of 5% in a month",
+        "Low serum albumin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stable weight and normal protein markers suggest adequate nutrition. Unintended weight loss is a warning sign."
+    },
+    {
+      "id": "rn-basic_care_comfort-038",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with a PCA pump for morphine has a respiratory rate of 9/min and is hard to arouse. What should the RN do first?",
+      "options": [
+        "Stop the PCA, stimulate the client, and prepare to give naloxone",
+        "Encourage the client to press the button less",
+        "Allow the family to press the button",
+        "Increase the basal rate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oversedation and respiratory depression require stopping the opioid and giving naloxone per protocol. Only the client should use the PCA button."
+    },
+    {
+      "id": "rn-basic_care_comfort-039",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client who is NPO has a dry mouth. Which intervention is most appropriate?",
+      "options": [
+        "Sips of soda",
+        "Alcohol-based mouthwash",
+        "Lemon-glycerin swabs every hour",
+        "Frequent mouth care with moistened swabs and lip moisturizer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Moistened swabs and lip care relieve dryness. Lemon-glycerin and alcohol-based products dry and irritate the mouth."
+    },
+    {
+      "id": "rn-basic_care_comfort-040",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with an above-the-knee amputation reports pain in the missing foot. How should the RN respond?",
+      "options": [
+        "Tell the client the pain is imagined",
+        "Ignore the complaint",
+        "Acknowledge that phantom limb pain is real and give the prescribed treatment",
+        "Tell the client to look at the stump to stop the pain"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phantom limb pain is a real sensation caused by nerve changes. It is treated with medications and other therapies."
+    },
+    {
+      "id": "rn-basic_care_comfort-041",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client on bed rest has a new dry, nonproductive cough and diminished breath sounds at the bases. Which intervention is best?",
+      "options": [
+        "Keep the client flat",
+        "Reduce fluid intake",
+        "Limit position changes",
+        "Encourage turning, deep breathing, and incentive spirometry"
+      ],
+      "correctIndex": 3,
+      "explanation": "Immobility causes atelectasis. Turning, deep breathing, and spirometry open the alveoli."
+    },
+    {
+      "id": "rn-basic_care_comfort-042",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with an indwelling urinary catheter has cloudy, foul-smelling urine. What should the RN do?",
+      "options": [
+        "Disconnect the tubing to drain",
+        "Increase the drainage bag height",
+        "Collect a specimen from the sampling port and notify the provider",
+        "Irrigate the catheter with saline"
+      ],
+      "correctIndex": 2,
+      "explanation": "These findings suggest infection. A culture is obtained aseptically from the port, and the provider is notified."
+    },
+    {
+      "id": "rn-basic_care_comfort-043",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with rheumatoid arthritis has morning stiffness. Which suggestion is most helpful?",
+      "options": [
+        "Stay in bed until noon",
+        "Take a warm shower in the morning before activities",
+        "Apply ice for 2 hours",
+        "Avoid moving the joints"
+      ],
+      "correctIndex": 1,
+      "explanation": "Warm showers or baths relax muscles and reduce stiffness before activity."
+    },
+    {
+      "id": "rn-basic_care_comfort-044",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client is receiving TPN through a central line. Which finding requires the RN's immediate action?",
+      "options": [
+        "Blood glucose of 320 mg/dL",
+        "Clear urine",
+        "Weight gain of 0.2 kg in 24 hours",
+        "A dry, intact dressing"
+      ],
+      "correctIndex": 0,
+      "explanation": "TPN contains high dextrose, and significant hyperglycemia must be treated per orders. Glucose is monitored regularly."
+    },
+    {
+      "id": "rn-basic_care_comfort-045",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client in a skeletal traction device has pin sites. Which finding should the RN report?",
+      "options": [
+        "Purulent drainage and redness around a pin",
+        "Weights hanging freely",
+        "A small amount of clear serous drainage",
+        "The client lying in alignment"
+      ],
+      "correctIndex": 0,
+      "explanation": "Purulent drainage and redness suggest pin-site infection, which can lead to osteomyelitis."
+    },
+    {
+      "id": "rn-basic_care_comfort-046",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which intervention is best to help a client with chronic insomnia in the hospital?",
+      "options": [
+        "Wake the client at 0200 for a bath",
+        "Keep the lights on",
+        "Cluster care to reduce interruptions at night",
+        "Give caffeine at bedtime"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clustering care allows longer periods of uninterrupted sleep."
+    },
+    {
+      "id": "rn-basic_care_comfort-047",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client receiving opioids after surgery has not had a bowel movement in 3 days. What should the RN anticipate?",
+      "options": [
+        "Increasing opioid dose",
+        "A stimulant laxative or stool softener as ordered",
+        "Bed rest",
+        "Stopping all fluids"
+      ],
+      "correctIndex": 1,
+      "explanation": "Opioids slow bowel movement. A bowel regimen, fluids, and activity help prevent and treat constipation."
+    },
+    {
+      "id": "rn-basic_care_comfort-048",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "A client wears a hearing aid that is whistling. What should the RN check first?",
+      "options": [
+        "The client's blood pressure",
+        "The client's vision",
+        "The battery color",
+        "Whether the aid is inserted correctly and free of earwax"
+      ],
+      "correctIndex": 3,
+      "explanation": "Whistling (feedback) is often caused by poor fit or wax blocking the aid."
+    },
+    {
+      "id": "rn-basic_care_comfort-049",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "easy",
+      "question": "Which position promotes comfort and breathing for a client with severe dyspnea from COPD?",
+      "options": [
+        "Sitting upright and leaning forward on an overbed table",
+        "Trendelenburg",
+        "Prone",
+        "Flat on the back"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tripod or orthopneic position allows better expansion of the lungs and use of accessory muscles."
+    },
+    {
+      "id": "rn-basic_care_comfort-050",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with a new total knee replacement asks about pain control at home. Which statement shows correct understanding?",
+      "options": [
+        "\"I'll avoid ice packs.\"",
+        "\"I won't take my medicine so I can feel how far to push.\"",
+        "\"I'll take pain medicine before physical therapy.\"",
+        "\"I'll wait until the pain is 10 out of 10.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Taking analgesics before activity allows participation in therapy. Ice and elevation also help."
+    },
+    {
+      "id": "rn-basic_care_comfort-051",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with dementia is losing weight because they forget to eat. Which intervention is most helpful?",
+      "options": [
+        "Feed the client quickly",
+        "Leave the tray and come back in an hour",
+        "Serve meals only twice a day",
+        "Offer finger foods and cue the client during meals"
+      ],
+      "correctIndex": 3,
+      "explanation": "Finger foods and verbal cues support independence and intake for clients with cognitive impairment."
+    },
+    {
+      "id": "rn-basic_care_comfort-052",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client has a stage 4 pressure injury and a low serum albumin. Which nutrient is most important to increase?",
+      "options": [
+        "Caffeine",
+        "Protein",
+        "Sodium",
+        "Simple sugars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Protein is needed for tissue repair. Calories, vitamin C, and zinc also support wound healing."
+    },
+    {
+      "id": "rn-basic_care_comfort-053",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with dysphagia is ordered thickened liquids. Which action by a UAP requires the RN to intervene?",
+      "options": [
+        "Sitting the client upright",
+        "Offering small bites",
+        "Giving the client thin water from the bedside pitcher",
+        "Checking the mouth for pocketed food"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thin liquids increase the risk of aspiration in clients with dysphagia."
+    },
+    {
+      "id": "rn-basic_care_comfort-054",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with a sacral wound is incontinent of stool. Which intervention protects the wound?",
+      "options": [
+        "Keep the client on a waterproof pad without cleaning",
+        "Use strong soap and hot water",
+        "Leave stool until the next scheduled bath",
+        "Clean promptly and use a moisture barrier"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prompt cleaning and barrier products protect skin and wounds from moisture and bacteria."
+    },
+    {
+      "id": "rn-basic_care_comfort-055",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client is receiving morphine for cancer pain and asks about becoming addicted. Which response is best?",
+      "options": [
+        "\"Addiction is uncommon when opioids are used for cancer pain. Let's talk about what worries you.\"",
+        "\"You'll definitely become addicted.\"",
+        "\"Addiction is never a concern.\"",
+        "\"Don't take it unless the pain is unbearable.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Fear of addiction can lead to undertreated pain. The nurse provides accurate information and explores concerns."
+    },
+    {
+      "id": "rn-basic_care_comfort-056",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "Which client is the best candidate for a bedside commode instead of a bedpan?",
+      "options": [
+        "A client on strict bed rest after spinal surgery",
+        "A client who can stand and pivot with assistance",
+        "A client who is unconscious",
+        "A client in skeletal traction"
+      ],
+      "correctIndex": 1,
+      "explanation": "A commode allows a more natural position and is used when the client can safely transfer."
+    },
+    {
+      "id": "rn-basic_care_comfort-057",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "medium",
+      "question": "A client with an ileostomy has a high output of liquid stool. Which finding should the RN monitor closely?",
+      "options": [
+        "Weight gain",
+        "Constipation",
+        "Hypertension",
+        "Signs of dehydration and electrolyte imbalance"
+      ],
+      "correctIndex": 3,
+      "explanation": "High-output stomas can cause rapid loss of fluids, sodium, and potassium."
+    },
+    {
+      "id": "rn-basic_care_comfort-058",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client receiving continuous enteral feeding has diarrhea. Which action should the RN take first?",
+      "options": [
+        "Increase the feeding rate",
+        "Stop the feeding permanently",
+        "Review medications such as sorbitol-containing liquids or antibiotics and check for C. difficile",
+        "Give loperamide without assessing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diarrhea in tube-fed clients is often caused by medications or infection, not the formula itself. Causes are assessed before changing therapy."
+    },
+    {
+      "id": "rn-basic_care_comfort-059",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client with chronic pain is on a long-acting opioid and reports breakthrough pain. What does the RN expect?",
+      "options": [
+        "A short-acting opioid ordered as needed for breakthrough pain",
+        "Doubling the long-acting dose without an order",
+        "Crushing the long-acting tablet",
+        "Stopping all opioids"
+      ],
+      "correctIndex": 0,
+      "explanation": "Breakthrough pain is treated with a short-acting medication. Crushing long-acting tablets can cause dangerous overdose."
+    },
+    {
+      "id": "rn-basic_care_comfort-060",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "The RN is caring for a client with a new below-the-knee amputation. Which action promotes shaping of the residual limb?",
+      "options": [
+        "Wrapping in circles tightly at the top",
+        "Wrapping the limb with an elastic bandage in a figure-eight pattern",
+        "Leaving it uncovered at all times",
+        "Placing a pillow under the knee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Figure-eight wrapping, tighter distally, shapes the limb for a prosthesis and reduces edema. Circular wraps can act as tourniquets."
+    },
+    {
+      "id": "rn-basic_care_comfort-061",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client with heart failure uses three pillows to sleep. How should the RN document this?",
+      "options": [
+        "Sleep apnea",
+        "Paroxysmal nocturnal hypoxia due to obesity",
+        "Three-pillow orthopnea",
+        "Normal sleep pattern"
+      ],
+      "correctIndex": 2,
+      "explanation": "Orthopnea is difficulty breathing while lying flat, and its severity is described by the number of pillows needed."
+    },
+    {
+      "id": "rn-basic_care_comfort-062",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client in hospice is refusing food and fluids. The family is upset. What is the best response?",
+      "options": [
+        "\"She must eat or she will starve.\"",
+        "\"Loss of appetite is common near the end of life. Offering small sips and mouth care keeps her comfortable.\"",
+        "\"Force her to drink.\"",
+        "\"We'll insert a feeding tube today.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Decreased intake is part of the dying process. Comfort measures like mouth care are emphasized."
+    },
+    {
+      "id": "rn-basic_care_comfort-063",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "The RN is assessing a client with a cast for compartment syndrome. Which finding is an early sign?",
+      "options": [
+        "Pain out of proportion to the injury, especially with passive stretch",
+        "Decreased pain after elevation",
+        "Pulselessness",
+        "Pink, warm toes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Severe pain with passive movement is an early sign. Pulselessness is a late finding."
+    },
+    {
+      "id": "rn-basic_care_comfort-064",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client with a new colostomy asks when to empty the pouch. What should the RN teach?",
+      "options": [
+        "Once a week",
+        "Only when it is completely full",
+        "Every hour",
+        "When it is one-third to one-half full"
+      ],
+      "correctIndex": 3,
+      "explanation": "Emptying the pouch when it is one-third to one-half full prevents leaks and pulling on the skin."
+    },
+    {
+      "id": "rn-basic_care_comfort-065",
+      "track": "rn",
+      "category": "basic_care_comfort",
+      "difficulty": "hard",
+      "question": "A client receiving enteral feedings has a tube that won't flush. What should the RN try first?",
+      "options": [
+        "Insert a stylet",
+        "Remove the tube immediately",
+        "Flush with warm water using a 60-mL syringe and gentle pressure",
+        "Use cola to unclog it"
+      ],
+      "correctIndex": 2,
+      "explanation": "Warm water with gentle push-pull is the first step. Reinserting a stylet can perforate the tube, and acidic drinks are not recommended."
     }
   ]
 }

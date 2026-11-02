@@ -227,6 +227,756 @@
       ],
       "correctIndex": 2,
       "explanation": "Immediate, continuous irrigation with water for at least 15 minutes is the priority, followed by medical evaluation."
+    },
+    {
+      "id": "pn-safety_infection_control-016",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "The nurse's hands are not visibly soiled after taking a client's blood pressure. Which hand hygiene method is preferred?",
+      "options": [
+        "Putting on gloves without hand hygiene",
+        "Alcohol-based hand rub",
+        "Wiping hands with a dry paper towel",
+        "Rinsing with water only"
+      ],
+      "correctIndex": 1,
+      "explanation": "When hands are not visibly soiled, an alcohol-based hand rub is the preferred method in most care situations. Soap and water are needed for visible soil and certain organisms such as C. difficile."
+    },
+    {
+      "id": "pn-safety_infection_control-017",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Using the PASS method for a fire extinguisher, what is the first step?",
+      "options": [
+        "Sweep from side to side",
+        "Pull the pin",
+        "Squeeze the handle",
+        "Aim at the base of the fire"
+      ],
+      "correctIndex": 1,
+      "explanation": "PASS stands for Pull, Aim, Squeeze, Sweep. The pin must be pulled before the extinguisher can be used."
+    },
+    {
+      "id": "pn-safety_infection_control-018",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A medication order reads \"insulin regular 10 U subcutaneously.\" Why is this order a safety concern?",
+      "options": [
+        "\"U\" is a do-not-use abbreviation that can be mistaken for a zero or number",
+        "Insulin is never given subcutaneously",
+        "Regular insulin is only given by mouth",
+        "The dose is missing a route"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"U\" can be misread as 0 or 4, causing a tenfold error. The word \"units\" should be written out."
+    },
+    {
+      "id": "pn-safety_infection_control-019",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A client has a latex allergy. Which foods may cause a cross-reaction and should be noted in the record?",
+      "options": [
+        "Chicken, fish, and eggs",
+        "Bananas, avocados, and kiwi",
+        "Rice, oats, and wheat",
+        "Milk, cheese, and yogurt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Latex-fruit syndrome links latex allergy with reactions to foods such as banana, avocado, kiwi, and chestnut."
+    },
+    {
+      "id": "pn-safety_infection_control-020",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client on a medical unit has suspected norovirus gastroenteritis. Which precautions should the nurse use?",
+      "options": [
+        "Standard precautions only with alcohol hand rub",
+        "Contact precautions with soap-and-water hand washing",
+        "Airborne precautions",
+        "Protective (reverse) isolation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Norovirus spreads by contact and contaminated surfaces. Contact precautions are used, and soap and water work better than alcohol rub against it."
+    },
+    {
+      "id": "pn-safety_infection_control-021",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is admitted with influenza. What protection does the nurse need when entering the room?",
+      "options": [
+        "A surgical mask in addition to standard precautions",
+        "Sterile gown and gloves only",
+        "An N95 respirator and a negative-pressure room",
+        "No extra protection if the nurse is vaccinated"
+      ],
+      "correctIndex": 0,
+      "explanation": "Influenza is spread by droplets, so droplet precautions with a surgical mask are used along with standard precautions."
+    },
+    {
+      "id": "pn-safety_infection_control-022",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "What is the main purpose of the 'time-out' performed just before a surgical procedure?",
+      "options": [
+        "To document the anesthesia start time",
+        "To let the surgeon rest",
+        "To count the sponges and instruments",
+        "To confirm the correct client, procedure, and site with the whole team"
+      ],
+      "correctIndex": 3,
+      "explanation": "The time-out is a final check by the whole team to prevent wrong-site, wrong-procedure, and wrong-person surgery."
+    },
+    {
+      "id": "pn-safety_infection_control-023",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The nurse notices that the power cord of an infusion pump is frayed. What should the nurse do?",
+      "options": [
+        "Plug it into a different outlet",
+        "Wrap the cord with tape and keep using it",
+        "Use it until the end of the shift",
+        "Remove the pump from use, label it, and report it for repair"
+      ],
+      "correctIndex": 3,
+      "explanation": "Damaged electrical equipment can cause shocks or fires. It must be taken out of service and reported to biomedical engineering."
+    },
+    {
+      "id": "pn-safety_infection_control-024",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "After discharge of a client with Clostridioides difficile infection, which product should be used to clean the room surfaces?",
+      "options": [
+        "A sporicidal agent such as a bleach-based product",
+        "A fragrance spray",
+        "Plain soap and water only",
+        "An alcohol-based disinfectant"
+      ],
+      "correctIndex": 0,
+      "explanation": "C. difficile forms spores that resist alcohol. A sporicidal disinfectant, commonly a bleach-based product, is required."
+    },
+    {
+      "id": "pn-safety_infection_control-025",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Before helping a client move from a bed to a wheelchair, what should the nurse do first?",
+      "options": [
+        "Ask the client to stand quickly",
+        "Lock the wheelchair brakes and the bed wheels",
+        "Place the wheelchair at the foot of the bed facing away",
+        "Remove the footrests after the transfer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Locking the wheels on both the bed and the wheelchair keeps them from moving and prevents falls during the transfer."
+    },
+    {
+      "id": "pn-safety_infection_control-026",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is admitted after exposure to inhalational anthrax. Which precautions are needed?",
+      "options": [
+        "Droplet precautions",
+        "Airborne precautions",
+        "Protective isolation",
+        "Standard precautions"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anthrax is not spread from person to person, so standard precautions are used. Decontamination is needed only if spores are on the skin or clothing."
+    },
+    {
+      "id": "pn-safety_infection_control-027",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client with a weakened immune system has disseminated herpes zoster. Which precautions should the nurse use?",
+      "options": [
+        "Droplet precautions",
+        "Airborne and contact precautions",
+        "Standard precautions only",
+        "Contact precautions only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disseminated zoster requires airborne and contact precautions because the virus can spread through the air and by contact with lesions. These continue until all lesions are dry and crusted."
+    },
+    {
+      "id": "pn-safety_infection_control-028",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client with active pulmonary tuberculosis must be taken to radiology. Which action is correct?",
+      "options": [
+        "The client wears a surgical mask during transport",
+        "The transport staff wear gowns only",
+        "The client wears an N95 respirator during transport",
+        "No mask is needed if the trip is short"
+      ],
+      "correctIndex": 0,
+      "explanation": "The client wears a surgical mask to contain droplet nuclei when outside the room. Staff in the client's presence wear fit-tested N95 respirators."
+    },
+    {
+      "id": "pn-safety_infection_control-029",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "Which room feature is required for a client on airborne precautions?",
+      "options": [
+        "Negative air pressure with the door kept closed",
+        "A shared room with another client who has a different infection",
+        "A window kept open for fresh air",
+        "Positive air pressure compared with the hallway"
+      ],
+      "correctIndex": 0,
+      "explanation": "An airborne infection isolation room uses negative pressure with frequent air exchanges so air flows in rather than out into the hallway."
+    },
+    {
+      "id": "pn-safety_infection_control-030",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which action breaks the chain of infection at the 'mode of transmission' link?",
+      "options": [
+        "Encouraging good nutrition",
+        "Performing hand hygiene between clients",
+        "Giving antibiotics for an infection",
+        "Vaccinating the client"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hand hygiene stops germs from being carried from one person or surface to another, which is the mode of transmission."
+    },
+    {
+      "id": "pn-safety_infection_control-031",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "How should the PN carry soiled bed linens out of a client's room?",
+      "options": [
+        "Shaken out before placing them in the hamper",
+        "Held against the chest to avoid dropping them",
+        "Placed on the floor until the bed is made",
+        "Held away from the uniform and placed directly in the linen bag"
+      ],
+      "correctIndex": 3,
+      "explanation": "Holding linens away from the body and not shaking them prevents spreading microorganisms to the uniform and the air."
+    },
+    {
+      "id": "pn-safety_infection_control-032",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "When should a sharps container be replaced?",
+      "options": [
+        "When the lid will no longer close because needles stick out",
+        "Once a month regardless of use",
+        "When it is about three-quarters full",
+        "Only when it is completely full"
+      ],
+      "correctIndex": 2,
+      "explanation": "Replacing sharps containers at about three-quarters full prevents overfilling, which can cause needlestick injuries."
+    },
+    {
+      "id": "pn-safety_infection_control-033",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Before leaving a client's room, which safety action should the PN take?",
+      "options": [
+        "Raise the bed to the highest position",
+        "Move the walker across the room",
+        "Turn off all the lights",
+        "Place the call light within the client's reach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Keeping the call light and personal items within reach helps clients get help without trying to get up alone."
+    },
+    {
+      "id": "pn-safety_infection_control-034",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which piece of protective equipment should the PN wear when there is a risk of blood splashing during wound irrigation?",
+      "options": [
+        "A gown, gloves, mask, and eye protection",
+        "Shoe covers only",
+        "A hair cover only",
+        "Gloves only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Standard precautions include face and eye protection and a gown whenever splashes or sprays of body fluids are likely."
+    },
+    {
+      "id": "pn-safety_infection_control-035",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "What is the correct way to remove contaminated gloves?",
+      "options": [
+        "Rinse them and then take them off",
+        "Pull off the first glove by grasping the outside at the wrist, then slide fingers of the bare hand inside the second glove",
+        "Pull both gloves off by the fingertips at the same time",
+        "Remove them with the teeth"
+      ],
+      "correctIndex": 1,
+      "explanation": "Glove-to-glove and skin-to-skin technique keeps the contaminated outer surface from touching bare skin."
+    },
+    {
+      "id": "pn-safety_infection_control-036",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "How often should a client in soft restraints be released, repositioned, and offered toileting?",
+      "options": [
+        "Only when the client asks",
+        "Once per shift",
+        "At least every 2 hours",
+        "Every 6 hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "Restraints are released at least every 2 hours for repositioning, range of motion, skin care, toileting, and fluids, with circulation checks more often per policy."
+    },
+    {
+      "id": "pn-safety_infection_control-037",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which infection is spread mainly by the fecal-oral route?",
+      "options": [
+        "Hepatitis C",
+        "Hepatitis A",
+        "Tuberculosis",
+        "Hepatitis B"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hepatitis A spreads through contaminated food, water, or hands. Hepatitis B and C spread through blood and body fluids."
+    },
+    {
+      "id": "pn-safety_infection_control-038",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is on contact precautions. Which item should stay in the room?",
+      "options": [
+        "The medication cart",
+        "The PN's personal stethoscope after each use",
+        "The PN's charting device",
+        "A disposable blood pressure cuff"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dedicated or disposable equipment stays in the room to prevent spreading the organism. Shared equipment must be cleaned before use elsewhere."
+    },
+    {
+      "id": "pn-safety_infection_control-039",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client needs help walking for the first time after surgery. Which device should the PN use for safety?",
+      "options": [
+        "A gait (transfer) belt",
+        "A rolling chair",
+        "A cane held in the weaker hand",
+        "A wrist restraint"
+      ],
+      "correctIndex": 0,
+      "explanation": "A gait belt lets the PN guide and support the client safely and reduces strain on the nurse's back."
+    },
+    {
+      "id": "pn-safety_infection_control-040",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client gets up to walk and says, \"I feel dizzy and my vision is going gray.\" What should the PN do first?",
+      "options": [
+        "Ask the client to hold their breath",
+        "Leave to get a wheelchair",
+        "Help the client sit or lower them safely to the floor",
+        "Tell the client to walk faster to the bed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dizziness may signal orthostatic hypotension and a fall. The PN keeps the client from falling by helping them sit or by easing them to the floor."
+    },
+    {
+      "id": "pn-safety_infection_control-041",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The parent of a toddler asks how to prevent poisoning at home. Which advice should the PN reinforce?",
+      "options": [
+        "Tell the child medicine is candy so they will take it",
+        "Keep cleaning products under the sink in their original bottles",
+        "Store medicines and cleaners up high in locked cabinets",
+        "Put cleaning products in food containers to save space"
+      ],
+      "correctIndex": 2,
+      "explanation": "Locked, out-of-reach storage is the best prevention. Products should stay in original containers, and the Poison Help line number should be easy to find."
+    },
+    {
+      "id": "pn-safety_infection_control-042",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which instruction should the PN reinforce for a client who uses a heating pad at home?",
+      "options": [
+        "Sleep with it on all night",
+        "Place it directly on the skin for best effect",
+        "Use it on numb areas of the feet",
+        "Use a low setting and limit time, checking the skin often"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heat can burn, especially in areas with poor sensation. Low settings, a cover, and time limits reduce the risk."
+    },
+    {
+      "id": "pn-safety_infection_control-043",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client with head lice is admitted. Which precautions should the PN use?",
+      "options": [
+        "Protective isolation",
+        "Contact precautions until effective treatment",
+        "Droplet precautions",
+        "Airborne precautions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Head lice spread by direct contact and shared items such as combs and hats, so contact precautions are used until treatment is effective."
+    },
+    {
+      "id": "pn-safety_infection_control-044",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which action by the PN follows medical asepsis when caring for a client's wound?",
+      "options": [
+        "Placing clean supplies on a clean surface and doing hand hygiene before and after care",
+        "Placing used dressings on the bedside table",
+        "Cleaning from the dirty area toward the clean area",
+        "Reusing the same gauze for cleaning several times"
+      ],
+      "correctIndex": 0,
+      "explanation": "Medical asepsis reduces the number and spread of microorganisms. Wounds are cleaned from the cleanest area outward, and used dressings go directly into a waste bag."
+    },
+    {
+      "id": "pn-safety_infection_control-045",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client's glucometer is shared on the unit. What should the PN do after using it?",
+      "options": [
+        "Rinse it under running water",
+        "Wipe it with a dry tissue",
+        "Clean and disinfect it per the manufacturer's instructions",
+        "Put it back in the case without cleaning"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shared glucose meters can spread bloodborne viruses such as hepatitis B. They must be cleaned and disinfected between clients."
+    },
+    {
+      "id": "pn-safety_infection_control-046",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The PN is reinforcing home safety teaching with the family of an older adult. Which statement shows understanding?",
+      "options": [
+        "\"We'll keep the hallway dim at night so Dad can sleep.\"",
+        "\"We'll put a rug on the bathroom floor.\"",
+        "\"We'll set the water heater to its highest setting.\"",
+        "\"We'll test the smoke and carbon monoxide detectors regularly.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Working detectors prevent deaths from fire and carbon monoxide. Lowering water heater temperature, adding light, and removing rugs also reduce injuries."
+    },
+    {
+      "id": "pn-safety_infection_control-047",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client with dementia is at risk of wandering. Which intervention should the PN suggest?",
+      "options": [
+        "Keeping the client in a chair with a lap belt all day",
+        "An identification bracelet and an alarm on exit doors",
+        "Giving a sedative at the start of each shift",
+        "Locking the client in the room"
+      ],
+      "correctIndex": 1,
+      "explanation": "Identification, door alarms, and supervision keep the client safe while avoiding unnecessary restraints or medications."
+    },
+    {
+      "id": "pn-safety_infection_control-048",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "How should the PN send a urine specimen to the laboratory?",
+      "options": [
+        "In a labeled, sealed container inside a biohazard bag",
+        "In the client's water pitcher",
+        "In an open cup carried by hand",
+        "Unlabeled, with the label sent later"
+      ],
+      "correctIndex": 0,
+      "explanation": "Specimens are labeled at the bedside in front of the client and transported in a sealed biohazard bag to protect staff and ensure accuracy."
+    },
+    {
+      "id": "pn-safety_infection_control-049",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A client has a red allergy wristband. What does the PN confirm before giving any medication?",
+      "options": [
+        "The client's insurance plan",
+        "The client's room number only",
+        "The client's allergies and the reactions listed in the record",
+        "The client's favorite foods"
+      ],
+      "correctIndex": 2,
+      "explanation": "Checking allergies against each medication before giving it prevents allergic reactions, which can be life-threatening."
+    },
+    {
+      "id": "pn-safety_infection_control-050",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The PN finds a client on the floor beside the bed. What should the PN do first?",
+      "options": [
+        "Call the family",
+        "Check the client for injury and call for help before moving them",
+        "Help the client back to bed right away",
+        "Complete an incident report"
+      ],
+      "correctIndex": 1,
+      "explanation": "The client is checked for injuries such as head trauma or fractures before being moved. The RN and provider are notified, and the fall is documented."
+    },
+    {
+      "id": "pn-safety_infection_control-051",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client receiving oxygen by nasal cannula wants to use an electric razor. What should the PN do?",
+      "options": [
+        "Suggest a safety razor instead or follow the facility's policy on electrical devices",
+        "Allow it and turn the oxygen up",
+        "Allow it while the client smokes",
+        "Remove the oxygen permanently"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sparks from electrical devices near oxygen are a fire risk. Many facilities restrict electric razors for clients using oxygen."
+    },
+    {
+      "id": "pn-safety_infection_control-052",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is admitted with suspected pertussis. Which PPE should the PN put on before entering the room?",
+      "options": [
+        "A sterile gown",
+        "No PPE beyond hand hygiene",
+        "An N95 respirator only",
+        "A surgical mask"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pertussis spreads by droplets, so a surgical mask is worn in addition to standard precautions."
+    },
+    {
+      "id": "pn-safety_infection_control-053",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which statement by an assistive personnel about using a mechanical lift shows the need for more teaching?",
+      "options": [
+        "\"I'll lock the wheels of the bed.\"",
+        "\"I'll do this lift alone to save time.\"",
+        "\"I'll explain each step to the client.\"",
+        "\"I'll check the sling for tears before using it.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Most mechanical lifts require two staff members for safety. Working alone increases the risk of falls and injuries."
+    },
+    {
+      "id": "pn-safety_infection_control-054",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A child accidentally swallows a parent's pills. What should the parent do first?",
+      "options": [
+        "Give the child milk and wait",
+        "Make the child vomit right away",
+        "Wait to see if symptoms develop",
+        "Call Poison Control (1-800-222-1222) or 911 if the child is not breathing or is having seizures"
+      ],
+      "correctIndex": 3,
+      "explanation": "Poison Control gives specific advice. Inducing vomiting is no longer recommended at home because it can cause harm."
+    },
+    {
+      "id": "pn-safety_infection_control-055",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The PN is reinforcing hand hygiene teaching with a client's family. Which statement shows understanding?",
+      "options": [
+        "\"I'll rub the alcohol gel on all surfaces of my hands until they are dry.\"",
+        "\"A quick rinse with water is enough.\"",
+        "\"Gloves mean I never need to clean my hands.\"",
+        "\"I'll wipe my hands on my pants after using gel.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Alcohol rub must cover all hand surfaces and be rubbed until dry to be effective."
+    },
+    {
+      "id": "pn-safety_infection_control-056",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which client is at the highest risk for falls?",
+      "options": [
+        "An alert teenager with a cold",
+        "A young adult walking after a dental procedure",
+        "An older adult who takes a diuretic and a sleeping pill and gets up at night to void",
+        "A middle-aged adult with a sprained wrist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Advanced age, nighttime urgency, and sedating medications combine to greatly increase fall risk."
+    },
+    {
+      "id": "pn-safety_infection_control-057",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client's IV site is red and warm, and the client has a fever. Which action should the PN take?",
+      "options": [
+        "Flush the catheter harder",
+        "Ignore it since fever is common",
+        "Report the findings to the RN, who will plan to remove the catheter and assess for infection",
+        "Apply a new dressing over the old one"
+      ],
+      "correctIndex": 2,
+      "explanation": "Redness, warmth, and fever suggest a catheter-related infection. The PN reports promptly so the device can be removed and the client evaluated."
+    },
+    {
+      "id": "pn-safety_infection_control-058",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A resident has a fever and diarrhea, and two other residents on the same hall have similar symptoms. What should the PN do?",
+      "options": [
+        "Give antidiarrheal medicine to all residents",
+        "Report it to the RN and infection prevention team promptly and use contact precautions",
+        "Wait until more residents are sick",
+        "Move the residents into one room without orders"
+      ],
+      "correctIndex": 1,
+      "explanation": "A cluster of similar symptoms may be an outbreak. Prompt reporting and contact precautions help limit the spread."
+    },
+    {
+      "id": "pn-safety_infection_control-059",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "During a fire on the unit, clients have been rescued and the alarm has been activated. Which action is part of the 'Contain' step of RACE?",
+      "options": [
+        "Turning off clients' oxygen without checking them",
+        "Taking the elevator to the ground floor",
+        "Opening windows to let out smoke",
+        "Closing doors and windows to the area"
+      ],
+      "correctIndex": 3,
+      "explanation": "Containing the fire means closing doors and windows to limit the spread of smoke and flames. Elevators are not used during a fire."
+    },
+    {
+      "id": "pn-safety_infection_control-060",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "The PN is caring for a client on airborne precautions. Which action requires the PN to intervene?",
+      "options": [
+        "An assistive personnel enters wearing a surgical mask",
+        "The client wears a surgical mask while being transported",
+        "The door to the room is kept closed",
+        "Staff put on fit-tested N95 respirators before entering"
+      ],
+      "correctIndex": 0,
+      "explanation": "Airborne precautions require a fit-tested N95 respirator or higher. A surgical mask does not protect staff from airborne particles."
+    },
+    {
+      "id": "pn-safety_infection_control-061",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A provider writes an order for wrist restraints 'as needed' (PRN) for a confused client. What should the PN do?",
+      "options": [
+        "Apply the restraints at night only",
+        "Apply the restraints whenever the client seems restless",
+        "Ask the RN to clarify the order with the provider, because restraint orders cannot be written as PRN",
+        "Ask the family whether to use them"
+      ],
+      "correctIndex": 2,
+      "explanation": "Restraint orders must be time-limited and specific, and PRN orders are not permitted. Restraints are a last resort after less restrictive measures."
+    },
+    {
+      "id": "pn-safety_infection_control-062",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "Which action by the PN is most important to prevent an infection in a client with an indwelling urinary catheter?",
+      "options": [
+        "Letting the bag drag on the floor",
+        "Keeping the drainage bag below the bladder and the system closed",
+        "Raising the bag onto the bed during transfers",
+        "Opening the system to take samples"
+      ],
+      "correctIndex": 1,
+      "explanation": "A closed system and gravity drainage keep urine from flowing back into the bladder and reduce infection risk."
+    },
+    {
+      "id": "pn-safety_infection_control-063",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client returns from a procedure and needs to be moved from a stretcher to the bed. Which action shows safe practice?",
+      "options": [
+        "Using a slide board or friction-reducing device with enough staff",
+        "Asking the client to jump onto the bed",
+        "Pulling the client by the arms",
+        "Lifting the client alone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Assistive devices and adequate staff reduce injuries to both the client and the nursing staff."
+    },
+    {
+      "id": "pn-safety_infection_control-064",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "During a disaster drill, an assistive personnel asks why staff practice evacuation routes. Which response by the PN is best?",
+      "options": [
+        "\"It is just a requirement with no real purpose.\"",
+        "\"Only managers need to know the routes.\"",
+        "\"We will use the elevators during a fire.\"",
+        "\"Practice helps everyone respond quickly and safely when a real emergency happens.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Drills prepare staff to act quickly during real emergencies. Elevators should not be used during a fire."
+    },
+    {
+      "id": "pn-safety_infection_control-065",
+      "track": "pn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client receiving a continuous tube feeding suddenly starts coughing and has trouble breathing. What should the PN do first?",
+      "options": [
+        "Increase the feeding rate",
+        "Stop the feeding and keep the head of the bed elevated, then report to the RN",
+        "Flush the tube with 60 mL of water",
+        "Lower the head of the bed flat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coughing and dyspnea during a feeding suggest aspiration. Stopping the feeding prevents more formula from entering the airway, and the RN must assess the client right away."
     }
   ]
 }

@@ -227,6 +227,756 @@
       ],
       "correctIndex": 3,
       "explanation": "Body image changes take time. The nurse supports the client in expressing feelings and lets her look when she is ready."
+    },
+    {
+      "id": "pn-psychosocial_integrity-016",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client says, \"I just don't know what to do anymore.\" Which response uses the technique of reflection?",
+      "options": [
+        "\"Why do you feel that way?\"",
+        "\"Everything will be fine.\"",
+        "\"You should talk to your family.\"",
+        "\"You feel unsure about what to do.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Reflection repeats the client's feelings or ideas back so the client can explore them further. False reassurance and advice block communication."
+    },
+    {
+      "id": "pn-psychosocial_integrity-017",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which defense mechanism is shown when a client who failed an exam says, \"The test was unfair anyway\"?",
+      "options": [
+        "Conversion",
+        "Repression",
+        "Sublimation",
+        "Rationalization"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rationalization is giving a socially acceptable excuse to justify a behavior or outcome and protect self-esteem."
+    },
+    {
+      "id": "pn-psychosocial_integrity-018",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which finding is a common sign of grief after the death of a spouse?",
+      "options": [
+        "Sudden loss of hearing",
+        "Crying, trouble sleeping, and missing the person",
+        "Seeing flashing lights",
+        "A rash on both hands"
+      ],
+      "correctIndex": 1,
+      "explanation": "Normal grief often includes sadness, crying, sleep changes, and yearning. Grief that is prolonged and disabling may need further evaluation."
+    },
+    {
+      "id": "pn-psychosocial_integrity-019",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which action by the nurse best builds trust with a newly admitted client on a mental health unit?",
+      "options": [
+        "Changing the schedule often",
+        "Avoiding eye contact",
+        "Sharing personal problems with the client",
+        "Keeping promises and being consistent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trust develops when the nurse is honest, consistent, and reliable. The relationship stays focused on the client."
+    },
+    {
+      "id": "pn-psychosocial_integrity-020",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client who was in a serious car crash 2 months ago has nightmares, flashbacks, and avoids driving. Which condition do these findings suggest?",
+      "options": [
+        "Bipolar disorder",
+        "Post-traumatic stress disorder",
+        "Schizophrenia",
+        "Generalized anxiety disorder"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intrusive memories, nightmares, avoidance, and hyperarousal lasting more than a month after trauma are characteristic of PTSD."
+    },
+    {
+      "id": "pn-psychosocial_integrity-021",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client is admitted after a suicide attempt. Which question is most important for the nurse to ask?",
+      "options": [
+        "\"Why would you do such a thing?\"",
+        "\"Don't you know how much your family loves you?\"",
+        "\"Have you thought about your future plans?\"",
+        "\"Are you having thoughts of harming yourself right now?\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Asking directly about current suicidal thoughts assesses immediate risk. Asking does not increase risk and is essential for safety planning."
+    },
+    {
+      "id": "pn-psychosocial_integrity-022",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with alcohol use disorder is starting disulfiram. Which instruction is most important?",
+      "options": [
+        "Alcohol is safe after 1 hour",
+        "Avoid all alcohol, including in mouthwash, cough syrups, and sauces",
+        "Drink only beer while taking the medication",
+        "Take the medication only when craving alcohol"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disulfiram causes a severe reaction with even small amounts of alcohol, including hidden sources. The reaction can occur up to 2 weeks after the last dose."
+    },
+    {
+      "id": "pn-psychosocial_integrity-023",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which statement by a client shows the use of the defense mechanism projection?",
+      "options": [
+        "\"I can't remember the accident at all.\"",
+        "\"I'm fine,\" said after receiving bad news",
+        "\"My coworkers don't like me,\" said by a client who dislikes the coworkers",
+        "\"I'll work out at the gym when I'm angry.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Projection is attributing one's own unacceptable feelings to another person. Sublimation, repression, and denial are shown by the other statements."
+    },
+    {
+      "id": "pn-psychosocial_integrity-024",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "During a crisis, a client is crying and can't focus on what the nurse is saying. What is the nurse's first goal?",
+      "options": [
+        "Refer the client to long-term psychoanalysis",
+        "Explore childhood experiences in depth",
+        "Teach long-term coping strategies right away",
+        "Ensure the client's safety and help the client return to the previous level of functioning"
+      ],
+      "correctIndex": 3,
+      "explanation": "Crisis intervention focuses on immediate safety and restoring prior functioning. Deeper exploration comes later."
+    },
+    {
+      "id": "pn-psychosocial_integrity-025",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with a new diagnosis of HIV says, \"My life is over.\" Which response by the nurse is best?",
+      "options": [
+        "\"This news is a lot to take in. Tell me what worries you most.\"",
+        "\"You shouldn't feel that way.\"",
+        "\"Don't worry, there are good medications.\"",
+        "\"Lots of people have HIV.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Acknowledging feelings and inviting the client to share concerns is therapeutic. Minimizing or dismissing feelings blocks communication."
+    },
+    {
+      "id": "pn-psychosocial_integrity-026",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which finding is most consistent with generalized anxiety disorder?",
+      "options": [
+        "Elevated mood with decreased need for sleep",
+        "Hearing voices that comment on behavior",
+        "A sudden episode of fear lasting minutes after a trigger",
+        "Excessive worry about many things on most days for at least 6 months"
+      ],
+      "correctIndex": 3,
+      "explanation": "GAD involves persistent, hard-to-control worry with symptoms such as restlessness, fatigue, and poor concentration."
+    },
+    {
+      "id": "pn-psychosocial_integrity-027",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with depression started sertraline 1 week ago and says, \"It isn't working.\" Which response is most accurate?",
+      "options": [
+        "\"Double the dose on your own.\"",
+        "\"Stop it and we'll try something else.\"",
+        "\"It may take 2 to 6 weeks to feel the full benefit, so keep taking it and tell us about any side effects.\"",
+        "\"If it doesn't work by tomorrow, it never will.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "SSRIs often take several weeks for full antidepressant effect. Clients are monitored for worsening depression or suicidal thoughts, especially early in treatment."
+    },
+    {
+      "id": "pn-psychosocial_integrity-028",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client in the emergency department says, \"My partner hit me, but I can't leave—I have nowhere to go.\" What is the most important nursing action?",
+      "options": [
+        "Document only and discharge the client",
+        "Help the client make a safety plan and provide information about shelters and hotlines",
+        "Tell the client to leave the partner immediately",
+        "Call the partner to discuss the problem"
+      ],
+      "correctIndex": 1,
+      "explanation": "The nurse supports the client's choices while helping with a safety plan and community resources. Pressuring the client or contacting the abuser can increase danger."
+    },
+    {
+      "id": "pn-psychosocial_integrity-029",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with a history of opioid use disorder is in severe pain after surgery. Which approach is most appropriate?",
+      "options": [
+        "Withhold all opioids to prevent relapse",
+        "Treat the pain adequately while monitoring closely and involving the care team",
+        "Give only placebo injections",
+        "Tell the client pain is part of recovery"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clients with substance use disorders have the right to effective pain control. A multimodal plan with close monitoring treats pain safely."
+    },
+    {
+      "id": "pn-psychosocial_integrity-030",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which communication technique is the PN using when saying, \"I'll sit with you for a while\"?",
+      "options": [
+        "Approval",
+        "Giving advice",
+        "Changing the subject",
+        "Offering self"
+      ],
+      "correctIndex": 3,
+      "explanation": "Offering self shows the nurse's presence and interest without pressure to talk."
+    },
+    {
+      "id": "pn-psychosocial_integrity-031",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client is silent after receiving bad news. What should the PN do?",
+      "options": [
+        "Sit quietly with the client and allow time to think",
+        "Tell the client to cheer up",
+        "Fill the silence with cheerful talk",
+        "Leave immediately"
+      ],
+      "correctIndex": 0,
+      "explanation": "Therapeutic silence gives the client time to process feelings and decide what to say."
+    },
+    {
+      "id": "pn-psychosocial_integrity-032",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which statement by the PN is an example of false reassurance?",
+      "options": [
+        "\"You seem worried.\"",
+        "\"Tell me more.\"",
+        "\"Don't worry, everything will be all right.\"",
+        "\"What concerns you most about the test?\""
+      ],
+      "correctIndex": 2,
+      "explanation": "False reassurance dismisses the client's feelings and closes communication."
+    },
+    {
+      "id": "pn-psychosocial_integrity-033",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client with dementia becomes confused late in the afternoon. What is this pattern called?",
+      "options": [
+        "Confabulation",
+        "Perseveration",
+        "Sundowning",
+        "Echolalia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sundowning is increased confusion and agitation in the late afternoon or evening. A calm, well-lit environment and routine help."
+    },
+    {
+      "id": "pn-psychosocial_integrity-034",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which action by the PN supports a client's cultural needs at the end of life?",
+      "options": [
+        "Discouraging family visits",
+        "Asking the client and family about their customs and wishes",
+        "Removing religious items from the room",
+        "Following the same routine for every client"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asking about cultural and spiritual practices allows the nurse to support the client and family in a meaningful way."
+    },
+    {
+      "id": "pn-psychosocial_integrity-035",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client with depression says, \"I'm worthless.\" Which response is best?",
+      "options": [
+        "\"That's not true at all.\"",
+        "\"Everyone feels that way sometimes.\"",
+        "\"Let's watch TV instead.\"",
+        "\"You're feeling worthless. Tell me more about that.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Acknowledging and exploring the feeling is therapeutic. Arguing or minimizing blocks communication."
+    },
+    {
+      "id": "pn-psychosocial_integrity-036",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which stage of grief is shown when a client says, \"If I can just live until my grandson's wedding, I'll be ready\"?",
+      "options": [
+        "Bargaining",
+        "Anger",
+        "Acceptance",
+        "Denial"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bargaining involves trying to make a deal, often with a higher power, to delay loss."
+    },
+    {
+      "id": "pn-psychosocial_integrity-037",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client with an anxiety disorder is starting deep breathing exercises. What should the PN reinforce?",
+      "options": [
+        "Hold the breath as long as possible",
+        "Breathe in slowly through the nose and out slowly through pursed lips",
+        "Breathe as fast as possible",
+        "Only breathe through the mouth quickly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Slow, controlled breathing activates the relaxation response and reduces anxiety symptoms."
+    },
+    {
+      "id": "pn-psychosocial_integrity-038",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with schizophrenia says the television is sending special messages to them. What type of thinking is this?",
+      "options": [
+        "Ideas of reference",
+        "Neologism",
+        "Loose associations",
+        "Grandiose delusion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ideas of reference are beliefs that unrelated events or messages have special personal meaning."
+    },
+    {
+      "id": "pn-psychosocial_integrity-039",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with alcohol use disorder says, \"I only drink on weekends, so I don't have a problem.\" Which defense mechanism is this?",
+      "options": [
+        "Undoing",
+        "Identification",
+        "Denial",
+        "Sublimation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Denial is refusing to acknowledge a problem. It is common in substance use disorders."
+    },
+    {
+      "id": "pn-psychosocial_integrity-040",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client is hearing voices. Which action should the PN take?",
+      "options": [
+        "Tell the client the voices are real",
+        "Ignore the client's comments",
+        "Argue that the voices don't exist",
+        "Ask what the voices are saying, especially whether they tell the client to harm anyone"
+      ],
+      "correctIndex": 3,
+      "explanation": "Command hallucinations can direct a client to harm themself or others. Asking about the content helps the team assess safety."
+    },
+    {
+      "id": "pn-psychosocial_integrity-041",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client in a long-term care facility says, \"Nobody comes to see me anymore.\" Which intervention is most helpful?",
+      "options": [
+        "Give a sleeping pill",
+        "Keep the client in the room for rest",
+        "Tell the client to stop complaining",
+        "Encourage participation in group activities and arrange phone or video calls with family"
+      ],
+      "correctIndex": 3,
+      "explanation": "Social activities and contact with loved ones reduce loneliness and isolation in older adults."
+    },
+    {
+      "id": "pn-psychosocial_integrity-042",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client who is withdrawing from opioids asks for help. Which medication may be used to ease withdrawal?",
+      "options": [
+        "Haloperidol",
+        "Disulfiram",
+        "Buprenorphine",
+        "Naloxone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Buprenorphine, a partial opioid agonist, eases withdrawal and cravings and is used for opioid use disorder treatment. Naloxone reverses overdose but causes withdrawal."
+    },
+    {
+      "id": "pn-psychosocial_integrity-043",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with a new colostomy is quiet and won't look at the stoma. What should the PN do?",
+      "options": [
+        "Acknowledge the client's feelings and offer to involve the client gradually in care",
+        "Tell the client it looks fine",
+        "Insist that the client change the pouch today",
+        "Avoid mentioning the stoma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Body image changes take time. Gradual involvement and acceptance of feelings support adjustment."
+    },
+    {
+      "id": "pn-psychosocial_integrity-044",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client becomes angry and yells at the PN about the food. What is the best response?",
+      "options": [
+        "\"Other clients like the food.\"",
+        "\"You sound upset. Tell me what happened.\"",
+        "\"Don't yell at me.\"",
+        "\"I'll come back when you're calm.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledging the anger and inviting discussion can calm the client and help identify the real problem."
+    },
+    {
+      "id": "pn-psychosocial_integrity-045",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which finding should the PN report as a possible sign of suicide risk in an older adult?",
+      "options": [
+        "Talking about grandchildren",
+        "Asking for a calendar",
+        "Giving away belongings and saying 'Soon I won't be a burden'",
+        "Attending a weekly card game"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giving away belongings and hopeless statements are warning signs of suicide and must be reported promptly."
+    },
+    {
+      "id": "pn-psychosocial_integrity-046",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A child with autism spectrum disorder is admitted to the hospital. Which approach is best?",
+      "options": [
+        "Keep a consistent routine and limit unnecessary changes",
+        "Assign different staff each shift",
+        "Change the schedule daily",
+        "Place the child in a noisy playroom"
+      ],
+      "correctIndex": 0,
+      "explanation": "Children with autism often cope better with routine, consistent caregivers, and reduced sensory overload."
+    },
+    {
+      "id": "pn-psychosocial_integrity-047",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with dementia refuses a bath. What should the PN do?",
+      "options": [
+        "Force the client into the shower",
+        "Try again later or offer choices about time and type of bathing",
+        "Tell the client they smell",
+        "Skip bathing for a week without reporting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Offering choices and returning later reduces agitation. Forcing care can escalate behavior."
+    },
+    {
+      "id": "pn-psychosocial_integrity-048",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "Which client statement shows a healthy coping strategy?",
+      "options": [
+        "\"I yell at my kids when I'm upset.\"",
+        "\"I drink a few beers every night to relax.\"",
+        "\"I stay in bed all weekend.\"",
+        "\"When I'm stressed, I go for a walk and call a friend.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Exercise and social support are healthy coping strategies. Substance use and withdrawal are unhealthy."
+    },
+    {
+      "id": "pn-psychosocial_integrity-049",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "easy",
+      "question": "A client with a hearing impairment needs teaching reinforced. What should the PN do?",
+      "options": [
+        "Cover the mouth while speaking",
+        "Face the client, speak clearly, and reduce background noise",
+        "Shout into the client's ear",
+        "Speak from behind the client"
+      ],
+      "correctIndex": 1,
+      "explanation": "Facing the client allows lip reading and visual cues. Speaking clearly is better than shouting."
+    },
+    {
+      "id": "pn-psychosocial_integrity-050",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client receiving hospice care asks the PN, \"Am I dying?\" Which response is most appropriate?",
+      "options": [
+        "\"Let's not talk about that.\"",
+        "\"Of course not.\"",
+        "\"You need to ask your doctor.\"",
+        "\"What makes you ask that?\""
+      ],
+      "correctIndex": 3,
+      "explanation": "An open-ended response invites the client to share fears and concerns. Avoidance blocks communication."
+    },
+    {
+      "id": "pn-psychosocial_integrity-051",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with anorexia nervosa says, \"I'm too fat.\" Which response is best?",
+      "options": [
+        "\"You are so skinny!\"",
+        "\"Just eat more and you'll feel better.\"",
+        "\"It sounds like you see your body differently than others do. Tell me more.\"",
+        "\"Everyone wants to be thin.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Arguing about weight is not helpful. Exploring the client's perceptions supports a therapeutic relationship."
+    },
+    {
+      "id": "pn-psychosocial_integrity-052",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client taking a benzodiazepine for anxiety asks about drinking alcohol. What should the PN reinforce?",
+      "options": [
+        "Avoid alcohol because it increases sedation and breathing problems",
+        "Alcohol makes the medication work better",
+        "A small amount is safe at bedtime",
+        "Only beer should be avoided"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alcohol and benzodiazepines are both CNS depressants and can cause dangerous sedation and respiratory depression together."
+    },
+    {
+      "id": "pn-psychosocial_integrity-053",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A parent is crying after learning their child has a chronic illness. What should the PN do first?",
+      "options": [
+        "Stay with the parent and listen",
+        "Give a detailed booklet about the illness",
+        "Leave the parent alone",
+        "Tell them it could be worse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Initial distress is a time for presence and listening. Information is better received when the parent is ready."
+    },
+    {
+      "id": "pn-psychosocial_integrity-054",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which behavior by a client with a substance use disorder shows progress in recovery?",
+      "options": [
+        "Saying they can stop anytime",
+        "Blaming family for the problem",
+        "Attending support group meetings regularly",
+        "Hiding bottles in the room"
+      ],
+      "correctIndex": 2,
+      "explanation": "Attending support groups shows engagement in recovery. The other behaviors indicate denial or ongoing use."
+    },
+    {
+      "id": "pn-psychosocial_integrity-055",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client tells the PN, \"I've been feeling hopeless, but please don't tell anyone.\" What should the PN do?",
+      "options": [
+        "Promise to keep it secret",
+        "Tell the family first",
+        "Ignore it",
+        "Explain that information about safety must be shared with the team"
+      ],
+      "correctIndex": 3,
+      "explanation": "The nurse cannot keep secrets that affect client safety. Hopelessness may indicate suicide risk and must be reported."
+    },
+    {
+      "id": "pn-psychosocial_integrity-056",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "A client with schizophrenia is taking an antipsychotic. Which side effect should the PN report as a possible problem with metabolism?",
+      "options": [
+        "Clearer thinking",
+        "Weight gain and increased thirst",
+        "Increased appetite only during holidays",
+        "Better sleep"
+      ],
+      "correctIndex": 1,
+      "explanation": "Many second-generation antipsychotics cause weight gain, high blood glucose, and high lipids. These need monitoring."
+    },
+    {
+      "id": "pn-psychosocial_integrity-057",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "medium",
+      "question": "Which nonverbal behavior by the PN shows active listening?",
+      "options": [
+        "Typing while the client talks",
+        "Sitting at eye level with an open posture",
+        "Standing with arms crossed",
+        "Looking at the clock"
+      ],
+      "correctIndex": 1,
+      "explanation": "An open, attentive posture at eye level shows interest and respect."
+    },
+    {
+      "id": "pn-psychosocial_integrity-058",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with dementia hits an assistive personnel during care. What should the PN do first?",
+      "options": [
+        "Make sure everyone is safe and step back from the client",
+        "Scold the client",
+        "Give a sedative without an order",
+        "Restrain the client right away"
+      ],
+      "correctIndex": 0,
+      "explanation": "Safety comes first. The PN then looks for triggers such as pain or fear and reports the event."
+    },
+    {
+      "id": "pn-psychosocial_integrity-059",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client recently widowed says, \"I can't sleep and I've lost 10 pounds.\" It has been 6 months. What should the PN do?",
+      "options": [
+        "Tell the client to keep busy",
+        "Recommend a sleeping pill",
+        "Tell the client that grief always lasts a year",
+        "Collect more data about mood and safety and report to the RN"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weight loss and insomnia lasting months may signal depression or complicated grief and need further evaluation."
+    },
+    {
+      "id": "pn-psychosocial_integrity-060",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client being treated for alcohol withdrawal suddenly sees bugs on the walls and is very frightened. What should the PN do first?",
+      "options": [
+        "Tell the client the bugs aren't real and leave",
+        "Turn off the lights so the client can sleep",
+        "Stay with the client, keep the client safe, and notify the RN",
+        "Give the client a cup of coffee"
+      ],
+      "correctIndex": 2,
+      "explanation": "Visual hallucinations may mean the client is progressing toward delirium tremens. The PN ensures safety and reports promptly."
+    },
+    {
+      "id": "pn-psychosocial_integrity-061",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client in a group home who has bipolar disorder starts staying up all night and spending large amounts of money. What should the PN do?",
+      "options": [
+        "Report the changes, since these may be early signs of mania",
+        "Encourage the shopping",
+        "Ignore it since the client seems happy",
+        "Take away the client's phone"
+      ],
+      "correctIndex": 0,
+      "explanation": "Decreased need for sleep and impulsive spending are early signs of mania. Early reporting can prevent a full episode."
+    },
+    {
+      "id": "pn-psychosocial_integrity-062",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A teen tells the PN that a friend posted online about wanting to die. What is the best response?",
+      "options": [
+        "\"Your friend is just looking for attention.\"",
+        "\"Wait and see if they post again.\"",
+        "\"That's serious. Let's tell an adult who can help your friend right away.\"",
+        "\"Don't get involved.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "Any statement about wanting to die must be taken seriously and reported so the person can get help."
+    },
+    {
+      "id": "pn-psychosocial_integrity-063",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with paranoid thoughts refuses medication, saying it is poison. Which response is best?",
+      "options": [
+        "\"I'll hide it in your food.\"",
+        "\"I can see you're worried. This is the medication your provider ordered; I'll show you the sealed package.\"",
+        "\"You're being silly.\"",
+        "\"Just take it.\""
+      ],
+      "correctIndex": 1,
+      "explanation": "Acknowledging the fear and offering factual reassurance, such as showing the sealed package, respects the client. Hiding medications is deceptive and not allowed without specific legal orders."
+    },
+    {
+      "id": "pn-psychosocial_integrity-064",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "The PN is caring for a client who has just learned of a miscarriage. Which response is most supportive?",
+      "options": [
+        "\"You can always try again.\"",
+        "\"At least it happened early.\"",
+        "\"It was probably for the best.\"",
+        "\"I'm so sorry for your loss. Would you like to talk?\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Acknowledging the loss is supportive. Statements that minimize the loss can increase grief."
+    },
+    {
+      "id": "pn-psychosocial_integrity-065",
+      "track": "pn",
+      "category": "psychosocial_integrity",
+      "difficulty": "hard",
+      "question": "A client with generalized anxiety disorder is prescribed buspirone. Which statement shows understanding?",
+      "options": [
+        "\"I'll take it only when I feel a panic attack.\"",
+        "\"It is very addictive.\"",
+        "\"It works within minutes.\"",
+        "\"It may take a few weeks before I notice the full effect.\""
+      ],
+      "correctIndex": 3,
+      "explanation": "Buspirone takes 2 to 4 weeks for full effect and is not useful as needed. It has low potential for dependence."
     }
   ]
 }

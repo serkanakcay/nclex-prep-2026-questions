@@ -227,6 +227,756 @@
       ],
       "correctIndex": 0,
       "explanation": "Levothyroxine is absorbed best on an empty stomach and should be separated from calcium, iron, and antacids."
+    },
+    {
+      "id": "rn-pharmacological_therapies-016",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client takes acetaminophen for arthritis pain and also uses an over-the-counter cold medicine. Which teaching is most important?",
+      "options": [
+        "Take both with alcohol to improve sleep",
+        "Acetaminophen has no daily limit",
+        "Check labels, because many combination products also contain acetaminophen",
+        "Cold medicines never contain pain relievers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hidden acetaminophen in combination products can lead to accidental overdose and liver damage. Clients should track their total daily dose."
+    },
+    {
+      "id": "rn-pharmacological_therapies-017",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which instruction is correct for insulin glargine?",
+      "options": [
+        "Shake the vial hard before drawing it up",
+        "Give it intravenously",
+        "Do not mix it with other insulins in the same syringe",
+        "Give it only right before meals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Glargine is a long-acting basal insulin that should not be mixed with other insulins because mixing changes how it is absorbed."
+    },
+    {
+      "id": "rn-pharmacological_therapies-018",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Before giving metoprolol, which assessment is most important?",
+      "options": [
+        "Skin turgor",
+        "Bowel sounds",
+        "Pupil size",
+        "Heart rate and blood pressure"
+      ],
+      "correctIndex": 3,
+      "explanation": "Beta-blockers slow the heart and lower blood pressure. The dose is usually held and reported if the heart rate or blood pressure is below the ordered parameters."
+    },
+    {
+      "id": "rn-pharmacological_therapies-019",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client starting rifampin for tuberculosis should be told to expect which effect?",
+      "options": [
+        "White patches on the skin",
+        "Blue-green stools",
+        "Black tongue",
+        "Orange-red urine, sweat, and tears"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rifampin harmlessly colors body fluids orange-red and can stain soft contact lenses."
+    },
+    {
+      "id": "rn-pharmacological_therapies-020",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Ceftriaxone 1 g in 50 mL is ordered to infuse over 30 minutes. At what rate should the pump be set?",
+      "options": [
+        "25 mL/hr",
+        "50 mL/hr",
+        "100 mL/hr",
+        "150 mL/hr"
+      ],
+      "correctIndex": 2,
+      "explanation": "50 mL over 0.5 hour equals 100 mL/hr."
+    },
+    {
+      "id": "rn-pharmacological_therapies-021",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "The nurse is mixing regular insulin and NPH insulin in one syringe. Which insulin is drawn up first?",
+      "options": [
+        "Neither; they can never be mixed",
+        "Regular insulin (clear)",
+        "NPH insulin (cloudy)",
+        "Either one, order doesn't matter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clear regular insulin is drawn up before cloudy NPH so the regular vial is not contaminated with NPH."
+    },
+    {
+      "id": "rn-pharmacological_therapies-022",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking warfarin asks about eating green leafy vegetables. What is the best advice?",
+      "options": [
+        "Avoid all green vegetables completely",
+        "Keep vitamin K intake consistent from day to day",
+        "Eat large amounts of vegetables to boost the drug",
+        "Vegetables have no effect on warfarin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vitamin K counteracts warfarin. Consistent intake keeps the INR stable."
+    },
+    {
+      "id": "rn-pharmacological_therapies-023",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking spironolactone should avoid which product?",
+      "options": [
+        "Calcium-rich foods",
+        "Fresh apples",
+        "Salt substitutes containing potassium chloride",
+        "Low-sodium bread"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spironolactone is a potassium-sparing diuretic. Potassium-based salt substitutes can cause hyperkalemia."
+    },
+    {
+      "id": "rn-pharmacological_therapies-024",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client has taken prednisone 20 mg daily for 3 months and wants to stop because of weight gain. What should the nurse teach?",
+      "options": [
+        "Double the dose before stopping",
+        "Stop the medication today",
+        "Skip every other dose",
+        "Do not stop suddenly; the provider will taper the dose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Long-term corticosteroids suppress the adrenal glands. Stopping suddenly can cause adrenal crisis, so the dose is tapered."
+    },
+    {
+      "id": "rn-pharmacological_therapies-025",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A child weighs 22 lb. The order is a medication at 2 mg/kg. What dose should the child receive?",
+      "options": [
+        "10 mg",
+        "20 mg",
+        "44 mg",
+        "88 mg"
+      ],
+      "correctIndex": 1,
+      "explanation": "22 lb divided by 2.2 equals 10 kg. 10 kg times 2 mg/kg equals 20 mg."
+    },
+    {
+      "id": "rn-pharmacological_therapies-026",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking ciprofloxacin reports new pain in the back of the ankle. What should the nurse do?",
+      "options": [
+        "Tell the client to rest the leg and report the pain to the provider promptly",
+        "Apply a heating pad and ignore it",
+        "Encourage running to stretch the tendon",
+        "Give an extra dose of the antibiotic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fluoroquinolones can cause tendinitis and tendon rupture, especially of the Achilles tendon. The drug may need to be stopped."
+    },
+    {
+      "id": "rn-pharmacological_therapies-027",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "Which technique is correct when giving enoxaparin from a prefilled syringe?",
+      "options": [
+        "Inject into the deltoid muscle",
+        "Expel the air bubble and massage the site afterward",
+        "Aspirate before injecting",
+        "Leave the air bubble in, inject into the abdomen at least 2 inches from the navel, and do not rub"
+      ],
+      "correctIndex": 3,
+      "explanation": "The air bubble helps deliver the full dose. Rubbing or aspirating increases bruising."
+    },
+    {
+      "id": "rn-pharmacological_therapies-028",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client taking lisinopril is also prescribed a potassium supplement. Which lab value should the nurse monitor most closely?",
+      "options": [
+        "Serum amylase",
+        "Serum calcium",
+        "Serum potassium",
+        "Hemoglobin"
+      ],
+      "correctIndex": 2,
+      "explanation": "ACE inhibitors reduce potassium excretion. Combining them with potassium supplements increases the risk of hyperkalemia."
+    },
+    {
+      "id": "rn-pharmacological_therapies-029",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with a fentanyl transdermal patch has a fever of 39 C (102.2 F). Why should the nurse be concerned?",
+      "options": [
+        "Heat increases absorption of fentanyl and can cause overdose",
+        "Fever lowers the drug level",
+        "Fever makes the patch fall off harmlessly",
+        "Fentanyl causes fever"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fever and external heat increase skin blood flow and fentanyl absorption, raising the risk of respiratory depression."
+    },
+    {
+      "id": "rn-pharmacological_therapies-030",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which electrolyte imbalance increases the risk of digoxin toxicity?",
+      "options": [
+        "Hypercalcemia only in children",
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Hypernatremia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Low potassium increases digoxin binding to the heart and raises the risk of toxicity and dysrhythmias."
+    },
+    {
+      "id": "rn-pharmacological_therapies-031",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which finding suggests digoxin toxicity?",
+      "options": [
+        "Weight gain only",
+        "Increased appetite",
+        "Hair growth",
+        "Nausea, loss of appetite, and yellow-green halos around lights"
+      ],
+      "correctIndex": 3,
+      "explanation": "GI symptoms and visual changes are early signs of digoxin toxicity. Dysrhythmias can also occur."
+    },
+    {
+      "id": "rn-pharmacological_therapies-032",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "What is the antidote for acetaminophen overdose?",
+      "options": [
+        "Vitamin K",
+        "Acetylcysteine",
+        "Flumazenil",
+        "Naloxone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acetylcysteine replenishes glutathione and protects the liver when given early after acetaminophen overdose."
+    },
+    {
+      "id": "rn-pharmacological_therapies-033",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which lab value is used to monitor a continuous IV unfractionated heparin infusion?",
+      "options": [
+        "Serum glucose",
+        "aPTT or anti-Xa level",
+        "INR only",
+        "Platelet count only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heparin infusions are adjusted using aPTT or anti-Xa levels per protocol. Platelets are also monitored for heparin-induced thrombocytopenia."
+    },
+    {
+      "id": "rn-pharmacological_therapies-034",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which drug reverses benzodiazepine sedation?",
+      "options": [
+        "Flumazenil",
+        "Protamine sulfate",
+        "Naloxone",
+        "Atropine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flumazenil reverses benzodiazepines but can trigger seizures in clients with long-term benzodiazepine use."
+    },
+    {
+      "id": "rn-pharmacological_therapies-035",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which adverse effect is most associated with gentamicin?",
+      "options": [
+        "Tooth discoloration in adults",
+        "Orange urine",
+        "Ototoxicity and nephrotoxicity",
+        "Hyperglycemia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aminoglycosides can damage the kidneys and inner ear. The nurse monitors drug levels, creatinine, and hearing."
+    },
+    {
+      "id": "rn-pharmacological_therapies-036",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client is prescribed amiodarone. Which test should be monitored periodically?",
+      "options": [
+        "Urine ketones",
+        "Serum lithium",
+        "Bone density only",
+        "Pulmonary and thyroid function tests"
+      ],
+      "correctIndex": 3,
+      "explanation": "Amiodarone can cause pulmonary toxicity, thyroid disorders, and liver injury, so these are monitored."
+    },
+    {
+      "id": "rn-pharmacological_therapies-037",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "Which medication is first-line for a client with anaphylaxis?",
+      "options": [
+        "Oral diphenhydramine",
+        "Oral prednisone",
+        "Epinephrine IM",
+        "IV furosemide"
+      ],
+      "correctIndex": 2,
+      "explanation": "Epinephrine reverses bronchospasm and hypotension and is given promptly IM in the thigh."
+    },
+    {
+      "id": "rn-pharmacological_therapies-038",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client receiving vancomycin needs a trough level. When should the blood be drawn?",
+      "options": [
+        "2 hours after the dose",
+        "Just before the next dose",
+        "Right after the dose is finished",
+        "Any time of day"
+      ],
+      "correctIndex": 1,
+      "explanation": "The trough is the lowest level, drawn just before the next scheduled dose."
+    },
+    {
+      "id": "rn-pharmacological_therapies-039",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "Dopamine 400 mg in 250 mL D5W is ordered at 5 mcg/kg/min for a client weighing 80 kg. What is the rate in mL/hr?",
+      "options": [
+        "7.5 mL/hr",
+        "15 mL/hr",
+        "24 mL/hr",
+        "30 mL/hr"
+      ],
+      "correctIndex": 1,
+      "explanation": "5 mcg x 80 kg x 60 min = 24,000 mcg/hr, or 24 mg/hr. The concentration is 1.6 mg/mL, so 24 divided by 1.6 equals 15 mL/hr."
+    },
+    {
+      "id": "rn-pharmacological_therapies-040",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving IV potassium chloride reports burning at the IV site. What should the RN do first?",
+      "options": [
+        "Apply a heating pad and continue",
+        "Ignore it because burning is expected",
+        "Increase the rate to finish faster",
+        "Stop the infusion and assess the site"
+      ],
+      "correctIndex": 3,
+      "explanation": "Potassium can irritate veins and cause infiltration damage. The RN stops the infusion, assesses for infiltration, and follows policy."
+    },
+    {
+      "id": "rn-pharmacological_therapies-041",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client on warfarin has an INR of 6.2 and no bleeding. What does the RN anticipate?",
+      "options": [
+        "Holding warfarin and possibly giving oral vitamin K",
+        "Continuing the same dose",
+        "Giving protamine sulfate",
+        "Doubling the dose"
+      ],
+      "correctIndex": 0,
+      "explanation": "A high INR without bleeding is usually managed by holding warfarin and sometimes giving low-dose oral vitamin K."
+    },
+    {
+      "id": "rn-pharmacological_therapies-042",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client with heart failure is receiving IV furosemide. Which finding needs immediate follow-up?",
+      "options": [
+        "Urine output of 300 mL in 2 hours",
+        "Weight loss of 1 kg",
+        "Clear lung sounds",
+        "Serum potassium of 2.9 mEq/L"
+      ],
+      "correctIndex": 3,
+      "explanation": "Severe hypokalemia can cause dangerous dysrhythmias. The provider is notified and potassium replacement is expected."
+    },
+    {
+      "id": "rn-pharmacological_therapies-043",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving a heparin infusion has a platelet count that dropped from 250,000 to 95,000/mm3 over 5 days. What should the RN suspect?",
+      "options": [
+        "Normal response to heparin",
+        "Iron deficiency anemia",
+        "Heparin-induced thrombocytopenia",
+        "Vitamin K deficiency"
+      ],
+      "correctIndex": 2,
+      "explanation": "A drop in platelets of more than 50% 5 to 10 days after starting heparin suggests HIT. Heparin is stopped and a nonheparin anticoagulant is used."
+    },
+    {
+      "id": "rn-pharmacological_therapies-044",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving IV phenytoin needs a dose. Which action is correct?",
+      "options": [
+        "Give it slowly and mix only with normal saline",
+        "Give it as a rapid IV push",
+        "Give it through the same line as TPN",
+        "Mix it with dextrose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phenytoin precipitates in dextrose. Rapid infusion can cause hypotension and dysrhythmias."
+    },
+    {
+      "id": "rn-pharmacological_therapies-045",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client starting an ACE inhibitor has a persistent dry cough. What does the RN expect the provider to consider?",
+      "options": [
+        "Stopping all blood pressure medicines",
+        "Adding a cough suppressant forever",
+        "Doubling the dose",
+        "Switching to an angiotensin receptor blocker"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dry cough is a common ACE inhibitor side effect due to bradykinin. ARBs usually don't cause this cough."
+    },
+    {
+      "id": "rn-pharmacological_therapies-046",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking a thiazide diuretic has which risk?",
+      "options": [
+        "Hypoglycemia and hypernatremia",
+        "Hypokalemia and hyperglycemia",
+        "Hypocalcemia only",
+        "Hyperkalemia only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thiazides cause potassium loss and can raise blood glucose and uric acid levels."
+    },
+    {
+      "id": "rn-pharmacological_therapies-047",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving IV nitroglycerin for chest pain has a blood pressure of 84/50 mm Hg. What should the RN do first?",
+      "options": [
+        "Decrease or stop the infusion per protocol and notify the provider",
+        "Give a beta-blocker",
+        "Sit the client upright",
+        "Increase the rate to relieve pain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hypotension is a major adverse effect of nitroglycerin. The rate is decreased or stopped and the client is assessed."
+    },
+    {
+      "id": "rn-pharmacological_therapies-048",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "easy",
+      "question": "A client is receiving an IV infusion of a vesicant chemotherapy drug and reports pain and swelling at the site. What should the RN do first?",
+      "options": [
+        "Apply heat and continue",
+        "Flush the line forcefully",
+        "Stop the infusion and follow the extravasation protocol",
+        "Increase the infusion rate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vesicants can cause severe tissue damage if they leak. The infusion is stopped immediately and the facility protocol is followed."
+    },
+    {
+      "id": "rn-pharmacological_therapies-049",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client with type 2 diabetes is starting empagliflozin. Which adverse effect should the RN teach the client to watch for?",
+      "options": [
+        "Weight gain and edema",
+        "Genital yeast infections and signs of dehydration",
+        "Orange urine",
+        "Hypokalemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "SGLT2 inhibitors increase glucose in the urine, raising the risk of genital infections and volume depletion. Rarely, ketoacidosis can occur."
+    },
+    {
+      "id": "rn-pharmacological_therapies-050",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client with atrial fibrillation is prescribed apixaban. Which statement shows correct understanding?",
+      "options": [
+        "\"I'll report black stools or unusual bruising.\"",
+        "\"I can stop it a day before any procedure on my own.\"",
+        "\"I'll take extra if I miss a dose.\"",
+        "\"I'll need weekly INR tests.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Apixaban increases bleeding risk. It doesn't need INR monitoring, and stopping or doubling doses should be done only as directed."
+    },
+    {
+      "id": "rn-pharmacological_therapies-051",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving IV gentamicin has a rising serum creatinine. What should the RN do?",
+      "options": [
+        "Double the fluid intake and give the dose",
+        "Give the dose faster",
+        "Give the dose and recheck tomorrow",
+        "Notify the provider before giving the next dose"
+      ],
+      "correctIndex": 3,
+      "explanation": "A rising creatinine suggests nephrotoxicity. The provider may adjust the dose or change the drug."
+    },
+    {
+      "id": "rn-pharmacological_therapies-052",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client on long-term prednisone therapy should be monitored for which effect?",
+      "options": [
+        "Hypoglycemia",
+        "Low blood pressure",
+        "Hyperglycemia and increased infection risk",
+        "Weight loss"
+      ],
+      "correctIndex": 2,
+      "explanation": "Corticosteroids raise blood glucose, suppress the immune system, and can cause fluid retention and bone loss."
+    },
+    {
+      "id": "rn-pharmacological_therapies-053",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving IV ondansetron has a history of prolonged QT interval. What should the RN do?",
+      "options": [
+        "Give it with another QT-prolonging drug",
+        "No action is needed",
+        "Give the drug rapidly",
+        "Clarify the order with the provider and monitor the ECG"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ondansetron can prolong the QT interval and cause dangerous dysrhythmias in at-risk clients."
+    },
+    {
+      "id": "rn-pharmacological_therapies-054",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client is receiving a blood pressure medication, clonidine. Which teaching is most important?",
+      "options": [
+        "Do not stop it suddenly because blood pressure can rise sharply",
+        "It causes weight loss",
+        "Take it only when you have a headache",
+        "It should be taken with grapefruit juice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abrupt stopping of clonidine can cause rebound hypertension."
+    },
+    {
+      "id": "rn-pharmacological_therapies-055",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client receiving IV ampicillin develops wheezing and hives 10 minutes into the infusion. What is the first action?",
+      "options": [
+        "Slow the rate",
+        "Stop the infusion",
+        "Call the family",
+        "Give epinephrine before stopping the infusion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The first step in any infusion-related allergic reaction is to stop the drug, then maintain the airway and give emergency medications."
+    },
+    {
+      "id": "rn-pharmacological_therapies-056",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client taking sildenafil for erectile dysfunction is admitted with chest pain. Which drug must the RN question?",
+      "options": [
+        "Aspirin",
+        "Morphine",
+        "Nitroglycerin",
+        "Oxygen"
+      ],
+      "correctIndex": 2,
+      "explanation": "PDE-5 inhibitors combined with nitrates can cause severe hypotension. The time of the last sildenafil dose must be known."
+    },
+    {
+      "id": "rn-pharmacological_therapies-057",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "medium",
+      "question": "A client with heart failure is starting sacubitril-valsartan. Which medication must be stopped at least 36 hours before the first dose?",
+      "options": [
+        "Aspirin",
+        "An ACE inhibitor such as enalapril",
+        "Metoprolol succinate",
+        "Furosemide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Combining an ACE inhibitor with sacubitril-valsartan increases the risk of angioedema, so a 36-hour washout is required."
+    },
+    {
+      "id": "rn-pharmacological_therapies-058",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with diabetic ketoacidosis is on an insulin infusion. The blood glucose falls to 220 mg/dL. What does the RN anticipate?",
+      "options": [
+        "Adding dextrose to the IV fluids and continuing insulin until the anion gap closes",
+        "Stopping insulin immediately",
+        "Switching to oral medications",
+        "Giving a bolus of potassium IV push"
+      ],
+      "correctIndex": 0,
+      "explanation": "Insulin continues until ketoacidosis resolves. Dextrose is added to prevent hypoglycemia as glucose falls."
+    },
+    {
+      "id": "rn-pharmacological_therapies-059",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with DKA has a serum potassium of 3.1 mEq/L. Which action should occur before starting the insulin infusion?",
+      "options": [
+        "Give insulin immediately",
+        "Restrict all fluids",
+        "Give sodium bicarbonate",
+        "Replace potassium"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insulin shifts potassium into cells and can cause life-threatening hypokalemia. Potassium is replaced before insulin when it is below 3.3 mEq/L."
+    },
+    {
+      "id": "rn-pharmacological_therapies-060",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client is receiving an alteplase infusion for an ischemic stroke. Which finding requires the RN to stop the infusion?",
+      "options": [
+        "Mild bruising at the IV site",
+        "Heart rate of 88/min",
+        "Sudden severe headache and new vomiting",
+        "Blood pressure of 150/88 mm Hg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sudden headache, vomiting, or neurological decline suggests intracranial hemorrhage. The infusion is stopped and the provider is notified."
+    },
+    {
+      "id": "rn-pharmacological_therapies-061",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client receiving vasopressin through a peripheral IV has a blanched, cool IV site. What should the RN do first?",
+      "options": [
+        "Elevate the arm and continue",
+        "Stop the infusion and follow the facility's extravasation protocol",
+        "Apply heat",
+        "Increase the rate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vasopressors can cause tissue ischemia if they leak. The infusion is stopped and the protocol, which may include an antidote, is followed."
+    },
+    {
+      "id": "rn-pharmacological_therapies-062",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with a magnesium level of 1.2 mg/dL is receiving IV magnesium sulfate. Which assessment is most important during the infusion?",
+      "options": [
+        "Deep tendon reflexes and respiratory rate",
+        "Skin turgor",
+        "Pupil size",
+        "Bowel sounds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Magnesium toxicity first causes loss of reflexes, followed by respiratory depression."
+    },
+    {
+      "id": "rn-pharmacological_therapies-063",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with myasthenia gravis is receiving pyridostigmine and develops increased weakness, drooling, and sweating. What should the RN suspect?",
+      "options": [
+        "Serotonin syndrome",
+        "Allergic reaction",
+        "Myasthenic crisis caused by too little medication",
+        "Cholinergic crisis"
+      ],
+      "correctIndex": 3,
+      "explanation": "Excess cholinesterase inhibitor causes muscarinic signs such as drooling, sweating, and bradycardia along with weakness."
+    },
+    {
+      "id": "rn-pharmacological_therapies-064",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client with Parkinson's disease is prescribed carbidopa-levodopa. Which statement shows the need for more teaching?",
+      "options": [
+        "\"My urine may turn darker.\"",
+        "\"I'll get up slowly to avoid dizziness.\"",
+        "\"I'll take it with a large high-protein meal.\"",
+        "\"I'll report uncontrolled movements.\""
+      ],
+      "correctIndex": 2,
+      "explanation": "High-protein meals reduce levodopa absorption. Orthostatic hypotension, dark urine, and dyskinesia are known effects."
+    },
+    {
+      "id": "rn-pharmacological_therapies-065",
+      "track": "rn",
+      "category": "pharmacological_therapies",
+      "difficulty": "hard",
+      "question": "A client receiving a vancomycin infusion has a trough level well above the target range. What should the RN do?",
+      "options": [
+        "Give the dose faster",
+        "Give the dose as scheduled",
+        "Double the next dose",
+        "Hold the next dose and notify the provider or pharmacist"
+      ],
+      "correctIndex": 3,
+      "explanation": "High vancomycin levels increase the risk of kidney damage. The dose is held and adjusted."
     }
   ]
 }

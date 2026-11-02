@@ -227,6 +227,756 @@
       ],
       "correctIndex": 0,
       "explanation": "Autonomic dysreflexia: sit the client up to lower BP, loosen clothing, and find and remove the trigger (often bladder distension or constipation)."
+    },
+    {
+      "id": "rn-physiological_adaptation-016",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is typical of left-sided heart failure?",
+      "options": [
+        "Jugular vein distention only",
+        "Ascites only",
+        "Dependent edema without lung findings",
+        "Crackles in the lungs and shortness of breath"
+      ],
+      "correctIndex": 3,
+      "explanation": "Left-sided failure causes fluid to back up into the lungs. Right-sided failure causes peripheral edema, ascites, and JVD."
+    },
+    {
+      "id": "rn-physiological_adaptation-017",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client reports always feeling hot, losing weight despite a good appetite, and a racing heart. Which condition do these findings suggest?",
+      "options": [
+        "Addison's disease",
+        "Hypothyroidism",
+        "Diabetes insipidus",
+        "Hyperthyroidism"
+      ],
+      "correctIndex": 3,
+      "explanation": "Excess thyroid hormone speeds metabolism, causing heat intolerance, weight loss, tachycardia, and nervousness."
+    },
+    {
+      "id": "rn-physiological_adaptation-018",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client with a burn on the forearm has blisters and severe pain. How is this burn classified?",
+      "options": [
+        "Superficial partial-thickness",
+        "Superficial (first-degree) only",
+        "Full-thickness",
+        "Fourth-degree"
+      ],
+      "correctIndex": 0,
+      "explanation": "Blisters and severe pain indicate partial-thickness burns. Full-thickness burns are often painless because nerve endings are destroyed."
+    },
+    {
+      "id": "rn-physiological_adaptation-019",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which client position is best for someone who is short of breath from heart failure?",
+      "options": [
+        "High Fowler's",
+        "Prone",
+        "Trendelenburg",
+        "Flat supine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sitting upright reduces venous return and allows better lung expansion."
+    },
+    {
+      "id": "rn-physiological_adaptation-020",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with chronic kidney disease has a serum phosphorus that is high. Which medication is commonly used?",
+      "options": [
+        "A thiazide diuretic",
+        "An iron infusion only",
+        "A potassium supplement",
+        "A phosphate binder taken with meals"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phosphate binders, such as sevelamer or calcium acetate, are taken with meals to bind dietary phosphorus."
+    },
+    {
+      "id": "rn-physiological_adaptation-021",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with cirrhosis is confused and has a flapping tremor of the hands. Which medication is expected?",
+      "options": [
+        "Furosemide only",
+        "Morphine",
+        "Lactulose",
+        "Iron sulfate"
+      ],
+      "correctIndex": 2,
+      "explanation": "These signs suggest hepatic encephalopathy from high ammonia. Lactulose lowers ammonia by trapping it in the bowel and causing soft stools."
+    },
+    {
+      "id": "rn-physiological_adaptation-022",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with pancreatitis has severe abdominal pain. Which lab result supports the diagnosis?",
+      "options": [
+        "Elevated serum lipase",
+        "Normal lipase",
+        "Low white blood cell count",
+        "Low serum amylase"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lipase rises in acute pancreatitis and is more specific than amylase."
+    },
+    {
+      "id": "rn-physiological_adaptation-023",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with sickle cell disease is in a pain crisis. Which interventions are priorities?",
+      "options": [
+        "Restricting fluids",
+        "Cold packs to the joints",
+        "Ambulating quickly",
+        "Pain control, hydration, and oxygen if hypoxic"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hydration and pain relief reduce sickling and discomfort. Cold causes vasoconstriction and can worsen sickling."
+    },
+    {
+      "id": "rn-physiological_adaptation-024",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with type 1 diabetes is sick with the flu and not eating well. Which advice is correct?",
+      "options": [
+        "Avoid fluids",
+        "Take insulin only at bedtime",
+        "Keep taking insulin, check glucose often, and test for ketones",
+        "Stop insulin until eating normally"
+      ],
+      "correctIndex": 2,
+      "explanation": "Illness raises glucose even without eating. Insulin is continued, and ketone checks help detect DKA."
+    },
+    {
+      "id": "rn-physiological_adaptation-025",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "Which ECG rhythm requires immediate CPR and defibrillation?",
+      "options": [
+        "Normal sinus rhythm",
+        "Sinus bradycardia at 56 with a pulse",
+        "Pulseless ventricular tachycardia",
+        "First-degree AV block"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pulseless VT is a shockable cardiac arrest rhythm treated with CPR and defibrillation."
+    },
+    {
+      "id": "rn-physiological_adaptation-026",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with a fractured femur becomes confused, short of breath, and has a petechial rash on the chest 2 days after the injury. What should the nurse suspect?",
+      "options": [
+        "Fat embolism syndrome",
+        "Normal healing",
+        "Allergic reaction to food",
+        "Hypoglycemia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fat embolism typically occurs 24 to 72 hours after a long-bone fracture and causes respiratory distress, confusion, and petechiae."
+    },
+    {
+      "id": "rn-physiological_adaptation-027",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a spinal cord injury at C5 has a heart rate of 48/min and blood pressure of 82/50 mm Hg. What does the nurse suspect?",
+      "options": [
+        "Hypovolemic shock with tachycardia",
+        "Neurogenic shock",
+        "Autonomic dysreflexia",
+        "Septic shock with fever"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loss of sympathetic tone after a high spinal injury causes hypotension with bradycardia, which is neurogenic shock."
+    },
+    {
+      "id": "rn-physiological_adaptation-028",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client in septic shock remains hypotensive after a fluid bolus of 30 mL/kg. Which medication is usually started next?",
+      "options": [
+        "Morphine",
+        "Furosemide",
+        "Metoprolol",
+        "Norepinephrine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Norepinephrine is the first-line vasopressor for septic shock that does not respond to fluids. The usual goal is a mean arterial pressure of at least 65 mm Hg."
+    },
+    {
+      "id": "rn-physiological_adaptation-029",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with acute kidney injury has a potassium of 6.8 mEq/L and peaked T waves. Which medication is given first to protect the heart?",
+      "options": [
+        "Digoxin",
+        "IV calcium gluconate",
+        "Oral potassium",
+        "IV potassium chloride"
+      ],
+      "correctIndex": 1,
+      "explanation": "IV calcium stabilizes the cardiac membrane right away. Insulin with glucose and other treatments then shift or remove potassium."
+    },
+    {
+      "id": "rn-physiological_adaptation-030",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is a classic sign of right-sided heart failure?",
+      "options": [
+        "Orthopnea only",
+        "Crackles only",
+        "Pink frothy sputum",
+        "Jugular vein distention and peripheral edema"
+      ],
+      "correctIndex": 3,
+      "explanation": "Right-sided failure causes systemic venous congestion such as JVD, edema, and liver enlargement."
+    },
+    {
+      "id": "rn-physiological_adaptation-031",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "What is the correct rate for adult chest compressions during CPR?",
+      "options": [
+        "60 to 80 per minute",
+        "100 to 120 per minute",
+        "140 to 160 per minute",
+        "30 per minute"
+      ],
+      "correctIndex": 1,
+      "explanation": "High-quality CPR uses 100 to 120 compressions per minute at a depth of at least 2 inches with full chest recoil."
+    },
+    {
+      "id": "rn-physiological_adaptation-032",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client's Glasgow Coma Scale score is 7. What does this indicate?",
+      "options": [
+        "Severe brain injury, and the airway may need protection",
+        "Mild confusion only",
+        "Brain death",
+        "Normal consciousness"
+      ],
+      "correctIndex": 0,
+      "explanation": "A GCS of 8 or less suggests severe impairment and the client may not protect the airway."
+    },
+    {
+      "id": "rn-physiological_adaptation-033",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which acid-base imbalance is expected in a client with diabetic ketoacidosis?",
+      "options": [
+        "Respiratory alkalosis",
+        "Respiratory acidosis",
+        "Metabolic acidosis",
+        "Metabolic alkalosis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ketones are acids, causing metabolic acidosis. Kussmaul breathing is the body's attempt to blow off CO2."
+    },
+    {
+      "id": "rn-physiological_adaptation-034",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client with burns over 40% of the body is in the first 24 hours. What is the main priority after the airway?",
+      "options": [
+        "Skin grafting",
+        "High-protein diet",
+        "Fluid resuscitation",
+        "Range-of-motion exercises"
+      ],
+      "correctIndex": 2,
+      "explanation": "Large burns cause massive fluid shifts. Fluid resuscitation prevents burn shock."
+    },
+    {
+      "id": "rn-physiological_adaptation-035",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is expected in a client with hypocalcemia?",
+      "options": [
+        "Decreased reflexes",
+        "Constipation and lethargy",
+        "Shortened QT interval",
+        "Positive Trousseau's sign"
+      ],
+      "correctIndex": 3,
+      "explanation": "Low calcium causes neuromuscular irritability, including Trousseau's and Chvostek's signs and tetany."
+    },
+    {
+      "id": "rn-physiological_adaptation-036",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "What is the hallmark finding in acute respiratory distress syndrome (ARDS)?",
+      "options": [
+        "Hypoxemia that does not improve with increased oxygen",
+        "High oxygen saturation on room air",
+        "Clear chest X-ray",
+        "Bradypnea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Refractory hypoxemia with bilateral infiltrates is the key feature of ARDS."
+    },
+    {
+      "id": "rn-physiological_adaptation-037",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client's ECG shows a sawtooth pattern between QRS complexes. What rhythm is this?",
+      "options": [
+        "Atrial fibrillation",
+        "Sinus rhythm",
+        "Ventricular tachycardia",
+        "Atrial flutter"
+      ],
+      "correctIndex": 3,
+      "explanation": "Atrial flutter shows sawtooth flutter waves. Atrial fibrillation has an irregular baseline with no P waves."
+    },
+    {
+      "id": "rn-physiological_adaptation-038",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with atrial fibrillation of unknown duration is scheduled for cardioversion. Which treatment is usually needed first?",
+      "options": [
+        "Fluid bolus",
+        "Digoxin load only",
+        "Anticoagulation or imaging to rule out an atrial clot",
+        "Immediate cardioversion without preparation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clots may form in the atria. Anticoagulation for several weeks or a TEE to rule out clots reduces the stroke risk from cardioversion."
+    },
+    {
+      "id": "rn-physiological_adaptation-039",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with symptomatic bradycardia has a heart rate of 38/min and a blood pressure of 78/40 mm Hg. Which drug is first-line?",
+      "options": [
+        "Amiodarone",
+        "Atropine",
+        "Metoprolol",
+        "Adenosine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Atropine is the first drug for symptomatic bradycardia. Pacing or other drugs follow if it is ineffective."
+    },
+    {
+      "id": "rn-physiological_adaptation-040",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with stable supraventricular tachycardia at 190/min does not respond to vagal maneuvers. Which medication should the RN prepare?",
+      "options": [
+        "Adenosine given rapid IV push with a flush",
+        "Epinephrine",
+        "Atropine",
+        "Digoxin by slow IV over 1 hour"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adenosine briefly blocks AV node conduction. It must be given rapidly followed by a saline flush."
+    },
+    {
+      "id": "rn-physiological_adaptation-041",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with a head injury has clear fluid draining from the nose. Which action is correct?",
+      "options": [
+        "Have the client blow the nose",
+        "Pack the nose tightly",
+        "Insert a nasogastric tube",
+        "Test the fluid for glucose and report it; do not suction through the nose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clear drainage may be cerebrospinal fluid from a skull fracture. Nasal suctioning or tubes could enter the brain."
+    },
+    {
+      "id": "rn-physiological_adaptation-042",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with increased intracranial pressure is being cared for. Which nursing action helps lower ICP?",
+      "options": [
+        "Keep the head of the bed at 30 degrees with the head midline",
+        "Lay the client flat",
+        "Flex the neck forward",
+        "Cluster many activities at once"
+      ],
+      "correctIndex": 0,
+      "explanation": "Head elevation with neutral alignment promotes venous drainage from the brain."
+    },
+    {
+      "id": "rn-physiological_adaptation-043",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with COPD has ABGs: pH 7.33, PaCO2 58 mm Hg, HCO3 30 mEq/L. How should the RN interpret this?",
+      "options": [
+        "Respiratory alkalosis",
+        "Fully compensated metabolic acidosis",
+        "Partially compensated respiratory acidosis",
+        "Metabolic alkalosis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Low pH with high PaCO2 shows respiratory acidosis. The elevated bicarbonate shows the kidneys are partially compensating."
+    },
+    {
+      "id": "rn-physiological_adaptation-044",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with acute pancreatitis has a positive Chvostek's sign. Which electrolyte problem is most likely?",
+      "options": [
+        "Hyperkalemia",
+        "Hypocalcemia",
+        "Hypernatremia",
+        "Hypercalcemia"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calcium binds to fat in the inflamed pancreas, causing hypocalcemia."
+    },
+    {
+      "id": "rn-physiological_adaptation-045",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with a new STEMI arrives in the ED. Which treatment goal is most important?",
+      "options": [
+        "Giving IV fluids only",
+        "Scheduling an outpatient stress test",
+        "Waiting for troponin results before treatment",
+        "Opening the blocked artery as quickly as possible, such as PCI within 90 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rapid reperfusion limits heart muscle damage. Door-to-balloon time goals are 90 minutes or less."
+    },
+    {
+      "id": "rn-physiological_adaptation-046",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with cirrhosis has esophageal varices that are bleeding. Which medication may be used to reduce portal pressure?",
+      "options": [
+        "Octreotide",
+        "Prednisone",
+        "Aspirin",
+        "Heparin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Octreotide reduces splanchnic blood flow and portal pressure. Endoscopic banding is also used."
+    },
+    {
+      "id": "rn-physiological_adaptation-047",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with hyperglycemic hyperosmolar state has a glucose of 900 mg/dL. Which finding is expected?",
+      "options": [
+        "Kussmaul respirations with large ketones",
+        "Fluid overload",
+        "Severe dehydration without significant ketosis",
+        "Hypoglycemia"
+      ],
+      "correctIndex": 2,
+      "explanation": "HHS causes extreme hyperglycemia and dehydration with little or no ketosis, usually in type 2 diabetes."
+    },
+    {
+      "id": "rn-physiological_adaptation-048",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "A client with myasthenia gravis has increasing difficulty swallowing and breathing. What is the priority?",
+      "options": [
+        "Delay assessment until morning",
+        "Monitor respiratory function and prepare for airway support",
+        "Encourage exercise",
+        "Give a large meal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Myasthenic crisis can cause respiratory failure. Vital capacity and the airway are monitored closely."
+    },
+    {
+      "id": "rn-physiological_adaptation-049",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "easy",
+      "question": "Which finding is consistent with Cushing's syndrome?",
+      "options": [
+        "Bronze skin and low blood pressure",
+        "Cold intolerance",
+        "Weight loss and low glucose",
+        "Moon face, truncal obesity, and high blood glucose"
+      ],
+      "correctIndex": 3,
+      "explanation": "Excess cortisol causes fat redistribution, hyperglycemia, thin skin, and hypertension."
+    },
+    {
+      "id": "rn-physiological_adaptation-050",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with Guillain-Barré syndrome has ascending weakness that has reached the chest. Which assessment is most important?",
+      "options": [
+        "Vital capacity and respiratory effort",
+        "Bowel sounds",
+        "Visual acuity",
+        "Skin turgor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ascending paralysis can affect breathing muscles. Falling vital capacity may require mechanical ventilation."
+    },
+    {
+      "id": "rn-physiological_adaptation-051",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with a tension pneumothorax has tracheal deviation and hypotension. What intervention is expected first?",
+      "options": [
+        "Chest X-ray before any treatment",
+        "Bronchodilator",
+        "Needle decompression",
+        "Encourage coughing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tension pneumothorax is life-threatening. Needle decompression followed by a chest tube relieves pressure."
+    },
+    {
+      "id": "rn-physiological_adaptation-052",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with chronic kidney disease receives hemodialysis through an arteriovenous fistula. Which finding shows the fistula is working?",
+      "options": [
+        "No pulse at the site",
+        "Palpable thrill and audible bruit",
+        "Absent sound on auscultation",
+        "Cool, pale skin over the site"
+      ],
+      "correctIndex": 1,
+      "explanation": "A thrill and bruit indicate blood flow through the fistula. Their absence suggests clotting."
+    },
+    {
+      "id": "rn-physiological_adaptation-053",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with heart failure is receiving IV furosemide. Which finding shows the treatment is effective?",
+      "options": [
+        "Increased edema",
+        "Decreased crackles and weight loss",
+        "Rising heart rate",
+        "Worsening orthopnea"
+      ],
+      "correctIndex": 1,
+      "explanation": "Diuresis removes excess fluid, which improves lung sounds and reduces weight."
+    },
+    {
+      "id": "rn-physiological_adaptation-054",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client develops a sudden severe headache, stiff neck, and vomiting. Which condition should the RN suspect?",
+      "options": [
+        "Tension headache",
+        "Migraine without aura",
+        "Sinusitis",
+        "Subarachnoid hemorrhage"
+      ],
+      "correctIndex": 3,
+      "explanation": "A sudden 'worst headache of my life' with neck stiffness suggests subarachnoid hemorrhage, an emergency."
+    },
+    {
+      "id": "rn-physiological_adaptation-055",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with an acute asthma attack has a quiet chest with no audible wheezing and declining alertness. What does this indicate?",
+      "options": [
+        "Severe airway obstruction and impending respiratory failure",
+        "Improvement",
+        "Normal recovery",
+        "Anxiety only"
+      ],
+      "correctIndex": 0,
+      "explanation": "A silent chest means very little air is moving. This is an emergency requiring immediate intervention."
+    },
+    {
+      "id": "rn-physiological_adaptation-056",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client is on a ventilator and the high-pressure alarm sounds. What should the RN check first?",
+      "options": [
+        "The humidifier temperature",
+        "The oxygen tank level",
+        "The airway for secretions or a kinked tube",
+        "The power cord"
+      ],
+      "correctIndex": 2,
+      "explanation": "High-pressure alarms often come from secretions, biting, kinks, or bronchospasm."
+    },
+    {
+      "id": "rn-physiological_adaptation-057",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "medium",
+      "question": "A client with Addison's disease is being taught about daily hydrocortisone. Which instruction is important?",
+      "options": [
+        "Take it only at night",
+        "Avoid salt completely",
+        "Stop it when feeling well",
+        "Increase the dose during illness or stress as directed"
+      ],
+      "correctIndex": 3,
+      "explanation": "The body cannot produce extra cortisol during stress, so 'stress dosing' prevents adrenal crisis."
+    },
+    {
+      "id": "rn-physiological_adaptation-058",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client is in ventricular tachycardia with a pulse, is alert, and has a stable blood pressure. Which treatment is expected?",
+      "options": [
+        "Immediate defibrillation",
+        "IV antiarrhythmic such as amiodarone",
+        "Atropine",
+        "CPR"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stable VT with a pulse is treated with antiarrhythmics. Unstable VT is treated with synchronized cardioversion, and pulseless VT with defibrillation."
+    },
+    {
+      "id": "rn-physiological_adaptation-059",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with burns to the face and neck from a house fire has a hoarse voice and singed nasal hair. What is the priority?",
+      "options": [
+        "Prepare for early intubation",
+        "Apply a dressing to the face",
+        "Get a weight",
+        "Start oral fluids"
+      ],
+      "correctIndex": 0,
+      "explanation": "These are signs of inhalation injury. Airway swelling can progress quickly, so early intubation may be needed."
+    },
+    {
+      "id": "rn-physiological_adaptation-060",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with a myocardial infarction develops a new loud holosystolic murmur and sudden pulmonary edema. What should the RN suspect?",
+      "options": [
+        "Hypoglycemia",
+        "Pericarditis",
+        "Papillary muscle rupture causing acute mitral regurgitation",
+        "Normal recovery"
+      ],
+      "correctIndex": 2,
+      "explanation": "This mechanical complication of MI is an emergency that usually requires surgery."
+    },
+    {
+      "id": "rn-physiological_adaptation-061",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client in cardiac tamponade has which set of findings?",
+      "options": [
+        "Fever and rash",
+        "Hypotension, muffled heart sounds, and jugular vein distention",
+        "Hypertension and bradycardia",
+        "Loud heart sounds and flat neck veins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Beck's triad—hypotension, muffled heart sounds, and JVD—suggests tamponade. Pericardiocentesis may be needed."
+    },
+    {
+      "id": "rn-physiological_adaptation-062",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with DKA is being treated with IV fluids and insulin. Which finding indicates that the DKA is resolving?",
+      "options": [
+        "The anion gap is closing and bicarbonate is rising",
+        "Glucose is 250 but the anion gap is widening",
+        "pH is falling",
+        "Potassium is rising rapidly"
+      ],
+      "correctIndex": 0,
+      "explanation": "DKA is resolved when the anion gap closes and bicarbonate normalizes, not just when glucose falls."
+    },
+    {
+      "id": "rn-physiological_adaptation-063",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client is receiving mechanical ventilation and suddenly has a drop in SpO2, absent breath sounds on the left, and the trachea shifted right. What should the RN suspect?",
+      "options": [
+        "Right mainstem intubation only",
+        "Normal ventilator function",
+        "Left tension pneumothorax",
+        "Mucus plug in the right lung"
+      ],
+      "correctIndex": 2,
+      "explanation": "Positive pressure ventilation can cause a tension pneumothorax. Tracheal deviation away from the affected side is a key sign."
+    },
+    {
+      "id": "rn-physiological_adaptation-064",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client is 2 hours after a STEMI and receiving thrombolytic therapy. Which finding suggests successful reperfusion?",
+      "options": [
+        "Increasing ST elevation",
+        "New Q waves only",
+        "Worsening chest pain",
+        "Resolution of chest pain and ST-segment elevation returning toward baseline"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pain relief, ST normalization, and reperfusion dysrhythmias suggest the artery has reopened."
+    },
+    {
+      "id": "rn-physiological_adaptation-065",
+      "track": "rn",
+      "category": "physiological_adaptation",
+      "difficulty": "hard",
+      "question": "A client with hypothyroidism is found with hypothermia, bradycardia, and decreased level of consciousness. What does the RN suspect?",
+      "options": [
+        "Hypoglycemia only",
+        "Thyroid storm",
+        "Normal aging",
+        "Myxedema coma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Myxedema coma is a life-threatening complication of hypothyroidism treated with IV levothyroxine and supportive care."
     }
   ]
 }

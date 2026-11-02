@@ -227,6 +227,756 @@
       ],
       "correctIndex": 1,
       "explanation": "Turn the client to the side to keep the airway open and let secretions drain, and protect the head. Never force anything into the mouth or restrain movements."
+    },
+    {
+      "id": "rn-safety_infection_control-016",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "The nurse's hands are not visibly soiled after taking a client's blood pressure. Which hand hygiene method is preferred?",
+      "options": [
+        "Alcohol-based hand rub",
+        "Putting on gloves without hand hygiene",
+        "Wiping hands with a dry paper towel",
+        "Rinsing with water only"
+      ],
+      "correctIndex": 0,
+      "explanation": "When hands are not visibly soiled, an alcohol-based hand rub is the preferred method in most care situations. Soap and water are needed for visible soil and certain organisms such as C. difficile."
+    },
+    {
+      "id": "rn-safety_infection_control-017",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Using the PASS method for a fire extinguisher, what is the first step?",
+      "options": [
+        "Sweep from side to side",
+        "Squeeze the handle",
+        "Aim at the base of the fire",
+        "Pull the pin"
+      ],
+      "correctIndex": 3,
+      "explanation": "PASS stands for Pull, Aim, Squeeze, Sweep. The pin must be pulled before the extinguisher can be used."
+    },
+    {
+      "id": "rn-safety_infection_control-018",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A medication order reads \"insulin regular 10 U subcutaneously.\" Why is this order a safety concern?",
+      "options": [
+        "\"U\" is a do-not-use abbreviation that can be mistaken for a zero or number",
+        "Insulin is never given subcutaneously",
+        "Regular insulin is only given by mouth",
+        "The dose is missing a route"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"U\" can be misread as 0 or 4, causing a tenfold error. The word \"units\" should be written out."
+    },
+    {
+      "id": "rn-safety_infection_control-019",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A client has a latex allergy. Which foods may cause a cross-reaction and should be noted in the record?",
+      "options": [
+        "Chicken, fish, and eggs",
+        "Rice, oats, and wheat",
+        "Bananas, avocados, and kiwi",
+        "Milk, cheese, and yogurt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Latex-fruit syndrome links latex allergy with reactions to foods such as banana, avocado, kiwi, and chestnut."
+    },
+    {
+      "id": "rn-safety_infection_control-020",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client on a medical unit has suspected norovirus gastroenteritis. Which precautions should the nurse use?",
+      "options": [
+        "Standard precautions only with alcohol hand rub",
+        "Contact precautions with soap-and-water hand washing",
+        "Airborne precautions",
+        "Protective (reverse) isolation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Norovirus spreads by contact and contaminated surfaces. Contact precautions are used, and soap and water work better than alcohol rub against it."
+    },
+    {
+      "id": "rn-safety_infection_control-021",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is admitted with influenza. What protection does the nurse need when entering the room?",
+      "options": [
+        "Sterile gown and gloves only",
+        "A surgical mask in addition to standard precautions",
+        "An N95 respirator and a negative-pressure room",
+        "No extra protection if the nurse is vaccinated"
+      ],
+      "correctIndex": 1,
+      "explanation": "Influenza is spread by droplets, so droplet precautions with a surgical mask are used along with standard precautions."
+    },
+    {
+      "id": "rn-safety_infection_control-022",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "What is the main purpose of the 'time-out' performed just before a surgical procedure?",
+      "options": [
+        "To confirm the correct client, procedure, and site with the whole team",
+        "To document the anesthesia start time",
+        "To let the surgeon rest",
+        "To count the sponges and instruments"
+      ],
+      "correctIndex": 0,
+      "explanation": "The time-out is a final check by the whole team to prevent wrong-site, wrong-procedure, and wrong-person surgery."
+    },
+    {
+      "id": "rn-safety_infection_control-023",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The nurse notices that the power cord of an infusion pump is frayed. What should the nurse do?",
+      "options": [
+        "Use it until the end of the shift",
+        "Plug it into a different outlet",
+        "Wrap the cord with tape and keep using it",
+        "Remove the pump from use, label it, and report it for repair"
+      ],
+      "correctIndex": 3,
+      "explanation": "Damaged electrical equipment can cause shocks or fires. It must be taken out of service and reported to biomedical engineering."
+    },
+    {
+      "id": "rn-safety_infection_control-024",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "After discharge of a client with Clostridioides difficile infection, which product should be used to clean the room surfaces?",
+      "options": [
+        "A fragrance spray",
+        "Plain soap and water only",
+        "A sporicidal agent such as a bleach-based product",
+        "An alcohol-based disinfectant"
+      ],
+      "correctIndex": 2,
+      "explanation": "C. difficile forms spores that resist alcohol. A sporicidal disinfectant, commonly a bleach-based product, is required."
+    },
+    {
+      "id": "rn-safety_infection_control-025",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Before helping a client move from a bed to a wheelchair, what should the nurse do first?",
+      "options": [
+        "Ask the client to stand quickly",
+        "Place the wheelchair at the foot of the bed facing away",
+        "Remove the footrests after the transfer",
+        "Lock the wheelchair brakes and the bed wheels"
+      ],
+      "correctIndex": 3,
+      "explanation": "Locking the wheels on both the bed and the wheelchair keeps them from moving and prevents falls during the transfer."
+    },
+    {
+      "id": "rn-safety_infection_control-026",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is admitted after exposure to inhalational anthrax. Which precautions are needed?",
+      "options": [
+        "Droplet precautions",
+        "Airborne precautions",
+        "Standard precautions",
+        "Protective isolation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Anthrax is not spread from person to person, so standard precautions are used. Decontamination is needed only if spores are on the skin or clothing."
+    },
+    {
+      "id": "rn-safety_infection_control-027",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client with a weakened immune system has disseminated herpes zoster. Which precautions should the nurse use?",
+      "options": [
+        "Droplet precautions",
+        "Airborne and contact precautions",
+        "Standard precautions only",
+        "Contact precautions only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disseminated zoster requires airborne and contact precautions because the virus can spread through the air and by contact with lesions. These continue until all lesions are dry and crusted."
+    },
+    {
+      "id": "rn-safety_infection_control-028",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client with active pulmonary tuberculosis must be taken to radiology. Which action is correct?",
+      "options": [
+        "The client wears a surgical mask during transport",
+        "The transport staff wear gowns only",
+        "The client wears an N95 respirator during transport",
+        "No mask is needed if the trip is short"
+      ],
+      "correctIndex": 0,
+      "explanation": "The client wears a surgical mask to contain droplet nuclei when outside the room. Staff in the client's presence wear fit-tested N95 respirators."
+    },
+    {
+      "id": "rn-safety_infection_control-029",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "Which room feature is required for a client on airborne precautions?",
+      "options": [
+        "Negative air pressure with the door kept closed",
+        "A shared room with another client who has a different infection",
+        "A window kept open for fresh air",
+        "Positive air pressure compared with the hallway"
+      ],
+      "correctIndex": 0,
+      "explanation": "An airborne infection isolation room uses negative pressure with frequent air exchanges so air flows in rather than out into the hallway."
+    },
+    {
+      "id": "rn-safety_infection_control-030",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "While setting up a sterile field, which area of the field is considered contaminated?",
+      "options": [
+        "The center of the sterile drape",
+        "Anything below the level of the table top or within 1 inch of the edge",
+        "Items placed with sterile forceps",
+        "Sterile packages opened away from the body"
+      ],
+      "correctIndex": 1,
+      "explanation": "Items below waist or table level and the 1-inch border of a sterile field are considered unsterile."
+    },
+    {
+      "id": "rn-safety_infection_control-031",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Where should the nurse tie the strap of a wrist restraint?",
+      "options": [
+        "To the mattress",
+        "To the IV pole",
+        "To the side rail",
+        "To a movable part of the bed frame using a quick-release knot"
+      ],
+      "correctIndex": 3,
+      "explanation": "Restraints are tied to the bed frame that moves with the bed, using a quick-release knot. Tying to a side rail can injure the client when the rail is lowered."
+    },
+    {
+      "id": "rn-safety_infection_control-032",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which client may safely share a room with a client who has MRSA in a wound?",
+      "options": [
+        "A client receiving chemotherapy with neutropenia",
+        "A client with a fresh surgical incision",
+        "A client with MRSA in a urinary tract infection",
+        "A client with a newly placed central line"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cohorting clients with the same organism is acceptable when private rooms are not available. Immunocompromised clients or clients with open portals of entry should not share the room."
+    },
+    {
+      "id": "rn-safety_infection_control-033",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "During a central line dressing change, which skin antiseptic is recommended for adults?",
+      "options": [
+        "Povidone-iodine ointment on the insertion site daily",
+        "Hydrogen peroxide",
+        "Plain alcohol only",
+        "Chlorhexidine with alcohol"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chlorhexidine-alcohol is the preferred skin antiseptic for central line care because it reduces bloodstream infections."
+    },
+    {
+      "id": "rn-safety_infection_control-034",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Before an MRI scan, which finding should the nurse report to the radiology team?",
+      "options": [
+        "The client has a cardiac pacemaker",
+        "The client wears glasses",
+        "The client takes acetaminophen",
+        "The client ate breakfast 6 hours ago"
+      ],
+      "correctIndex": 0,
+      "explanation": "Many pacemakers and other metal implants are unsafe in the strong MRI magnetic field. The radiology team must confirm whether the device is MRI-conditional."
+    },
+    {
+      "id": "rn-safety_infection_control-035",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which action best reduces the risk of a catheter-associated urinary tract infection?",
+      "options": [
+        "Disconnecting the tubing to empty it",
+        "Removing the indwelling catheter as soon as it is no longer needed",
+        "Irrigating the catheter daily",
+        "Changing the catheter every 24 hours"
+      ],
+      "correctIndex": 1,
+      "explanation": "The most effective prevention is avoiding unnecessary catheters and removing them early. Routine irrigation and opening the closed system increase infection risk."
+    },
+    {
+      "id": "rn-safety_infection_control-036",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "When putting on sterile gloves, how should the nurse pick up the first glove?",
+      "options": [
+        "By using the gloved hand",
+        "By grasping the outside of the fingers",
+        "By touching only the inside of the folded cuff",
+        "By shaking it out of the package"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ungloved hand touches only the inside of the first glove's cuff. The gloved hand then slides under the cuff of the second glove."
+    },
+    {
+      "id": "rn-safety_infection_control-037",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which hair removal method is recommended before surgery to reduce surgical site infections?",
+      "options": [
+        "Shaving the site with a razor the night before",
+        "Clipping hair if removal is needed",
+        "Waxing the area",
+        "Using a razor in the operating room"
+      ],
+      "correctIndex": 1,
+      "explanation": "Razors cause tiny cuts that increase infection risk. If hair must be removed, clippers are used close to the time of surgery."
+    },
+    {
+      "id": "rn-safety_infection_control-038",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client receiving oral radioactive iodine (I-131) therapy for thyroid cancer is hospitalized. Which instruction is appropriate?",
+      "options": [
+        "Share eating utensils with family members",
+        "Hold the client's hand for long periods to reduce anxiety",
+        "Limit visitor time and keep distance, and flush the toilet twice after use",
+        "Encourage visits from young grandchildren"
+      ],
+      "correctIndex": 2,
+      "explanation": "Time, distance, and shielding reduce radiation exposure. Body fluids contain radioactivity, so the client uses separate items and flushes twice."
+    },
+    {
+      "id": "rn-safety_infection_control-039",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A bag of a chemotherapy drug leaks onto the floor. What should the nurse do first?",
+      "options": [
+        "Put on protective equipment from the spill kit and contain the spill",
+        "Wipe it up with paper towels",
+        "Dilute the spill with water",
+        "Leave the room and come back later"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hazardous drug spills are cleaned with a spill kit while wearing chemotherapy-tested gloves, gown, and eye protection to prevent exposure."
+    },
+    {
+      "id": "rn-safety_infection_control-040",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is on mechanical ventilation. Which action helps prevent ventilator-associated pneumonia?",
+      "options": [
+        "Giving routine prophylactic antibiotics",
+        "Changing the ventilator circuit every 8 hours",
+        "Keeping the client flat in bed",
+        "Keeping the head of the bed at 30 to 45 degrees unless contraindicated"
+      ],
+      "correctIndex": 3,
+      "explanation": "Elevating the head of the bed reduces aspiration. Routine circuit changes and prophylactic antibiotics are not recommended."
+    },
+    {
+      "id": "rn-safety_infection_control-041",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "An unvaccinated nurse is stuck with a needle used on a client who has hepatitis B. Which treatment should the nurse expect after washing the site?",
+      "options": [
+        "A tetanus booster only",
+        "Hepatitis B immune globulin and the first dose of hepatitis B vaccine",
+        "Oral antibiotics for 7 days",
+        "No treatment unless symptoms appear"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hepatitis B immune globulin gives immediate passive immunity and the vaccine starts long-term immunity. Both are given as soon as possible after exposure."
+    },
+    {
+      "id": "rn-safety_infection_control-042",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A nurse has a needlestick exposure from a client with HIV. When should postexposure prophylaxis be started?",
+      "options": [
+        "After the nurse's HIV test comes back positive",
+        "Only if the client's viral load is high",
+        "As soon as possible, ideally within hours of the exposure",
+        "Within 2 weeks"
+      ],
+      "correctIndex": 2,
+      "explanation": "HIV postexposure prophylaxis works best when started as soon as possible, ideally within 2 hours, and should not be started after 72 hours."
+    },
+    {
+      "id": "rn-safety_infection_control-043",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client with suicidal ideation is admitted to a medical unit. Which item should the nurse remove from the room?",
+      "options": [
+        "The client's paper cup",
+        "A paperback book",
+        "A soft blanket",
+        "A belt and shoelaces"
+      ],
+      "correctIndex": 3,
+      "explanation": "Items that could be used for strangulation or self-harm, such as belts, cords, and shoelaces, should be removed to create a safer environment."
+    },
+    {
+      "id": "rn-safety_infection_control-044",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A barcode scanner will not read a client's identification band before medication administration. What should the nurse do?",
+      "options": [
+        "Replace the band after confirming identity, then scan it",
+        "Override the system and give the medication",
+        "Ask the client to state their name only",
+        "Scan the band taped to the client's door"
+      ],
+      "correctIndex": 0,
+      "explanation": "Workarounds defeat barcode safety. The nurse confirms identity with two identifiers, replaces the band per policy, and scans it before giving the medication."
+    },
+    {
+      "id": "rn-safety_infection_control-045",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client is on airborne precautions for measles. Which staff member should not be assigned to care for this client?",
+      "options": [
+        "A nurse who has never had measles or the vaccine",
+        "A nurse with a positive measles antibody titer",
+        "A nurse who had measles as a child with documentation",
+        "A nurse with documented two doses of MMR vaccine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Only staff with proof of immunity should care for clients with measles. A susceptible nurse could become infected and spread it."
+    },
+    {
+      "id": "rn-safety_infection_control-046",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "During a surgical count, the scrub nurse reports a missing sponge before the incision is closed. What should happen next?",
+      "options": [
+        "Ignore it if the surgery went well",
+        "Notify the surgeon, search for the sponge, and obtain an X-ray per policy if it is not found",
+        "Recount only after the client leaves the operating room",
+        "Close the incision and document the count"
+      ],
+      "correctIndex": 1,
+      "explanation": "A count discrepancy must be resolved before closing to prevent a retained foreign object. An X-ray is used if the item is not found."
+    },
+    {
+      "id": "rn-safety_infection_control-047",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which client is at highest risk for elopement from a long-term care unit?",
+      "options": [
+        "A client with stable heart failure who reads in the lounge",
+        "A client on bed rest with a new stroke",
+        "A client recovering from hip surgery who uses a walker",
+        "A client with Alzheimer's disease who paces near exits"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clients with dementia who wander and seek exits are at high risk for elopement and need close monitoring and secure environments."
+    },
+    {
+      "id": "rn-safety_infection_control-048",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "A health care worker had a tuberculin skin test read at 72 hours. Which result is considered positive for this worker?",
+      "options": [
+        "Redness of 8 mm with no induration",
+        "Induration of 3 mm",
+        "Induration of 12 mm",
+        "Induration of 4 mm"
+      ],
+      "correctIndex": 2,
+      "explanation": "For health care workers, 10 mm or more of induration is positive. Redness without induration is not measured."
+    },
+    {
+      "id": "rn-safety_infection_control-049",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "easy",
+      "question": "Which precaution is used for a hospitalized infant with respiratory syncytial virus (RSV)?",
+      "options": [
+        "Protective isolation",
+        "Airborne precautions",
+        "No precautions beyond hand hygiene",
+        "Contact precautions"
+      ],
+      "correctIndex": 3,
+      "explanation": "RSV spreads mainly by direct contact with secretions and contaminated surfaces, so contact precautions are used along with standard precautions."
+    },
+    {
+      "id": "rn-safety_infection_control-050",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The nurse is caring for a client with temporary epicardial pacing wires. Which action prevents a dangerous electrical injury?",
+      "options": [
+        "Wear gloves when handling the exposed wire ends",
+        "Use ungrounded electrical equipment in the room",
+        "Keep the wire ends uncovered for easy access",
+        "Touch the wires with bare hands to check placement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pacing wires create a direct path to the heart, so tiny currents can cause ventricular fibrillation. The ends are insulated and handled with gloves."
+    },
+    {
+      "id": "rn-safety_infection_control-051",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client with neutropenia from chemotherapy is admitted. Which room assignment is best?",
+      "options": [
+        "A shared room with a client who has pneumonia",
+        "A private room away from clients with infections",
+        "A room next to the soiled utility room",
+        "A shared room with a client with a draining wound"
+      ],
+      "correctIndex": 1,
+      "explanation": "Clients with neutropenia are at high risk of infection and should be placed in private rooms away from infectious clients."
+    },
+    {
+      "id": "rn-safety_infection_control-052",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "Which action by a nurse caring for a client with Clostridioides difficile requires correction?",
+      "options": [
+        "Asking visitors to wash their hands with soap and water",
+        "Using a dedicated thermometer for the client",
+        "Using alcohol-based hand rub after removing gloves as the only hand hygiene",
+        "Wearing a gown and gloves when entering the room"
+      ],
+      "correctIndex": 2,
+      "explanation": "Alcohol rub does not kill C. difficile spores. Hands must be washed with soap and water after care."
+    },
+    {
+      "id": "rn-safety_infection_control-053",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "After a chemical release in the community, the hospital activates its emergency plan. Which action comes first for clients arriving from the scene?",
+      "options": [
+        "Taking a full history before any other step",
+        "Placing them directly in treatment rooms",
+        "Starting IV access in the waiting room",
+        "Decontamination before entering the emergency department"
+      ],
+      "correctIndex": 3,
+      "explanation": "Decontamination outside the department protects staff and other clients from secondary contamination. Life-saving care may be given during decontamination."
+    },
+    {
+      "id": "rn-safety_infection_control-054",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "An older adult client will be going home. Which home safety recommendation is most important for fall prevention?",
+      "options": [
+        "Keep the bedroom dark at night",
+        "Wear loose slippers at home",
+        "Remove loose throw rugs and keep pathways well lit",
+        "Use a step stool to reach high shelves"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loose rugs, clutter, and poor lighting are common causes of falls at home. Night lights and clear paths reduce the risk."
+    },
+    {
+      "id": "rn-safety_infection_control-055",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "A client with suspected smallpox is admitted. Which precautions should be in place?",
+      "options": [
+        "Standard precautions only",
+        "Airborne and contact precautions",
+        "Contact precautions only",
+        "Droplet precautions only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Smallpox spreads by airborne particles and contact with lesions or contaminated items, so both airborne and contact precautions are used."
+    },
+    {
+      "id": "rn-safety_infection_control-056",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "The nurse is about to give a high-alert medication, an insulin infusion. Which safety practice is recommended?",
+      "options": [
+        "An independent double check by another nurse",
+        "Mixing the insulin in the bag at the bedside without checking",
+        "Giving the dose without checking a glucose level",
+        "Using the same pump settings as the last client"
+      ],
+      "correctIndex": 0,
+      "explanation": "Independent double checks for high-alert medications, such as insulin and heparin infusions, help catch calculation and pump-programming errors."
+    },
+    {
+      "id": "rn-safety_infection_control-057",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "medium",
+      "question": "While caring for a client, the nurse moves from cleaning the perineal area to suctioning the mouth. What should the nurse do between these tasks?",
+      "options": [
+        "Rinse the gloves with water",
+        "Remove gloves, perform hand hygiene, and put on clean gloves",
+        "Continue with the same gloves",
+        "Wipe the gloves with an alcohol pad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Changing gloves and performing hand hygiene when moving from a dirty to a clean body site prevents cross-contamination."
+    },
+    {
+      "id": "rn-safety_infection_control-058",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "The RN is assigning rooms for four new admissions with only one private room available. Which client should receive the private room?",
+      "options": [
+        "A client with pulmonary tuberculosis that is suspected but not confirmed",
+        "A client with a stable fractured femur",
+        "A client with a urinary tract infection",
+        "A client with heart failure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suspected TB requires an airborne infection isolation room until it is ruled out. The other clients need only standard precautions."
+    },
+    {
+      "id": "rn-safety_infection_control-059",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client in four-point restraints for violent behavior has been restrained for 4 hours. Which action is required to continue the restraints?",
+      "options": [
+        "Asking the family for permission",
+        "Continuing without a new order",
+        "Removing the restraints and replacing them without an order",
+        "A new order after the client is reassessed by a licensed independent practitioner or as policy allows"
+      ],
+      "correctIndex": 3,
+      "explanation": "Violent-behavior restraints for adults require a time-limited order, usually up to 4 hours, renewed only after reassessment. Restraints are removed as soon as the client is safe."
+    },
+    {
+      "id": "rn-safety_infection_control-060",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "Clients from a mass-casualty event arrive. Using START triage, a walking client with a minor laceration is tagged with which color?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Green",
+        "Black"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clients who can walk are tagged green (minor). They can wait for care while more critical clients are treated."
+    },
+    {
+      "id": "rn-safety_infection_control-061",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A nurse caring for a client with suspected Ebola virus disease removes PPE. Which practice is essential?",
+      "options": [
+        "Touching the outside of the face shield to remove it",
+        "Removing PPE quickly without help",
+        "Reusing the gown for the next visit",
+        "Following a step-by-step doffing process watched by a trained observer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Most exposure risk occurs during removal of PPE. A trained observer guides each step and watches for contamination."
+    },
+    {
+      "id": "rn-safety_infection_control-062",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "The nurse finds that a client on a heparin infusion received a bag mixed at twice the ordered concentration for 2 hours. What is the priority action?",
+      "options": [
+        "Stop the infusion and assess the client for bleeding",
+        "Call the pharmacy to ask how it happened",
+        "Complete an incident report first",
+        "Slow the rate by half and continue"
+      ],
+      "correctIndex": 0,
+      "explanation": "The client's safety comes first: stop the overdose, check for bleeding, and notify the provider, who may order an aPTT or protamine. Reporting follows."
+    },
+    {
+      "id": "rn-safety_infection_control-063",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client with a seizure disorder is admitted. Which set of precautions is most appropriate?",
+      "options": [
+        "Restraints on all four limbs",
+        "Keeping the client in a chair at all times",
+        "Bed in low position, padded side rails per policy, and suction and oxygen at the bedside",
+        "A tongue blade taped to the head of the bed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seizure precautions include a low bed, padding, and suction and oxygen available. Nothing should be placed in the client's mouth during a seizure."
+    },
+    {
+      "id": "rn-safety_infection_control-064",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client is receiving brachytherapy with a sealed radioactive implant. A pregnant nurse is assigned to this client. What should the charge nurse do?",
+      "options": [
+        "Allow the assignment if the nurse wears a lead apron",
+        "Reassign the client to a nurse who is not pregnant",
+        "Let the nurse decide",
+        "Allow the assignment for short visits only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pregnant staff should not care for clients with radioactive implants because of the risk of radiation exposure to the fetus."
+    },
+    {
+      "id": "rn-safety_infection_control-065",
+      "track": "rn",
+      "category": "safety_infection_control",
+      "difficulty": "hard",
+      "question": "A client with suspected bacterial meningitis is admitted and a lumbar puncture is planned. When may droplet precautions usually be stopped?",
+      "options": [
+        "As soon as the client is afebrile",
+        "After the lumbar puncture is done",
+        "Only at discharge",
+        "After 24 hours of effective antibiotic therapy"
+      ],
+      "correctIndex": 3,
+      "explanation": "For meningococcal disease, droplet precautions continue until the client has received 24 hours of effective antibiotic therapy."
     }
   ]
 }
