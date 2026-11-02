@@ -12,8 +12,8 @@
       "options": [
         "\"Tell me more about how you've been feeling.\"",
         "\"You should talk to your doctor about that.\"",
-        "\"Why did you stop taking your medication?\"",
-        "\"Don't worry, everything will be fine.\""
+        "\"Why did you stop taking your medication when you were told to?\"",
+        "\"Don't worry, everything will be fine once you get some rest.\""
       ],
       "correctIndex": 0,
       "explanation": "Open-ended prompts encourage the client to share feelings. False reassurance, \"why\" questions, and deflecting are nontherapeutic."
@@ -26,9 +26,9 @@
       "question": "A client hospitalized for severe depression suddenly seems calm and starts giving away personal belongings. What should the nurse do?",
       "options": [
         "Plan for early discharge",
-        "Reduce the level of observation",
+        "Reduce the level of observation since the client seems calm",
         "Ask the client directly about thoughts of suicide",
-        "Praise the client for the improved mood"
+        "Praise the client for the improved mood and reduce supervision"
       ],
       "correctIndex": 2,
       "explanation": "A sudden lift in mood and giving away possessions can mean the client has decided on a suicide plan. The nurse asks directly and keeps the client safe."
@@ -41,9 +41,9 @@
       "question": "A client with a history of heavy alcohol use was admitted 48 hours ago. Which finding needs immediate action?",
       "options": [
         "Tremors, visual hallucinations, and a temperature of 101.8°F (38.8°C)",
-        "Sleeping through the night",
-        "Asking for coffee",
-        "Mild anxiety"
+        "Sleeping through the night without waking or complaining of symptoms",
+        "Asking for coffee and a snack between meals each morning",
+        "Mild anxiety and difficulty falling asleep, with normal vital signs"
       ],
       "correctIndex": 0,
       "explanation": "Hallucinations, autonomic hyperactivity, and fever 48 to 72 hours after the last drink suggest delirium tremens, a medical emergency."
@@ -55,10 +55,10 @@
       "difficulty": "easy",
       "question": "A client who was criticized by a supervisor comes home and yells at their children. Which defense mechanism is this?",
       "options": [
-        "Sublimation",
-        "Displacement",
-        "Denial",
-        "Projection"
+        "Sublimation (channeling impulses into acceptable activity)",
+        "Displacement (shifting anger to a safer target)",
+        "Denial (refusing to accept reality)",
+        "Projection (attributing one's own feelings to someone else)"
       ],
       "correctIndex": 1,
       "explanation": "Displacement shifts emotions from the real source onto a safer target."
@@ -85,9 +85,9 @@
       "difficulty": "medium",
       "question": "Which approach is best for a client having a severe anxiety attack?",
       "options": [
-        "Teach relaxation techniques in detail",
-        "Encourage the client to talk about the cause",
-        "Use short, simple sentences and stay with the client in a calm environment",
+        "Teach relaxation techniques in detail while the client is still panicking",
+        "Encourage the client to talk at length about the cause of the anxiety right now",
+        "Use short, simple sentences and stay with the client in a calm setting",
         "Leave the client alone to calm down"
       ],
       "correctIndex": 2,
@@ -102,8 +102,8 @@
       "options": [
         "Ask the child who hurt them in front of the parents",
         "Wait until there is proof",
-        "Report the suspected abuse according to state law and facility policy",
-        "Confront the parents"
+        "Report the suspected abuse per state law and facility policy",
+        "Confront the parents about the injuries"
       ],
       "correctIndex": 2,
       "explanation": "Nurses are mandated reporters. Reasonable suspicion of child abuse must be reported. Proof isn't required."
@@ -116,9 +116,9 @@
       "question": "A client with dementia becomes agitated and insists on going home to \"feed the children.\" What is the best response?",
       "options": [
         "\"Tell me about your children. Let's walk to the lounge together.\"",
-        "\"Your children are grown and live far away.\"",
+        "\"Your children are grown and live far away, so you don't need to go.\"",
         "\"You can't leave the facility.\"",
-        "\"If you don't calm down, you'll need medicine.\""
+        "\"If you don't calm down right now, you'll need to have some medicine.\""
       ],
       "correctIndex": 0,
       "explanation": "Validation and redirection reduce agitation in dementia better than arguing or repeatedly correcting the client's reality."
@@ -130,10 +130,10 @@
       "difficulty": "medium",
       "question": "A client with schizophrenia says, \"The voices are telling me I'm evil.\" Which response is most therapeutic?",
       "options": [
-        "\"I don't hear voices, but you seem frightened. Let's talk about it.\"",
-        "\"Ignore them and they'll go away.\"",
+        "\"I don't hear voices, but you seem frightened. Let's talk.\"",
+        "\"Ignore them and they'll go away on their own after a while.\"",
         "\"What else do the voices say about you?\"",
-        "\"Those voices aren't real.\""
+        "\"Those voices aren't real, so there's no reason to be afraid of them.\""
       ],
       "correctIndex": 0,
       "explanation": "Present reality without arguing, acknowledge the client's feelings, and focus on what is real. Don't reinforce the hallucination."
@@ -146,9 +146,9 @@
       "question": "A client in acute mania won't sit down to eat. Which intervention is best?",
       "options": [
         "Offer high-calorie finger foods the client can eat while moving",
-        "Insist the client eat at the table",
-        "Hold meals until the client calms down",
-        "Serve three large meals"
+        "Insist the client sit at the table until the whole meal is finished",
+        "Hold meals until the client calms down and agrees to sit at the table",
+        "Serve three large meals at the table at set times"
       ],
       "correctIndex": 0,
       "explanation": "Hyperactive clients burn large amounts of calories. Portable, high-calorie finger foods help them meet their nutritional needs."
@@ -162,8 +162,8 @@
       "options": [
         "Observe the client for at least 1 hour after the meal",
         "Praise the client's weight loss",
-        "Let the client go to the bathroom right away",
-        "Encourage exercise to help digestion"
+        "Let the client go to the bathroom right away after the meal",
+        "Encourage exercise to help digestion and to burn off the extra calories"
       ],
       "correctIndex": 0,
       "explanation": "Observation after meals helps prevent purging and compensatory behaviors such as excessive exercise."
@@ -175,10 +175,10 @@
       "difficulty": "hard",
       "question": "A client with borderline personality disorder asks the nurse to bend unit rules, saying other staff do. What is the best approach?",
       "options": [
-        "Enforce the rules consistently, as the whole team has agreed",
-        "Make an exception to build trust",
+        "Enforce the rules consistently, as agreed by the whole team",
+        "Make an exception this once to build trust with the client over time",
         "Avoid the client",
-        "Tell the client which staff members are breaking rules"
+        "Tell the client which staff members are breaking the unit rules"
       ],
       "correctIndex": 0,
       "explanation": "Consistent limits applied by all staff reduce splitting and manipulation and give the client structure."
@@ -207,8 +207,8 @@
       "options": [
         "Temporary confusion and short-term memory loss",
         "Hypertensive crisis",
-        "Paralysis of one side",
-        "Permanent memory loss"
+        "Paralysis of one side of the body lasting several days",
+        "Permanent memory loss for events before the treatment"
       ],
       "correctIndex": 0,
       "explanation": "Brief confusion and short-term memory loss are common after ECT and usually go away over time."
@@ -220,8 +220,8 @@
       "difficulty": "medium",
       "question": "Which findings are consistent with opioid withdrawal?",
       "options": [
-        "Pinpoint pupils and drowsiness",
-        "Respiratory depression and bradycardia",
+        "Pinpoint pupils, drowsiness, and slowed breathing with constipation",
+        "Respiratory depression, bradycardia, and a decreased level of consciousness",
         "Euphoria and slurred speech",
         "Yawning, runny nose, dilated pupils, and muscle aches"
       ],
@@ -237,8 +237,8 @@
       "options": [
         "\"Why do you feel that way?\"",
         "\"You feel unsure about what to do.\"",
-        "\"Everything will be fine.\"",
-        "\"You should talk to your family.\""
+        "\"Everything will be fine, so there's no need to worry.\"",
+        "\"You should talk to your family and ask what they think.\""
       ],
       "correctIndex": 1,
       "explanation": "Reflection repeats the client's feelings or ideas back so the client can explore them further. False reassurance and advice block communication."
@@ -250,9 +250,9 @@
       "difficulty": "easy",
       "question": "Which defense mechanism is shown when a client who failed an exam says, \"The test was unfair anyway\"?",
       "options": [
-        "Conversion",
-        "Repression",
-        "Sublimation",
+        "Conversion (physical symptoms)",
+        "Repression (unconscious forgetting)",
+        "Sublimation (redirecting energy)",
         "Rationalization"
       ],
       "correctIndex": 3,
@@ -267,8 +267,8 @@
       "options": [
         "Sudden loss of hearing",
         "Crying, trouble sleeping, and missing the person",
-        "Seeing flashing lights",
-        "A rash on both hands"
+        "Seeing flashing lights and floaters in both eyes all day",
+        "A rash on both hands that appears in the first week"
       ],
       "correctIndex": 1,
       "explanation": "Normal grief often includes sadness, crying, sleep changes, and yearning. Grief that is prolonged and disabling may need further evaluation."
@@ -295,9 +295,9 @@
       "difficulty": "medium",
       "question": "A client who was in a serious car crash 2 months ago has nightmares, flashbacks, and avoids driving. Which condition do these findings suggest?",
       "options": [
-        "Bipolar disorder",
+        "Bipolar I disorder, manic episode",
         "Schizophrenia",
-        "Generalized anxiety disorder",
+        "Generalized anxiety disorder (GAD)",
         "Post-traumatic stress disorder"
       ],
       "correctIndex": 3,
@@ -312,7 +312,7 @@
       "options": [
         "\"Why would you do such a thing?\"",
         "\"Don't you know how much your family loves you?\"",
-        "\"Are you having thoughts of harming yourself right now?\"",
+        "\"Are you thinking about harming yourself right now?\"",
         "\"Have you thought about your future plans?\""
       ],
       "correctIndex": 2,
@@ -326,9 +326,9 @@
       "question": "A client with alcohol use disorder is starting disulfiram. Which instruction is most important?",
       "options": [
         "Alcohol is safe after 1 hour",
-        "Avoid all alcohol, including in mouthwash, cough syrups, and sauces",
-        "Drink only beer while taking the medication",
-        "Take the medication only when craving alcohol"
+        "Avoid all alcohol, including mouthwash, cough syrups, and sauces",
+        "Drink only beer or wine while taking the medication, not hard liquor",
+        "Take the medication only when you are craving alcohol, not every day"
       ],
       "correctIndex": 1,
       "explanation": "Disulfiram causes a severe reaction with even small amounts of alcohol, including hidden sources. The reaction can occur up to 2 weeks after the last dose."
@@ -341,9 +341,9 @@
       "question": "Which statement by a client shows the use of the defense mechanism projection?",
       "options": [
         "\"I can't remember the accident at all.\"",
-        "\"I'm fine,\" said after receiving bad news",
-        "\"I'll work out at the gym when I'm angry.\"",
-        "\"My coworkers don't like me,\" said by a client who dislikes the coworkers"
+        "\"I'm fine,\" said by a client after receiving very bad news about a diagnosis",
+        "\"I'll work out at the gym when I'm angry or stressed about work.\"",
+        "\"My coworkers don't like me,\" said by someone who dislikes them"
       ],
       "correctIndex": 3,
       "explanation": "Projection is attributing one's own unacceptable feelings to another person. Sublimation, repression, and denial are shown by the other statements."
@@ -355,9 +355,9 @@
       "difficulty": "medium",
       "question": "During a crisis, a client is crying and can't focus on what the nurse is saying. What is the nurse's first goal?",
       "options": [
-        "Refer the client to long-term psychoanalysis",
-        "Explore childhood experiences in depth",
-        "Ensure the client's safety and help the client return to the previous level of functioning",
+        "Refer the client to long-term psychoanalysis for the underlying conflict",
+        "Explore early childhood experiences to find the cause of the crisis",
+        "Ensure the client's safety and help restore the previous level of functioning",
         "Teach long-term coping strategies right away"
       ],
       "correctIndex": 2,
@@ -370,10 +370,10 @@
       "difficulty": "medium",
       "question": "A client with a new diagnosis of HIV says, \"My life is over.\" Which response by the nurse is best?",
       "options": [
-        "\"You shouldn't feel that way.\"",
+        "\"You shouldn't feel that way; try to stay positive about it.\"",
         "\"This news is a lot to take in. Tell me what worries you most.\"",
-        "\"Don't worry, there are good medications.\"",
-        "\"Lots of people have HIV.\""
+        "\"Don't worry, there are good medications that will fix everything.\"",
+        "\"Lots of people have HIV, so you'll be fine soon.\""
       ],
       "correctIndex": 1,
       "explanation": "Acknowledging feelings and inviting the client to share concerns is therapeutic. Minimizing or dismissing feelings blocks communication."
@@ -386,9 +386,9 @@
       "question": "Which finding is most consistent with generalized anxiety disorder?",
       "options": [
         "Elevated mood with decreased need for sleep",
-        "A sudden episode of fear lasting minutes after a trigger",
+        "A sudden episode of intense fear lasting minutes",
         "Hearing voices that comment on behavior",
-        "Excessive worry about many things on most days for at least 6 months"
+        "Excessive worry about many things on most days for 6 months or more"
       ],
       "correctIndex": 3,
       "explanation": "GAD involves persistent, hard-to-control worry with symptoms such as restlessness, fatigue, and poor concentration."
@@ -401,9 +401,9 @@
       "question": "A client with depression started sertraline 1 week ago and says, \"It isn't working.\" Which response is most accurate?",
       "options": [
         "\"Double the dose on your own.\"",
-        "\"Stop it and we'll try something else.\"",
-        "\"It may take 2 to 6 weeks to feel the full benefit, so keep taking it and tell us about any side effects.\"",
-        "\"If it doesn't work by tomorrow, it never will.\""
+        "\"Stop it and we'll try something else, since a week is long enough.\"",
+        "\"It may take 2 to 6 weeks to feel the full effect, so keep taking it and report side effects.\"",
+        "\"If it doesn't work by tomorrow, it never will, so we should switch drugs now.\""
       ],
       "correctIndex": 2,
       "explanation": "SSRIs often take several weeks for full antidepressant effect. Clients are monitored for worsening depression or suicidal thoughts, especially early in treatment."
@@ -416,9 +416,9 @@
       "question": "A client in the emergency department says, \"My partner hit me, but I can't leave—I have nowhere to go.\" What is the most important nursing action?",
       "options": [
         "Document only and discharge the client",
-        "Tell the client to leave the partner immediately",
-        "Call the partner to discuss the problem",
-        "Help the client make a safety plan and provide information about shelters and hotlines"
+        "Tell the client to leave the partner immediately and never return to the home or the area",
+        "Call the partner to discuss the problem and hear his side of the story before deciding",
+        "Help the client make a safety plan and share information on shelters and hotlines"
       ],
       "correctIndex": 3,
       "explanation": "The nurse supports the client's choices while helping with a safety plan and community resources. Pressuring the client or contacting the abuser can increase danger."
@@ -430,10 +430,10 @@
       "difficulty": "hard",
       "question": "A client with a history of opioid use disorder is in severe pain after surgery. Which approach is most appropriate?",
       "options": [
-        "Withhold all opioids to prevent relapse",
-        "Treat the pain adequately while monitoring closely and involving the care team",
-        "Give only placebo injections",
-        "Tell the client pain is part of recovery"
+        "Withhold all opioids to prevent relapse and use acetaminophen only",
+        "Treat the pain adequately while monitoring closely with the care team",
+        "Give only placebo injections to avoid exposing the client to opioids",
+        "Tell the client pain is part of recovery and must be tolerated"
       ],
       "correctIndex": 1,
       "explanation": "Clients with substance use disorders have the right to effective pain control. A multimodal plan with close monitoring treats pain safely."
@@ -520,10 +520,10 @@
       "difficulty": "easy",
       "question": "Which statement is an example of a client's use of the defense mechanism 'regression'?",
       "options": [
-        "A client who blames others for mistakes",
-        "A 7-year-old who was toilet trained begins bedwetting after a sibling is born",
-        "A client who acts overly friendly toward someone they dislike",
-        "An adult who jogs when stressed"
+        "A client who blames others for personal mistakes at work",
+        "A toilet-trained 7-year-old begins bedwetting after a sibling is born",
+        "A client who acts overly friendly toward someone they secretly dislike",
+        "An adult who jogs several miles when feeling stressed"
       ],
       "correctIndex": 1,
       "explanation": "Regression is returning to an earlier developmental behavior during stress."
@@ -535,10 +535,10 @@
       "difficulty": "easy",
       "question": "A client is admitted voluntarily to a psychiatric unit. Which right does this client have?",
       "options": [
-        "No right to make phone calls",
-        "No right to refuse medications",
-        "No right to see visitors",
-        "The right to request discharge according to state law and facility policy"
+        "No right to make phone calls during the hospital stay",
+        "No right to refuse medications while admitted to the psychiatric unit",
+        "No right to see visitors during the stay on the unit",
+        "The right to request discharge per state law and facility policy"
       ],
       "correctIndex": 3,
       "explanation": "Voluntary clients keep their civil rights, including requesting discharge. The facility may hold them briefly for evaluation according to state law."
@@ -580,8 +580,8 @@
       "difficulty": "medium",
       "question": "A client taking an antipsychotic has a temperature of 40 C (104 F), severe muscle rigidity, and fluctuating blood pressure. What is the priority action?",
       "options": [
-        "Give the next scheduled dose",
-        "Encourage the client to exercise",
+        "Give the next scheduled dose and recheck the temperature later",
+        "Encourage the client to exercise to relieve the muscle stiffness",
         "Stop the antipsychotic and notify the provider immediately",
         "Apply warm blankets"
       ],
@@ -595,9 +595,9 @@
       "difficulty": "medium",
       "question": "A client with alcohol withdrawal is being monitored with the CIWA-Ar scale. What is the purpose of this tool?",
       "options": [
-        "To measure blood alcohol level",
-        "To diagnose liver failure",
-        "To assess for depression",
+        "To measure the client's blood alcohol level on admission",
+        "To diagnose liver failure related to alcohol use",
+        "To assess for depression related to alcohol use",
         "To guide symptom-triggered dosing of benzodiazepines"
       ],
       "correctIndex": 3,
@@ -610,10 +610,10 @@
       "difficulty": "medium",
       "question": "A client in a manic phase is talking rapidly and interrupting group therapy. Which intervention is best?",
       "options": [
-        "Allow the client to stay up all night",
-        "Encourage the client to lead the group",
-        "Provide a quiet, low-stimulation environment and redirect the client",
-        "Ask the client to compete in a team game"
+        "Allow the client to stay up all night to burn off the energy",
+        "Encourage the client to lead the group discussion for a while",
+        "Provide a quiet, low-stimulation setting and redirect the client",
+        "Ask the client to compete in a fast team game to use up extra energy"
       ],
       "correctIndex": 2,
       "explanation": "Reducing stimulation and setting calm limits help clients in mania regain control. Competitive or stimulating activities increase agitation."
@@ -627,7 +627,7 @@
       "options": [
         "Argue with the client about the behavior",
         "Speak calmly, keep a safe distance, and offer choices",
-        "Place the client in restraints immediately",
+        "Place the client in restraints immediately to prevent injury",
         "Turn your back to show you are not a threat"
       ],
       "correctIndex": 1,
@@ -672,8 +672,8 @@
       "options": [
         "The client loses all civil rights",
         "The client may not have any visitors at all",
-        "The client keeps rights such as communication with an attorney and humane care",
-        "The client cannot refuse any treatment under any circumstance"
+        "The client keeps rights, such as legal counsel and humane treatment",
+        "The client cannot refuse any treatment under any circumstance while committed"
       ],
       "correctIndex": 2,
       "explanation": "Involuntarily committed clients retain many rights, including legal counsel, humane treatment, and in many cases the right to refuse some treatments unless a court rules otherwise."
@@ -685,10 +685,10 @@
       "difficulty": "medium",
       "question": "Which statement by a client with obsessive-compulsive disorder shows progress?",
       "options": [
-        "\"I've cut down my hand washing from 20 times to 10 times before leaving.\"",
+        "\"I've cut my hand washing from 20 times to 10 before leaving.\"",
         "\"I don't feel anxious, so I'll stop therapy.\"",
         "\"I stopped going out so I won't need to check.\"",
-        "\"I can't leave until I check the door 30 times.\""
+        "\"I can't leave until I check the door 30 times each morning.\""
       ],
       "correctIndex": 0,
       "explanation": "Gradually reducing rituals while managing anxiety shows progress in OCD treatment."
@@ -700,10 +700,10 @@
       "difficulty": "medium",
       "question": "A client with dementia keeps asking for her late husband. Which approach is most appropriate?",
       "options": [
-        "Ignore her questions",
-        "Remind her repeatedly that her husband has died",
-        "Tell her he will come later",
-        "Acknowledge her feelings and talk about her husband, then redirect"
+        "Ignore her questions and continue with the care routine",
+        "Remind her repeatedly that her husband has died and will not return",
+        "Tell her he will come later today to visit with her",
+        "Acknowledge her feelings, talk about her husband, then redirect"
       ],
       "correctIndex": 3,
       "explanation": "Validation acknowledges the emotion behind the request without causing repeated grief. Lying or repeated reorientation can increase distress."
@@ -715,10 +715,10 @@
       "difficulty": "easy",
       "question": "Which finding suggests that a client taking lithium may be developing toxicity?",
       "options": [
-        "Improved sleep",
+        "Improved sleep and a calmer mood",
         "Coarse tremor, vomiting, and confusion",
-        "Weight loss and dry mouth only",
-        "Mild thirst during the first week"
+        "Weight loss and dry mouth only, with no tremor",
+        "Mild thirst during the first week of therapy"
       ],
       "correctIndex": 1,
       "explanation": "Coarse tremor, persistent GI symptoms, confusion, and ataxia suggest lithium toxicity and require holding the dose and checking a level."
@@ -745,9 +745,9 @@
       "difficulty": "medium",
       "question": "A client receiving long-term antipsychotic therapy has lip smacking and tongue thrusting. What should the nurse do?",
       "options": [
-        "Tell the client this is a sign of improvement",
+        "Tell the client this is a sign of improvement and continue",
         "Give an extra dose of the antipsychotic",
-        "Assess with the AIMS tool and report the findings to the provider",
+        "Assess with the AIMS tool and report to the provider",
         "Ignore it because it is temporary"
       ],
       "correctIndex": 2,
@@ -805,10 +805,10 @@
       "difficulty": "medium",
       "question": "A client who was sexually assaulted arrives at the emergency department. What is a priority nursing action?",
       "options": [
-        "Have the client shower before the exam",
-        "Provide privacy and support, and preserve evidence according to protocol",
-        "Question the client in the waiting room",
-        "Ask the client why they were in that place"
+        "Have the client shower before the exam to feel more comfortable",
+        "Provide privacy and support, and preserve evidence per protocol",
+        "Question the client in the waiting room about what happened",
+        "Ask the client why they were in that place at that time of night"
       ],
       "correctIndex": 1,
       "explanation": "The nurse provides emotional support and privacy and preserves evidence, often with a sexual assault nurse examiner. Bathing can destroy evidence."
@@ -820,10 +820,10 @@
       "difficulty": "medium",
       "question": "A client in alcohol withdrawal has a heart rate of 118/min, tremors, and sweating 24 hours after the last drink. What should the nurse expect to give?",
       "options": [
-        "Disulfiram",
-        "Haloperidol only",
+        "Disulfiram to prevent the next drink",
+        "Haloperidol only, without any sedative",
         "A benzodiazepine such as lorazepam",
-        "Naloxone"
+        "Naloxone to reverse the withdrawal"
       ],
       "correctIndex": 2,
       "explanation": "Benzodiazepines treat alcohol withdrawal symptoms and help prevent seizures and delirium tremens."
@@ -835,9 +835,9 @@
       "difficulty": "medium",
       "question": "A child who was told they will have surgery tomorrow is quiet and holding a stuffed toy. Which intervention is most appropriate for a 5-year-old?",
       "options": [
-        "Give a detailed written handout",
-        "Avoid talking about the surgery",
-        "Show a video of the operation",
+        "Give a detailed written handout describing each step of the operation",
+        "Avoid talking about the surgery until the day of the procedure",
+        "Show a video of the operation with the sound turned up",
         "Use therapeutic play with dolls to explain what will happen"
       ],
       "correctIndex": 3,
@@ -865,10 +865,10 @@
       "difficulty": "hard",
       "question": "A client with depression who has been withdrawn suddenly appears more energetic 10 days after starting an antidepressant. Which action is most important?",
       "options": [
-        "Reduce monitoring because the client is improving",
+        "Reduce monitoring because the client appears to be improving quickly",
         "Increase suicide observation and assess for suicidal thoughts",
-        "Give the client a pass to go home",
-        "Stop the medication"
+        "Give the client a pass to go home for the weekend",
+        "Stop the medication because the client is now improving"
       ],
       "correctIndex": 1,
       "explanation": "As energy improves before mood does, clients may have the energy to act on suicidal plans. Close monitoring is needed."
@@ -883,7 +883,7 @@
         "The UAP leaves the client alone in the bathroom for privacy",
         "The UAP stays within arm's length",
         "The UAP documents the client's behavior",
-        "The UAP checks the room for sharp objects"
+        "The UAP checks the room for sharp objects at the start of the shift"
       ],
       "correctIndex": 0,
       "explanation": "One-to-one observation means the client is never left unattended, including in the bathroom, to prevent self-harm."
@@ -895,10 +895,10 @@
       "difficulty": "hard",
       "question": "A client with borderline personality disorder cuts their arm superficially after a disagreement with staff. What is the priority?",
       "options": [
-        "Seclude the client for 24 hours",
-        "Ignore the injury so the behavior isn't reinforced",
-        "Treat the wound in a calm, matter-of-fact way and assess suicide risk",
-        "Lecture the client about the behavior"
+        "Seclude the client for 24 hours until the behavior stops",
+        "Ignore the injury so the behavior isn't reinforced by staff attention",
+        "Treat the wound calmly and matter-of-factly and assess suicide risk",
+        "Lecture the client about the behavior and its consequences"
       ],
       "correctIndex": 2,
       "explanation": "Self-injury is treated without excess attention or punishment, and the nurse assesses safety. Later, the client is helped to use other coping skills."
@@ -925,10 +925,10 @@
       "difficulty": "hard",
       "question": "A client taking lithium has a level of 2.1 mEq/L, diarrhea, and confusion. What does the nurse anticipate?",
       "options": [
-        "Giving the next dose as scheduled",
-        "Holding lithium and preparing for treatments such as IV fluids or hemodialysis",
-        "Restricting fluids and sodium",
-        "Giving lithium with food"
+        "Giving the next dose as scheduled and rechecking the level tomorrow",
+        "Holding lithium and preparing for IV fluids or hemodialysis",
+        "Restricting fluids and sodium to concentrate the lithium level",
+        "Giving lithium with food to reduce stomach upset"
       ],
       "correctIndex": 1,
       "explanation": "Lithium at 2.1 mEq/L with neurologic symptoms is moderate to severe toxicity. The drug is stopped, fluids are given, and dialysis may be needed."
@@ -940,10 +940,10 @@
       "difficulty": "hard",
       "question": "A client experiencing a panic attack is breathing rapidly and says, \"I'm going to die.\" Which response is best?",
       "options": [
-        "\"Let's talk about your childhood.\"",
-        "\"Explain why you are panicking.\"",
+        "\"Let's talk about your childhood and your fears.\"",
+        "\"Explain why you are panicking right now.\"",
         "\"I'll stay with you. Breathe slowly with me.\"",
-        "\"There's nothing wrong with you.\""
+        "\"There's nothing wrong with you, so calm down.\""
       ],
       "correctIndex": 2,
       "explanation": "During panic, the nurse stays with the client, uses short, calm statements, and helps slow breathing. Insight-oriented discussion comes later."
@@ -956,9 +956,9 @@
       "question": "A client with antisocial personality disorder tries to get special privileges by flattering the nurse. What is the best response?",
       "options": [
         "Set clear, consistent limits and enforce consequences",
-        "Grant the privilege to build rapport",
-        "Avoid the client completely",
-        "Let other clients decide"
+        "Grant the privilege this once to build rapport with the client",
+        "Avoid the client completely until the behavior stops",
+        "Let other clients decide whether to grant the request"
       ],
       "correctIndex": 0,
       "explanation": "Clients with antisocial traits may manipulate. Consistent limits from all staff reduce manipulation."
@@ -970,10 +970,10 @@
       "difficulty": "hard",
       "question": "A child's parent died 2 weeks ago. The child, 8 years old, asks, \"Will I die too?\" What is the most appropriate response?",
       "options": [
-        "Say the parent is only sleeping",
-        "Tell the child not to talk about death",
-        "Answer honestly in simple terms and reassure the child about who will care for them",
-        "Change the subject to school"
+        "Say the parent is only sleeping and will wake up soon",
+        "Tell the child not to talk about death because it will upset the family",
+        "Answer honestly in simple terms and reassure the child about their care",
+        "Change the subject to school and the upcoming holidays"
       ],
       "correctIndex": 2,
       "explanation": "School-age children understand death is permanent. Honest, concrete answers and reassurance about care and safety are helpful; euphemisms like 'sleeping' cause fear."

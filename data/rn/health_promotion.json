@@ -11,8 +11,8 @@
       "question": "According to Erikson, which developmental task belongs to a 2-year-old?",
       "options": [
         "Autonomy vs. shame and doubt",
-        "Industry vs. inferiority",
-        "Trust vs. mistrust",
+        "Industry vs. inferiority (mastery of skills)",
+        "Trust vs. mistrust (basic security)",
         "Initiative vs. guilt"
       ],
       "correctIndex": 0,
@@ -28,7 +28,7 @@
         "4 months",
         "6 months",
         "12 months",
-        "18 months"
+        "18 months or longer"
       ],
       "correctIndex": 2,
       "explanation": "Infants usually double their birth weight by 5 to 6 months and triple it by about 12 months."
@@ -55,7 +55,7 @@
       "difficulty": "medium",
       "question": "Which vaccine is contraindicated during pregnancy?",
       "options": [
-        "Inactivated influenza",
+        "Inactivated influenza (flu shot)",
         "COVID-19 mRNA",
         "MMR (measles, mumps, rubella)",
         "Tdap"
@@ -86,8 +86,8 @@
       "question": "Why is folic acid supplementation recommended before and during early pregnancy?",
       "options": [
         "To prevent gestational diabetes",
-        "To prevent anemia of prematurity",
-        "To improve breast milk production",
+        "To prevent anemia of prematurity in the newborn",
+        "To improve breast milk production in the first week after birth",
         "To reduce the risk of neural tube defects"
       ],
       "correctIndex": 3,
@@ -102,8 +102,8 @@
       "options": [
         "Identity vs. role confusion",
         "Industry vs. inferiority",
-        "Intimacy vs. isolation",
-        "Generativity vs. stagnation"
+        "Intimacy vs. isolation (forming partnerships)",
+        "Generativity vs. stagnation (guiding the next generation)"
       ],
       "correctIndex": 0,
       "explanation": "Adolescents work toward identity vs. role confusion as they form a sense of self."
@@ -115,10 +115,10 @@
       "difficulty": "medium",
       "question": "A healthy 55-year-old asks which vaccine is recommended for their age. Which vaccine is routinely recommended for adults 50 and older?",
       "options": [
-        "HPV vaccine",
+        "Human papillomavirus (HPV) vaccine series",
         "Recombinant zoster (shingles) vaccine",
-        "BCG vaccine",
-        "Rotavirus vaccine"
+        "BCG vaccine (tuberculosis)",
+        "Rotavirus oral vaccine series"
       ],
       "correctIndex": 1,
       "explanation": "The two-dose recombinant zoster vaccine is recommended for immunocompetent adults 50 and older to prevent shingles and postherpetic neuralgia."
@@ -178,7 +178,7 @@
         "Have the client push with the next contraction",
         "Prepare for immediate delivery",
         "Stop the oxytocin and turn the client onto her side",
-        "Increase the oxytocin rate"
+        "Increase the oxytocin rate to speed up delivery"
       ],
       "correctIndex": 2,
       "explanation": "Late decelerations point to uteroplacental insufficiency. Stop the oxytocin, reposition to the side, give IV fluids and oxygen as indicated, and notify the provider."
@@ -191,8 +191,8 @@
       "question": "The nurse teaches a 17-year-old male about testicular self-examination. Which instruction is correct?",
       "options": [
         "Start at age 40",
-        "Do it only if pain develops",
-        "Do it once a year",
+        "Do it only if pain or swelling develops",
+        "Do it once a year at the annual physical",
         "Do it monthly after a warm shower"
       ],
       "correctIndex": 3,
@@ -205,10 +205,10 @@
       "difficulty": "medium",
       "question": "What should the nurse teach parents about car seat safety for a toddler?",
       "options": [
-        "Keep the child rear-facing as long as possible, until the seat's height or weight limit",
+        "Keep the child rear-facing as long as possible, up to the seat's limits",
         "Use a booster seat starting at age 2",
-        "Turn the seat forward-facing at 12 months",
-        "Let the child ride in the front seat if an adult holds them"
+        "Turn the seat forward-facing at 12 months once the child can sit alone and walk",
+        "Let the child ride in the front seat if an adult holds them securely in the lap"
       ],
       "correctIndex": 0,
       "explanation": "The AAP recommends keeping children rear-facing for as long as possible, until they reach the maximum height or weight allowed by the seat manufacturer."
@@ -250,8 +250,8 @@
       "difficulty": "easy",
       "question": "Which vaccine is routinely given to a healthy newborn before hospital discharge?",
       "options": [
-        "Tdap vaccine",
-        "MMR vaccine",
+        "Tdap vaccine (tetanus, diphtheria, pertussis)",
+        "MMR vaccine (measles, mumps, rubella)",
         "Varicella vaccine",
         "Hepatitis B vaccine"
       ],
@@ -280,10 +280,10 @@
       "difficulty": "easy",
       "question": "Which change in vision is a normal part of aging?",
       "options": [
-        "Seeing flashes of light and floaters suddenly",
+        "Seeing sudden flashes of light and a shower of floaters",
         "Presbyopia, or difficulty focusing on close objects",
         "A curtain-like shadow over the visual field",
-        "Sudden loss of vision in one eye"
+        "Sudden loss of vision in one eye lasting several minutes"
       ],
       "correctIndex": 1,
       "explanation": "Presbyopia develops with age as the lens loses flexibility. Sudden vision loss, flashes, or a curtain effect are emergencies that may signal retinal detachment or stroke."
@@ -311,8 +311,8 @@
       "question": "A 42-year-old woman with average risk asks about breast cancer screening. Which recommendation reflects current U.S. Preventive Services Task Force guidance?",
       "options": [
         "Monthly mammograms after age 40",
-        "No mammography until age 60",
-        "Breast MRI every year for all women",
+        "No mammography until age 60 unless a lump is found",
+        "Breast MRI every year for all women regardless of risk",
         "Mammography every 2 years starting at age 40"
       ],
       "correctIndex": 3,
@@ -326,8 +326,8 @@
       "question": "When is the Tdap vaccine recommended during pregnancy?",
       "options": [
         "During each pregnancy, preferably between 27 and 36 weeks",
-        "It is never given during pregnancy",
-        "Only in the first pregnancy",
+        "It is never given during pregnancy because it harms the fetus",
+        "Only in the first pregnancy, since immunity lasts a lifetime",
         "Only after delivery"
       ],
       "correctIndex": 0,
@@ -357,8 +357,8 @@
       "options": [
         "Contractions that stay irregular",
         "Progressive cervical dilation and effacement",
-        "Contractions that stop when the client walks",
-        "Discomfort felt only in the lower abdomen"
+        "Contractions that stop when the client walks or changes position",
+        "Discomfort felt only in the lower abdomen and groin area"
       ],
       "correctIndex": 1,
       "explanation": "True labor causes progressive cervical change. False labor contractions are irregular and often ease with walking or rest."
@@ -370,10 +370,10 @@
       "difficulty": "medium",
       "question": "A parent asks how to respond to a 2-year-old's temper tantrums. Which advice is best?",
       "options": [
-        "Give the child what they want to stop the tantrum",
-        "Spank the child so they learn quickly",
+        "Give the child what they want right away to stop the tantrum",
+        "Spank the child so that they learn to behave quickly",
         "Lock the child in a room until morning",
-        "Keep the child safe and ignore the tantrum, then praise calm behavior"
+        "Keep the child safe and ignore the tantrum, then praise calm"
       ],
       "correctIndex": 3,
       "explanation": "Tantrums are normal as toddlers seek autonomy. Staying calm, keeping the child safe, and not rewarding the tantrum work best."
@@ -401,9 +401,9 @@
       "question": "Which client meets the criteria for annual lung cancer screening with low-dose CT?",
       "options": [
         "A 58-year-old who smoked 1 pack a day for 25 years and quit 5 years ago",
-        "A 40-year-old who has never smoked",
+        "A 40-year-old who smoked a pack a day for 5 years and quit last year",
         "A 62-year-old who smoked half a pack a day for 10 years and quit 30 years ago",
-        "An 85-year-old in hospice care"
+        "An 85-year-old in hospice care who smoked for 40 years"
       ],
       "correctIndex": 0,
       "explanation": "Screening is recommended for adults 50 to 80 with at least a 20 pack-year history who smoke now or quit within the past 15 years. 25 pack-years and quitting 5 years ago meet these criteria."
@@ -416,9 +416,9 @@
       "question": "On postpartum day 10, a client reports bright red vaginal bleeding with large clots. How should the nurse interpret this?",
       "options": [
         "It is normal if the client is breastfeeding",
-        "It is expected lochia alba",
-        "It is the expected lochia serosa",
-        "It is abnormal and may indicate late postpartum hemorrhage or retained tissue"
+        "It is expected lochia alba and needs no further action",
+        "It is the expected lochia serosa at this stage of recovery",
+        "It is abnormal and may mean late hemorrhage or retained tissue"
       ],
       "correctIndex": 3,
       "explanation": "Lochia rubra normally lasts about 3 to 4 days, followed by pinkish-brown serosa. Bright red bleeding with clots at day 10 is abnormal and needs evaluation."
@@ -431,9 +431,9 @@
       "question": "A client who smokes wants to quit. Which statement shows correct understanding of the nicotine patch?",
       "options": [
         "\"I'll cut the patch in half to make it last longer.\"",
-        "\"I'll wear two patches if I have a craving.\"",
-        "\"I'll leave the same patch on for a whole week.\"",
-        "\"I'll put on a new patch each day on a clean, hairless area and rotate sites.\""
+        "\"I'll wear two patches at once whenever I have a very strong craving for nicotine.\"",
+        "\"I'll leave the same patch on for a whole week so that I get a steady, even dose.\"",
+        "\"I'll put on a new patch each day on clean, hairless skin and rotate sites.\""
       ],
       "correctIndex": 3,
       "explanation": "Patches are applied daily to clean, dry, hairless skin with rotation of sites. Cutting patches or adding extra doses is not recommended without guidance."
@@ -446,7 +446,7 @@
       "question": "When is screening for group B streptococcus usually done in pregnancy?",
       "options": [
         "At the first prenatal visit only",
-        "At 20 weeks of gestation",
+        "At 20 weeks of gestation, at the anatomy scan",
         "At 36 to 37 weeks of gestation",
         "After delivery"
       ],
@@ -463,7 +463,7 @@
         "At about 28 weeks of gestation",
         "At the first prenatal visit",
         "Only if the baby is Rh-negative",
-        "Every month during pregnancy"
+        "Every month during the whole pregnancy"
       ],
       "correctIndex": 0,
       "explanation": "Rh(D) immune globulin is given at about 28 weeks and again within 72 hours of birth if the newborn is Rh-positive, to prevent sensitization."
@@ -490,8 +490,8 @@
       "difficulty": "easy",
       "question": "What is the purpose of giving vitamin K to a newborn shortly after birth?",
       "options": [
-        "To raise the blood glucose",
-        "To prevent eye infection",
+        "To raise the blood glucose and prevent hypoglycemia",
+        "To prevent eye infection from organisms in the birth canal",
         "To prevent jaundice",
         "To prevent vitamin K deficiency bleeding"
       ],
@@ -535,10 +535,10 @@
       "difficulty": "easy",
       "question": "A client asks about contraception. Which client should be advised against combined estrogen-progestin oral contraceptives?",
       "options": [
-        "A 30-year-old who does not smoke",
-        "A 22-year-old with acne",
+        "A 30-year-old who does not smoke and has normal blood pressure",
+        "A 22-year-old with mild acne who wants to regulate her periods",
         "A 37-year-old who smokes a pack of cigarettes daily",
-        "A 28-year-old with irregular periods"
+        "A 28-year-old with irregular periods and heavy bleeding"
       ],
       "correctIndex": 2,
       "explanation": "Women older than 35 who smoke have a high risk of stroke and blood clots with estrogen-containing contraceptives."
@@ -565,9 +565,9 @@
       "difficulty": "easy",
       "question": "Which finding on a nonstress test indicates a reactive (reassuring) result?",
       "options": [
-        "No accelerations in 40 minutes",
-        "A baseline heart rate of 90 bpm",
-        "Two or more accelerations of 15 bpm lasting 15 seconds within 20 minutes",
+        "No accelerations in a 40-minute tracing of the fetal heart rate",
+        "A baseline heart rate of 90 bpm with no accelerations noted",
+        "Two or more accelerations of 15 bpm for 15 seconds within 20 minutes",
         "Late decelerations with each contraction"
       ],
       "correctIndex": 2,
@@ -596,9 +596,9 @@
       "question": "During labor, the nurse sees early decelerations that mirror each contraction. Which action is appropriate?",
       "options": [
         "Stop the labor process",
-        "Give oxygen by face mask and call the provider for an emergency",
+        "Give oxygen by face mask and call the provider",
         "Perform an immediate vaginal exam for prolapsed cord",
-        "Continue to monitor, since these are caused by head compression"
+        "Continue to monitor, since head compression causes these"
       ],
       "correctIndex": 3,
       "explanation": "Early decelerations are caused by fetal head compression and are considered benign. No intervention is needed besides continued monitoring."
@@ -610,10 +610,10 @@
       "difficulty": "medium",
       "question": "A newborn is 12 hours old and has yellow skin on the face and chest. What should the nurse do?",
       "options": [
-        "Place the infant in direct sunlight",
+        "Place the infant in direct sunlight near a window for an hour",
         "Reassure the parents that this is normal physiologic jaundice",
-        "Notify the provider, because jaundice within the first 24 hours is pathologic",
-        "Give the infant water between feedings"
+        "Notify the provider, because jaundice in the first 24 hours is pathologic",
+        "Give the infant water between feedings to flush out the bilirubin"
       ],
       "correctIndex": 2,
       "explanation": "Jaundice that appears within 24 hours of birth suggests a pathologic cause, such as hemolysis, and needs prompt evaluation. Physiologic jaundice appears after 24 hours."
@@ -625,10 +625,10 @@
       "difficulty": "medium",
       "question": "A pregnant client at 34 weeks reports a severe headache and blurred vision. Her blood pressure is 168/112 mm Hg. What should the nurse do first?",
       "options": [
-        "Give acetaminophen and recheck in 4 hours",
-        "Encourage the client to increase sodium intake",
-        "Tell the client to rest at home",
-        "Notify the provider immediately and prepare for treatment of severe preeclampsia"
+        "Give acetaminophen and recheck the blood pressure in 4 hours",
+        "Encourage the client to increase sodium intake and rest with her feet up",
+        "Tell the client to rest at home and call if symptoms get worse",
+        "Notify the provider immediately and prepare to treat severe preeclampsia"
       ],
       "correctIndex": 3,
       "explanation": "Severe-range blood pressure with headache and visual changes indicates preeclampsia with severe features. Prompt treatment prevents eclampsia and stroke."
@@ -643,7 +643,7 @@
         "Unequal gluteal or thigh skin folds",
         "Bilateral clubfoot",
         "Equal leg lengths and symmetric folds",
-        "An absent Moro reflex"
+        "An absent Moro reflex and a weak, high-pitched cry"
       ],
       "correctIndex": 0,
       "explanation": "Asymmetric skin folds, limited abduction, and a positive Ortolani or Barlow maneuver suggest developmental dysplasia of the hip."
@@ -655,10 +655,10 @@
       "difficulty": "medium",
       "question": "A breastfeeding client has a red, painful, warm area on one breast and a fever of 38.5 C (101.3 F). Which instruction is correct?",
       "options": [
-        "Avoid emptying the affected breast",
-        "Continue breastfeeding or pumping from both breasts and take the prescribed antibiotic",
-        "Apply a tight binder to suppress milk",
-        "Stop breastfeeding permanently"
+        "Avoid emptying the affected breast so the milk can rest",
+        "Continue breastfeeding or pumping from both breasts and take the antibiotic",
+        "Apply a tight binder to suppress milk production",
+        "Stop breastfeeding permanently to allow the infection to clear"
       ],
       "correctIndex": 1,
       "explanation": "With mastitis, continued milk removal helps clear the infection and is safe for the infant. Antibiotics, rest, and fluids are part of treatment."
@@ -670,7 +670,7 @@
       "difficulty": "medium",
       "question": "A client 3 days after birth cries often and says she feels overwhelmed but is caring for her baby. What is the most likely explanation?",
       "options": [
-        "A thyroid storm",
+        "A thyroid storm with fever and rapid heartbeat",
         "Major depression requiring hospitalization",
         "Postpartum blues, which usually resolve within 2 weeks",
         "Postpartum psychosis requiring emergency care"
@@ -688,7 +688,7 @@
         "\"A positive result means the baby is doing well.\"",
         "\"The test is done without any contractions.\"",
         "\"The test measures my blood sugar.\"",
-        "\"A negative result means no late decelerations occurred with contractions.\""
+        "\"A negative result means there were no late decelerations.\""
       ],
       "correctIndex": 3,
       "explanation": "A negative contraction stress test is reassuring because the fetus tolerated contractions without late decelerations. A positive result suggests placental insufficiency."
@@ -700,10 +700,10 @@
       "difficulty": "medium",
       "question": "A 68-year-old man who smoked for 30 years asks about recommended screening. Which test is recommended once for him?",
       "options": [
-        "Annual chest X-ray",
+        "Annual chest X-ray for lung cancer",
         "Abdominal aortic aneurysm ultrasound",
-        "Colonoscopy every year",
-        "Routine brain MRI"
+        "Colonoscopy every year after age 65",
+        "Routine brain MRI every five years"
       ],
       "correctIndex": 1,
       "explanation": "A one-time ultrasound to screen for abdominal aortic aneurysm is recommended for men aged 65 to 75 who have ever smoked."
@@ -716,9 +716,9 @@
       "question": "When is newborn metabolic screening (such as for phenylketonuria) ideally collected?",
       "options": [
         "After 24 hours of age and after feeding has started",
-        "Only if the parents request it",
-        "At the 2-month visit",
-        "Immediately after birth"
+        "Only if the parents request it at the first visit",
+        "At the 2-month visit with the pediatrician",
+        "Immediately after birth, before the first feeding"
       ],
       "correctIndex": 0,
       "explanation": "Screening after 24 hours of protein feeding reduces false-negative results for disorders such as PKU. If done earlier, it is repeated."
@@ -730,10 +730,10 @@
       "difficulty": "medium",
       "question": "During the postpartum assessment, the nurse finds the uterus firm but there is a steady trickle of bright red blood. What should the nurse suspect?",
       "options": [
-        "Uterine atony",
+        "Uterine atony with a boggy uterus",
         "A laceration of the cervix or vagina",
-        "A full bladder",
-        "Normal lochia serosa"
+        "A full bladder that is pushing the uterus up and to the side",
+        "Normal lochia serosa for this time period"
       ],
       "correctIndex": 1,
       "explanation": "Bright red bleeding with a firm, contracted uterus suggests a genital tract laceration. Atony causes a boggy uterus."
@@ -775,9 +775,9 @@
       "difficulty": "medium",
       "question": "An adolescent asks the nurse whether a visit about contraception will be shared with their parents. What is the best response?",
       "options": [
-        "\"In most cases, information about contraception and sexual health is kept confidential, with some legal exceptions.\"",
-        "\"I can't talk with you without your parents present.\"",
-        "\"Everything you say will be told to your parents.\"",
+        "\"Information about contraception is usually kept confidential, with some legal exceptions.\"",
+        "\"I can't talk with you about this unless your parents are present in the room and agree to it.\"",
+        "\"Everything you say will be told to your parents, since you are still a minor in this state.\"",
         "\"You need a parent's signature for every visit.\""
       ],
       "correctIndex": 0,
@@ -791,8 +791,8 @@
       "question": "A newborn's axillary temperature is 36.2 C (97.2 F). Which action is most appropriate first?",
       "options": [
         "Feed the newborn sterile water",
-        "Place the newborn skin-to-skin with the parent and cover with a warm blanket",
-        "Place the newborn near an open window",
+        "Place the newborn skin-to-skin and cover with a warm blanket",
+        "Unwrap the newborn and place the infant near an open window to stimulate them",
         "Bathe the newborn in warm water"
       ],
       "correctIndex": 1,
@@ -806,7 +806,7 @@
       "question": "During Leopold maneuvers, the nurse feels a hard, round, movable part in the upper abdomen (fundus). What does this most likely mean?",
       "options": [
         "The placenta is low-lying",
-        "The fetus is in a transverse lie",
+        "The fetus is in a transverse lie across the uterus",
         "The fetus is in a vertex presentation",
         "The fetus is in a breech presentation"
       ],
@@ -820,10 +820,10 @@
       "difficulty": "medium",
       "question": "A 30-year-old client who is planning a pregnancy has a history of a child with a neural tube defect. What dose of folic acid is usually recommended?",
       "options": [
-        "0.4 mg weekly",
-        "No folic acid",
+        "0.4 mg weekly starting in the second trimester",
+        "No folic acid, since the diet is enough",
         "4 mg daily before and during early pregnancy",
-        "40 mg daily"
+        "40 mg daily before and during early pregnancy"
       ],
       "correctIndex": 2,
       "explanation": "Clients with a prior pregnancy affected by a neural tube defect usually take a higher dose, about 4 mg daily, starting at least 1 month before conception."
@@ -836,8 +836,8 @@
       "question": "Which statement by parents of a newborn boy who had a circumcision shows correct understanding of care?",
       "options": [
         "\"We'll apply petroleum jelly to the area with each diaper change.\"",
-        "\"We'll remove the yellow crust that forms.\"",
-        "\"We'll give him a tub bath right away.\"",
+        "\"We'll remove the yellow crust that forms every day.\"",
+        "\"We'll give him a tub bath right away to keep it clean.\"",
         "\"We'll expect bright red bleeding for a few days.\""
       ],
       "correctIndex": 0,
@@ -895,10 +895,10 @@
       "difficulty": "hard",
       "question": "The nurse is teaching a client with type 1 diabetes who is planning pregnancy. Which goal is most important before conception?",
       "options": [
-        "Losing weight quickly in the first trimester",
-        "Stopping insulin once pregnant",
-        "Achieving good glucose control with an A1C as close to normal as safely possible",
-        "Avoiding all exercise"
+        "Losing weight quickly in the first trimester by cutting back on calories",
+        "Stopping insulin once pregnant to prevent low blood sugar",
+        "Achieving good glucose control, with an A1C as close to normal as safe",
+        "Avoiding all exercise before and during the pregnancy"
       ],
       "correctIndex": 2,
       "explanation": "High glucose levels early in pregnancy increase the risk of birth defects and miscarriage. Good control before conception is the main goal."
@@ -910,8 +910,8 @@
       "difficulty": "hard",
       "question": "A newborn born to a mother with diabetes has jitteriness and a blood glucose of 35 mg/dL at 2 hours of age. What is the priority action?",
       "options": [
-        "Feed the newborn or give glucose per protocol and recheck glucose",
-        "Give the newborn a bath to stimulate them",
+        "Feed the newborn or give glucose per protocol and recheck",
+        "Give the newborn a warm bath to stimulate them and recheck in an hour",
         "Wait and recheck at 6 hours",
         "Place the newborn under phototherapy"
       ],
@@ -925,10 +925,10 @@
       "difficulty": "hard",
       "question": "A client in active labor has an amniotomy, and the nurse sees a loop of umbilical cord at the vaginal opening. What should the nurse do first?",
       "options": [
-        "Encourage the client to push",
-        "Push the cord back into the vagina",
-        "Use a gloved hand to lift the presenting part off the cord and call for help",
-        "Place the client in a high Fowler's position"
+        "Encourage the client to push with the next contraction",
+        "Push the cord back into the vagina and wait for labor to progress",
+        "Lift the presenting part off the cord with a gloved hand and call for help",
+        "Place the client in a high Fowler's position and ask her to breathe slowly"
       ],
       "correctIndex": 2,
       "explanation": "With a prolapsed cord, the nurse relieves pressure by lifting the presenting part and positioning the client knee-chest or in Trendelenburg while emergency birth is arranged."
@@ -955,10 +955,10 @@
       "difficulty": "hard",
       "question": "A client is 10 weeks pregnant and has a history of preterm birth. Which intervention may be offered to reduce the risk of recurrent preterm birth?",
       "options": [
-        "Daily high-dose vitamin A",
-        "Progesterone therapy, depending on current guidance and cervical findings",
-        "Routine bed rest for the whole pregnancy",
-        "Avoidance of all prenatal visits"
+        "Daily high-dose vitamin A starting in the first trimester",
+        "Progesterone therapy, depending on guidance and cervical findings",
+        "Routine strict bed rest at home for the whole length of the pregnancy",
+        "Avoidance of all prenatal visits until labor begins"
       ],
       "correctIndex": 1,
       "explanation": "Progesterone or cervical cerclage may be considered for selected clients with prior preterm birth or a short cervix. Strict bed rest is not recommended because it increases blood clot risk."
@@ -970,8 +970,8 @@
       "difficulty": "hard",
       "question": "A client asks whether she can continue to breastfeed while taking a newly prescribed medication. What is the best nursing response?",
       "options": [
-        "\"Stop breastfeeding until you are done with the medicine.\"",
-        "\"Let me check a reliable lactation drug reference and talk with your provider.\"",
+        "\"Stop breastfeeding until you are done with the whole course of the medicine and then restart.\"",
+        "\"Let me check a lactation drug reference and talk with your provider.\"",
         "\"No medications are safe during breastfeeding.\"",
         "\"All medications are safe while breastfeeding.\""
       ],

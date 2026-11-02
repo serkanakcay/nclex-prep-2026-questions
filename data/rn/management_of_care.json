@@ -40,7 +40,7 @@
       "difficulty": "easy",
       "question": "A visitor asks the nurse about the diagnosis of the client in the next room. Which response is best?",
       "options": [
-        "\"I can only tell you if you are a close friend.\"",
+        "\"I can tell you if you promise to keep it private.\"",
         "\"The client is doing well, but I can't say more.\"",
         "\"I'm not able to share information about other clients.\"",
         "\"You should ask the charge nurse instead.\""
@@ -56,8 +56,8 @@
       "question": "A client with a valid do-not-resuscitate (DNR) order becomes pulseless. What should the nurse do?",
       "options": [
         "Call a rapid response and start CPR",
-        "Begin chest compressions until the provider arrives",
-        "Ask the family whether CPR should be started",
+        "Begin chest compressions and call a code until the provider arrives to decide",
+        "Ask the family whether CPR should be started before taking any other action",
         "Honor the DNR order and stay with the client while notifying the provider"
       ],
       "correctIndex": 3,
@@ -85,10 +85,10 @@
       "difficulty": "medium",
       "question": "A client falls while getting out of bed. After the nurse assesses the client, which statement about the incident report is correct?",
       "options": [
-        "Only the provider may complete the report",
-        "The report should be placed in the client's chart",
-        "The report is used for quality improvement and is not referenced in the medical record",
-        "The nurse should write \"incident report filed\" in the progress notes"
+        "Only the provider may complete the report after reviewing the client's chart",
+        "The report should be placed in the client's chart and noted in the nursing record",
+        "The report is for quality improvement and is not mentioned in the medical record",
+        "The nurse should write \"incident report filed\" in the progress notes and the care plan"
       ],
       "correctIndex": 2,
       "explanation": "Incident reports are internal quality and risk documents. The nurse documents the facts of the fall in the chart but does not mention the report itself."
@@ -100,8 +100,8 @@
       "difficulty": "medium",
       "question": "A competent adult client says, \"I'm leaving the hospital now, even though my doctor hasn't discharged me.\" What should the nurse do first?",
       "options": [
-        "Apply soft restraints to keep the client safe",
-        "Tell the client that leaving is not allowed",
+        "Apply soft restraints to keep the client safe until the provider arrives",
+        "Tell the client that leaving is not allowed and that the doctor must approve it",
         "Explain the risks of leaving and notify the provider",
         "Call security to escort the client back to the room"
       ],
@@ -117,8 +117,8 @@
       "options": [
         "\"I'd like you to evaluate him and consider an order for IV furosemide.\"",
         "\"I think he is developing fluid overload.\"",
-        "\"Mr. Lee is a 67-year-old admitted with heart failure.\"",
-        "\"His respiratory rate rose from 18 to 28 in the past hour.\""
+        "\"Mr. Lee is a 67-year-old admitted two days ago with acute heart failure.\"",
+        "\"His respiratory rate rose from 18 to 28 in the past hour with new crackles.\""
       ],
       "correctIndex": 0,
       "explanation": "SBAR stands for Situation, Background, Assessment, Recommendation. The recommendation is the specific action the nurse is requesting."
@@ -161,9 +161,9 @@
       "question": "A provider orders a medication dose that is three times the usual dose. The nurse's first action should be to:",
       "options": [
         "Hold the dose and clarify the order with the provider",
-        "Ask a pharmacist to change the order",
+        "Ask a pharmacist to change the order and then give the revised dose",
         "Give the usual dose instead",
-        "Give the medication as ordered"
+        "Give the medication as ordered because the provider is responsible for the dose"
       ],
       "correctIndex": 0,
       "explanation": "The nurse is accountable for every medication given and must clarify an unsafe order with the prescriber. If it isn't resolved, the nurse uses the chain of command."
@@ -220,8 +220,8 @@
       "difficulty": "medium",
       "question": "Just before surgery, a client says, \"I'm not really sure what they are going to do to me.\" What should the nurse do?",
       "options": [
-        "Reassure the client that the surgeon is very experienced",
-        "Have the client sign the consent, since it was already explained",
+        "Reassure the client that the surgeon is very experienced and highly skilled",
+        "Have the client sign the consent, since the surgeon already explained it earlier",
         "Notify the surgeon that the client needs more information before consent",
         "Explain the surgical procedure in detail"
       ],
@@ -235,9 +235,9 @@
       "difficulty": "easy",
       "question": "A client asks what an advance directive is. Which description should the nurse give?",
       "options": [
-        "A hospital form that transfers the client's property to the family",
-        "A legal document stating the client's wishes for care if they become unable to decide",
-        "A provider's order that is written when the client is admitted",
+        "A hospital form that transfers the client's property to the family at death",
+        "A legal document stating the client's wishes for care if they can't decide",
+        "A provider's order that is written at admission to guide the client's daily care",
         "A consent that allows students to observe the client's care"
       ],
       "correctIndex": 1,
@@ -250,10 +250,10 @@
       "difficulty": "easy",
       "question": "A nurse wants to post a photo on social media of a decorated cake that a client's family brought to the unit. The client's name is on the cake. What is the best action?",
       "options": [
-        "Post it after blurring the client's face",
+        "Post it after blurring the client's face in the image",
         "Do not post it, because it identifies the client",
         "Ask a coworker whether it seems acceptable",
-        "Post it, since the client is not shown"
+        "Post it, since the client is not shown in the photo"
       ],
       "correctIndex": 1,
       "explanation": "Any image that can identify a client, including a name on an object, violates privacy rules. Nurses should not post client-related content on personal social media."
@@ -280,9 +280,9 @@
       "difficulty": "easy",
       "question": "A client's health care proxy document names a sister as the decision-maker. When does the sister's authority to make decisions begin?",
       "options": [
-        "Only after the client dies",
-        "When the provider and family disagree",
-        "As soon as the client is admitted",
+        "Only after the client dies and the family is notified",
+        "When the provider and the family disagree about the plan of care",
+        "As soon as the client is admitted to the hospital for any reason",
         "When the client becomes unable to make their own decisions"
       ],
       "correctIndex": 3,
@@ -296,9 +296,9 @@
       "question": "The nurse suspects that an older adult client is being financially exploited by a caregiver. What is the nurse's legal obligation?",
       "options": [
         "Document the concern only if the client agrees",
-        "Confront the caregiver about the concern",
-        "Wait until there is proof before reporting",
-        "Report the suspicion to adult protective services according to state law"
+        "Confront the caregiver about the concern and ask for the bank records",
+        "Wait until there is proof of the exploitation before reporting it",
+        "Report the suspicion to adult protective services per state law"
       ],
       "correctIndex": 3,
       "explanation": "Nurses are mandated reporters of suspected elder abuse, including financial exploitation. A report is based on reasonable suspicion; proof is not required."
@@ -311,7 +311,7 @@
       "question": "A nurse stops at a roadside crash and gives first aid until paramedics arrive. Which statement about the nurse's legal protection is accurate?",
       "options": [
         "The nurse is protected regardless of what care is provided",
-        "Good Samaritan laws usually protect care given in good faith within the nurse's training",
+        "Good Samaritan laws usually protect care given in good faith and within training",
         "Protection applies only to nurses who are off duty for more than 24 hours",
         "The nurse can be sued only if a fee is charged"
       ],
@@ -326,8 +326,8 @@
       "question": "A client asks to read their own medical record. What should the nurse do?",
       "options": [
         "Give the client the chart without any process",
-        "Allow it only if the provider is out of the room",
-        "Refuse, because the record belongs to the hospital",
+        "Allow it only if the provider is out of the room and no one else is nearby",
+        "Refuse, because the record belongs to the hospital and not to the client",
         "Follow facility policy to give the client access to the record"
       ],
       "correctIndex": 3,
@@ -340,9 +340,9 @@
       "difficulty": "medium",
       "question": "During a handoff report at the bedside, which practice best protects client privacy?",
       "options": [
-        "Ask visitors whether the client wants them present before discussing details",
+        "Ask whether the client wants visitors present before discussing details",
         "Leave the report sheet on the overbed table",
-        "Discuss all clients on the unit in the hallway",
+        "Discuss all of the clients on the unit in the hallway",
         "Speak loudly so the client can hear clearly"
       ],
       "correctIndex": 0,
@@ -371,8 +371,8 @@
       "question": "A nurse is worried that a provider has not responded to a client's worsening condition after two pages. What is the next appropriate action?",
       "options": [
         "Follow the chain of command and notify the charge nurse or supervisor",
-        "Keep paging the same provider every hour",
-        "Document that the provider failed to respond and wait",
+        "Keep paging the same provider every hour until there is a response from them",
+        "Document that the provider failed to respond and then wait for a call back",
         "Ask the family to call the provider"
       ],
       "correctIndex": 0,
@@ -385,7 +385,7 @@
       "difficulty": "medium",
       "question": "Using Maslow's hierarchy, which client need should the nurse address first?",
       "options": [
-        "A client who wants to talk about feeling isolated",
+        "A client who wants to talk about feeling isolated from the family",
         "A client who is anxious about losing their job",
         "A client whose airway is partially blocked by secretions",
         "A client who wants help planning a return to school"
@@ -417,7 +417,7 @@
       "options": [
         "Post an anonymous warning in the break room",
         "Report the observation to the nurse manager or supervisor",
-        "Ignore it if the client's pain is controlled",
+        "Ignore it because the client's pain is controlled",
         "Ask the colleague to give back the tablet and say nothing"
       ],
       "correctIndex": 1,
@@ -430,10 +430,10 @@
       "difficulty": "hard",
       "question": "A provider asks the nurse to carry out a verbal order during a non-emergency situation. Which response follows safe practice?",
       "options": [
-        "Have another nurse take the order",
-        "Accept it and write it later at the end of the shift",
-        "Refuse to accept any order from the provider",
-        "Ask the provider to enter the order electronically unless it is an emergency"
+        "Have another nurse take the order and pass it along later in the shift",
+        "Accept it and write it down later at the end of the shift when things slow down",
+        "Refuse to accept any order from the provider until a written copy is received",
+        "Ask the provider to enter the order in the system unless it's an emergency"
       ],
       "correctIndex": 3,
       "explanation": "Verbal orders increase the risk of error and are reserved for emergencies or when the provider cannot enter the order. When one is accepted, it must be written down and read back."
@@ -462,7 +462,7 @@
       "options": [
         "A client 1 day after a bowel resection with a PCA pump",
         "A client with unstable atrial fibrillation needing titrated drips",
-        "A client being admitted from the ED with sepsis",
+        "A client being admitted from the ED with sepsis and hypotension",
         "A client starting a new chemotherapy protocol"
       ],
       "correctIndex": 0,
@@ -492,8 +492,8 @@
       "options": [
         "The client's family filed a complaint",
         "The nurse's breach of duty caused harm to the client",
-        "The client was unhappy with care",
-        "The nurse made any documentation error"
+        "The client was unhappy with the care and filed a verbal complaint",
+        "The nurse made any documentation error, even a minor one"
       ],
       "correctIndex": 1,
       "explanation": "Negligence requires duty, breach of duty, causation, and damages. Without harm caused by the breach, negligence is not established."
@@ -506,9 +506,9 @@
       "question": "A unit has a rise in catheter-associated urinary tract infections. Which approach reflects a quality improvement process?",
       "options": [
         "Disciplining the nurses who inserted the catheters",
-        "Asking clients to refuse urinary catheters",
+        "Asking clients to refuse urinary catheters on admission",
         "Collecting data, changing a process, and measuring results again",
-        "Waiting to see if the rate improves on its own"
+        "Waiting to see if the rate improves on its own over time"
       ],
       "correctIndex": 2,
       "explanation": "Quality improvement uses cycles such as Plan-Do-Study-Act. Teams collect data, test a change, and measure its effect."
@@ -536,7 +536,7 @@
       "question": "Which task should the RN delegate to the UAP on a medical unit?",
       "options": [
         "Recording intake and output for a client with heart failure",
-        "Evaluating a client's understanding of a new diet",
+        "Evaluating a client's understanding of a new diet plan before discharge",
         "Assessing a client's lung sounds after a breathing treatment",
         "Teaching a client to use a walker"
       ],
@@ -567,7 +567,7 @@
       "options": [
         "A client with type 2 diabetes asking for a snack at bedtime",
         "A client with pneumonia who has a temperature of 37.9 C (100.2 F)",
-        "A client with cirrhosis who has new black, tarry stools and a heart rate of 118/min",
+        "A client with cirrhosis who has new black, tarry stools and a heart rate of 118",
         "A client 2 days after a knee replacement with pain of 5/10"
       ],
       "correctIndex": 2,
@@ -610,10 +610,10 @@
       "difficulty": "medium",
       "question": "Two staff nurses are arguing loudly at the nurses' station about a holiday schedule. What should the charge nurse do first?",
       "options": [
-        "Report both nurses to human resources",
+        "Report both nurses to human resources for unprofessional conduct",
         "Ask them to move to a private area to discuss the conflict",
-        "Make the decision for them immediately",
-        "Ignore it so they can work it out"
+        "Make the decision for them immediately and end the discussion",
+        "Ignore it so they can work it out between themselves later"
       ],
       "correctIndex": 1,
       "explanation": "Conflict should be handled privately and promptly. Moving the discussion out of public view protects clients and allows a collaborative solution."
@@ -625,10 +625,10 @@
       "difficulty": "medium",
       "question": "The RN delegates ambulation of a postoperative client to the UAP. Which instruction is most important to include?",
       "options": [
-        "\"Walk the client to the end of the hall and back, and tell me right away if the client becomes dizzy or short of breath.\"",
-        "\"Walk the client as much as the client wants.\"",
-        "\"Let me know when you're done.\"",
-        "\"Use your judgment on how far to go.\""
+        "\"Walk the client to the end of the hall and back; report dizziness or dyspnea at once.\"",
+        "\"Walk the client as far and as long as the client wants to go, and then let me know how it went.\"",
+        "\"Let me know when you're done, and chart it in the record.\"",
+        "\"Use your judgment on how far to go and what is worth telling me.\""
       ],
       "correctIndex": 0,
       "explanation": "Clear delegation includes specific expectations and what findings to report. The RN keeps accountability for the outcome."
@@ -640,10 +640,10 @@
       "difficulty": "medium",
       "question": "A client with a new colostomy is being discharged. Which referral is most appropriate for the RN to make?",
       "options": [
-        "Respiratory therapy",
+        "Respiratory therapy for breathing exercises",
         "Occupational therapy for driving evaluation",
         "Wound, ostomy, and continence (WOC) nurse",
-        "Speech-language pathology"
+        "Speech-language pathology for swallowing"
       ],
       "correctIndex": 2,
       "explanation": "A WOC nurse specializes in ostomy teaching, pouching, and skin care, which supports self-care after discharge."
@@ -671,9 +671,9 @@
       "question": "Which statement by a new RN shows understanding of accountability when delegating?",
       "options": [
         "\"I can delegate any task the UAP says they know how to do.\"",
-        "\"Delegation transfers my license responsibility to the charge nurse.\"",
-        "\"I remain responsible for making sure the delegated task was done correctly.\"",
-        "\"Once I delegate a task, the UAP is fully responsible for it.\""
+        "\"Delegation transfers my license responsibility to the charge nurse on duty.\"",
+        "\"I remain responsible for making sure the delegated task is done correctly.\"",
+        "\"Once I delegate a task, the UAP is fully and solely responsible for the outcome.\""
       ],
       "correctIndex": 2,
       "explanation": "The delegatee is responsible for performing the task correctly, but the RN keeps accountability for the decision to delegate and for supervision and follow-up."
@@ -685,10 +685,10 @@
       "difficulty": "medium",
       "question": "A case manager is planning the discharge of a client with heart failure who lives alone. Which action best reduces the risk of readmission?",
       "options": [
-        "Schedule a follow-up appointment within 7 to 14 days and arrange home health monitoring",
-        "Delay discharge until the client has no edema",
-        "Give the client a printed diet sheet only",
-        "Ask the client to call 911 if symptoms worsen"
+        "Schedule follow-up within 7 to 14 days and arrange home health monitoring",
+        "Delay discharge until the client has no edema and no weight gain",
+        "Give the client a printed diet sheet and a number to call",
+        "Ask the client to call 911 if symptoms worsen and skip clinic visits"
       ],
       "correctIndex": 0,
       "explanation": "Early follow-up and home monitoring of weight and symptoms help detect fluid gain early and are proven strategies to lower heart failure readmissions."
@@ -701,9 +701,9 @@
       "question": "The RN is planning care for a client on a unit that uses team nursing. Which describes the RN team leader's role?",
       "options": [
         "Managing the unit budget",
-        "Directing and coordinating care given by LPNs and UAPs for a group of clients",
-        "Performing only medication tasks for every client",
-        "Giving all of the care to a small group of clients"
+        "Directing the care that LPNs and UAPs give to a group of clients",
+        "Performing only medication tasks for every client on the unit during the shift",
+        "Giving all of the direct care alone to a small group of assigned clients"
       ],
       "correctIndex": 1,
       "explanation": "In team nursing, the RN leads a team, assigns and delegates care, and coordinates and evaluates the care the team provides."
@@ -715,9 +715,9 @@
       "difficulty": "easy",
       "question": "Which outcome shows that interdisciplinary collaboration was effective for a client after a stroke?",
       "options": [
-        "The provider made all decisions without input",
-        "The client was discharged early without a plan",
-        "Each discipline wrote its own separate goals",
+        "The provider made all of the decisions without any input from the team members",
+        "The client was discharged early without a discharge plan in place",
+        "Each discipline wrote its own separate goals for the client without any team meeting",
         "The client met shared goals agreed on by the team and the client"
       ],
       "correctIndex": 3,
@@ -730,10 +730,10 @@
       "difficulty": "easy",
       "question": "The RN is orienting a new graduate. Which behavior by the new graduate requires the RN to intervene?",
       "options": [
-        "Asking for help with an unfamiliar procedure",
-        "Using two identifiers before giving a medication",
+        "Asking for help with an unfamiliar procedure from a senior nurse",
+        "Using two identifiers before giving a medication at the bedside",
         "Leaving a medication cup at the bedside for the client to take later",
-        "Clarifying an unclear order with the provider"
+        "Clarifying an unclear order with the provider before giving it"
       ],
       "correctIndex": 2,
       "explanation": "Medications should not be left at the bedside unless specifically ordered, because the nurse cannot confirm the client took the dose."
@@ -747,8 +747,8 @@
       "options": [
         "Turn on the alarm without telling the client",
         "Explore the client's concerns and offer other fall-prevention measures",
-        "Discharge the client against medical advice",
-        "Restrain the client to prevent falls"
+        "Discharge the client against medical advice because of the refusal",
+        "Restrain the client to prevent falls while in the bed or chair"
       ],
       "correctIndex": 1,
       "explanation": "Competent clients may refuse interventions. The nurse respects autonomy, explains the risk, offers alternatives such as hourly rounding, and documents the discussion."
@@ -791,7 +791,7 @@
       "question": "The RN is caring for four clients. Which client can safely wait until the others are seen?",
       "options": [
         "A client with new onset of facial droop and slurred speech",
-        "A client with a chest tube whose drainage increased to 250 mL in the last hour",
+        "A client with a chest tube whose drainage increased by 250 mL",
         "A client with osteoarthritis requesting a routine dose of acetaminophen",
         "A client with asthma who is too short of breath to speak in sentences"
       ],
@@ -806,9 +806,9 @@
       "question": "A visitor becomes verbally threatening toward staff in a client's room. What is the RN's priority action?",
       "options": [
         "Stay calm, keep a safe distance and exit, and call security",
-        "Ask the client to calm the visitor",
-        "Argue with the visitor to defend the staff",
-        "Block the door so the visitor cannot leave"
+        "Ask the client to calm the visitor and explain the situation",
+        "Argue with the visitor to defend the staff and prove a point",
+        "Block the door so the visitor cannot leave until security comes"
       ],
       "correctIndex": 0,
       "explanation": "Staff and client safety come first. The nurse uses a calm tone, keeps an exit route, and activates security or the facility's emergency response."
@@ -820,10 +820,10 @@
       "difficulty": "medium",
       "question": "A client's family requests that the client not be told about a cancer diagnosis. The client is alert and competent. What should the RN do?",
       "options": [
-        "Tell the client immediately without involving the provider",
-        "Ask the chaplain to decide",
-        "Agree and keep the diagnosis secret",
-        "Explain that the client has a right to the information and involve the provider"
+        "Tell the client the diagnosis without involving the provider",
+        "Ask the chaplain to decide whether the client should be told",
+        "Agree and keep the diagnosis secret from the client to protect them",
+        "Explain the client's right to the information and involve the provider"
       ],
       "correctIndex": 3,
       "explanation": "A competent client has the right to information about their own health. The nurse acts as an advocate and works with the provider, who discusses the diagnosis with the client."
@@ -837,7 +837,7 @@
       "options": [
         "Teaching a resident's family about hospice options for the first time",
         "Giving a scheduled subcutaneous insulin dose to a stable resident",
-        "Assessing a resident who fell for injuries for the first time",
+        "Assessing a resident who fell for injuries for the first time this shift",
         "Developing the care plan for a newly admitted resident"
       ],
       "correctIndex": 1,
@@ -850,9 +850,9 @@
       "difficulty": "medium",
       "question": "A unit is considering a new electronic medication system and several nurses resist the change. According to Lewin's change theory, what should happen in the 'unfreezing' stage?",
       "options": [
-        "The new process becomes the standard routine",
-        "Training on the new system begins",
-        "The old system is removed immediately",
+        "The new process becomes the standard routine for all of the units",
+        "Training on the new system begins for all staff members before the go-live",
+        "The old system is removed immediately without any transition period or training",
         "Staff are helped to see why the current process needs to change"
       ],
       "correctIndex": 3,
@@ -895,7 +895,7 @@
       "difficulty": "hard",
       "question": "A client with a do-not-intubate order develops respiratory distress. The client's adult son demands that the client be intubated. The client is alert and repeats that they do not want intubation. What should the RN do?",
       "options": [
-        "Follow the client's wishes and provide comfort measures while notifying the provider",
+        "Follow the client's wishes, provide comfort measures, and notify the provider",
         "Prepare for intubation because the son is present",
         "Ask the son to sign a new consent for intubation",
         "Wait for the client to lose consciousness, then follow the son's wishes"
@@ -910,10 +910,10 @@
       "difficulty": "hard",
       "question": "Which situation would be considered a breach of the nurse's duty that could lead to a malpractice claim?",
       "options": [
-        "The nurse documented a client's refusal of medication and notified the provider",
-        "The nurse failed to report a client's steadily rising temperature and heart rate, and the client developed septic shock",
-        "The nurse asked for help when unsure of a procedure",
-        "The nurse followed a valid order that had a known minor side effect"
+        "The nurse documented that a client refused a medication and notified the provider",
+        "The nurse failed to report a rising temperature and heart rate, and the client developed septic shock",
+        "The nurse asked for help when unsure of a procedure and told the charge nurse",
+        "The nurse followed a valid order that had a known minor side effect and documented it"
       ],
       "correctIndex": 1,
       "explanation": "Failure to monitor and report changes in condition is a common breach of duty. When it leads to harm, it can meet the elements of malpractice."
@@ -925,10 +925,10 @@
       "difficulty": "hard",
       "question": "The RN must call the provider about a client who is becoming septic. Which SBAR 'Assessment' statement is most effective?",
       "options": [
-        "\"The client was admitted yesterday with a UTI.\"",
-        "\"Please come see the client.\"",
-        "\"I think the client is developing sepsis: temperature 39.2 C, heart rate 124, BP 90/52, and new confusion.\"",
-        "\"The client's daughter is very worried.\""
+        "\"The client was admitted yesterday with a urinary tract infection.\"",
+        "\"Please come see the client as soon as you are able to do so.\"",
+        "\"I think the client is developing sepsis: T 39.2 C, HR 124, BP 90/52, new confusion.\"",
+        "\"The client's daughter is very worried and wants to speak to you.\""
       ],
       "correctIndex": 2,
       "explanation": "The Assessment part gives the nurse's interpretation of the problem supported by key data. It prepares the provider for the recommendation that follows."
@@ -940,10 +940,10 @@
       "difficulty": "hard",
       "question": "A charge nurse must reduce staffing by one nurse because of a low census. Which consideration is most important when choosing who goes home?",
       "options": [
-        "Keeping the skill mix needed for the clients' acuity on the unit",
-        "The nurse with the most seniority chooses first",
-        "Keeping the nurse who works the fastest",
-        "Sending home the nurse who asked first"
+        "Keeping the skill mix needed for the clients' acuity",
+        "The nurse with the most seniority chooses first, then others follow",
+        "Keeping the nurse who works the fastest regardless of experience",
+        "Sending home the nurse who asked first, no matter the skill mix"
       ],
       "correctIndex": 0,
       "explanation": "Staffing decisions must match staff competence to client acuity. Keeping the right skill mix protects client safety."
@@ -955,10 +955,10 @@
       "difficulty": "hard",
       "question": "During a hospital emergency response to a mass-casualty event, which client on a medical unit should the RN identify for discharge or transfer first?",
       "options": [
-        "A client with a new tracheostomy",
+        "A client with a new tracheostomy who needs frequent suctioning every hour at night",
         "A client with an active GI bleed receiving transfusions",
-        "A client with heart failure on a dobutamine infusion",
-        "A client receiving IV antibiotics for osteomyelitis who could continue therapy at home"
+        "A client with heart failure who is on a dobutamine infusion and has frequent PVCs",
+        "A client receiving IV antibiotics for osteomyelitis who could continue at home"
       ],
       "correctIndex": 3,
       "explanation": "A stable client whose therapy can be continued at home or in another setting is a good candidate for early discharge during surge planning."
@@ -970,9 +970,9 @@
       "difficulty": "hard",
       "question": "The RN delegates obtaining a client's weight to the UAP. Later the RN learns the client was weighed on a different scale than usual and the result shows a 2-kg gain. What should the RN do first?",
       "options": [
-        "Give an extra dose of furosemide",
+        "Give an extra dose of furosemide based on the new weight reading",
         "Have the client reweighed on the usual scale and assess for fluid overload",
-        "Ignore the result because it is probably inaccurate",
+        "Ignore the result because it is probably inaccurate and recheck next week",
         "Document the gain and notify the provider immediately"
       ],
       "correctIndex": 1,

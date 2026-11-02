@@ -11,8 +11,8 @@
       "question": "According to Erikson, which developmental task belongs to a 2-year-old?",
       "options": [
         "Autonomy vs. shame and doubt",
-        "Industry vs. inferiority",
-        "Trust vs. mistrust",
+        "Industry vs. inferiority (mastery of skills)",
+        "Trust vs. mistrust (basic security)",
         "Initiative vs. guilt"
       ],
       "correctIndex": 0,
@@ -28,7 +28,7 @@
         "4 months",
         "6 months",
         "12 months",
-        "18 months"
+        "18 months or longer"
       ],
       "correctIndex": 2,
       "explanation": "Infants usually double their birth weight by 5 to 6 months and triple it by about 12 months."
@@ -55,7 +55,7 @@
       "difficulty": "medium",
       "question": "Which vaccine is contraindicated during pregnancy?",
       "options": [
-        "Inactivated influenza",
+        "Inactivated influenza (flu shot)",
         "COVID-19 mRNA",
         "MMR (measles, mumps, rubella)",
         "Tdap"
@@ -86,8 +86,8 @@
       "question": "Why is folic acid supplementation recommended before and during early pregnancy?",
       "options": [
         "To prevent gestational diabetes",
-        "To prevent anemia of prematurity",
-        "To improve breast milk production",
+        "To prevent anemia of prematurity in the newborn",
+        "To improve breast milk production in the first week after birth",
         "To reduce the risk of neural tube defects"
       ],
       "correctIndex": 3,
@@ -102,8 +102,8 @@
       "options": [
         "Identity vs. role confusion",
         "Industry vs. inferiority",
-        "Intimacy vs. isolation",
-        "Generativity vs. stagnation"
+        "Intimacy vs. isolation (forming partnerships)",
+        "Generativity vs. stagnation (guiding the next generation)"
       ],
       "correctIndex": 0,
       "explanation": "Adolescents work toward identity vs. role confusion as they form a sense of self."
@@ -115,10 +115,10 @@
       "difficulty": "medium",
       "question": "A healthy 55-year-old asks which vaccine is recommended for their age. Which vaccine is routinely recommended for adults 50 and older?",
       "options": [
-        "HPV vaccine",
+        "Human papillomavirus (HPV) vaccine series",
         "Recombinant zoster (shingles) vaccine",
-        "BCG vaccine",
-        "Rotavirus vaccine"
+        "BCG vaccine (tuberculosis)",
+        "Rotavirus oral vaccine series"
       ],
       "correctIndex": 1,
       "explanation": "The two-dose recombinant zoster vaccine is recommended for immunocompetent adults 50 and older to prevent shingles and postherpetic neuralgia."
@@ -130,7 +130,7 @@
       "difficulty": "easy",
       "question": "At what age are solid foods usually introduced to an infant?",
       "options": [
-        "12 months",
+        "Not until after the first birthday",
         "9 months",
         "About 6 months",
         "1 month"
@@ -176,9 +176,9 @@
       "question": "Which sun-safety instruction should the nurse reinforce?",
       "options": [
         "Apply sunscreen only on cloudy days",
-        "Tanning beds are safer than the sun",
-        "Use a broad-spectrum SPF 30 or higher and reapply about every 2 hours",
-        "Sunscreen isn't needed for people with darker skin"
+        "Tanning beds are safer than the sun because the exposure is controlled",
+        "Use broad-spectrum SPF 30 or higher and reapply about every 2 hours",
+        "Sunscreen isn't needed for people with darker skin or for those who tan easily"
       ],
       "correctIndex": 2,
       "explanation": "A broad-spectrum sunscreen of SPF 30 or higher, reapplied about every 2 hours and after swimming, lowers the risk of skin cancer for everyone."
@@ -192,8 +192,8 @@
       "options": [
         "Pelvic floor (Kegel) exercises",
         "Leg lifts",
-        "Abdominal crunches",
-        "Deep squats with weights"
+        "Abdominal crunches with the legs raised",
+        "Deep squats with weights to build up the pelvic muscles"
       ],
       "correctIndex": 0,
       "explanation": "Kegel exercises strengthen the pelvic floor muscles and reduce stress incontinence."
@@ -208,7 +208,7 @@
         "Every 4 weeks",
         "Every week",
         "Every 2 weeks",
-        "Every 8 weeks"
+        "Every 8 to 10 weeks"
       ],
       "correctIndex": 0,
       "explanation": "Typical schedule: every 4 weeks until 28 weeks, every 2 weeks from 28 to 36 weeks, then weekly until birth."
@@ -220,10 +220,10 @@
       "difficulty": "easy",
       "question": "Which instruction helps reduce the risk of sudden infant death syndrome (SIDS)?",
       "options": [
-        "Have the infant sleep in the parents' bed",
-        "Place the infant on the stomach to sleep",
-        "Place the infant on the back on a firm, flat surface without soft bedding",
-        "Use pillows and bumpers in the crib"
+        "Have the infant sleep in the parents' bed for easy night feedings",
+        "Place the infant on the stomach to sleep to prevent choking",
+        "Place the infant on the back on a firm, flat sleep surface",
+        "Use pillows and bumpers in the crib to keep the infant comfortable"
       ],
       "correctIndex": 2,
       "explanation": "Safe sleep means back to sleep, alone, on a firm flat surface without pillows, bumpers, or loose blankets, ideally in the parents' room."
@@ -251,8 +251,8 @@
       "question": "Which vaccine is routinely given to a healthy newborn before hospital discharge?",
       "options": [
         "Varicella vaccine",
-        "Tdap vaccine",
-        "MMR vaccine",
+        "Tdap vaccine (tetanus, diphtheria, pertussis)",
+        "MMR vaccine (measles, mumps, rubella)",
         "Hepatitis B vaccine"
       ],
       "correctIndex": 3,
@@ -280,9 +280,9 @@
       "difficulty": "easy",
       "question": "Which change in vision is a normal part of aging?",
       "options": [
-        "Seeing flashes of light and floaters suddenly",
+        "Seeing sudden flashes of light and a shower of floaters",
         "A curtain-like shadow over the visual field",
-        "Sudden loss of vision in one eye",
+        "Sudden loss of vision in one eye lasting several minutes",
         "Presbyopia, or difficulty focusing on close objects"
       ],
       "correctIndex": 3,
@@ -312,8 +312,8 @@
       "options": [
         "Monthly mammograms after age 40",
         "Mammography every 2 years starting at age 40",
-        "No mammography until age 60",
-        "Breast MRI every year for all women"
+        "No mammography until age 60 unless a lump is found",
+        "Breast MRI every year for all women regardless of risk"
       ],
       "correctIndex": 1,
       "explanation": "Current USPSTF guidance recommends screening mammography every 2 years for women aged 40 to 74 at average risk."
@@ -325,9 +325,9 @@
       "difficulty": "medium",
       "question": "When is the Tdap vaccine recommended during pregnancy?",
       "options": [
-        "It is never given during pregnancy",
+        "It is never given during pregnancy because it harms the fetus",
         "During each pregnancy, preferably between 27 and 36 weeks",
-        "Only in the first pregnancy",
+        "Only in the first pregnancy, since immunity lasts a lifetime",
         "Only after delivery"
       ],
       "correctIndex": 1,
@@ -356,8 +356,8 @@
       "question": "Which finding best distinguishes true labor from false labor?",
       "options": [
         "Contractions that stay irregular",
-        "Contractions that stop when the client walks",
-        "Discomfort felt only in the lower abdomen",
+        "Contractions that stop when the client walks or changes position",
+        "Discomfort felt only in the lower abdomen and groin area",
         "Progressive cervical dilation and effacement"
       ],
       "correctIndex": 3,
@@ -370,9 +370,9 @@
       "difficulty": "medium",
       "question": "A parent asks how to respond to a 2-year-old's temper tantrums. Which advice is best?",
       "options": [
-        "Give the child what they want to stop the tantrum",
-        "Keep the child safe and ignore the tantrum, then praise calm behavior",
-        "Spank the child so they learn quickly",
+        "Give the child what they want right away to stop the tantrum",
+        "Keep the child safe and ignore the tantrum, then praise calm",
+        "Spank the child so that they learn to behave quickly",
         "Lock the child in a room until morning"
       ],
       "correctIndex": 1,
@@ -401,9 +401,9 @@
       "question": "Which client meets the criteria for annual lung cancer screening with low-dose CT?",
       "options": [
         "A 58-year-old who smoked 1 pack a day for 25 years and quit 5 years ago",
-        "A 40-year-old who has never smoked",
+        "A 40-year-old who smoked a pack a day for 5 years and quit last year",
         "A 62-year-old who smoked half a pack a day for 10 years and quit 30 years ago",
-        "An 85-year-old in hospice care"
+        "An 85-year-old in hospice care who smoked for 40 years"
       ],
       "correctIndex": 0,
       "explanation": "Screening is recommended for adults 50 to 80 with at least a 20 pack-year history who smoke now or quit within the past 15 years. 25 pack-years and quitting 5 years ago meet these criteria."
@@ -416,9 +416,9 @@
       "question": "On postpartum day 10, a client reports bright red vaginal bleeding with large clots. How should the nurse interpret this?",
       "options": [
         "It is normal if the client is breastfeeding",
-        "It is expected lochia alba",
-        "It is the expected lochia serosa",
-        "It is abnormal and may indicate late postpartum hemorrhage or retained tissue"
+        "It is expected lochia alba and needs no further action",
+        "It is the expected lochia serosa at this stage of recovery",
+        "It is abnormal and may mean late hemorrhage or retained tissue"
       ],
       "correctIndex": 3,
       "explanation": "Lochia rubra normally lasts about 3 to 4 days, followed by pinkish-brown serosa. Bright red bleeding with clots at day 10 is abnormal and needs evaluation."
@@ -431,9 +431,9 @@
       "question": "A client who smokes wants to quit. Which statement shows correct understanding of the nicotine patch?",
       "options": [
         "\"I'll cut the patch in half to make it last longer.\"",
-        "\"I'll wear two patches if I have a craving.\"",
-        "\"I'll leave the same patch on for a whole week.\"",
-        "\"I'll put on a new patch each day on a clean, hairless area and rotate sites.\""
+        "\"I'll wear two patches at once whenever I have a very strong craving for nicotine.\"",
+        "\"I'll leave the same patch on for a whole week so that I get a steady, even dose.\"",
+        "\"I'll put on a new patch each day on clean, hairless skin and rotate sites.\""
       ],
       "correctIndex": 3,
       "explanation": "Patches are applied daily to clean, dry, hairless skin with rotation of sites. Cutting patches or adding extra doses is not recommended without guidance."
@@ -448,7 +448,7 @@
         "500 minutes",
         "60 minutes",
         "At least 150 minutes",
-        "30 minutes"
+        "Only 30 minutes per week"
       ],
       "correctIndex": 2,
       "explanation": "Adults are advised to get at least 150 minutes of moderate activity, such as brisk walking, each week, plus muscle-strengthening activity on 2 or more days."
@@ -475,10 +475,10 @@
       "difficulty": "easy",
       "question": "A pregnant client has morning sickness. Which suggestion should the PN reinforce?",
       "options": [
-        "Eat dry crackers before getting out of bed and have small, frequent meals",
-        "Drink large amounts of fluid with each meal",
-        "Skip breakfast every day",
-        "Eat large, spicy meals"
+        "Eat dry crackers before rising and have small, frequent meals",
+        "Drink large amounts of fluid with each meal to settle the stomach and prevent nausea",
+        "Skip breakfast every day to avoid nausea",
+        "Eat large, spicy meals three times a day"
       ],
       "correctIndex": 0,
       "explanation": "Dry crackers, small frequent meals, and avoiding strong odors and greasy foods often reduce nausea in early pregnancy."
@@ -490,10 +490,10 @@
       "difficulty": "easy",
       "question": "Which toy is most appropriate for a 9-month-old infant?",
       "options": [
-        "A board game with small pieces",
+        "A board game with many small pieces",
         "Large, soft blocks that can't be swallowed",
-        "A set of small marbles",
-        "A balloon"
+        "A set of small marbles and wooden beads",
+        "A latex balloon to chew on and play with"
       ],
       "correctIndex": 1,
       "explanation": "Infants put objects in their mouths. Toys must be large enough not to cause choking; balloons and small parts are dangerous."
@@ -506,9 +506,9 @@
       "question": "How should the PN reinforce teaching on newborn umbilical cord care?",
       "options": [
         "Keep the cord clean and dry and fold the diaper below it",
-        "Cover the cord with a tight bandage",
-        "Soak the cord in a tub bath daily",
-        "Pull the cord off after 3 days"
+        "Cover the cord with a tight, airtight bandage",
+        "Soak the cord in a tub bath daily to clean it",
+        "Pull the cord off after 3 days if it is loose"
       ],
       "correctIndex": 0,
       "explanation": "Dry cord care with the diaper folded down allows the stump to dry and fall off, usually in 10 to 14 days."
@@ -520,8 +520,8 @@
       "difficulty": "easy",
       "question": "Which statement about alcohol in pregnancy is correct?",
       "options": [
-        "Beer is safer than wine",
-        "One glass of wine a day is safe",
+        "Beer is safer than wine or hard liquor",
+        "One glass of wine a day is safe for most women",
         "Alcohol is safe after the first trimester",
         "No amount of alcohol is known to be safe during pregnancy"
       ],
@@ -537,8 +537,8 @@
       "options": [
         "\"I'll make her sit on the potty for an hour.\"",
         "\"She should be fully trained by 12 months.\"",
-        "\"I'll praise her when she uses the potty and stay calm with accidents.\"",
-        "\"I'll punish her for accidents so she learns.\""
+        "\"I'll praise her for using the potty and stay calm with accidents.\"",
+        "\"I'll punish her for accidents so she learns to hurry to the toilet.\""
       ],
       "correctIndex": 2,
       "explanation": "Positive reinforcement and patience work best. Most children are ready between 18 and 36 months, and accidents are normal."
@@ -550,10 +550,10 @@
       "difficulty": "easy",
       "question": "When should a client perform breast self-awareness or report breast changes?",
       "options": [
-        "Wait until after menopause to check",
-        "Report any new lump, skin change, or nipple discharge to the provider promptly",
-        "Only check at the yearly visit",
-        "Ignore changes if there is no pain"
+        "Wait until after menopause to start checking the breasts for any changes",
+        "Report any new lump, skin change, or nipple discharge promptly",
+        "Only check at the yearly visit with the provider, since self-checks are not needed",
+        "Ignore changes if there is no pain or fever, since cancers are always painful"
       ],
       "correctIndex": 1,
       "explanation": "Being familiar with how breasts normally look and feel helps clients notice and report changes early."
@@ -580,10 +580,10 @@
       "difficulty": "medium",
       "question": "A parent asks when to start brushing a baby's teeth. What should the PN reinforce?",
       "options": [
-        "At age 3",
-        "Only after all baby teeth are in",
-        "Never, since baby teeth fall out",
-        "When the first tooth appears, using a soft brush and a smear of fluoride toothpaste"
+        "At age 3, after all of the baby teeth have come in, to avoid swallowing toothpaste",
+        "Only after all of the baby teeth are in, around age 3, so fluoride is not swallowed",
+        "Never, since baby teeth fall out anyway",
+        "At the first tooth, using a soft brush and a smear of fluoride toothpaste"
       ],
       "correctIndex": 3,
       "explanation": "Brushing begins with the first tooth. A rice-grain-sized smear of fluoride toothpaste is used for children under 3."
@@ -596,9 +596,9 @@
       "question": "A client asks how to reduce the risk of type 2 diabetes. Which advice should the PN reinforce?",
       "options": [
         "Lose weight if overweight and increase physical activity",
-        "Eat only at night",
-        "Stop drinking water",
-        "Avoid all fruit"
+        "Eat only at night after the family eats",
+        "Stop drinking water to lower weight",
+        "Avoid all fruit because the natural sugar in it can cause type 2 diabetes"
       ],
       "correctIndex": 0,
       "explanation": "Modest weight loss and regular activity significantly reduce the risk of developing type 2 diabetes in people with prediabetes."
@@ -610,8 +610,8 @@
       "difficulty": "medium",
       "question": "A new parent asks how to tell whether a bottle-fed infant is getting enough formula. Which statement should the PN reinforce?",
       "options": [
-        "The baby cries after every feeding",
-        "The baby has no stools for a week",
+        "The baby cries after every single feeding",
+        "The baby has no stools for a week or more",
         "The baby sleeps 12 hours without waking in the first week",
         "Steady weight gain and about 6 or more wet diapers a day"
       ],
@@ -640,10 +640,10 @@
       "difficulty": "medium",
       "question": "A client in the third trimester has ankle swelling at the end of the day. Which suggestion should the PN reinforce?",
       "options": [
-        "Sit with the legs crossed",
-        "Wear tight knee-high stockings",
+        "Sit with the legs crossed at the knees",
+        "Wear tight knee-high stockings with elastic bands at the top of the calf",
         "Elevate the legs and lie on the left side when resting",
-        "Stop drinking fluids"
+        "Stop drinking fluids after the noon meal to decrease the swelling in the ankles"
       ],
       "correctIndex": 2,
       "explanation": "Dependent edema is common late in pregnancy. Elevation and side-lying improve venous return. Sudden swelling of the face or hands should be reported."
@@ -656,7 +656,7 @@
       "question": "A parent asks how to bathe a newborn before the cord falls off. What should the PN reinforce?",
       "options": [
         "Give sponge baths until the cord falls off",
-        "Use adult soap and scrub firmly",
+        "Use adult soap and scrub firmly to remove the cord stump",
         "Leave the newborn alone briefly in the tub",
         "Give a daily tub bath"
       ],
@@ -673,7 +673,7 @@
         "Sleeping most of the day",
         "Social activities, reading, and learning new skills",
         "Avoiding contact with others",
-        "Watching television alone all day"
+        "Watching television alone for most of the day without any visitors"
       ],
       "correctIndex": 1,
       "explanation": "Mental, physical, and social activities are linked with better cognitive health in older adults."
@@ -700,10 +700,10 @@
       "difficulty": "medium",
       "question": "A parent of a 15-month-old asks about drinking from a bottle. What should the PN reinforce?",
       "options": [
-        "Transition to a cup and avoid putting the child to bed with a bottle",
-        "Add cereal to the bedtime bottle",
-        "Fill the bedtime bottle with juice",
-        "Use a bottle until age 5"
+        "Move to a cup and avoid putting the child to bed with a bottle",
+        "Add cereal to the bedtime bottle to help sleep",
+        "Fill the bedtime bottle with milk or juice for sleep",
+        "Use a bottle until age 5 to calm the child at bedtime"
       ],
       "correctIndex": 0,
       "explanation": "Weaning from the bottle around 12 to 15 months and avoiding bedtime bottles helps prevent early childhood tooth decay."
@@ -718,7 +718,7 @@
         "A new mole that bleeds",
         "Sudden yellowing of the skin",
         "Thinner, drier skin that bruises more easily",
-        "A sore that does not heal"
+        "A sore on the skin that does not heal within a few weeks"
       ],
       "correctIndex": 2,
       "explanation": "Aging skin becomes thinner and drier. Non-healing sores, changing moles, and jaundice are not normal and should be reported."
@@ -730,10 +730,10 @@
       "difficulty": "medium",
       "question": "A client asks why she needs a Pap test. Which explanation should the PN reinforce?",
       "options": [
-        "It checks for breast cancer",
-        "It tests for pregnancy",
+        "It checks for breast cancer and for lumps or changes in the breast tissue",
+        "It tests for pregnancy and for all of the sexually transmitted infections",
         "It screens for cervical cell changes that may lead to cancer",
-        "It measures hormone levels"
+        "It measures hormone levels and checks how fertile the client currently is"
       ],
       "correctIndex": 2,
       "explanation": "A Pap test looks for abnormal cervical cells so precancerous changes can be treated before cancer develops."
@@ -745,10 +745,10 @@
       "difficulty": "medium",
       "question": "An adolescent says, \"I've been feeling down and I don't want to hang out with anyone.\" What should the PN do?",
       "options": [
-        "Tell the teen it is just a phase",
+        "Tell the teen it is just a phase of growing up and will pass with time",
         "Ask more about the feelings and report the findings to the RN",
         "Promise to keep it a secret no matter what",
-        "Change the subject to school"
+        "Change the subject to school and grades to take the teen's mind off things"
       ],
       "correctIndex": 1,
       "explanation": "Withdrawal and low mood may signal depression. The PN gathers more data, including safety, and reports so the teen can be assessed."
@@ -762,7 +762,7 @@
       "options": [
         "\"I'll stop if my nipples are a little tender at first.\"",
         "\"I'll feed only every 6 hours.\"",
-        "\"I'll give water between feedings.\"",
+        "\"I'll give water between feedings so the baby does not get thirsty.\"",
         "\"I'll feed my baby on demand about 8 to 12 times a day.\""
       ],
       "correctIndex": 3,
@@ -790,10 +790,10 @@
       "difficulty": "medium",
       "question": "A client asks how to lower blood pressure without medication. Which lifestyle change should the PN reinforce?",
       "options": [
-        "Reduce sodium intake and follow a diet rich in fruits and vegetables",
-        "Increase alcohol intake",
-        "Avoid all physical activity",
-        "Add salt to meals for flavor"
+        "Reduce sodium and follow a diet rich in fruits and vegetables",
+        "Increase alcohol intake to help relax at night and lower the blood pressure",
+        "Avoid all physical activity to rest the heart",
+        "Add salt to meals for better flavor"
       ],
       "correctIndex": 0,
       "explanation": "A low-sodium diet such as DASH, weight control, regular exercise, and limiting alcohol all help lower blood pressure."
@@ -805,9 +805,9 @@
       "difficulty": "medium",
       "question": "A school-age child is getting a sports physical. Which safety teaching should the PN reinforce for bike riding?",
       "options": [
-        "Wear headphones while riding",
-        "Only wear a helmet on long rides",
-        "Ride against traffic",
+        "Wear headphones while riding for music",
+        "Only wear a helmet on long rides or busy roads",
+        "Ride against the traffic so that oncoming cars can be seen",
         "Wear a properly fitted helmet every time"
       ],
       "correctIndex": 3,
@@ -820,8 +820,8 @@
       "difficulty": "medium",
       "question": "A client is in the first trimester. Which change should the PN expect as normal?",
       "options": [
-        "Vaginal bleeding with cramping",
-        "Fever and chills",
+        "Vaginal bleeding with cramping and clots",
+        "Fever and chills with a sore throat",
         "Breast tenderness and urinary frequency",
         "Severe headache with visual changes"
       ],
@@ -835,10 +835,10 @@
       "difficulty": "medium",
       "question": "A client asks how often an adult should have a dental checkup. Which response is accurate?",
       "options": [
-        "Never after age 65",
+        "Never after age 65 if you wear dentures or a partial",
         "Usually every 6 to 12 months or as the dentist recommends",
-        "Every 5 years",
-        "Only when a tooth hurts"
+        "Every 5 years if the teeth look healthy and clean",
+        "Only when a tooth hurts or bleeds badly"
       ],
       "correctIndex": 1,
       "explanation": "Regular dental visits help detect and prevent tooth decay and gum disease, which are linked to other health problems."
@@ -850,10 +850,10 @@
       "difficulty": "medium",
       "question": "A parent asks when a child can move from a car seat to a seat belt alone. What should the PN reinforce?",
       "options": [
-        "When the child weighs 30 pounds",
-        "When the belt fits correctly, usually when the child is about 4 feet 9 inches tall and 8 to 12 years old",
-        "When the child asks to",
-        "At age 4"
+        "When the child weighs 30 pounds and is able to sit up without any help from you",
+        "When the belt fits, usually at about 4 feet 9 inches and age 8 to 12",
+        "When the child asks to sit like the adults do in the family car on long trips",
+        "At age 4, when the child starts kindergarten and rides in the school bus"
       ],
       "correctIndex": 1,
       "explanation": "Children use booster seats until the lap and shoulder belt fit correctly, usually at about 4 feet 9 inches (145 cm)."
@@ -868,7 +868,7 @@
         "Come to the hospital to be checked for ruptured membranes",
         "Take a warm bath and rest",
         "Drink a large glass of water and lie down",
-        "Wait until contractions are 2 minutes apart"
+        "Wait at home until contractions are 2 minutes apart and regular"
       ],
       "correctIndex": 0,
       "explanation": "A gush of fluid suggests rupture of membranes. The client needs evaluation for cord prolapse, infection risk, and labor."
@@ -880,10 +880,10 @@
       "difficulty": "hard",
       "question": "A breastfeeding mother asks how long to breastfeed exclusively. Which answer reflects current recommendations?",
       "options": [
-        "Only until the mother returns to work",
-        "2 weeks",
-        "Until the baby is 3 years old with no other foods",
-        "About 6 months, then continue breastfeeding while adding solid foods"
+        "Only until the mother returns to work or school",
+        "Only 2 weeks, then switch to formula so the baby gets enough iron and calories",
+        "Until the baby is 3 years old with no other foods or drinks added at all",
+        "About 6 months, then continue breastfeeding while adding solids"
       ],
       "correctIndex": 3,
       "explanation": "Exclusive breastfeeding is recommended for about the first 6 months, with continued breastfeeding as complementary foods are added."
@@ -895,10 +895,10 @@
       "difficulty": "hard",
       "question": "A 4-year-old is brought to the clinic for a well-child visit. Which vaccines are commonly due at this age?",
       "options": [
-        "HPV",
-        "Shingles vaccine",
+        "HPV series and the meningococcal booster",
+        "Shingles vaccine and pneumococcal",
         "DTaP, IPV, MMR, and varicella boosters",
-        "Hepatitis B birth dose"
+        "Hepatitis B birth dose and rotavirus"
       ],
       "correctIndex": 2,
       "explanation": "At 4 to 6 years, children receive DTaP, polio, MMR, and varicella doses before starting school."
@@ -910,10 +910,10 @@
       "difficulty": "hard",
       "question": "A client with a family history of colorectal cancer asks about screening. What should the PN do?",
       "options": [
-        "Say family history doesn't matter",
-        "Tell the client screening starts at 75",
-        "Reinforce that screening may start earlier and refer the question to the provider",
-        "Recommend no screening"
+        "Say that family history doesn't matter for colorectal cancer screening",
+        "Tell the client that screening does not start until age 75 regardless of family history",
+        "Reinforce that screening may start earlier and refer questions to the provider",
+        "Recommend no screening unless the client has symptoms of bowel problems"
       ],
       "correctIndex": 2,
       "explanation": "People with a first-degree relative with colorectal cancer often start screening earlier and more often. The provider decides the exact plan."
@@ -925,8 +925,8 @@
       "difficulty": "hard",
       "question": "Which statement by the parent of a 6-month-old shows understanding of introducing solid foods?",
       "options": [
-        "\"I'll start with whole nuts and popcorn.\"",
-        "\"I'll introduce one new food at a time and wait a few days before another.\"",
+        "\"I'll start with whole nuts and popcorn because they are high in protein.\"",
+        "\"I'll introduce one new food at a time and wait a few days.\"",
         "\"I'll add cereal to the bottle.\"",
         "\"I'll give honey to sweeten the cereal.\""
       ],
@@ -941,9 +941,9 @@
       "question": "A postmenopausal client asks how to protect her bones. Which advice should the PN reinforce?",
       "options": [
         "Do weight-bearing exercise and get enough calcium and vitamin D",
-        "Avoid all walking",
-        "Stop eating dairy",
-        "Drink more soda"
+        "Avoid all walking to protect the bones from fractures",
+        "Stop eating dairy foods to cut calories and fat",
+        "Drink more soda for the added minerals and flavor"
       ],
       "correctIndex": 0,
       "explanation": "Weight-bearing exercise, calcium, and vitamin D help maintain bone density after menopause. Smoking and excess alcohol increase bone loss."
@@ -955,9 +955,9 @@
       "difficulty": "hard",
       "question": "A client in labor says she feels the urge to push. What is the PN's best action?",
       "options": [
-        "Give the client something to eat",
-        "Tell the client to push as hard as she can",
-        "Leave the client to get supplies",
+        "Give the client something to eat and drink to keep up her strength",
+        "Tell the client to push as hard as she can with the next contraction",
+        "Leave the client to get supplies and come back in ten minutes",
         "Report it to the RN right away so the cervix can be checked"
       ],
       "correctIndex": 3,
@@ -970,9 +970,9 @@
       "difficulty": "hard",
       "question": "A client is newly pregnant and has a cat. Which teaching should the PN reinforce?",
       "options": [
-        "Have someone else change the litter box, or wear gloves and wash hands after",
-        "Get rid of the cat right away",
-        "Change the litter box without gloves daily",
+        "Have someone else change the litter box, or wear gloves and wash hands",
+        "Get rid of the cat right away, since cats cannot be kept during pregnancy",
+        "Change the litter box daily without gloves because the infection risk is very small",
         "Feed the cat raw meat"
       ],
       "correctIndex": 0,

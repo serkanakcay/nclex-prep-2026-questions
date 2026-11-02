@@ -40,9 +40,9 @@
       "difficulty": "easy",
       "question": "What is the most reliable indicator of pain in an alert, oriented adult?",
       "options": [
-        "Facial expression",
-        "Blood pressure",
-        "Heart rate",
+        "Facial expression and body posture",
+        "Blood pressure and respiratory rate",
+        "Heart rate and blood pressure",
         "The client's self-report"
       ],
       "correctIndex": 3,
@@ -55,10 +55,10 @@
       "difficulty": "easy",
       "question": "During a continuous enteral tube feeding, how should the nurse position the client?",
       "options": [
-        "Trendelenburg",
-        "Prone",
+        "Trendelenburg so that the formula flows by gravity",
+        "Prone with the head turned to one side",
         "Head of bed elevated at least 30 degrees",
-        "Flat on the back"
+        "Flat on the back with the knees slightly raised"
       ],
       "correctIndex": 2,
       "explanation": "Keeping the head of the bed at 30 to 45 degrees lowers the risk of aspiration during tube feeding."
@@ -85,10 +85,10 @@
       "difficulty": "medium",
       "question": "A client with right-sided weakness is learning to use a cane. Which instruction is correct?",
       "options": [
-        "Hold the cane in the left hand and move it forward with the right leg",
-        "Move the cane and the left leg together",
-        "Hold the cane in the right hand",
-        "Keep the cane 12 inches behind the body"
+        "Hold the cane in the left hand and advance it with the right leg",
+        "Move the cane and the left leg together as the first step",
+        "Hold the cane in the right hand and advance it with the right leg",
+        "Keep the cane 12 inches behind the body for better balance and support"
       ],
       "correctIndex": 0,
       "explanation": "Hold the cane on the stronger side and move it forward together with the weaker leg to widen the base of support."
@@ -101,9 +101,9 @@
       "question": "Where should the drainage bag of an indwelling urinary catheter be kept?",
       "options": [
         "Below the level of the bladder, off the floor",
-        "On the bed beside the client",
+        "On the bed beside the client to keep the tubing from tugging",
         "Above the bladder to improve flow",
-        "Hooked to the side rail that moves"
+        "Hooked to the side rail that moves when the bed is raised or lowered"
       ],
       "correctIndex": 0,
       "explanation": "Keeping the bag below the bladder prevents backflow and lowers the risk of catheter-associated urinary tract infection."
@@ -115,10 +115,10 @@
       "difficulty": "medium",
       "question": "A client with dysphagia after a stroke is eating lunch. Which intervention is appropriate?",
       "options": [
-        "Rush the meal to prevent fatigue",
-        "Have the client lie flat after eating",
+        "Rush the meal to prevent fatigue and finish in 10 minutes or less",
+        "Have the client lie flat after eating to help digest the meal",
         "Seat the client upright and teach the chin-tuck technique",
-        "Give thin liquids through a straw"
+        "Give thin liquids through a straw to speed up the meal"
       ],
       "correctIndex": 2,
       "explanation": "Sitting upright, tucking the chin, eating slowly, and using thickened liquids as prescribed lower the risk of aspiration."
@@ -148,7 +148,7 @@
         "Isometric exercises",
         "Resistive exercises",
         "Passive range of motion",
-        "Active range of motion"
+        "Active range of motion by the client"
       ],
       "correctIndex": 2,
       "explanation": "Passive ROM, done by the caregiver, keeps joints mobile and helps prevent contractures in clients who can't move on their own."
@@ -160,8 +160,8 @@
       "difficulty": "medium",
       "question": "How should the PN position an unconscious client for oral care?",
       "options": [
-        "High Fowler's",
-        "Prone",
+        "High Fowler's with the head of bed raised",
+        "Prone with the head turned to the side",
         "Supine with the head flat",
         "Side-lying with the head turned to the side"
       ],
@@ -175,9 +175,9 @@
       "difficulty": "easy",
       "question": "A client sprained an ankle 2 hours ago. Which intervention is appropriate?",
       "options": [
-        "Massage the ankle",
-        "Keep the ankle dependent",
-        "Apply heat",
+        "Massage the ankle firmly to push the swelling away from the joint",
+        "Keep the ankle dependent to improve circulation",
+        "Apply heat for 20 minutes to improve circulation and healing",
         "Apply cold, wrapped in a cloth, for about 20 minutes"
       ],
       "correctIndex": 3,
@@ -191,9 +191,9 @@
       "question": "How can the PN help a client with impaired vision eat independently?",
       "options": [
         "Describe the food placement using the clock method",
-        "Mix all foods together",
-        "Serve only liquids",
-        "Feed the client every meal"
+        "Mix all foods together on one plate so they are easier to find",
+        "Serve only liquids so that nothing is spilled",
+        "Feed the client every meal so that nothing is spilled or missed"
       ],
       "correctIndex": 0,
       "explanation": "Describing food by clock positions (for example, \"meat at 6 o'clock\") supports independence and dignity."
@@ -205,10 +205,10 @@
       "difficulty": "medium",
       "question": "Which intervention supports bladder training for a client with urge incontinence?",
       "options": [
-        "Give fluids mainly at bedtime",
+        "Give fluids mainly at bedtime so the bladder fills overnight",
         "Limit fluids to 500 mL a day",
-        "Insert an indwelling catheter",
-        "Set a timed voiding schedule, such as every 2 hours, and gradually lengthen it"
+        "Insert an indwelling catheter to keep the bladder empty",
+        "Set a timed voiding schedule, such as every 2 hours, then lengthen it"
       ],
       "correctIndex": 3,
       "explanation": "Scheduled voiding with gradually longer intervals retrains the bladder. Adequate daytime fluids prevent concentrated, irritating urine."
@@ -238,7 +238,7 @@
         "Glasgow Coma Scale",
         "FACES pain rating scale",
         "Braden scale",
-        "0 to 10 numeric scale"
+        "0 to 10 numeric rating scale"
       ],
       "correctIndex": 1,
       "explanation": "Young children can point to faces that show how they feel. Numeric scales require an understanding of numbers."
@@ -265,10 +265,10 @@
       "difficulty": "easy",
       "question": "A client is on a full liquid diet. Which item may the client have?",
       "options": [
-        "Baked chicken",
+        "Baked chicken breast",
         "Vanilla pudding",
         "Toast",
-        "Scrambled eggs"
+        "Soft scrambled eggs"
       ],
       "correctIndex": 1,
       "explanation": "Full liquid diets include foods that are liquid at room temperature or melt, such as pudding, milk, and cream soups."
@@ -280,10 +280,10 @@
       "difficulty": "easy",
       "question": "A client with a cast on the leg reports itching under the cast. What should the nurse advise?",
       "options": [
-        "Pour lotion under the cast",
+        "Pour lotion under the cast to soothe the skin",
         "Use cool air from a hair dryer on the cool setting",
-        "Insert a coat hanger to scratch",
-        "Remove the cast at night"
+        "Insert a coat hanger or ruler to scratch the itchy skin",
+        "Remove the cast at night to let the skin breathe and cool down"
       ],
       "correctIndex": 1,
       "explanation": "Objects inserted under a cast can break the skin and cause infection. Cool air can relieve itching safely."
@@ -311,9 +311,9 @@
       "question": "Which nonpharmacologic measure can help reduce a client's pain?",
       "options": [
         "Guided imagery and relaxation breathing",
-        "Keeping the client awake",
+        "Keeping the client awake and in bed all day long",
         "Keeping the room noisy",
-        "Limiting family visits always"
+        "Limiting family visits to reduce stimulation"
       ],
       "correctIndex": 0,
       "explanation": "Distraction, guided imagery, relaxation, heat or cold, and positioning can reduce pain and enhance analgesics."
@@ -325,7 +325,7 @@
       "difficulty": "medium",
       "question": "A client with constipation asks how to improve bowel function. Which recommendation is best?",
       "options": [
-        "Use a stimulant laxative daily long term",
+        "Use a stimulant laxative every day for the long term",
         "Ignore the urge to defecate",
         "Limit fluids to avoid bloating",
         "Increase fiber, fluids, and physical activity"
@@ -343,7 +343,7 @@
         "Provide frequent oral and nasal care",
         "Keep the client flat in bed",
         "Give large amounts of ice chips",
-        "Tape the tube tightly against the nostril"
+        "Tape the tube tight to the nose"
       ],
       "correctIndex": 0,
       "explanation": "Mouth breathing and the tube dry the mucous membranes. Frequent mouth and nose care prevents irritation and skin breakdown."
@@ -355,10 +355,10 @@
       "difficulty": "medium",
       "question": "Which client is most at risk for developing a pressure injury?",
       "options": [
-        "A young adult after a dental procedure",
-        "An older adult with incontinence who is confined to bed and eats poorly",
-        "A walking adult with a cold",
-        "A teenager with a fractured wrist"
+        "A young adult after a dental procedure who is walking",
+        "An older adult with incontinence who is bedbound and eats poorly",
+        "A walking adult with a cold who eats and drinks well",
+        "A teenager with a fractured wrist who is walking normally"
       ],
       "correctIndex": 1,
       "explanation": "Immobility, moisture, and poor nutrition together greatly increase pressure injury risk."
@@ -386,9 +386,9 @@
       "question": "A client who is lactose intolerant needs calcium. Which food is a good choice?",
       "options": [
         "Calcium-fortified soy milk",
-        "Ice cream",
+        "Ice cream and frozen yogurt",
         "Cottage cheese",
-        "Whole milk"
+        "Whole milk with meals"
       ],
       "correctIndex": 0,
       "explanation": "Fortified plant-based drinks and leafy greens provide calcium without lactose."
@@ -415,9 +415,9 @@
       "difficulty": "hard",
       "question": "A client with chronic pain uses a TENS unit. Which statement shows correct understanding?",
       "options": [
-        "\"I can place the electrodes over my eyes.\"",
-        "\"I should use it while in the bath.\"",
-        "\"The unit sends mild electrical signals that can block pain messages.\"",
+        "\"I can place the electrodes over my eyes or the front of my neck.\"",
+        "\"I should use it while in the bath or the shower every day.\"",
+        "\"The unit sends mild electrical signals that can block pain.\"",
         "\"It will cure the cause of my pain.\""
       ],
       "correctIndex": 2,
@@ -430,9 +430,9 @@
       "difficulty": "hard",
       "question": "A client with a terminal illness has noisy, gurgling breathing in the last hours of life. Which intervention is appropriate?",
       "options": [
-        "Give large amounts of IV fluids",
-        "Reposition the client to the side and consider an anticholinergic as ordered",
-        "Place the client flat on the back",
+        "Give large amounts of IV fluids to thin the secretions",
+        "Reposition the client to the side and consider an anticholinergic",
+        "Place the client flat on the back to help the secretions drain",
         "Perform deep suctioning every 15 minutes"
       ],
       "correctIndex": 1,
@@ -447,8 +447,8 @@
       "options": [
         "Warm, about 43 to 46 C (110 to 115 F), checked before use",
         "Ice cold",
-        "As hot as the tap allows",
-        "Whatever the client wants without checking"
+        "As hot as the tap allows so the bath stays warm longer",
+        "Whatever the client says feels comfortable without testing it first"
       ],
       "correctIndex": 0,
       "explanation": "Warm water that is checked first is comfortable and prevents burns, especially in older adults with reduced sensation."
@@ -475,10 +475,10 @@
       "difficulty": "easy",
       "question": "Which position is used for a client receiving an enema?",
       "options": [
-        "Supine with legs flat",
+        "Supine with the legs flat and the knees bent up toward the chest",
         "Prone",
         "Left side-lying (Sims') with the right knee bent",
-        "Right side-lying"
+        "Right side-lying with the left knee bent toward the chest"
       ],
       "correctIndex": 2,
       "explanation": "The left Sims' position follows the natural curve of the rectum and colon so the solution flows in easily."
@@ -490,10 +490,10 @@
       "difficulty": "easy",
       "question": "How should the PN care for a client's dentures?",
       "options": [
-        "Clean them with hot boiling water",
-        "Wrap them in a napkin on the tray",
-        "Clean them over a basin lined with a towel and store them in a labeled cup of water",
-        "Leave them dry on the bedside table"
+        "Clean them with hot boiling water every day",
+        "Wrap them in a napkin on the tray after the meal",
+        "Clean them over a lined basin and store them in a labeled cup of water",
+        "Leave them dry and uncovered on the bedside table overnight to keep them firm"
       ],
       "correctIndex": 2,
       "explanation": "Cleaning over a padded basin prevents breaking. Dentures are stored moist in a labeled cup to keep their shape."
@@ -505,9 +505,9 @@
       "difficulty": "easy",
       "question": "Which action helps a client void naturally?",
       "options": [
-        "Keeping the door open",
-        "Limiting fluids",
-        "Asking the client to hurry",
+        "Keeping the door open so staff can hear when the client voids",
+        "Limiting fluids so that the client has less urine to pass",
+        "Asking the client to hurry up so the bedpan can be removed",
         "Running water in the sink and providing privacy"
       ],
       "correctIndex": 3,
@@ -551,7 +551,7 @@
       "question": "Which client needs assistance with feeding?",
       "options": [
         "A client with a sore knee",
-        "A client recovering from a cold",
+        "A client recovering from a cold and sore throat",
         "A client with mild hearing loss",
         "A client with both hands in casts"
       ],
@@ -566,7 +566,7 @@
       "question": "A client uses a walker. Which statement shows correct use?",
       "options": [
         "\"I lean far over the walker.\"",
-        "\"I carry the walker when I walk.\"",
+        "\"I carry the walker with me when I walk down the hall and use the wall.\"",
         "\"I move the walker forward first, then step into it.\"",
         "\"I use the walker to pull myself up from the chair.\""
       ],
@@ -583,7 +583,7 @@
         "Float the heels with a pillow under the calves",
         "Massage the heel vigorously",
         "Keep the heel pressed on the mattress",
-        "Place a donut cushion under the heel"
+        "Place a donut cushion under the heel to relieve the pressure"
       ],
       "correctIndex": 0,
       "explanation": "Floating the heels removes pressure. Massage and donut devices can damage tissue and reduce blood flow."
@@ -595,7 +595,7 @@
       "difficulty": "medium",
       "question": "A client is constipated and has not had a bowel movement in 4 days. Which question should the PN ask first?",
       "options": [
-        "\"Have you been eating too much?\"",
+        "\"Have you been eating too much or too little lately?\"",
         "\"What is your usual bowel pattern?\"",
         "\"Why didn't you tell anyone?\"",
         "\"Do you want a laxative now?\""
@@ -610,9 +610,9 @@
       "difficulty": "medium",
       "question": "A client asks for pain medicine 1 hour after a dose. The pain is still 8/10. What should the PN do?",
       "options": [
-        "Ignore the request",
-        "Tell the client to wait 3 more hours",
-        "Give another full dose",
+        "Ignore the request until the next scheduled dose",
+        "Tell the client to wait 3 more hours until the next scheduled dose",
+        "Give another full dose right away to help the pain",
         "Collect more data about the pain and report to the RN"
       ],
       "correctIndex": 3,
@@ -656,9 +656,9 @@
       "question": "Which action helps prevent foot drop in a client on bed rest?",
       "options": [
         "Using a footboard or high-top sneakers to keep the feet at 90 degrees",
-        "Keeping the feet pointed down",
-        "Tucking the sheets tightly over the toes",
-        "Placing a pillow under the knees all day"
+        "Keeping the feet pointed down to rest the muscles",
+        "Tucking the sheets tightly over the toes to keep the feet warm and still",
+        "Placing a pillow under the knees all day long"
       ],
       "correctIndex": 0,
       "explanation": "Keeping the feet in dorsiflexion prevents plantar flexion contracture (foot drop)."
@@ -670,9 +670,9 @@
       "difficulty": "medium",
       "question": "A client is receiving a sitz bath. What is its main purpose?",
       "options": [
-        "To clean the hair",
-        "To lower body temperature",
-        "To treat constipation",
+        "To clean the hair and scalp of the client",
+        "To lower body temperature and reduce a fever",
+        "To treat constipation and gas pains",
         "To reduce perineal pain and promote healing"
       ],
       "correctIndex": 3,
@@ -701,7 +701,7 @@
       "question": "A client with diabetes asks about foot care. Which instruction should the PN reinforce?",
       "options": [
         "Cut the toenails with a razor",
-        "Soak the feet in hot water",
+        "Soak the feet in hot water every night to soften the skin",
         "Check the feet daily and wear well-fitting shoes",
         "Go barefoot at home"
       ],
@@ -732,7 +732,7 @@
       "options": [
         "Cooked chicken",
         "Clear juice",
-        "White rice",
+        "White rice, refined pasta, and white bread",
         "Whole-grain bread and raw vegetables"
       ],
       "correctIndex": 3,
@@ -747,7 +747,7 @@
       "options": [
         "Keep the client flat",
         "Raise the head of the bed to a sitting position",
-        "Place the client in Trendelenburg",
+        "Place the client in Trendelenburg with the knees raised",
         "Turn the client prone"
       ],
       "correctIndex": 1,
@@ -776,7 +776,7 @@
       "question": "A client says, \"I don't sleep well in the hospital.\" Which action by the PN is most helpful?",
       "options": [
         "Give coffee at bedtime",
-        "Wake the client often to check on them",
+        "Wake the client often to check on them and take vital signs",
         "Offer a back rub, dim the lights, and reduce noise",
         "Turn on the TV loudly"
       ],
@@ -790,10 +790,10 @@
       "difficulty": "medium",
       "question": "A client with a hip fracture is in pain. What should the PN do before turning the client?",
       "options": [
-        "Avoid turning the client all shift",
-        "Have the client turn alone",
+        "Avoid turning the client all shift and leave the client lying in one position",
+        "Have the client turn alone without any help",
         "Give the ordered pain medication and allow time for it to work",
-        "Turn quickly to get it over with"
+        "Turn quickly to get it over with before the pain starts"
       ],
       "correctIndex": 2,
       "explanation": "Premedicating before movement makes care more comfortable and allows better participation."
@@ -807,7 +807,7 @@
       "options": [
         "Clean the skin promptly and apply a barrier cream",
         "Change briefs once per shift",
-        "Use plastic sheets directly under the client",
+        "Use plastic sheets directly under the client to keep the bed dry",
         "Use strong deodorant soap"
       ],
       "correctIndex": 0,
@@ -837,7 +837,7 @@
       "options": [
         "Doubling the rate",
         "Using clean technique and following the ordered rate",
-        "Hanging formula for 24 hours in an open system",
+        "Hanging formula for 24 hours in an open system to save time",
         "Using cold formula from the refrigerator"
       ],
       "correctIndex": 1,
@@ -865,7 +865,7 @@
       "difficulty": "hard",
       "question": "A client with a new below-the-knee amputation asks why the PN is discouraging a pillow under the stump. Which explanation is correct?",
       "options": [
-        "\"It increases the risk of infection.\"",
+        "\"It increases the risk of infection in the stump by trapping heat.\"",
         "\"It causes phantom pain.\"",
         "\"It makes the dressing fall off.\"",
         "\"It can cause the knee to become stiff in a bent position.\""
@@ -880,10 +880,10 @@
       "difficulty": "hard",
       "question": "A client with a terminal illness has dry, cracked lips. What should the PN do?",
       "options": [
-        "Use alcohol swabs",
-        "Give large glasses of water",
+        "Use alcohol swabs to clean the lips each hour",
+        "Give large glasses of water every hour to rehydrate the lips",
         "Apply a lip moisturizer and provide frequent mouth care",
-        "Leave the lips alone"
+        "Leave the lips alone to let them heal on their own"
       ],
       "correctIndex": 2,
       "explanation": "Comfort care at the end of life includes keeping the mouth and lips moist."
@@ -895,10 +895,10 @@
       "difficulty": "hard",
       "question": "A client returns from surgery with a pain rating of 9/10 and asks for help. Which nonpharmacologic measure can the PN add to the ordered medication?",
       "options": [
-        "Turning off the call light",
+        "Turning off the call light so the client rests",
         "Repositioning with pillows for support",
-        "Keeping the client awake",
-        "Withholding fluids"
+        "Keeping the client awake and in bed",
+        "Withholding fluids to reduce nausea"
       ],
       "correctIndex": 1,
       "explanation": "Repositioning and support can enhance pain relief, along with medications and relaxation techniques."
@@ -912,7 +912,7 @@
       "options": [
         "\"I'll wash around the catheter daily.\"",
         "\"I'll drink plenty of fluids unless told otherwise.\"",
-        "\"I'll hang the bag on the bed rail above my bladder.\"",
+        "\"I'll hang the bag above my bladder.\"",
         "\"I'll keep the tubing free of kinks.\""
       ],
       "correctIndex": 2,
@@ -925,10 +925,10 @@
       "difficulty": "hard",
       "question": "A client with Parkinson's disease is having trouble eating. Which intervention should the PN suggest?",
       "options": [
-        "Very large bites",
+        "Very large bites to finish meals faster",
         "Weighted utensils and plates with raised edges",
-        "Thin liquids with straws only",
-        "Eating lying down"
+        "Thin liquids with straws only to prevent spills",
+        "Eating lying down to rest the muscles"
       ],
       "correctIndex": 1,
       "explanation": "Adaptive utensils help clients with tremors eat independently. Clients sit upright to reduce aspiration risk."
@@ -958,7 +958,7 @@
         "About 15 to 20 minutes",
         "1 minute",
         "All night",
-        "2 hours"
+        "Up to 2 hours at a time"
       ],
       "correctIndex": 0,
       "explanation": "Cold is applied for about 15 to 20 minutes to avoid tissue damage, with breaks between applications."
@@ -970,10 +970,10 @@
       "difficulty": "hard",
       "question": "A client on bed rest is at risk of constipation. Which plan is best?",
       "options": [
-        "Avoid fruit",
-        "Limit fluids to 500 mL",
+        "Avoid fruit and vegetables to reduce gas and bloating",
+        "Limit fluids to 500 mL a day to reduce the need to use the bedpan",
         "Encourage fluids, fiber, and range-of-motion exercises",
-        "Give a daily enema"
+        "Give a daily enema to keep the bowel moving"
       ],
       "correctIndex": 2,
       "explanation": "Fluids, fiber, and movement all help maintain bowel function in clients with limited mobility."

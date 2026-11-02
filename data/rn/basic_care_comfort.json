@@ -40,9 +40,9 @@
       "difficulty": "easy",
       "question": "What is the most reliable indicator of pain in an alert, oriented adult?",
       "options": [
-        "Facial expression",
-        "Blood pressure",
-        "Heart rate",
+        "Facial expression and body posture",
+        "Blood pressure and respiratory rate",
+        "Heart rate and blood pressure",
         "The client's self-report"
       ],
       "correctIndex": 3,
@@ -55,10 +55,10 @@
       "difficulty": "easy",
       "question": "During a continuous enteral tube feeding, how should the nurse position the client?",
       "options": [
-        "Trendelenburg",
-        "Prone",
+        "Trendelenburg so that the formula flows by gravity",
+        "Prone with the head turned to one side",
         "Head of bed elevated at least 30 degrees",
-        "Flat on the back"
+        "Flat on the back with the knees slightly raised"
       ],
       "correctIndex": 2,
       "explanation": "Keeping the head of the bed at 30 to 45 degrees lowers the risk of aspiration during tube feeding."
@@ -85,10 +85,10 @@
       "difficulty": "medium",
       "question": "A client with right-sided weakness is learning to use a cane. Which instruction is correct?",
       "options": [
-        "Hold the cane in the left hand and move it forward with the right leg",
-        "Move the cane and the left leg together",
-        "Hold the cane in the right hand",
-        "Keep the cane 12 inches behind the body"
+        "Hold the cane in the left hand and advance it with the right leg",
+        "Move the cane and the left leg together as the first step",
+        "Hold the cane in the right hand and advance it with the right leg",
+        "Keep the cane 12 inches behind the body for better balance and support"
       ],
       "correctIndex": 0,
       "explanation": "Hold the cane on the stronger side and move it forward together with the weaker leg to widen the base of support."
@@ -101,9 +101,9 @@
       "question": "Where should the drainage bag of an indwelling urinary catheter be kept?",
       "options": [
         "Below the level of the bladder, off the floor",
-        "On the bed beside the client",
+        "On the bed beside the client to keep the tubing from tugging",
         "Above the bladder to improve flow",
-        "Hooked to the side rail that moves"
+        "Hooked to the side rail that moves when the bed is raised or lowered"
       ],
       "correctIndex": 0,
       "explanation": "Keeping the bag below the bladder prevents backflow and lowers the risk of catheter-associated urinary tract infection."
@@ -115,10 +115,10 @@
       "difficulty": "medium",
       "question": "A client with dysphagia after a stroke is eating lunch. Which intervention is appropriate?",
       "options": [
-        "Rush the meal to prevent fatigue",
-        "Have the client lie flat after eating",
+        "Rush the meal to prevent fatigue and finish in 10 minutes or less",
+        "Have the client lie flat after eating to help digest the meal",
         "Seat the client upright and teach the chin-tuck technique",
-        "Give thin liquids through a straw"
+        "Give thin liquids through a straw to speed up the meal"
       ],
       "correctIndex": 2,
       "explanation": "Sitting upright, tucking the chin, eating slowly, and using thickened liquids as prescribed lower the risk of aspiration."
@@ -147,8 +147,8 @@
       "options": [
         "Avoid bending the hip more than 90 degrees",
         "Sleep on the operative side without a pillow",
-        "Use a low toilet seat",
-        "Cross your legs when sitting"
+        "Use a low toilet seat so the hip can bend deeply",
+        "Cross your legs when sitting to stay comfortable"
       ],
       "correctIndex": 0,
       "explanation": "Posterior hip precautions: avoid flexion over 90 degrees, adduction past midline, and internal rotation. A raised toilet seat and an abduction pillow help."
@@ -205,9 +205,9 @@
       "difficulty": "medium",
       "question": "A client receiving hospice care is short of breath at rest. Which medication most effectively relieves the distress of dyspnea at the end of life?",
       "options": [
-        "Furosemide",
+        "Furosemide (a loop diuretic)",
         "Low-dose morphine",
-        "Haloperidol",
+        "Haloperidol (an antipsychotic)",
         "Ibuprofen"
       ],
       "correctIndex": 1,
@@ -238,7 +238,7 @@
         "Glasgow Coma Scale",
         "FACES pain rating scale",
         "Braden scale",
-        "0 to 10 numeric scale"
+        "0 to 10 numeric rating scale"
       ],
       "correctIndex": 1,
       "explanation": "Young children can point to faces that show how they feel. Numeric scales require an understanding of numbers."
@@ -265,10 +265,10 @@
       "difficulty": "easy",
       "question": "A client is on a full liquid diet. Which item may the client have?",
       "options": [
-        "Baked chicken",
+        "Baked chicken breast",
         "Toast",
         "Vanilla pudding",
-        "Scrambled eggs"
+        "Soft scrambled eggs"
       ],
       "correctIndex": 2,
       "explanation": "Full liquid diets include foods that are liquid at room temperature or melt, such as pudding, milk, and cream soups."
@@ -280,9 +280,9 @@
       "difficulty": "easy",
       "question": "A client with a cast on the leg reports itching under the cast. What should the nurse advise?",
       "options": [
-        "Pour lotion under the cast",
-        "Insert a coat hanger to scratch",
-        "Remove the cast at night",
+        "Pour lotion under the cast to soothe the skin",
+        "Insert a coat hanger or ruler to scratch the itchy skin",
+        "Remove the cast at night to let the skin breathe and cool down",
         "Use cool air from a hair dryer on the cool setting"
       ],
       "correctIndex": 3,
@@ -310,10 +310,10 @@
       "difficulty": "medium",
       "question": "Which nonpharmacologic measure can help reduce a client's pain?",
       "options": [
-        "Keeping the client awake",
+        "Keeping the client awake and in bed all day long",
         "Guided imagery and relaxation breathing",
         "Keeping the room noisy",
-        "Limiting family visits always"
+        "Limiting family visits to reduce stimulation"
       ],
       "correctIndex": 1,
       "explanation": "Distraction, guided imagery, relaxation, heat or cold, and positioning can reduce pain and enhance analgesics."
@@ -325,7 +325,7 @@
       "difficulty": "medium",
       "question": "A client with constipation asks how to improve bowel function. Which recommendation is best?",
       "options": [
-        "Use a stimulant laxative daily long term",
+        "Use a stimulant laxative every day for the long term",
         "Ignore the urge to defecate",
         "Limit fluids to avoid bloating",
         "Increase fiber, fluids, and physical activity"
@@ -343,7 +343,7 @@
         "Provide frequent oral and nasal care",
         "Keep the client flat in bed",
         "Give large amounts of ice chips",
-        "Tape the tube tightly against the nostril"
+        "Tape the tube tight to the nose"
       ],
       "correctIndex": 0,
       "explanation": "Mouth breathing and the tube dry the mucous membranes. Frequent mouth and nose care prevents irritation and skin breakdown."
@@ -355,10 +355,10 @@
       "difficulty": "medium",
       "question": "Which client is most at risk for developing a pressure injury?",
       "options": [
-        "A young adult after a dental procedure",
-        "A walking adult with a cold",
-        "An older adult with incontinence who is confined to bed and eats poorly",
-        "A teenager with a fractured wrist"
+        "A young adult after a dental procedure who is walking",
+        "A walking adult with a cold who eats and drinks well",
+        "An older adult with incontinence who is bedbound and eats poorly",
+        "A teenager with a fractured wrist who is walking normally"
       ],
       "correctIndex": 2,
       "explanation": "Immobility, moisture, and poor nutrition together greatly increase pressure injury risk."
@@ -386,9 +386,9 @@
       "question": "A client who is lactose intolerant needs calcium. Which food is a good choice?",
       "options": [
         "Calcium-fortified soy milk",
-        "Ice cream",
+        "Ice cream and frozen yogurt",
         "Cottage cheese",
-        "Whole milk"
+        "Whole milk with meals"
       ],
       "correctIndex": 0,
       "explanation": "Fortified plant-based drinks and leafy greens provide calcium without lactose."
@@ -415,9 +415,9 @@
       "difficulty": "hard",
       "question": "A client with chronic pain uses a TENS unit. Which statement shows correct understanding?",
       "options": [
-        "\"I can place the electrodes over my eyes.\"",
-        "\"I should use it while in the bath.\"",
-        "\"The unit sends mild electrical signals that can block pain messages.\"",
+        "\"I can place the electrodes over my eyes or the front of my neck.\"",
+        "\"I should use it while in the bath or the shower every day.\"",
+        "\"The unit sends mild electrical signals that can block pain.\"",
         "\"It will cure the cause of my pain.\""
       ],
       "correctIndex": 2,
@@ -430,9 +430,9 @@
       "difficulty": "hard",
       "question": "A client with a terminal illness has noisy, gurgling breathing in the last hours of life. Which intervention is appropriate?",
       "options": [
-        "Give large amounts of IV fluids",
-        "Reposition the client to the side and consider an anticholinergic as ordered",
-        "Place the client flat on the back",
+        "Give large amounts of IV fluids to thin the secretions",
+        "Reposition the client to the side and consider an anticholinergic",
+        "Place the client flat on the back to help the secretions drain",
         "Perform deep suctioning every 15 minutes"
       ],
       "correctIndex": 1,
@@ -445,10 +445,10 @@
       "difficulty": "easy",
       "question": "A client receiving intermittent enteral feedings has a gastric residual volume much higher than usual. What should the RN do first?",
       "options": [
-        "Discard the residual and give the feeding faster",
-        "Double the next feeding",
-        "Hold the feeding, reassess the client, and follow the facility protocol",
-        "Lay the client flat"
+        "Discard the residual and restart the feeding at a faster rate",
+        "Double the next feeding to make up for the residual",
+        "Hold the feeding, reassess the client, and follow protocol",
+        "Lay the client flat to prevent reflux of the feeding"
       ],
       "correctIndex": 2,
       "explanation": "A large residual may indicate delayed gastric emptying and aspiration risk. The RN assesses the client and follows the protocol and provider orders."
@@ -460,7 +460,7 @@
       "difficulty": "easy",
       "question": "A client with a below-the-knee amputation should be positioned to prevent which complication?",
       "options": [
-        "Foot drop",
+        "Foot drop and ankle contracture of the other leg",
         "Wrist drop",
         "Neck stiffness",
         "Hip and knee flexion contracture"
@@ -475,10 +475,10 @@
       "difficulty": "easy",
       "question": "Which diet is most appropriate for a client with a new ileostomy in the early recovery period?",
       "options": [
-        "A low-fiber diet with gradual addition of foods and plenty of fluids",
-        "A diet high in nuts and popcorn",
-        "A fluid-restricted diet",
-        "A high-fiber diet with raw vegetables"
+        "A low-fiber diet with gradual food additions and plenty of fluids",
+        "A diet high in nuts and popcorn for added fiber",
+        "A fluid-restricted diet to reduce the stool output",
+        "A high-fiber diet with raw vegetables and whole grains for bowel function"
       ],
       "correctIndex": 0,
       "explanation": "Low-fiber foods reduce the risk of food blockage, and extra fluids replace the loss of water through the ileostomy."
@@ -490,7 +490,7 @@
       "difficulty": "easy",
       "question": "Which client should not receive a heat application?",
       "options": [
-        "A client with chronic low back muscle spasm",
+        "A client with chronic low back muscle spasm for several weeks",
         "A client with a fresh ankle sprain from 1 hour ago",
         "A client with stiff joints from arthritis",
         "A client with menstrual cramps"
@@ -521,7 +521,7 @@
       "question": "A client on enteral feedings through a PEG tube needs medications. Which action is correct?",
       "options": [
         "Crush extended-release tablets",
-        "Mix all medications together in the formula bag",
+        "Mix all medications together in the formula bag to save time",
         "Flush with water before and after each medication",
         "Give medications without flushing"
       ],
@@ -536,9 +536,9 @@
       "question": "A client with a hip fracture is placed in Buck's traction. What is the purpose of the traction?",
       "options": [
         "To reduce muscle spasms and pain before surgery",
-        "To prevent infection",
-        "To allow walking",
-        "To permanently fix the fracture"
+        "To prevent infection at the fracture site",
+        "To allow walking before the surgery is performed",
+        "To permanently fix the fracture until the bone has healed"
       ],
       "correctIndex": 0,
       "explanation": "Buck's skin traction is often used briefly before surgery to reduce muscle spasms and pain."
@@ -565,10 +565,10 @@
       "difficulty": "medium",
       "question": "A client with a PCA pump for morphine has a respiratory rate of 9/min and is hard to arouse. What should the RN do first?",
       "options": [
-        "Stop the PCA, stimulate the client, and prepare to give naloxone",
-        "Encourage the client to press the button less",
-        "Allow the family to press the button",
-        "Increase the basal rate"
+        "Stop the PCA, stimulate the client, and prepare for naloxone",
+        "Encourage the client to press the button less often until awake",
+        "Allow the family to press the button for comfort",
+        "Increase the basal rate to improve pain control"
       ],
       "correctIndex": 0,
       "explanation": "Oversedation and respiratory depression require stopping the opioid and giving naloxone per protocol. Only the client should use the PCA button."
@@ -580,10 +580,10 @@
       "difficulty": "medium",
       "question": "A client who is NPO has a dry mouth. Which intervention is most appropriate?",
       "options": [
-        "Sips of soda",
-        "Alcohol-based mouthwash",
-        "Lemon-glycerin swabs every hour",
-        "Frequent mouth care with moistened swabs and lip moisturizer"
+        "Sips of soda every hour to moisten the mouth",
+        "Alcohol-based mouthwash to freshen the mouth",
+        "Lemon-glycerin swabs used every hour to stimulate saliva flow",
+        "Frequent mouth care with moistened swabs and lip balm"
       ],
       "correctIndex": 3,
       "explanation": "Moistened swabs and lip care relieve dryness. Lemon-glycerin and alcohol-based products dry and irritate the mouth."
@@ -595,10 +595,10 @@
       "difficulty": "medium",
       "question": "A client with an above-the-knee amputation reports pain in the missing foot. How should the RN respond?",
       "options": [
-        "Tell the client the pain is imagined",
-        "Ignore the complaint",
-        "Acknowledge that phantom limb pain is real and give the prescribed treatment",
-        "Tell the client to look at the stump to stop the pain"
+        "Tell the client the pain is imagined and not really present",
+        "Ignore the complaint because the limb is no longer there",
+        "Acknowledge that phantom limb pain is real and give prescribed treatment",
+        "Tell the client to look at the stump closely to make the pain sensation stop right away"
       ],
       "correctIndex": 2,
       "explanation": "Phantom limb pain is a real sensation caused by nerve changes. It is treated with medications and other therapies."
@@ -610,9 +610,9 @@
       "difficulty": "medium",
       "question": "A client on bed rest has a new dry, nonproductive cough and diminished breath sounds at the bases. Which intervention is best?",
       "options": [
-        "Keep the client flat",
-        "Reduce fluid intake",
-        "Limit position changes",
+        "Keep the client flat in bed to rest the lungs and reduce coughing",
+        "Reduce fluid intake to lessen the coughing",
+        "Limit position changes to avoid tiring the client",
         "Encourage turning, deep breathing, and incentive spirometry"
       ],
       "correctIndex": 3,
@@ -625,10 +625,10 @@
       "difficulty": "medium",
       "question": "A client with an indwelling urinary catheter has cloudy, foul-smelling urine. What should the RN do?",
       "options": [
-        "Disconnect the tubing to drain",
-        "Increase the drainage bag height",
+        "Disconnect the tubing to drain the urine into a cup",
+        "Increase the drainage bag height to improve the flow",
         "Collect a specimen from the sampling port and notify the provider",
-        "Irrigate the catheter with saline"
+        "Irrigate the catheter with sterile saline to clear the cloudy urine"
       ],
       "correctIndex": 2,
       "explanation": "These findings suggest infection. A culture is obtained aseptically from the port, and the provider is notified."
@@ -640,10 +640,10 @@
       "difficulty": "medium",
       "question": "A client with rheumatoid arthritis has morning stiffness. Which suggestion is most helpful?",
       "options": [
-        "Stay in bed until noon",
+        "Stay in bed until noon to rest the joints",
         "Take a warm shower in the morning before activities",
-        "Apply ice for 2 hours",
-        "Avoid moving the joints"
+        "Apply ice to the joints for 2 hours before getting out of bed",
+        "Avoid moving the joints until the stiffness is gone"
       ],
       "correctIndex": 1,
       "explanation": "Warm showers or baths relax muscles and reduce stiffness before activity."
@@ -671,9 +671,9 @@
       "question": "A client in a skeletal traction device has pin sites. Which finding should the RN report?",
       "options": [
         "Purulent drainage and redness around a pin",
-        "Weights hanging freely",
+        "Weights hanging freely off the end of the bed",
         "A small amount of clear serous drainage",
-        "The client lying in alignment"
+        "The client lying in alignment with the traction"
       ],
       "correctIndex": 0,
       "explanation": "Purulent drainage and redness suggest pin-site infection, which can lead to osteomyelitis."
@@ -686,9 +686,9 @@
       "question": "Which intervention is best to help a client with chronic insomnia in the hospital?",
       "options": [
         "Wake the client at 0200 for a bath",
-        "Keep the lights on",
+        "Keep the lights on in the room all night",
         "Cluster care to reduce interruptions at night",
-        "Give caffeine at bedtime"
+        "Give caffeine at bedtime to keep the client alert"
       ],
       "correctIndex": 2,
       "explanation": "Clustering care allows longer periods of uninterrupted sleep."
@@ -700,10 +700,10 @@
       "difficulty": "medium",
       "question": "A client receiving opioids after surgery has not had a bowel movement in 3 days. What should the RN anticipate?",
       "options": [
-        "Increasing opioid dose",
+        "Increasing the opioid dose to promote bowel activity",
         "A stimulant laxative or stool softener as ordered",
-        "Bed rest",
-        "Stopping all fluids"
+        "Bed rest until the bowels move on their own",
+        "Stopping all fluids until the bowels move"
       ],
       "correctIndex": 1,
       "explanation": "Opioids slow bowel movement. A bowel regimen, fluids, and activity help prevent and treat constipation."
@@ -715,9 +715,9 @@
       "difficulty": "easy",
       "question": "A client wears a hearing aid that is whistling. What should the RN check first?",
       "options": [
-        "The client's blood pressure",
-        "The client's vision",
-        "The battery color",
+        "The client's blood pressure and heart rate over the last 24 hours",
+        "The client's vision and the lighting in the room",
+        "The battery color and the volume dial setting",
         "Whether the aid is inserted correctly and free of earwax"
       ],
       "correctIndex": 3,
@@ -731,9 +731,9 @@
       "question": "Which position promotes comfort and breathing for a client with severe dyspnea from COPD?",
       "options": [
         "Sitting upright and leaning forward on an overbed table",
-        "Trendelenburg",
-        "Prone",
-        "Flat on the back"
+        "Trendelenburg with the head of the bed lowered",
+        "Prone with the head turned to the side",
+        "Flat on the back with the head of the bed down"
       ],
       "correctIndex": 0,
       "explanation": "The tripod or orthopneic position allows better expansion of the lungs and use of accessory muscles."
@@ -760,9 +760,9 @@
       "difficulty": "medium",
       "question": "A client with dementia is losing weight because they forget to eat. Which intervention is most helpful?",
       "options": [
-        "Feed the client quickly",
-        "Leave the tray and come back in an hour",
-        "Serve meals only twice a day",
+        "Feed the client quickly so the meal is finished",
+        "Leave the tray and come back in an hour to check",
+        "Serve meals only twice a day to lower the workload",
         "Offer finger foods and cue the client during meals"
       ],
       "correctIndex": 3,
@@ -790,8 +790,8 @@
       "difficulty": "medium",
       "question": "A client with dysphagia is ordered thickened liquids. Which action by a UAP requires the RN to intervene?",
       "options": [
-        "Sitting the client upright",
-        "Offering small bites",
+        "Sitting the client upright for the meal",
+        "Offering small bites and checking each swallow",
         "Giving the client thin water from the bedside pitcher",
         "Checking the mouth for pocketed food"
       ],
@@ -805,9 +805,9 @@
       "difficulty": "medium",
       "question": "A client with a sacral wound is incontinent of stool. Which intervention protects the wound?",
       "options": [
-        "Keep the client on a waterproof pad without cleaning",
+        "Keep the client on a waterproof pad",
         "Use strong soap and hot water",
-        "Leave stool until the next scheduled bath",
+        "Leave stool until the next bath",
         "Clean promptly and use a moisture barrier"
       ],
       "correctIndex": 3,
@@ -820,10 +820,10 @@
       "difficulty": "medium",
       "question": "A client is receiving morphine for cancer pain and asks about becoming addicted. Which response is best?",
       "options": [
-        "\"Addiction is uncommon when opioids are used for cancer pain. Let's talk about what worries you.\"",
-        "\"You'll definitely become addicted.\"",
-        "\"Addiction is never a concern.\"",
-        "\"Don't take it unless the pain is unbearable.\""
+        "\"Addiction is uncommon when opioids treat cancer pain. What worries you?\"",
+        "\"You'll definitely become addicted if you keep taking it.\"",
+        "\"Addiction is never a concern with any opioid therapy.\"",
+        "\"Don't take it unless the pain is unbearable, because tolerance builds quickly.\""
       ],
       "correctIndex": 0,
       "explanation": "Fear of addiction can lead to undertreated pain. The nurse provides accurate information and explores concerns."
@@ -837,8 +837,8 @@
       "options": [
         "A client on strict bed rest after spinal surgery",
         "A client who can stand and pivot with assistance",
-        "A client who is unconscious",
-        "A client in skeletal traction"
+        "A client who is unconscious and unable to assist",
+        "A client in skeletal traction with weights"
       ],
       "correctIndex": 1,
       "explanation": "A commode allows a more natural position and is used when the client can safely transfer."
@@ -850,9 +850,9 @@
       "difficulty": "medium",
       "question": "A client with an ileostomy has a high output of liquid stool. Which finding should the RN monitor closely?",
       "options": [
-        "Weight gain",
-        "Constipation",
-        "Hypertension",
+        "Weight gain with swelling of the legs",
+        "Constipation with hard, dry, infrequent stools",
+        "Hypertension with a bounding pulse",
         "Signs of dehydration and electrolyte imbalance"
       ],
       "correctIndex": 3,
@@ -865,10 +865,10 @@
       "difficulty": "hard",
       "question": "A client receiving continuous enteral feeding has diarrhea. Which action should the RN take first?",
       "options": [
-        "Increase the feeding rate",
-        "Stop the feeding permanently",
-        "Review medications such as sorbitol-containing liquids or antibiotics and check for C. difficile",
-        "Give loperamide without assessing"
+        "Increase the feeding rate to push the formula through faster",
+        "Stop the feeding permanently and change to total parenteral nutrition",
+        "Review medications such as sorbitol liquids or antibiotics and check for C. difficile",
+        "Give loperamide right away without assessing the cause or checking the stool for infection"
       ],
       "correctIndex": 2,
       "explanation": "Diarrhea in tube-fed clients is often caused by medications or infection, not the formula itself. Causes are assessed before changing therapy."
@@ -882,8 +882,8 @@
       "options": [
         "A short-acting opioid ordered as needed for breakthrough pain",
         "Doubling the long-acting dose without an order",
-        "Crushing the long-acting tablet",
-        "Stopping all opioids"
+        "Crushing the long-acting tablet so it works faster",
+        "Stopping all opioids until the pain resolves"
       ],
       "correctIndex": 0,
       "explanation": "Breakthrough pain is treated with a short-acting medication. Crushing long-acting tablets can cause dangerous overdose."
@@ -895,8 +895,8 @@
       "difficulty": "hard",
       "question": "The RN is caring for a client with a new below-the-knee amputation. Which action promotes shaping of the residual limb?",
       "options": [
-        "Wrapping in circles tightly at the top",
-        "Wrapping the limb with an elastic bandage in a figure-eight pattern",
+        "Wrapping in tight circles at the top of the limb to hold it in place",
+        "Figure-eight wrapping of the limb with an elastic bandage",
         "Leaving it uncovered at all times",
         "Placing a pillow under the knee"
       ],
@@ -925,10 +925,10 @@
       "difficulty": "hard",
       "question": "A client in hospice is refusing food and fluids. The family is upset. What is the best response?",
       "options": [
-        "\"She must eat or she will starve.\"",
-        "\"Loss of appetite is common near the end of life. Offering small sips and mouth care keeps her comfortable.\"",
-        "\"Force her to drink.\"",
-        "\"We'll insert a feeding tube today.\""
+        "\"She must eat or she will starve, so we need to feed her.\"",
+        "\"Appetite loss is common near the end of life; mouth care and sips keep her comfortable.\"",
+        "\"Force her to drink fluids so that she doesn't get dehydrated.\"",
+        "\"We'll insert a feeding tube and start IV fluids today so that she does not starve.\""
       ],
       "correctIndex": 1,
       "explanation": "Decreased intake is part of the dying process. Comfort measures like mouth care are emphasized."
@@ -940,10 +940,10 @@
       "difficulty": "hard",
       "question": "The RN is assessing a client with a cast for compartment syndrome. Which finding is an early sign?",
       "options": [
-        "Pain out of proportion to the injury, especially with passive stretch",
-        "Decreased pain after elevation",
-        "Pulselessness",
-        "Pink, warm toes"
+        "Pain out of proportion, especially with passive stretch",
+        "Decreased pain after the limb is elevated above the heart",
+        "Pulselessness in the affected limb",
+        "Pink, warm toes with brisk capillary refill and a strong pulse"
       ],
       "correctIndex": 0,
       "explanation": "Severe pain with passive movement is an early sign. Pulselessness is a late finding."
@@ -955,9 +955,9 @@
       "difficulty": "hard",
       "question": "A client with a new colostomy asks when to empty the pouch. What should the RN teach?",
       "options": [
-        "Once a week",
+        "Once a week when changing the wafer",
         "Only when it is completely full",
-        "Every hour",
+        "Every hour to keep the pouch empty",
         "When it is one-third to one-half full"
       ],
       "correctIndex": 3,
@@ -970,10 +970,10 @@
       "difficulty": "hard",
       "question": "A client receiving enteral feedings has a tube that won't flush. What should the RN try first?",
       "options": [
-        "Insert a stylet",
-        "Remove the tube immediately",
-        "Flush with warm water using a 60-mL syringe and gentle pressure",
-        "Use cola to unclog it"
+        "Insert a stylet to clear the obstruction in the tubing",
+        "Remove the tube immediately and replace it",
+        "Flush with warm water and gentle pressure using a 60-mL syringe",
+        "Use a carbonated cola drink to unclog the tubing"
       ],
       "correctIndex": 2,
       "explanation": "Warm water with gentle push-pull is the first step. Reinserting a stylet can perforate the tube, and acidic drinks are not recommended."

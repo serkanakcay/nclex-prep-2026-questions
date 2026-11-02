@@ -25,7 +25,7 @@
       "difficulty": "easy",
       "question": "Which set of vital signs is consistent with early hypovolemic shock?",
       "options": [
-        "Bradycardia and hypertension",
+        "Bradycardia and hypertension with a widened pulse pressure",
         "Slow, deep respirations and warm skin",
         "Bradycardia and fever",
         "Tachycardia with a narrowing pulse pressure"
@@ -43,7 +43,7 @@
         "Order a chest X-ray first",
         "Schedule a stress test",
         "Get a 12-lead ECG within 10 minutes",
-        "Draw a lipid panel"
+        "Draw a lipid panel and send it to the laboratory"
       ],
       "correctIndex": 2,
       "explanation": "A 12-lead ECG within 10 minutes of arrival helps quickly identify ST-elevation MI so reperfusion isn't delayed."
@@ -116,9 +116,9 @@
       "question": "A client is having an acute asthma attack. Which medication is given first?",
       "options": [
         "Leukotriene modifier",
-        "Inhaled corticosteroid",
+        "Inhaled corticosteroid taken daily for long-term control",
         "Short-acting beta-2 agonist such as albuterol",
-        "Long-acting beta agonist"
+        "Long-acting beta agonist used for long-term control"
       ],
       "correctIndex": 2,
       "explanation": "Short-acting bronchodilators such as albuterol are the rescue medication for acute bronchospasm."
@@ -133,7 +133,7 @@
         "Slow, deep respirations",
         "Shakiness, sweating, and confusion",
         "Warm, dry skin and fruity breath",
-        "Increased thirst and urination"
+        "Increased thirst, frequent urination, and fatigue"
       ],
       "correctIndex": 1,
       "explanation": "Hypoglycemia causes adrenergic symptoms (shakiness, sweating, tachycardia) and neuroglycopenic symptoms (confusion)."
@@ -146,9 +146,9 @@
       "question": "Which intervention helps a client with pneumonia clear secretions?",
       "options": [
         "Encourage coughing, deep breathing, and adequate fluids",
-        "Keep the client flat in bed",
-        "Limit fluids",
-        "Discourage walking"
+        "Keep the client flat in bed to rest the lungs",
+        "Limit fluids so that the client coughs less often during the day",
+        "Discourage walking to conserve energy during the illness"
       ],
       "correctIndex": 0,
       "explanation": "Deep breathing, coughing, fluids, and early mobility help mobilize secretions."
@@ -160,10 +160,10 @@
       "difficulty": "medium",
       "question": "A client with heart failure gains 3 lb (1.4 kg) overnight. What should the PN do?",
       "options": [
-        "Report it to the RN or provider because it may mean fluid retention",
-        "Document it as normal",
-        "Encourage extra fluids",
-        "Recheck the weight next week"
+        "Report it to the RN or provider, since it may mean fluid retention",
+        "Document it as normal, because weight normally varies by a few pounds a day",
+        "Encourage extra fluids to flush out the excess sodium and water",
+        "Recheck the weight next week at the scheduled clinic visit"
       ],
       "correctIndex": 0,
       "explanation": "A rapid gain (about 2 to 3 lb in a day, or 5 lb in a week) suggests fluid retention and worsening heart failure."
@@ -191,7 +191,7 @@
       "question": "Which finding is consistent with hypothyroidism?",
       "options": [
         "Cold intolerance and weight gain",
-        "Heat intolerance and weight loss",
+        "Heat intolerance, weight loss, and diarrhea",
         "Exophthalmos",
         "Tremors and tachycardia"
       ],
@@ -206,7 +206,7 @@
       "question": "A client develops hives, wheezing, and throat tightness after a medication. What is the first-line treatment?",
       "options": [
         "Oral diphenhydramine only",
-        "An inhaled corticosteroid",
+        "An inhaled corticosteroid by mouthpiece",
         "Intramuscular epinephrine",
         "Watch and wait"
       ],
@@ -220,10 +220,10 @@
       "difficulty": "medium",
       "question": "Which finding most likely indicates dehydration in an older adult?",
       "options": [
-        "Moist mucous membranes",
+        "Moist mucous membranes and clear urine",
         "Decreased, concentrated urine output",
-        "Weight gain",
-        "Bradycardia"
+        "Weight gain over several days",
+        "Bradycardia and a bounding pulse"
       ],
       "correctIndex": 1,
       "explanation": "Reduced, concentrated urine output is a common sign of dehydration. Older adults may also become confused, and skin turgor is less reliable in this age group."
@@ -236,9 +236,9 @@
       "question": "Which finding is typical of left-sided heart failure?",
       "options": [
         "Crackles in the lungs and shortness of breath",
-        "Jugular vein distention only",
-        "Ascites only",
-        "Dependent edema without lung findings"
+        "Jugular vein distention only, with clear lung sounds",
+        "Ascites only, with no breathing problems",
+        "Dependent edema without lung findings or shortness of breath"
       ],
       "correctIndex": 0,
       "explanation": "Left-sided failure causes fluid to back up into the lungs. Right-sided failure causes peripheral edema, ascites, and JVD."
@@ -282,7 +282,7 @@
       "options": [
         "High Fowler's",
         "Prone",
-        "Trendelenburg",
+        "Trendelenburg (head down)",
         "Flat supine"
       ],
       "correctIndex": 0,
@@ -297,7 +297,7 @@
       "options": [
         "A thiazide diuretic",
         "An iron infusion only",
-        "A potassium supplement",
+        "A potassium supplement taken twice daily",
         "A phosphate binder taken with meals"
       ],
       "correctIndex": 3,
@@ -340,9 +340,9 @@
       "difficulty": "medium",
       "question": "A client with sickle cell disease is in a pain crisis. Which interventions are priorities?",
       "options": [
-        "Restricting fluids",
-        "Cold packs to the joints",
-        "Ambulating quickly",
+        "Restricting fluids to decrease the swelling",
+        "Cold packs applied to the joints to relieve the pain",
+        "Ambulating quickly to improve circulation",
         "Pain control, hydration, and oxygen if hypoxic"
       ],
       "correctIndex": 3,
@@ -355,10 +355,10 @@
       "difficulty": "medium",
       "question": "A client with type 1 diabetes is sick with the flu and not eating well. Which advice is correct?",
       "options": [
-        "Avoid fluids",
+        "Avoid fluids to prevent vomiting and dehydration",
         "Keep taking insulin, check glucose often, and test for ketones",
-        "Take insulin only at bedtime",
-        "Stop insulin until eating normally"
+        "Take insulin only at bedtime, whether or not you are eating",
+        "Stop insulin until eating normally again because of the low intake"
       ],
       "correctIndex": 1,
       "explanation": "Illness raises glucose even without eating. Insulin is continued, and ketone checks help detect DKA."
@@ -416,7 +416,7 @@
       "question": "A client in septic shock remains hypotensive after a fluid bolus of 30 mL/kg. Which medication is usually started next?",
       "options": [
         "Morphine",
-        "Furosemide",
+        "Furosemide (a loop diuretic)",
         "Metoprolol",
         "Norepinephrine"
       ],
@@ -448,7 +448,7 @@
         "Burning and frequent urination",
         "Slow heart rate",
         "Weight gain",
-        "Increased appetite"
+        "Increased appetite and weight gain"
       ],
       "correctIndex": 0,
       "explanation": "UTIs commonly cause dysuria, frequency, and urgency. Older adults may show confusion instead."
@@ -461,7 +461,7 @@
       "question": "Which finding suggests that a client with asthma is improving after a bronchodilator treatment?",
       "options": [
         "Increased use of neck muscles",
-        "Unable to speak in full sentences",
+        "Unable to speak in full sentences without stopping",
         "Less wheezing and easier breathing",
         "Lips turning blue"
       ],
@@ -475,9 +475,9 @@
       "difficulty": "easy",
       "question": "A client with COPD is taught pursed-lip breathing. What is its main purpose?",
       "options": [
-        "To raise blood pressure",
-        "To increase coughing",
-        "To slow the heart rate",
+        "To raise blood pressure and strengthen the heartbeat",
+        "To increase coughing and clear mucus from the airways",
+        "To slow the heart rate and relax the chest muscles",
         "To keep airways open longer and release trapped air"
       ],
       "correctIndex": 3,
@@ -493,7 +493,7 @@
         "Dry skin",
         "Gradual hair thinning",
         "Sudden facial droop and arm weakness",
-        "Mild seasonal allergies"
+        "Mild seasonal allergies with a runny nose"
       ],
       "correctIndex": 2,
       "explanation": "BE FAST signs include balance, eyes, face, arm, speech, and time. Sudden changes need immediate action."
@@ -536,7 +536,7 @@
       "question": "Which client has the highest risk of developing pneumonia?",
       "options": [
         "A young adult who runs daily",
-        "A healthy adult after a flu vaccine",
+        "A healthy adult after a flu vaccine with a mild sore arm",
         "A teenager with a sprained ankle",
         "An older adult on bed rest with difficulty swallowing"
       ],
@@ -553,7 +553,7 @@
         "Slow heart rate",
         "Dry mucous membranes and dark urine",
         "Weight gain",
-        "Moist mouth and clear urine"
+        "Moist mouth and large amounts of clear urine"
       ],
       "correctIndex": 1,
       "explanation": "Fever increases fluid loss. Dry mouth, concentrated urine, and tachycardia suggest dehydration."
@@ -566,9 +566,9 @@
       "question": "A client with heart failure is short of breath and has crackles. What should the PN do first?",
       "options": [
         "Raise the head of the bed and report to the RN",
-        "Give extra fluids",
-        "Encourage a walk",
-        "Encourage the client to lie flat"
+        "Give extra fluids to thin the secretions",
+        "Encourage a walk to improve the breathing",
+        "Encourage the client to lie flat to rest the lungs"
       ],
       "correctIndex": 0,
       "explanation": "Sitting up eases breathing. Crackles may mean worsening fluid overload that the RN needs to assess."
@@ -583,7 +583,7 @@
         "Soak the foot in hot water",
         "Cover it and ignore it",
         "Report the signs of infection to the RN",
-        "Have the client walk barefoot"
+        "Have the client walk barefoot to keep the wound dry"
       ],
       "correctIndex": 2,
       "explanation": "Foot infections in diabetes can spread quickly. Early reporting allows prompt treatment."
@@ -595,10 +595,10 @@
       "difficulty": "medium",
       "question": "A client with chronic kidney disease asks why fluids are limited. What should the PN reinforce?",
       "options": [
-        "Fluids raise blood glucose",
-        "Fluids cause hair loss",
-        "Fluids cause kidney stones",
-        "The kidneys can't remove extra fluid, which can cause swelling and breathing problems"
+        "Fluids raise blood glucose and cause the kidneys to work harder",
+        "Fluids cause hair loss and brittle nails in people with kidney disease",
+        "Fluids cause kidney stones to form, which would block the kidney's filters",
+        "The kidneys can't remove extra fluid, which causes swelling and dyspnea"
       ],
       "correctIndex": 3,
       "explanation": "Damaged kidneys cannot excrete excess fluid, which leads to edema, hypertension, and heart failure."
@@ -625,10 +625,10 @@
       "difficulty": "medium",
       "question": "A client with venous insufficiency has leg swelling. Which instruction should the PN reinforce?",
       "options": [
-        "Wear tight garters",
+        "Wear tight garters to keep the stockings in place",
         "Elevate the legs and wear compression stockings as ordered",
-        "Cross the legs often",
-        "Keep legs hanging down"
+        "Cross the legs often to keep the blood moving",
+        "Keep legs hanging down for long periods to improve circulation"
       ],
       "correctIndex": 1,
       "explanation": "Elevation and compression improve venous return. For arterial disease, legs are not elevated above the heart."
@@ -641,9 +641,9 @@
       "question": "A client with a seizure disorder has a tonic-clonic seizure lasting 6 minutes. What should the PN do?",
       "options": [
         "Call for help immediately, as this is a medical emergency",
-        "Put a spoon in the mouth",
-        "Wait until it stops",
-        "Hold the arms down"
+        "Put a spoon in the mouth to keep the client from biting the tongue",
+        "Wait until it stops on its own before calling",
+        "Hold the arms down to stop the movements"
       ],
       "correctIndex": 0,
       "explanation": "A seizure lasting more than 5 minutes is status epilepticus and needs emergency treatment."
@@ -656,8 +656,8 @@
       "question": "A client with hypoglycemia is unconscious. What should be given?",
       "options": [
         "Nothing until the client wakes up",
-        "Insulin",
-        "Orange juice by mouth",
+        "Insulin to bring the glucose down",
+        "Orange juice by mouth, a little at a time",
         "Glucagon or IV dextrose per protocol"
       ],
       "correctIndex": 3,
@@ -670,10 +670,10 @@
       "difficulty": "medium",
       "question": "A client with cirrhosis has ascites. Which finding should the PN monitor daily?",
       "options": [
-        "Height",
+        "Height and shoe size",
         "Weight and abdominal girth",
-        "Shoe size",
-        "Eye color only"
+        "Shoe size and hat size",
+        "Eye color and hair color"
       ],
       "correctIndex": 1,
       "explanation": "Daily weight and abdominal girth track fluid accumulation."
@@ -686,9 +686,9 @@
       "question": "A client with COPD has an SpO2 of 89% on 2 L/min oxygen and is at baseline. What should the PN do?",
       "options": [
         "Continue to monitor, since the target is often 88% to 92%",
-        "Remove the oxygen",
-        "Lay the client flat",
-        "Increase the oxygen to 10 L/min"
+        "Remove the oxygen because the saturation is below 90%",
+        "Lay the client flat to help the oxygen reach the lungs",
+        "Increase the oxygen to 10 L/min to bring the saturation above 95%"
       ],
       "correctIndex": 0,
       "explanation": "Many clients with COPD have a lower target range. Too much oxygen can worsen CO2 retention in some clients."
@@ -700,10 +700,10 @@
       "difficulty": "medium",
       "question": "Which finding should the PN report in a client with a new pacemaker?",
       "options": [
-        "Mild soreness at the site",
-        "Clear, dry dressing",
+        "Mild soreness at the site of the pacemaker",
+        "Clear, dry dressing over the incision",
         "Hiccups and a heart rate below the set rate",
-        "Normal heart rate"
+        "Normal heart rate on the pacemaker setting"
       ],
       "correctIndex": 2,
       "explanation": "Persistent hiccups may mean the lead is stimulating the diaphragm, and a heart rate below the set rate may mean malfunction."
@@ -715,9 +715,9 @@
       "difficulty": "easy",
       "question": "A client with a nosebleed asks how to stop it. What should the PN reinforce?",
       "options": [
-        "Blow the nose hard",
-        "Lie flat and tilt the head back",
-        "Pack the nose with tissue and lie down",
+        "Blow the nose hard to clear any clots",
+        "Lie flat and tilt the head back to slow the bleeding",
+        "Pack the nose firmly with tissue and lie down flat to rest",
         "Sit up, lean forward, and pinch the soft part of the nose"
       ],
       "correctIndex": 3,
@@ -745,10 +745,10 @@
       "difficulty": "medium",
       "question": "A client has a burn from spilled hot coffee on the arm. What first aid should the PN reinforce?",
       "options": [
-        "Break the blisters",
+        "Break the blisters to help it heal",
         "Cool the area with cool running water",
-        "Apply ice directly",
-        "Apply butter"
+        "Apply ice directly to the burn",
+        "Apply butter to the burned area"
       ],
       "correctIndex": 1,
       "explanation": "Cool water stops the burning process. Ice and butter can damage tissue further."
@@ -775,10 +775,10 @@
       "difficulty": "medium",
       "question": "A client with gastroesophageal reflux disease asks how to reduce symptoms. Which advice should the PN reinforce?",
       "options": [
-        "Avoid eating 2 to 3 hours before bed and elevate the head of the bed",
-        "Eat large meals",
-        "Drink coffee at night",
-        "Lie down after meals"
+        "Avoid eating 2 to 3 hours before bed and raise the head of the bed",
+        "Eat large meals so that the stomach stays full and the acid is absorbed",
+        "Drink coffee or tea at night to stay awake and upright after meals",
+        "Lie down after meals to help the stomach digest the food"
       ],
       "correctIndex": 0,
       "explanation": "Avoiding late meals and elevating the head reduces acid reflux."
@@ -790,10 +790,10 @@
       "difficulty": "medium",
       "question": "A client with a history of angina has chest pain at rest. What should the PN do first?",
       "options": [
-        "Encourage a walk",
-        "Offer a meal",
+        "Encourage a walk to see if the pain goes away",
+        "Offer a meal and a cup of coffee to settle the stomach",
         "Have the client rest and report to the RN immediately",
-        "Ignore it if it goes away"
+        "Ignore it if it goes away on its own after a few minutes"
       ],
       "correctIndex": 2,
       "explanation": "Chest pain at rest may be unstable angina or MI, which needs immediate evaluation."
@@ -806,9 +806,9 @@
       "question": "A client with pneumonia has a temperature of 39.0 C and a productive cough. Which intervention helps?",
       "options": [
         "Encourage fluids unless restricted",
-        "Discourage coughing",
-        "Restrict fluids",
-        "Keep the client flat"
+        "Discourage coughing to prevent pain",
+        "Restrict fluids to reduce the cough",
+        "Keep the client flat to rest the lungs"
       ],
       "correctIndex": 0,
       "explanation": "Fluids thin secretions and replace losses from fever."
@@ -850,10 +850,10 @@
       "difficulty": "medium",
       "question": "A client with chronic bronchitis has thick sputum. Which intervention helps clear secretions?",
       "options": [
-        "Limiting activity completely",
-        "Lying flat",
+        "Limiting activity completely to conserve energy for breathing",
+        "Lying flat in bed to rest the lungs",
         "Increasing fluid intake and coughing techniques",
-        "Holding the breath"
+        "Holding the breath after each cough"
       ],
       "correctIndex": 2,
       "explanation": "Hydration and effective coughing help move thick secretions."
@@ -865,9 +865,9 @@
       "difficulty": "hard",
       "question": "A client with diabetes is sweaty, shaky, and has a glucose of 55 mg/dL but can swallow. What should the PN give first?",
       "options": [
-        "A large meal",
-        "Insulin",
-        "Diet soda",
+        "A large meal with protein and fat",
+        "Insulin to bring the glucose back down",
+        "Diet soda or a sugar-free sports drink",
         "4 ounces of fruit juice or regular soda"
       ],
       "correctIndex": 3,
@@ -881,9 +881,9 @@
       "question": "A client with a fractured leg has sudden shortness of breath and chest pain. What should the PN do?",
       "options": [
         "Call for help, raise the head of the bed, and stay with the client",
-        "Give a sedative",
-        "Recheck in an hour",
-        "Walk the client"
+        "Give a sedative to calm the client and ease the breathing",
+        "Recheck the client's breathing and chest pain again in about an hour",
+        "Walk the client around the unit to improve the breathing"
       ],
       "correctIndex": 0,
       "explanation": "These findings suggest pulmonary or fat embolism, which is an emergency."
@@ -895,10 +895,10 @@
       "difficulty": "hard",
       "question": "A client with a stroke has trouble swallowing. Which finding suggests aspiration?",
       "options": [
-        "Eating quickly without trouble",
+        "Eating quickly without any trouble",
         "Coughing and a wet voice during meals",
-        "Normal breathing",
-        "Clear voice"
+        "Normal breathing during meals",
+        "Clear voice and normal swallowing"
       ],
       "correctIndex": 1,
       "explanation": "Coughing, choking, and a gurgly voice during eating are signs of aspiration."
@@ -910,9 +910,9 @@
       "difficulty": "hard",
       "question": "A client with peritoneal dialysis has cloudy outflow and abdominal pain. What should the PN do?",
       "options": [
-        "Ignore it",
-        "Drink more fluids",
-        "Continue the dialysis",
+        "Ignore it because the fluid is always cloudy sometimes",
+        "Drink more fluids to flush out the cloudy outflow",
+        "Continue the dialysis and just record the cloudy outflow in the chart",
         "Report it to the RN immediately as possible peritonitis"
       ],
       "correctIndex": 3,
@@ -926,9 +926,9 @@
       "question": "A client with a seizure is in the postictal phase. What should the PN do?",
       "options": [
         "Turn the client on the side and let the client rest",
-        "Give a meal",
-        "Leave the client alone",
-        "Encourage walking immediately"
+        "Give a meal as soon as the client wakes up",
+        "Leave the client alone until the next set of vital signs",
+        "Encourage walking immediately to wake the client up"
       ],
       "correctIndex": 0,
       "explanation": "Side-lying prevents aspiration. Clients are often tired and confused after a seizure."
@@ -940,10 +940,10 @@
       "difficulty": "hard",
       "question": "A client with an acute myocardial infarction is anxious and in pain. Which order should the PN expect the RN to carry out first?",
       "options": [
-        "Encourage ambulation",
-        "Oxygen if SpO2 is low and medications such as nitroglycerin and aspirin as ordered",
-        "Give a large meal",
-        "Delay all treatment"
+        "Encourage ambulation to see whether the chest pain improves with activity",
+        "Oxygen if SpO2 is low, and nitroglycerin and aspirin as ordered",
+        "Give a large meal to build up the client's strength",
+        "Delay all treatment until the provider has finished rounds"
       ],
       "correctIndex": 1,
       "explanation": "Early treatment aims to improve oxygen supply and reduce heart workload while preparing for reperfusion."
@@ -971,9 +971,9 @@
       "question": "A client with heat stroke has hot, dry skin and confusion. What is the priority action?",
       "options": [
         "Begin rapid cooling and call for emergency help",
-        "Encourage exercise",
-        "Cover with blankets",
-        "Give warm fluids"
+        "Encourage exercise to help the client sweat out the heat",
+        "Cover with blankets to keep the client warm",
+        "Give warm fluids to help the client recover"
       ],
       "correctIndex": 0,
       "explanation": "Heat stroke is life-threatening. Rapid cooling reduces the risk of organ damage."

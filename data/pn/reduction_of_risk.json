@@ -26,9 +26,9 @@
       "question": "Which finding is the earliest sign of hemorrhage in a postoperative client?",
       "options": [
         "Increasing heart rate and restlessness",
-        "Hypotension",
-        "Warm, flushed skin",
-        "Bradycardia"
+        "Hypotension with a narrowed pulse pressure",
+        "Warm, flushed skin and a rising temperature",
+        "Bradycardia with an elevated blood pressure"
       ],
       "correctIndex": 0,
       "explanation": "Tachycardia and restlessness come early as the body compensates. Hypotension is a later sign."
@@ -40,8 +40,8 @@
       "difficulty": "easy",
       "question": "What is the main purpose of incentive spirometry after surgery?",
       "options": [
-        "To relieve incision pain",
-        "To strengthen the abdominal muscles",
+        "To relieve incision pain and the need for pain medicine",
+        "To strengthen the abdominal muscles and relieve gas pain",
         "To prevent atelectasis and pneumonia",
         "To lower blood pressure"
       ],
@@ -55,10 +55,10 @@
       "difficulty": "easy",
       "question": "Which action belongs on the preoperative checklist?",
       "options": [
-        "Give a large breakfast",
-        "Skip the vital signs",
-        "Remove dentures, jewelry, and nail polish according to policy, and confirm NPO status",
-        "Leave dentures and jewelry in place"
+        "Give a large breakfast so that the client has energy for surgery",
+        "Skip the vital signs and weight if the client has been stable for the whole week",
+        "Remove dentures, jewelry, and nail polish per policy, and confirm NPO status",
+        "Leave dentures and jewelry in place and wear nail polish for the pulse oximeter"
       ],
       "correctIndex": 2,
       "explanation": "Removing items that could cause airway problems or injury and confirming NPO status lowers surgical risk."
@@ -70,10 +70,10 @@
       "difficulty": "medium",
       "question": "After a cardiac catheterization through the femoral artery, which intervention is a priority?",
       "options": [
-        "Get the client up to walk right away",
+        "Get the client up to walk right away to prevent blood clots in the legs",
         "Apply heat to the insertion site",
-        "Keep the affected leg straight and check distal pulses and the site often",
-        "Elevate the head of the bed to 90 degrees"
+        "Keep the leg straight and check distal pulses and the site often",
+        "Elevate the head of the bed to 90 degrees to ease the client's breathing"
       ],
       "correctIndex": 2,
       "explanation": "Keeping the leg straight helps prevent bleeding at the femoral site. Check the site, distal pulses, color, and temperature often."
@@ -85,9 +85,9 @@
       "difficulty": "easy",
       "question": "A conscious client's blood glucose is 58 mg/dL. What should the nurse do first?",
       "options": [
-        "Give the scheduled insulin",
-        "Give a high-fat snack",
-        "Give 15 grams of a fast-acting carbohydrate, such as 4 oz of juice",
+        "Give the scheduled insulin as ordered and recheck the glucose in an hour",
+        "Give a high-fat snack such as peanut butter crackers and recheck later",
+        "Give 15 g of a fast-acting carbohydrate, such as 4 oz of juice",
         "Let the client sleep"
       ],
       "correctIndex": 2,
@@ -100,9 +100,9 @@
       "difficulty": "medium",
       "question": "How should the nurse position a client for a thoracentesis?",
       "options": [
-        "Supine with the arms at the sides",
-        "Trendelenburg",
-        "Prone with the legs elevated",
+        "Supine with the arms at the sides and the head flat",
+        "Trendelenburg with the arms extended above the head",
+        "Prone with the legs elevated and the head down",
         "Sitting upright and leaning over an overbed table"
       ],
       "correctIndex": 3,
@@ -160,7 +160,7 @@
       "difficulty": "easy",
       "question": "A hemoglobin A1C test reflects average blood glucose over what period?",
       "options": [
-        "24 hours",
+        "24 hours of continuous monitoring",
         "1 week",
         "2 to 3 months",
         "1 year"
@@ -250,10 +250,10 @@
       "difficulty": "easy",
       "question": "A client's platelet count is 45,000/mm3. Which precaution is most important?",
       "options": [
-        "Bleeding precautions, such as using a soft toothbrush and electric razor",
-        "Giving IM injections when possible",
-        "Encouraging contact sports",
-        "Airborne precautions"
+        "Bleeding precautions, such as a soft toothbrush and electric razor",
+        "Giving IM injections whenever possible",
+        "Encouraging contact sports to keep the client active",
+        "Airborne precautions with a private negative-pressure room"
       ],
       "correctIndex": 0,
       "explanation": "Normal platelets are about 150,000 to 400,000/mm3. A low count increases bleeding risk, so trauma and injections are minimized."
@@ -281,9 +281,9 @@
       "question": "Which finding in the leg should the nurse report as a possible deep vein thrombosis?",
       "options": [
         "One-sided calf swelling, warmth, and tenderness",
-        "Dry skin on the shins",
-        "Equal leg size with no pain",
-        "Cool, pale toes on both feet"
+        "Dry skin on the shins and itching at night",
+        "Equal leg size with no pain or warmth in either calf",
+        "Cool, pale toes on both feet with no swelling or pain at all"
       ],
       "correctIndex": 0,
       "explanation": "Unilateral swelling, warmth, redness, and pain suggest DVT. The leg should not be massaged."
@@ -295,9 +295,9 @@
       "difficulty": "medium",
       "question": "A client is scheduled for surgery under general anesthesia. Why is the client kept NPO beforehand?",
       "options": [
-        "To prevent postoperative pain",
-        "To help the client lose weight",
-        "To reduce the need for IV fluids",
+        "To prevent postoperative pain once the client wakes up",
+        "To help the client lose weight before the operation",
+        "To reduce the need for IV fluids during the operation",
         "To reduce the risk of aspiration during anesthesia"
       ],
       "correctIndex": 3,
@@ -341,7 +341,7 @@
       "question": "A child who had a tonsillectomy is swallowing frequently. What should the nurse suspect?",
       "options": [
         "Bleeding from the surgical site",
-        "Normal healing",
+        "Normal healing that needs no follow-up",
         "Dehydration only",
         "Hunger"
       ],
@@ -370,9 +370,9 @@
       "difficulty": "medium",
       "question": "Which lab result supports a diagnosis of heart failure in a client with shortness of breath?",
       "options": [
-        "Normal hemoglobin",
-        "Low serum amylase",
-        "Low TSH",
+        "Normal hemoglobin and hematocrit values on the last lab report",
+        "Low serum amylase and a high white blood cell count",
+        "Low TSH and elevated free T4 level",
         "Elevated B-type natriuretic peptide (BNP)"
       ],
       "correctIndex": 3,
@@ -385,7 +385,7 @@
       "difficulty": "medium",
       "question": "Which preoperative finding should the nurse report to the surgeon before an elective surgery?",
       "options": [
-        "Blood glucose of 98 mg/dL",
+        "Blood glucose of 98 mg/dL before breakfast",
         "Potassium of 4.2 mEq/L",
         "Heart rate of 76/min",
         "Temperature of 38.6 C (101.5 F)"
@@ -400,10 +400,10 @@
       "difficulty": "hard",
       "question": "A client with a large abdominal incision coughs and says, \"Something gave way.\" The nurse sees the wound edges separated with tissue protruding. What should the nurse do first?",
       "options": [
-        "Have the client walk to the bathroom",
-        "Cover the wound with a sterile saline-moistened dressing and position the client with knees bent",
-        "Apply a dry dressing and wait",
-        "Push the tissue back into the abdomen"
+        "Have the client walk to the bathroom to bear down and relieve the pressure",
+        "Cover the wound with sterile saline-moistened gauze and position with knees bent",
+        "Apply a dry dressing and wait for the surgeon to make rounds",
+        "Push the tissue back into the abdomen and cover it with a dry dressing"
       ],
       "correctIndex": 1,
       "explanation": "Evisceration is an emergency. A moist sterile dressing protects the tissue and bending the knees reduces tension until the surgeon arrives."
@@ -475,10 +475,10 @@
       "difficulty": "easy",
       "question": "How should the PN measure an accurate blood pressure?",
       "options": [
-        "Take it over thick clothing",
-        "Use any cuff available",
+        "Take it over thick clothing if the client is in a hurry",
+        "Use any cuff that is available on the unit at the time",
         "Use the correct cuff size with the arm supported at heart level",
-        "Have the client's legs crossed"
+        "Have the client's legs crossed and the arm hanging down at the side"
       ],
       "correctIndex": 2,
       "explanation": "A cuff that is too small or a poorly positioned arm gives inaccurate readings."
@@ -506,9 +506,9 @@
       "question": "When should the PN collect a sputum specimen for culture?",
       "options": [
         "Early in the morning after the client rinses the mouth with water",
-        "After meals",
-        "At bedtime after brushing with toothpaste",
-        "Any time without rinsing"
+        "After meals, once the client has eaten and brushed the teeth",
+        "At bedtime after brushing the teeth thoroughly with toothpaste and mouthwash",
+        "Any time of day without having the client rinse the mouth first"
       ],
       "correctIndex": 0,
       "explanation": "Secretions collect overnight. Rinsing with water reduces contamination from mouth bacteria."
@@ -536,7 +536,7 @@
       "question": "What is the purpose of a 24-hour urine collection?",
       "options": [
         "To check for pregnancy",
-        "To check one random sample",
+        "To check one random sample of urine taken in the morning",
         "To measure substances excreted over a full day",
         "To test urine color only"
       ],
@@ -550,9 +550,9 @@
       "difficulty": "easy",
       "question": "How should the PN start a 24-hour urine collection?",
       "options": [
-        "Collect urine for 12 hours",
-        "Collect only daytime urine",
-        "Save the first void",
+        "Collect urine for 12 hours during the day shift and then send it to the lab",
+        "Collect only daytime urine and discard the night urine",
+        "Save the first void of the day for the collection",
         "Have the client void, discard that urine, and note the time"
       ],
       "correctIndex": 3,
@@ -565,10 +565,10 @@
       "difficulty": "medium",
       "question": "A client has a blood pressure of 182/104 mm Hg and reports a headache. What should the PN do?",
       "options": [
-        "Give a cup of coffee",
+        "Give a cup of coffee for the headache",
         "Recheck it and report to the RN promptly",
-        "Document it and recheck next shift",
-        "Encourage a walk"
+        "Document it and recheck the next shift",
+        "Encourage a walk to lower the pressure"
       ],
       "correctIndex": 1,
       "explanation": "Very high blood pressure with headache may be a hypertensive urgency or emergency and needs prompt evaluation."
@@ -581,9 +581,9 @@
       "question": "Which finding after a cardiac catheterization should the PN report immediately?",
       "options": [
         "Cool, pale foot on the affected leg with a weak pulse",
-        "A small, unchanged bruise",
-        "Mild soreness at the site",
-        "Warm feet with strong pulses"
+        "A small, unchanged bruise at the insertion site",
+        "Mild soreness at the site of the puncture",
+        "Warm feet with strong pulses and good capillary refill"
       ],
       "correctIndex": 0,
       "explanation": "Cool skin and weak pulses suggest impaired circulation from a clot or bleeding. This is an emergency."
@@ -610,10 +610,10 @@
       "difficulty": "medium",
       "question": "A client is scheduled for a colonoscopy. Which instruction should the PN reinforce?",
       "options": [
-        "Skip the bowel preparation if constipated",
-        "Drink red gelatin only",
-        "Complete the bowel preparation and follow the clear liquid diet as ordered",
-        "Eat a large dinner the night before"
+        "Skip the bowel preparation if the client is usually constipated",
+        "Drink red gelatin only on the day of the procedure",
+        "Complete the bowel preparation and follow the clear liquid diet",
+        "Eat a large dinner the night before the procedure"
       ],
       "correctIndex": 2,
       "explanation": "Good bowel preparation allows a clear view. Red and purple liquids are avoided because they look like blood."
@@ -625,10 +625,10 @@
       "difficulty": "medium",
       "question": "A client is receiving oxygen by nasal cannula at 2 L/min. Which finding should the PN report?",
       "options": [
-        "SpO2 of 96%",
+        "SpO2 of 96% with comfortable breathing",
         "New confusion and restlessness",
-        "Pink skin",
-        "Comfortable breathing"
+        "Pink skin and warm hands",
+        "Comfortable breathing at rest"
       ],
       "correctIndex": 1,
       "explanation": "New confusion and restlessness can be early signs of hypoxia."
@@ -641,7 +641,7 @@
       "question": "A client has an IV. Which finding suggests infiltration?",
       "options": [
         "Cool, pale, swollen skin at the site",
-        "Warm, red streak along the vein",
+        "Warm, red, tender streak along the vein",
         "Dry, intact dressing",
         "Good blood return"
       ],
@@ -655,9 +655,9 @@
       "difficulty": "medium",
       "question": "A client with diabetes has a fingerstick glucose of 62 mg/dL and is alert. After giving 15 g of carbohydrate, what should the PN do next?",
       "options": [
-        "Have the client sleep",
-        "Give insulin",
-        "Wait 2 hours",
+        "Have the client sleep and check later",
+        "Give insulin to lower the glucose right away",
+        "Wait 2 hours before checking again",
         "Recheck the glucose in 15 minutes"
       ],
       "correctIndex": 3,
@@ -672,7 +672,7 @@
       "options": [
         "Peaked T waves",
         "Muscle weakness and irregular heartbeat",
-        "Increased bowel activity",
+        "Increased bowel activity and loose stools",
         "High blood pressure"
       ],
       "correctIndex": 1,
@@ -700,9 +700,9 @@
       "difficulty": "medium",
       "question": "A client on bed rest has new shortness of breath and chest pain. What should the PN do first?",
       "options": [
-        "Document and recheck in 1 hour",
-        "Give a sedative",
-        "Ask the client to walk",
+        "Document the finding and recheck the vital signs again in about 1 hour",
+        "Give a sedative to calm the client and relieve the chest pain",
+        "Ask the client to walk to the bathroom to see if breathing improves",
         "Stay with the client, raise the head of the bed, and call for the RN"
       ],
       "correctIndex": 3,
@@ -733,7 +733,7 @@
         "A client who is alert with stable vital signs",
         "A client who is dizzy when sitting",
         "A client still drowsy from anesthesia",
-        "A client with a blood pressure of 80/50"
+        "A client with a blood pressure of 80/50 and a rapid heart rate"
       ],
       "correctIndex": 0,
       "explanation": "Clients should be alert with stable vital signs and no dizziness before getting up."
@@ -748,7 +748,7 @@
         "Keep the arm elevated and wiggle the fingers",
         "Put the cast on a hard surface",
         "Keep the arm hanging down",
-        "Cover the cast with plastic while it dries"
+        "Cover the cast with plastic while it dries to keep it clean"
       ],
       "correctIndex": 0,
       "explanation": "Elevation reduces swelling and finger movement improves circulation. A wet cast needs air to dry."
@@ -760,9 +760,9 @@
       "difficulty": "medium",
       "question": "A client with a peripheral IV catheter is due for a site check. What should the PN look for?",
       "options": [
-        "Fingernail shape",
-        "Skin color on the other arm",
-        "Hair growth",
+        "Fingernail shape and growth rate",
+        "Skin color on the arm that has no IV",
+        "Hair growth around the site",
         "Redness, swelling, pain, and leaking"
       ],
       "correctIndex": 3,
@@ -775,10 +775,10 @@
       "difficulty": "medium",
       "question": "A client returns from a procedure using conscious sedation. Which action is a priority?",
       "options": [
-        "Give a large meal",
+        "Give a large meal as soon as the client arrives",
         "Monitor breathing and level of consciousness",
-        "Encourage walking right away",
-        "Remove the IV"
+        "Encourage walking right away to wake the client",
+        "Remove the IV before the client is fully awake"
       ],
       "correctIndex": 1,
       "explanation": "Sedation can depress breathing. The PN monitors airway, breathing, and alertness until recovery."
@@ -790,10 +790,10 @@
       "difficulty": "medium",
       "question": "A client with heart failure has a daily weight ordered. When should the PN weigh the client?",
       "options": [
-        "Only weekly",
-        "At the same time each morning on the same scale with similar clothing",
-        "After meals",
-        "At different times each day"
+        "Only weekly, on the same day of the week as the clinic visit",
+        "At the same time each morning on the same scale in similar clothing",
+        "After meals, once the client has finished eating and resting",
+        "At different times each day depending on when the staff are available"
       ],
       "correctIndex": 1,
       "explanation": "Consistent conditions make weight changes meaningful. A gain may reflect fluid retention."
@@ -821,7 +821,7 @@
       "question": "Which statement by a client before surgery shows understanding of preoperative teaching?",
       "options": [
         "\"I'll practice deep breathing and coughing before surgery.\"",
-        "\"I'll eat a big breakfast the morning of surgery.\"",
+        "\"I'll eat a big breakfast the morning of surgery to keep up my strength.\"",
         "\"I'll take my aspirin as usual without asking.\"",
         "\"I'll wear my jewelry into surgery.\""
       ],
@@ -835,10 +835,10 @@
       "difficulty": "medium",
       "question": "A client has a wound drain (Jackson-Pratt). How should the PN keep it working?",
       "options": [
-        "Leave it full",
-        "Leave the bulb fully expanded",
+        "Leave it full until the end of the shift to keep the suction strong",
+        "Leave the bulb fully expanded so the drain keeps filling with air",
         "Empty it when half full and compress the bulb before closing",
-        "Pull on the tubing"
+        "Pull on the tubing to check that it is secure"
       ],
       "correctIndex": 2,
       "explanation": "Compressing the bulb creates suction, which removes drainage from the wound."
@@ -865,9 +865,9 @@
       "difficulty": "hard",
       "question": "A client with diabetes is NPO for surgery and has an order for insulin. What should the PN do?",
       "options": [
-        "Skip insulin without asking",
-        "Give the dose with a meal",
-        "Give the full usual dose",
+        "Skip insulin without asking anyone, since the client is not eating",
+        "Give the dose with a meal after surgery is done",
+        "Give the full usual dose to prevent a high glucose",
         "Check with the RN or provider about the insulin dose while NPO"
       ],
       "correctIndex": 3,
@@ -897,7 +897,7 @@
       "options": [
         "Remove the IV",
         "Stop the transfusion and notify the RN",
-        "Slow the rate and continue",
+        "Slow the rate and continue the transfusion while watching",
         "Give a sedative"
       ],
       "correctIndex": 1,
@@ -940,10 +940,10 @@
       "difficulty": "hard",
       "question": "A client is receiving IV fluids at 150 mL/hr and has new crackles and swollen ankles. What should the PN do?",
       "options": [
-        "Encourage more oral fluids",
-        "Remove the IV",
+        "Encourage more oral fluids to help flush the kidneys",
+        "Remove the IV and restart it in the other arm",
         "Report it to the RN, who may slow the fluids",
-        "Increase the IV rate"
+        "Increase the IV rate to give more fluid"
       ],
       "correctIndex": 2,
       "explanation": "Crackles and edema suggest fluid overload, especially in clients with heart or kidney problems."
@@ -955,10 +955,10 @@
       "difficulty": "hard",
       "question": "A client is scheduled for an MRI. Which question should the PN ask?",
       "options": [
-        "\"Do you have a fear of heights?\"",
-        "\"Do you wear glasses?\"",
-        "\"Did you eat breakfast?\"",
-        "\"Do you have any metal implants, a pacemaker, or medication patches?\""
+        "\"Do you have a fear of heights or of flying in airplanes?\"",
+        "\"Do you usually wear glasses when you read or watch TV?\"",
+        "\"Did you eat breakfast this morning and take your medicines?\"",
+        "\"Do you have metal implants, a pacemaker, or medication patches?\""
       ],
       "correctIndex": 3,
       "explanation": "Metal objects and some patches can be dangerous in the MRI magnet."
@@ -971,9 +971,9 @@
       "question": "A client's fingerstick glucose meter reads 'LO.' The client is sweaty and confused. What should the PN do?",
       "options": [
         "Treat for hypoglycemia per protocol and call for help",
-        "Encourage sleep",
-        "Give insulin",
-        "Recalibrate the meter and wait"
+        "Encourage sleep and recheck in a few hours",
+        "Give insulin to bring the glucose reading down",
+        "Recalibrate the meter and wait to see whether it reads higher"
       ],
       "correctIndex": 0,
       "explanation": "A 'LO' reading with symptoms of hypoglycemia must be treated right away. A serum glucose can be drawn but should not delay treatment."

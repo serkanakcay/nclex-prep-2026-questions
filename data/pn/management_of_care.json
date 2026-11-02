@@ -40,7 +40,7 @@
       "difficulty": "easy",
       "question": "A visitor asks the nurse about the diagnosis of the client in the next room. Which response is best?",
       "options": [
-        "\"I can only tell you if you are a close friend.\"",
+        "\"I can tell you if you promise to keep it private.\"",
         "\"The client is doing well, but I can't say more.\"",
         "\"I'm not able to share information about other clients.\"",
         "\"You should ask the charge nurse instead.\""
@@ -56,8 +56,8 @@
       "question": "A client with a valid do-not-resuscitate (DNR) order becomes pulseless. What should the nurse do?",
       "options": [
         "Call a rapid response and start CPR",
-        "Begin chest compressions until the provider arrives",
-        "Ask the family whether CPR should be started",
+        "Begin chest compressions and call a code until the provider arrives to decide",
+        "Ask the family whether CPR should be started before taking any other action",
         "Honor the DNR order and stay with the client while notifying the provider"
       ],
       "correctIndex": 3,
@@ -85,10 +85,10 @@
       "difficulty": "medium",
       "question": "A client falls while getting out of bed. After the nurse assesses the client, which statement about the incident report is correct?",
       "options": [
-        "Only the provider may complete the report",
-        "The report should be placed in the client's chart",
-        "The report is used for quality improvement and is not referenced in the medical record",
-        "The nurse should write \"incident report filed\" in the progress notes"
+        "Only the provider may complete the report after reviewing the client's chart",
+        "The report should be placed in the client's chart and noted in the nursing record",
+        "The report is for quality improvement and is not mentioned in the medical record",
+        "The nurse should write \"incident report filed\" in the progress notes and the care plan"
       ],
       "correctIndex": 2,
       "explanation": "Incident reports are internal quality and risk documents. The nurse documents the facts of the fall in the chart but does not mention the report itself."
@@ -100,8 +100,8 @@
       "difficulty": "medium",
       "question": "A competent adult client says, \"I'm leaving the hospital now, even though my doctor hasn't discharged me.\" What should the nurse do first?",
       "options": [
-        "Apply soft restraints to keep the client safe",
-        "Tell the client that leaving is not allowed",
+        "Apply soft restraints to keep the client safe until the provider arrives",
+        "Tell the client that leaving is not allowed and that the doctor must approve it",
         "Explain the risks of leaving and notify the provider",
         "Call security to escort the client back to the room"
       ],
@@ -117,8 +117,8 @@
       "options": [
         "\"I'd like you to evaluate him and consider an order for IV furosemide.\"",
         "\"I think he is developing fluid overload.\"",
-        "\"Mr. Lee is a 67-year-old admitted with heart failure.\"",
-        "\"His respiratory rate rose from 18 to 28 in the past hour.\""
+        "\"Mr. Lee is a 67-year-old admitted two days ago with acute heart failure.\"",
+        "\"His respiratory rate rose from 18 to 28 in the past hour with new crackles.\""
       ],
       "correctIndex": 0,
       "explanation": "SBAR stands for Situation, Background, Assessment, Recommendation. The recommendation is the specific action the nurse is requesting."
@@ -130,9 +130,9 @@
       "difficulty": "medium",
       "question": "Which action is within the scope of practice of the practical nurse (PN)?",
       "options": [
-        "Performing the initial admission assessment",
+        "Performing the initial admission assessment of a new client",
         "Developing the client's nursing care plan",
-        "Evaluating the outcomes of the plan of care",
+        "Evaluating the outcomes of the plan of care and revising it",
         "Reinforcing discharge teaching that the RN started"
       ],
       "correctIndex": 3,
@@ -160,10 +160,10 @@
       "difficulty": "medium",
       "question": "A caller says she is the client's daughter and asks for test results. What should the PN do first?",
       "options": [
-        "Hang up without responding",
-        "Tell her the results are normal",
-        "Verify that the client has authorized release of information to this caller",
-        "Give the results because she is family"
+        "Hang up without responding and report the call to the front desk supervisor",
+        "Tell her the results are normal and ask her to call back later",
+        "Verify that the client has authorized release of information to the caller",
+        "Give the results over the phone because she says she is the client's daughter"
       ],
       "correctIndex": 2,
       "explanation": "Information may be shared only with people the client has authorized, and identity must be verified (for example, with a privacy code) according to facility policy."
@@ -175,10 +175,10 @@
       "difficulty": "easy",
       "question": "A client refuses a scheduled medication. Which action by the PN is best?",
       "options": [
-        "Explore the reason, document the refusal, and report it to the RN or provider",
-        "Insist that the client take it now",
-        "Discard the medication and document that it was given",
-        "Hide the medication in the client's food"
+        "Explore the reason, document the refusal, and report to the RN or provider",
+        "Insist that the client take it now and stay until it is swallowed",
+        "Discard the medication and document that it was given as scheduled to avoid a variance",
+        "Hide the medication in the client's food so the client takes it unknowingly"
       ],
       "correctIndex": 0,
       "explanation": "Clients have the right to refuse. The nurse explores the reasons, documents the refusal, and reports it so the plan of care can be adjusted."
@@ -220,8 +220,8 @@
       "difficulty": "hard",
       "question": "A client is in soft wrist restraints under a valid order. Which action is appropriate?",
       "options": [
-        "Tie the restraints to the side rail",
-        "Check the restraints once per shift",
+        "Tie the restraints to the side rail so that the client cannot reach the knots",
+        "Check the restraints once per shift when vital signs are taken and note the findings",
         "Release the restraints and reposition the client at least every 2 hours",
         "Use the restraints as a PRN order whenever needed"
       ],
@@ -235,9 +235,9 @@
       "difficulty": "easy",
       "question": "A client asks what an advance directive is. Which description should the nurse give?",
       "options": [
-        "A hospital form that transfers the client's property to the family",
-        "A legal document stating the client's wishes for care if they become unable to decide",
-        "A provider's order that is written when the client is admitted",
+        "A hospital form that transfers the client's property to the family at death",
+        "A legal document stating the client's wishes for care if they can't decide",
+        "A provider's order that is written at admission to guide the client's daily care",
         "A consent that allows students to observe the client's care"
       ],
       "correctIndex": 1,
@@ -250,10 +250,10 @@
       "difficulty": "easy",
       "question": "A nurse wants to post a photo on social media of a decorated cake that a client's family brought to the unit. The client's name is on the cake. What is the best action?",
       "options": [
-        "Post it after blurring the client's face",
+        "Post it after blurring the client's face in the image",
         "Do not post it, because it identifies the client",
         "Ask a coworker whether it seems acceptable",
-        "Post it, since the client is not shown"
+        "Post it, since the client is not shown in the photo"
       ],
       "correctIndex": 1,
       "explanation": "Any image that can identify a client, including a name on an object, violates privacy rules. Nurses should not post client-related content on personal social media."
@@ -280,9 +280,9 @@
       "difficulty": "easy",
       "question": "A client's health care proxy document names a sister as the decision-maker. When does the sister's authority to make decisions begin?",
       "options": [
-        "Only after the client dies",
-        "When the provider and family disagree",
-        "As soon as the client is admitted",
+        "Only after the client dies and the family is notified",
+        "When the provider and the family disagree about the plan of care",
+        "As soon as the client is admitted to the hospital for any reason",
         "When the client becomes unable to make their own decisions"
       ],
       "correctIndex": 3,
@@ -295,10 +295,10 @@
       "difficulty": "medium",
       "question": "The nurse suspects that an older adult client is being financially exploited by a caregiver. What is the nurse's legal obligation?",
       "options": [
-        "Confront the caregiver about the concern",
+        "Confront the caregiver about the concern and ask for the bank records",
         "Document the concern only if the client agrees",
-        "Wait until there is proof before reporting",
-        "Report the suspicion to adult protective services according to state law"
+        "Wait until there is proof of the exploitation before reporting it",
+        "Report the suspicion to adult protective services per state law"
       ],
       "correctIndex": 3,
       "explanation": "Nurses are mandated reporters of suspected elder abuse, including financial exploitation. A report is based on reasonable suspicion; proof is not required."
@@ -310,7 +310,7 @@
       "difficulty": "medium",
       "question": "A nurse stops at a roadside crash and gives first aid until paramedics arrive. Which statement about the nurse's legal protection is accurate?",
       "options": [
-        "Good Samaritan laws usually protect care given in good faith within the nurse's training",
+        "Good Samaritan laws usually protect care given in good faith and within training",
         "The nurse is protected regardless of what care is provided",
         "Protection applies only to nurses who are off duty for more than 24 hours",
         "The nurse can be sued only if a fee is charged"
@@ -327,8 +327,8 @@
       "options": [
         "Give the client the chart without any process",
         "Follow facility policy to give the client access to the record",
-        "Refuse, because the record belongs to the hospital",
-        "Allow it only if the provider is out of the room"
+        "Refuse, because the record belongs to the hospital and not to the client",
+        "Allow it only if the provider is out of the room and no one else is nearby"
       ],
       "correctIndex": 1,
       "explanation": "Clients have a legal right to access their health information. The nurse follows the facility's process, which often includes having someone available to answer questions."
@@ -340,10 +340,10 @@
       "difficulty": "medium",
       "question": "During a handoff report at the bedside, which practice best protects client privacy?",
       "options": [
-        "Discuss all clients on the unit in the hallway",
+        "Discuss all of the clients on the unit in the hallway",
         "Leave the report sheet on the overbed table",
         "Speak loudly so the client can hear clearly",
-        "Ask visitors whether the client wants them present before discussing details"
+        "Ask whether the client wants visitors present before discussing details"
       ],
       "correctIndex": 3,
       "explanation": "Bedside handoff improves safety, but the client decides who may hear their information. Report sheets with client data must be kept secure."
@@ -370,9 +370,9 @@
       "difficulty": "medium",
       "question": "A nurse is worried that a provider has not responded to a client's worsening condition after two pages. What is the next appropriate action?",
       "options": [
-        "Keep paging the same provider every hour",
+        "Keep paging the same provider every hour until there is a response from them",
         "Follow the chain of command and notify the charge nurse or supervisor",
-        "Document that the provider failed to respond and wait",
+        "Document that the provider failed to respond and then wait for a call back",
         "Ask the family to call the provider"
       ],
       "correctIndex": 1,
@@ -385,7 +385,7 @@
       "difficulty": "medium",
       "question": "Using Maslow's hierarchy, which client need should the nurse address first?",
       "options": [
-        "A client who wants to talk about feeling isolated",
+        "A client who wants to talk about feeling isolated from the family",
         "A client whose airway is partially blocked by secretions",
         "A client who is anxious about losing their job",
         "A client who wants help planning a return to school"
@@ -417,7 +417,7 @@
       "options": [
         "Report the observation to the nurse manager or supervisor",
         "Post an anonymous warning in the break room",
-        "Ignore it if the client's pain is controlled",
+        "Ignore it because the client's pain is controlled",
         "Ask the colleague to give back the tablet and say nothing"
       ],
       "correctIndex": 0,
@@ -430,10 +430,10 @@
       "difficulty": "hard",
       "question": "A provider asks the nurse to carry out a verbal order during a non-emergency situation. Which response follows safe practice?",
       "options": [
-        "Have another nurse take the order",
-        "Accept it and write it later at the end of the shift",
-        "Refuse to accept any order from the provider",
-        "Ask the provider to enter the order electronically unless it is an emergency"
+        "Have another nurse take the order and pass it along later in the shift",
+        "Accept it and write it down later at the end of the shift when things slow down",
+        "Refuse to accept any order from the provider until a written copy is received",
+        "Ask the provider to enter the order in the system unless it's an emergency"
       ],
       "correctIndex": 3,
       "explanation": "Verbal orders increase the risk of error and are reserved for emergencies or when the provider cannot enter the order. When one is accepted, it must be written down and read back."
@@ -447,7 +447,7 @@
       "options": [
         "Creating a discharge teaching plan",
         "Measuring a client's wound and noting the drainage color",
-        "Deciding that a client's condition is unstable",
+        "Deciding that a client's condition is unstable and needs a new plan",
         "Developing the nursing care plan"
       ],
       "correctIndex": 1,
@@ -475,10 +475,10 @@
       "difficulty": "easy",
       "question": "Which entry in the medical record is documented correctly by the PN?",
       "options": [
-        "\"Client seems to be in a bad mood.\"",
-        "\"Client had a good day.\"",
+        "\"Client seems to be in a bad mood today.\"",
+        "\"Client had a good day and ate all of the meals.\"",
         "\"Client states, 'My pain is 7 out of 10 in my lower back.'\"",
-        "\"Client is fine, see previous note.\""
+        "\"Client is fine, see the previous note on file.\""
       ],
       "correctIndex": 2,
       "explanation": "Documentation should be objective, specific, and use the client's own words for subjective data."
@@ -490,10 +490,10 @@
       "difficulty": "easy",
       "question": "The PN makes an error while documenting on a paper record. What is the correct way to fix it?",
       "options": [
-        "Erase the error and rewrite it",
-        "Draw a single line through it, write 'error', and add initials, date, and time",
-        "Tear out the page and start over",
-        "Use correction fluid over the error"
+        "Erase the error and rewrite it so the page looks neat",
+        "Draw a single line through it, write 'error,' and add initials, date, and time",
+        "Tear out the page and start over with a clean page",
+        "Use correction fluid over the error and rewrite the entry"
       ],
       "correctIndex": 1,
       "explanation": "A single line keeps the original entry readable, which preserves the record's legal integrity."
@@ -538,7 +538,7 @@
         "The right to change other residents' schedules",
         "The right to refuse to pay for care",
         "The right to choose their own personal physician",
-        "The right to have unlimited staff time"
+        "The right to have unlimited one-on-one staff time every day"
       ],
       "correctIndex": 2,
       "explanation": "Federal law protects residents' rights to choose their physician, participate in care, privacy, and freedom from abuse and unnecessary restraints."
@@ -551,8 +551,8 @@
       "question": "Which client should the PN report to the RN first?",
       "options": [
         "A client asking when lunch will be served",
-        "A client requesting help to call a family member",
-        "A client whose respiratory rate has risen from 16 to 30 breaths/min",
+        "A client requesting help to call a family member about a visit tonight",
+        "A client whose respiratory rate rose from 16 to 30 breaths/min",
         "A client who wants an extra blanket"
       ],
       "correctIndex": 2,
@@ -565,7 +565,7 @@
       "difficulty": "medium",
       "question": "The PN receives a telephone order from a provider for a stable client. What must the PN do?",
       "options": [
-        "Ask another nurse to listen in place of a read-back",
+        "Ask another nurse to listen to the call in place of doing a read-back",
         "Write it down and read the entire order back to the provider",
         "Carry out the order before writing it down",
         "Repeat only the drug name"
@@ -581,7 +581,7 @@
       "question": "A client says, \"I don't want my wife to know anything about my test results.\" What should the PN do?",
       "options": [
         "Respect the request, document it, and inform the care team",
-        "Ask the provider to persuade the client to share",
+        "Ask the provider to persuade the client to share the results with his wife",
         "Tell the wife anyway because she is family",
         "Tell the client the hospital will decide"
       ],
@@ -611,8 +611,8 @@
       "question": "A PN is asked to perform a procedure the PN has never been trained to do. What is the best response?",
       "options": [
         "Ask the client how it is usually done",
-        "Do it while reading the procedure manual",
-        "Tell the RN about the lack of training and ask for help or reassignment",
+        "Do it carefully while reading the procedure manual step by step",
+        "Tell the RN about the lack of training and ask for help",
         "Refuse and leave the unit"
       ],
       "correctIndex": 2,
@@ -625,10 +625,10 @@
       "difficulty": "medium",
       "question": "The PN finds that a client's medication was not given at the scheduled time on the previous shift. What should the PN do?",
       "options": [
-        "Skip the dose and say nothing",
+        "Skip the dose and say nothing about the delay",
         "Report it to the RN or provider and follow instructions",
-        "Give a double dose to catch up",
-        "Document that the dose was given"
+        "Give a double dose at the next time to catch up",
+        "Document that the dose was given at the right time"
       ],
       "correctIndex": 1,
       "explanation": "A missed dose is a medication error. The PN reports it so the provider can decide what to do, and the event is reported per facility policy."
@@ -642,7 +642,7 @@
       "options": [
         "Offer toileting and check on the resident frequently",
         "Raise all four side rails",
-        "Give a sedating medication without an order",
+        "Give a sedating medication from the unit supply without an order",
         "Place the resident in a vest restraint"
       ],
       "correctIndex": 0,
@@ -655,9 +655,9 @@
       "difficulty": "medium",
       "question": "During a shift report, which information is most important for the PN to share about a client with diabetes?",
       "options": [
-        "The color of the client's room",
-        "The name of the client's roommate",
-        "The client's favorite television show",
+        "The color of the client's room and the bed number",
+        "The name of the client's roommate and her diagnosis",
+        "The client's favorite television show and visitors",
         "The latest blood glucose result and the insulin given"
       ],
       "correctIndex": 3,
@@ -671,7 +671,7 @@
       "question": "A client becomes upset and says the PN is not doing a good job. Which response is most appropriate?",
       "options": [
         "\"Tell me what concerns you so we can work on it.\"",
-        "\"I'm doing my best with too many clients.\"",
+        "\"I'm doing my best, but I have too many clients to care for today.\"",
         "\"Other clients haven't complained.\"",
         "\"You'll have to talk to my supervisor.\""
       ],
@@ -685,10 +685,10 @@
       "difficulty": "medium",
       "question": "A client's family member asks the PN to change a resident's medication time to fit visiting hours. What should the PN do?",
       "options": [
-        "Refuse to discuss it",
+        "Refuse to discuss it with the family member",
         "Explain that the request will be shared with the RN and provider",
-        "Give the medication whenever the family arrives",
-        "Change the time without telling anyone"
+        "Give the medication whenever the family arrives to visit",
+        "Change the time without telling the RN or anyone"
       ],
       "correctIndex": 1,
       "explanation": "Changes to medication times may affect effectiveness and require an order. The PN communicates the request to the RN or provider."
@@ -703,7 +703,7 @@
         "Using a bed alarm with the client's consent",
         "Encouraging a client to rest after surgery",
         "Keeping a competent client from leaving by locking the door",
-        "Asking a client to stay in the room during a fire drill"
+        "Asking a client to stay in the room during a fire drill until staff return"
       ],
       "correctIndex": 2,
       "explanation": "Restraining or confining a competent client against their will without legal authority is false imprisonment."
@@ -715,9 +715,9 @@
       "difficulty": "easy",
       "question": "Which member of the health care team should the PN contact to arrange home medical equipment for a client being discharged?",
       "options": [
-        "Dietitian",
-        "Chaplain",
-        "Pharmacist",
+        "Dietitian for meal planning",
+        "Chaplain for spiritual support",
+        "Pharmacist for medication counseling",
         "Case manager or social worker"
       ],
       "correctIndex": 3,
@@ -730,9 +730,9 @@
       "difficulty": "easy",
       "question": "A client of a different faith asks the PN for help observing a religious practice before meals. What should the PN do?",
       "options": [
-        "Suggest the client follow the hospital's routine instead",
+        "Suggest the client follow the hospital's routine instead and skip the practice today",
         "Ask the client to wait until discharge",
-        "Accommodate the request when it is safe and offer to contact a spiritual care provider",
+        "Accommodate the request if it is safe and offer to contact spiritual care",
         "Tell the client hospital rules don't allow it"
       ],
       "correctIndex": 2,
@@ -760,10 +760,10 @@
       "difficulty": "medium",
       "question": "A client in a skilled nursing facility tells the PN that a staff member has been rough with them during care. What should the PN do?",
       "options": [
-        "Tell the client they must be mistaken",
-        "Make sure the client is safe and report it right away according to facility policy",
-        "Wait to see if it happens again",
-        "Talk to the staff member privately first"
+        "Tell the client they must be mistaken about the care",
+        "Make sure the client is safe and report it right away per policy",
+        "Wait to see if it happens again before acting",
+        "Talk to the staff member privately first and ask for an explanation"
       ],
       "correctIndex": 1,
       "explanation": "Possible abuse must be reported immediately. Nurses are mandated reporters, and the resident's safety comes first."
@@ -777,7 +777,7 @@
       "options": [
         "Ask the assistive personnel what prevented the task from being done",
         "Do the task without saying anything",
-        "Complete an incident report on the assistive personnel",
+        "Complete an incident report on the assistive personnel for neglecting the task",
         "Report the assistive personnel to the director of nursing"
       ],
       "correctIndex": 0,
@@ -790,10 +790,10 @@
       "difficulty": "medium",
       "question": "A client asks the PN to witness the signing of a will. What is the best response?",
       "options": [
-        "Ask the client's roommate to sign instead",
-        "Agree, since witnessing is a routine nursing task",
-        "Explain that facility policy should be checked, since nurses usually don't witness legal documents unrelated to care",
-        "Sign as a witness without reading it"
+        "Ask the client's roommate to sign instead of you, since a nurse should not be involved",
+        "Agree to witness it, since signing legal documents is a routine part of the nursing role",
+        "Check facility policy, since nurses usually don't witness non-care legal documents",
+        "Sign as a witness without reading the document"
       ],
       "correctIndex": 2,
       "explanation": "Witnessing legal documents like wills is usually outside the nurse's role and governed by facility policy. The PN can help the client find appropriate resources."
@@ -852,7 +852,7 @@
       "options": [
         "Sending only the last nursing note",
         "Mailing the records next month",
-        "Telling the client to remember their medications",
+        "Telling the client to remember their medications and doses on their own",
         "Sending a complete, current medication list and care summary"
       ],
       "correctIndex": 3,
@@ -867,7 +867,7 @@
       "options": [
         "A resident who suddenly can't move the right arm and has slurred speech",
         "A resident with arthritis requesting a warm pack",
-        "A resident with diabetes whose fasting glucose is 132 mg/dL",
+        "A resident with diabetes whose fasting glucose is 132 mg/dL and who is eating well",
         "A resident with COPD whose SpO2 is 90% at baseline"
       ],
       "correctIndex": 0,
@@ -881,7 +881,7 @@
       "question": "An assistive personnel reports that a resident's oral temperature is 38.6 C (101.5 F) and the resident is more confused than usual. What should the PN do?",
       "options": [
         "Give acetaminophen and recheck in 4 hours",
-        "Tell the assistive personnel to remove the blankets and leave",
+        "Tell the assistive personnel to remove the blankets and then recheck the temperature later",
         "Collect more data, including other vital signs, and report to the RN promptly",
         "Document the temperature and continue rounds"
       ],
@@ -895,10 +895,10 @@
       "difficulty": "hard",
       "question": "The RN asks the PN to perform the initial assessment on a newly admitted client while the RN finishes a task. What should the PN do?",
       "options": [
-        "Refuse to see the client",
-        "Collect data such as vital signs and history, and tell the RN that the RN must complete the assessment",
-        "Do the assessment and sign the RN's name",
-        "Write the care plan based on the data collected"
+        "Refuse to see the client until the RN is free to do the whole assessment",
+        "Collect vital signs and history, and tell the RN that the RN completes the assessment",
+        "Do the assessment and sign the RN's name to it so that the chart is complete",
+        "Write the care plan from the data collected and sign it"
       ],
       "correctIndex": 1,
       "explanation": "The PN may collect admission data, but the comprehensive admission assessment is the RN's responsibility in most states."
@@ -910,10 +910,10 @@
       "difficulty": "hard",
       "question": "A client with a do-not-resuscitate order is found unresponsive and not breathing. A new assistive personnel starts chest compressions. What should the PN do?",
       "options": [
-        "Stop the compressions, confirm the DNR order, and notify the RN and provider",
-        "Call a code and continue CPR",
-        "Ask the family what they want",
-        "Help with compressions"
+        "Stop the compressions, confirm the DNR, and notify the RN and provider",
+        "Call a code and continue CPR until the provider arrives to decide what to do",
+        "Ask the family what they want to do first",
+        "Help with compressions until the code team arrives"
       ],
       "correctIndex": 0,
       "explanation": "A valid DNR order must be honored. The PN stops the resuscitation attempt, confirms the order, and notifies the RN and provider."
@@ -940,10 +940,10 @@
       "difficulty": "hard",
       "question": "The PN is caring for a client who needs a blood transfusion. Which task is most appropriate for the PN, depending on state rules and facility policy?",
       "options": [
-        "Assessing a transfusion reaction and choosing the treatment",
-        "Verifying the blood product with another licensed nurse and monitoring vital signs",
-        "Deciding whether the client needs a transfusion",
-        "Giving consent for the client"
+        "Assessing a transfusion reaction and independently choosing the treatment plan",
+        "Verifying the blood product with another licensed nurse and monitoring vitals",
+        "Deciding whether the client needs a transfusion and choosing the blood product to use",
+        "Giving consent for the client because the client is too ill to sign the form today"
       ],
       "correctIndex": 1,
       "explanation": "Where allowed, the PN can help verify blood products and monitor the client. The provider orders the transfusion and the RN is responsible for assessment and response to reactions."
@@ -955,10 +955,10 @@
       "difficulty": "hard",
       "question": "A PN on a busy shift realizes that a client's ordered 0900 antibiotic will be delayed. What is the best action?",
       "options": [
-        "Skip the dose and give the next one on time",
+        "Skip the dose and give the next one on time without telling anyone or documenting why",
         "Give two doses at the next scheduled time",
         "Change the schedule in the medication record",
-        "Tell the RN about the delay and give the dose as soon as possible per policy"
+        "Tell the RN about the delay and give the dose as soon as possible"
       ],
       "correctIndex": 3,
       "explanation": "Time-critical medications such as antibiotics should be given promptly. The PN tells the RN so work can be reorganized and follows the facility's timing policy."
@@ -970,10 +970,10 @@
       "difficulty": "hard",
       "question": "A client in a long-term care facility is placed on hospice. The family asks the PN what the PN's role will be. Which statement is accurate?",
       "options": [
-        "\"I'll stop all care because hospice will take over.\"",
+        "\"I'll stop all care because the hospice team will take over all of the care needs of my client.\"",
         "\"I'll decide when the hospice team should visit.\"",
-        "\"I'll help with comfort care, collect data on symptoms, and report changes to the RN and hospice team.\"",
-        "\"I'll be making the decisions about medications.\""
+        "\"I'll help with comfort care and report symptom changes to the RN and hospice team.\"",
+        "\"I'll be making the decisions about the medications.\""
       ],
       "correctIndex": 2,
       "explanation": "The PN contributes to comfort-focused care and communication with the hospice team within the PN scope of practice."

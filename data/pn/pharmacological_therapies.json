@@ -12,8 +12,8 @@
       "options": [
         "Recheck the pulse in 4 hours and give it then",
         "Hold the dose and notify the provider",
-        "Give the dose",
-        "Give half the dose"
+        "Give the dose as scheduled and recheck later",
+        "Give half the dose and recheck in an hour"
       ],
       "correctIndex": 1,
       "explanation": "Digoxin slows the heart rate. Hold it for an adult apical pulse under 60/min (or per protocol) and notify the provider."
@@ -40,8 +40,8 @@
       "difficulty": "medium",
       "question": "A client on a continuous heparin infusion has signs of serious bleeding. Which antidote should the nurse expect to give?",
       "options": [
-        "Vitamin K",
-        "Flumazenil",
+        "Vitamin K (phytonadione)",
+        "Flumazenil (a benzodiazepine antagonist)",
         "Naloxone",
         "Protamine sulfate"
       ],
@@ -73,7 +73,7 @@
         "Hemoglobin A1C",
         "Serum potassium",
         "Serum calcium",
-        "Serum amylase"
+        "Serum amylase and lipase"
       ],
       "correctIndex": 1,
       "explanation": "Loop diuretics cause potassium loss. Hypokalemia can lead to dysrhythmias, especially in clients also taking digoxin."
@@ -86,9 +86,9 @@
       "question": "A client starting lisinopril should be taught to report which adverse effect immediately?",
       "options": [
         "Swelling of the lips, tongue, or face",
-        "Mild headache",
-        "Increased urination",
-        "Mild dizziness when standing"
+        "Mild headache that lasts a few days",
+        "Increased urination during the first week",
+        "Mild dizziness when standing up quickly"
       ],
       "correctIndex": 0,
       "explanation": "ACE inhibitors can cause angioedema, a potential airway emergency. A dry cough is common but less urgent."
@@ -131,9 +131,9 @@
       "question": "A client taking metformin is scheduled for a CT scan with iodinated contrast. What should the PN expect?",
       "options": [
         "Switch metformin to the IV form",
-        "Metformin may be held around the procedure and restarted after kidney function is checked",
-        "Metformin has no interaction with contrast",
-        "Double the metformin dose before the scan"
+        "Metformin may be held for the procedure and restarted after kidney checks",
+        "Metformin has no interaction with contrast, so it is continued as usual all day",
+        "Double the metformin dose before the scan to prevent a rise in blood glucose"
       ],
       "correctIndex": 1,
       "explanation": "Iodinated contrast can impair kidney function and raise the risk of lactic acidosis with metformin. It is often held and restarted after renal function is confirmed (for example, 48 hours later)."
@@ -145,10 +145,10 @@
       "difficulty": "medium",
       "question": "Which instruction should the PN reinforce for a client taking alendronate?",
       "options": [
-        "Lie down right after taking it",
-        "Take it with a full glass of water and stay upright for at least 30 minutes",
+        "Lie down right after taking it so that the tablet reaches the stomach",
+        "Take it with a full glass of water and stay upright at least 30 minutes",
         "Take it with breakfast",
-        "Take it with milk at bedtime"
+        "Take it with milk at bedtime so that the stomach lining is protected"
       ],
       "correctIndex": 1,
       "explanation": "Alendronate can irritate the esophagus. Take it in the morning with plain water on an empty stomach and stay upright for 30 minutes."
@@ -192,8 +192,8 @@
       "options": [
         "Suggest exercising more",
         "Report it to the RN or provider promptly",
-        "Tell the client to double the dose",
-        "Tell the client this is normal"
+        "Tell the client to double the dose until the muscle pain stops",
+        "Tell the client this is normal and will resolve with time"
       ],
       "correctIndex": 1,
       "explanation": "Muscle pain on a statin may indicate myopathy or rhabdomyolysis and needs prompt evaluation."
@@ -235,10 +235,10 @@
       "difficulty": "easy",
       "question": "A client takes acetaminophen for arthritis pain and also uses an over-the-counter cold medicine. Which teaching is most important?",
       "options": [
-        "Check labels, because many combination products also contain acetaminophen",
-        "Take both with alcohol to improve sleep",
+        "Check labels, since many cold products also contain acetaminophen",
+        "Take both together with a glass of wine in the evening to improve sleep",
         "Acetaminophen has no daily limit",
-        "Cold medicines never contain pain relievers"
+        "Cold medicines never contain pain relievers or fever reducers of any kind"
       ],
       "correctIndex": 0,
       "explanation": "Hidden acetaminophen in combination products can lead to accidental overdose and liver damage. Clients should track their total daily dose."
@@ -251,9 +251,9 @@
       "question": "Which instruction is correct for insulin glargine?",
       "options": [
         "Do not mix it with other insulins in the same syringe",
-        "Shake the vial hard before drawing it up",
+        "Shake the vial hard before drawing it up to mix the suspension",
         "Give it intravenously",
-        "Give it only right before meals"
+        "Give it only right before meals, like a rapid-acting insulin"
       ],
       "correctIndex": 0,
       "explanation": "Glargine is a long-acting basal insulin that should not be mixed with other insulins because mixing changes how it is absorbed."
@@ -266,7 +266,7 @@
       "question": "Before giving metoprolol, which assessment is most important?",
       "options": [
         "Skin turgor",
-        "Bowel sounds",
+        "Bowel sounds and abdominal girth",
         "Pupil size",
         "Heart rate and blood pressure"
       ],
@@ -280,8 +280,8 @@
       "difficulty": "easy",
       "question": "A client starting rifampin for tuberculosis should be told to expect which effect?",
       "options": [
-        "White patches on the skin",
-        "Blue-green stools",
+        "White patches on the skin and inside the mouth",
+        "Blue-green stools and green-tinged urine",
         "Black tongue",
         "Orange-red urine, sweat, and tears"
       ],
@@ -340,10 +340,10 @@
       "difficulty": "medium",
       "question": "A client taking spironolactone should avoid which product?",
       "options": [
-        "Calcium-rich foods",
-        "Fresh apples",
+        "Calcium-rich foods such as milk, cheese, and yogurt",
+        "Fresh apples, pears, and other fresh fruit",
         "Salt substitutes containing potassium chloride",
-        "Low-sodium bread"
+        "Low-sodium bread and other low-sodium baked goods"
       ],
       "correctIndex": 2,
       "explanation": "Spironolactone is a potassium-sparing diuretic. Potassium-based salt substitutes can cause hyperkalemia."
@@ -355,8 +355,8 @@
       "difficulty": "medium",
       "question": "A client has taken prednisone 20 mg daily for 3 months and wants to stop because of weight gain. What should the nurse teach?",
       "options": [
-        "Double the dose before stopping",
-        "Stop the medication today",
+        "Double the dose before stopping to prevent withdrawal symptoms",
+        "Stop the medication today since weight gain is a serious problem",
         "Skip every other dose",
         "Do not stop suddenly; the provider will taper the dose"
       ],
@@ -385,10 +385,10 @@
       "difficulty": "medium",
       "question": "A client taking ciprofloxacin reports new pain in the back of the ankle. What should the nurse do?",
       "options": [
-        "Tell the client to rest the leg and report the pain to the provider promptly",
+        "Tell the client to rest the leg and report the pain to the provider",
         "Apply a heating pad and ignore it",
-        "Encourage running to stretch the tendon",
-        "Give an extra dose of the antibiotic"
+        "Encourage running to stretch the tendon and improve blood flow to it",
+        "Give an extra dose of the antibiotic to treat the infection faster"
       ],
       "correctIndex": 0,
       "explanation": "Fluoroquinolones can cause tendinitis and tendon rupture, especially of the Achilles tendon. The drug may need to be stopped."
@@ -400,10 +400,10 @@
       "difficulty": "hard",
       "question": "Which technique is correct when giving enoxaparin from a prefilled syringe?",
       "options": [
-        "Inject into the deltoid muscle",
+        "Inject into the deltoid muscle at a 90-degree angle after aspirating",
         "Expel the air bubble and massage the site afterward",
-        "Aspirate before injecting",
-        "Leave the air bubble in, inject into the abdomen at least 2 inches from the navel, and do not rub"
+        "Aspirate before injecting and massage the site afterward to help absorption",
+        "Leave the air bubble in, inject into the abdomen 2 inches from the navel, and do not rub"
       ],
       "correctIndex": 3,
       "explanation": "The air bubble helps deliver the full dose. Rubbing or aspirating increases bruising."
@@ -416,7 +416,7 @@
       "question": "A client taking lisinopril is also prescribed a potassium supplement. Which lab value should the nurse monitor most closely?",
       "options": [
         "Serum amylase",
-        "Serum calcium",
+        "Serum calcium and phosphorus",
         "Serum potassium",
         "Hemoglobin"
       ],
@@ -431,9 +431,9 @@
       "question": "A client with a fentanyl transdermal patch has a fever of 39 C (102.2 F). Why should the nurse be concerned?",
       "options": [
         "Heat increases absorption of fentanyl and can cause overdose",
-        "Fever lowers the drug level",
-        "Fever makes the patch fall off harmlessly",
-        "Fentanyl causes fever"
+        "Fever lowers the drug level in the blood and weakens the patch",
+        "Fever only makes the patch fall off, which is harmless to the client",
+        "Fentanyl causes fever as a common side effect of absorption"
       ],
       "correctIndex": 0,
       "explanation": "Fever and external heat increase skin blood flow and fentanyl absorption, raising the risk of respiratory depression."
@@ -460,10 +460,10 @@
       "difficulty": "easy",
       "question": "How should the PN give an oral medication to a client with a nasogastric tube connected to suction?",
       "options": [
-        "Give it through the tube and keep the suction on",
-        "Give it through the tube, then clamp the tube for the ordered time before resuming suction",
-        "Mix it into the drainage container",
-        "Give it by mouth with water"
+        "Give it through the tube and keep the suction running so the tube stays clear",
+        "Give it through the tube, then clamp the tube before resuming suction",
+        "Mix it into the drainage container to protect the tube",
+        "Give it by mouth with water and keep the suction on"
       ],
       "correctIndex": 1,
       "explanation": "The tube is clamped for a set time, often about 30 minutes, so the medication can be absorbed before suction removes it."
@@ -490,7 +490,7 @@
       "difficulty": "easy",
       "question": "A client is prescribed a sublingual tablet. Where should the client place it?",
       "options": [
-        "Between the cheek and gum",
+        "Between the cheek and gum until it dissolves",
         "Under the tongue until it dissolves",
         "Swallow it whole",
         "Chew it"
@@ -505,10 +505,10 @@
       "difficulty": "easy",
       "question": "Which instruction should the PN reinforce for a client using a metered-dose inhaler with a spacer?",
       "options": [
-        "Breathe out into the spacer forcefully after the puff",
-        "Shake it only once a week",
-        "Take all puffs as fast as possible",
-        "Breathe in slowly and deeply, then hold the breath for about 10 seconds"
+        "Breathe out into the spacer forcefully right after the puff to clear it",
+        "Shake it only once a week before using",
+        "Take all puffs as fast as possible without waiting",
+        "Inhale slowly and deeply, then hold the breath about 10 seconds"
       ],
       "correctIndex": 3,
       "explanation": "Slow deep breaths and a breath-hold help the medication reach the lungs."
@@ -521,7 +521,7 @@
       "question": "A client taking an iron supplement should be told to expect which effect?",
       "options": [
         "Dark green or black stools",
-        "White stools",
+        "White or clay-colored stools",
         "Red urine",
         "Blue skin"
       ],
@@ -550,10 +550,10 @@
       "difficulty": "easy",
       "question": "How should the PN give eye drops?",
       "options": [
-        "Place the drops in the lower conjunctival sac and have the client close the eye gently",
-        "Drop directly onto the cornea",
-        "Touch the dropper tip to the eye",
-        "Ask the client to rub the eye"
+        "Place the drops in the lower conjunctival sac with the eye gently closed",
+        "Drop directly onto the center of the cornea from several inches above the eye",
+        "Touch the dropper tip to the eye to be sure the drop lands",
+        "Ask the client to rub the eye afterward to spread the drop"
       ],
       "correctIndex": 0,
       "explanation": "Drops go into the lower lid pocket. Pressing on the inner corner reduces systemic absorption, and the tip shouldn't touch the eye."
@@ -565,10 +565,10 @@
       "difficulty": "medium",
       "question": "A client taking warfarin asks about taking aspirin for a headache. What should the PN reinforce?",
       "options": [
-        "Take aspirin with alcohol",
-        "Aspirin is always safe with warfarin",
-        "Take double the dose",
-        "Avoid aspirin unless the provider approves, because it increases bleeding risk"
+        "Take aspirin with alcohol to ease the headache quickly",
+        "Aspirin is always safe with warfarin because both are blood thinners",
+        "Take double the dose of aspirin for the headache",
+        "Avoid aspirin unless the provider approves; it raises bleeding risk"
       ],
       "correctIndex": 3,
       "explanation": "Aspirin and NSAIDs increase bleeding risk with warfarin. Clients should check with the provider before taking over-the-counter medications."
@@ -656,7 +656,7 @@
       "question": "A client taking a calcium channel blocker should avoid which drink?",
       "options": [
         "Grapefruit juice",
-        "Apple juice",
+        "Apple juice or cranberry juice",
         "Water",
         "Milk"
       ],
@@ -718,7 +718,7 @@
         "To prevent an allergic reaction",
         "To decide the route",
         "To decide the time",
-        "To check the client's insurance"
+        "To check the client's insurance coverage"
       ],
       "correctIndex": 0,
       "explanation": "Allergy checks prevent giving a drug that could cause a reaction."
@@ -731,8 +731,8 @@
       "question": "A client asks why the PN wears gloves to apply a nitroglycerin ointment. What is the best answer?",
       "options": [
         "\"Gloves keep the ointment cold.\"",
-        "\"Gloves make the ointment work better.\"",
-        "\"Gloves keep the medication from being absorbed through my skin.\"",
+        "\"Gloves make the ointment work better by holding in the heat of the skin.\"",
+        "\"Gloves keep the drug from being absorbed into my skin.\"",
         "\"It's a rule with no reason.\""
       ],
       "correctIndex": 2,
@@ -763,7 +763,7 @@
         "\"I take it before breakfast.\"",
         "\"My heart has been racing, and I can't sleep.\"",
         "\"I'm getting regular blood tests.\"",
-        "\"I take it at the same time each day.\""
+        "\"I take it at the same time each day on an empty stomach.\""
       ],
       "correctIndex": 1,
       "explanation": "Palpitations and insomnia may indicate too much thyroid hormone and need dose evaluation."
@@ -777,7 +777,7 @@
       "options": [
         "Baked potato",
         "Rice",
-        "White bread",
+        "White bread and toast",
         "Pasta"
       ],
       "correctIndex": 0,
@@ -790,7 +790,7 @@
       "difficulty": "medium",
       "question": "The PN is giving a subcutaneous heparin injection. Which action is correct?",
       "options": [
-        "Massage the site after injecting",
+        "Massage the site gently after injecting to spread the medication",
         "Inject into the deltoid muscle",
         "Aspirate before injecting",
         "Inject into the abdomen and do not massage the site"
@@ -821,7 +821,7 @@
       "question": "A client is prescribed a transdermal patch. Which instruction should the PN reinforce?",
       "options": [
         "Cut the patch if the dose is too high",
-        "Apply new patches over old ones",
+        "Apply new patches over old ones to build up the dose",
         "Remove the old patch and rotate sites",
         "Apply over broken skin"
       ],
@@ -837,7 +837,7 @@
       "options": [
         "Low heart rate only",
         "Dry mouth and urinary retention",
-        "Excess salivation",
+        "Excess salivation and watery eyes",
         "Diarrhea"
       ],
       "correctIndex": 1,
@@ -868,7 +868,7 @@
         "Give half the dose",
         "Give the dose as ordered",
         "Hold the dose and report to the RN",
-        "Encourage the client to sleep"
+        "Encourage the client to sleep it off and recheck at the next dose"
       ],
       "correctIndex": 2,
       "explanation": "Increased sedation and slowed breathing are warning signs of respiratory depression. The dose is held and the client is monitored."
@@ -882,7 +882,7 @@
       "options": [
         "Nausea and seeing yellow halos",
         "Heart rate of 72/min",
-        "Weight loss of 0.5 kg",
+        "Weight loss of 0.5 kg over the past week",
         "Clear urine"
       ],
       "correctIndex": 0,
@@ -925,10 +925,10 @@
       "difficulty": "hard",
       "question": "A client taking an SSRI tells the PN they want to start St. John's wort. What should the PN do?",
       "options": [
-        "Report it to the RN, because combining them can cause serotonin syndrome",
-        "Tell the client it is safe because it is natural",
-        "Ignore the comment",
-        "Suggest doubling the SSRI"
+        "Report it to the RN, since combining them can cause serotonin syndrome",
+        "Tell the client it is always safe to combine because it is a natural herbal product",
+        "Ignore the comment and let the client start it",
+        "Suggest doubling the SSRI dose to offset the herbal product"
       ],
       "correctIndex": 0,
       "explanation": "St. John's wort increases serotonin and can cause serotonin syndrome with SSRIs."
@@ -940,9 +940,9 @@
       "difficulty": "hard",
       "question": "A client with diabetes takes glipizide. Which finding should the PN watch for?",
       "options": [
-        "Weight loss",
-        "High blood pressure",
-        "Hyperkalemia",
+        "Weight loss and decreased appetite",
+        "High blood pressure and a slow heart rate after meals",
+        "Hyperkalemia with muscle weakness",
         "Hypoglycemia, especially if meals are skipped"
       ],
       "correctIndex": 3,
@@ -955,10 +955,10 @@
       "difficulty": "hard",
       "question": "The order is cephalexin 500 mg PO. The capsule available is 250 mg. The client has trouble swallowing. What should the PN do?",
       "options": [
-        "Open the capsules and mix them into food without asking",
-        "Skip the dose",
+        "Open the capsules and mix them into food without asking anyone",
+        "Skip the dose until the client can swallow capsules",
         "Ask the RN to check whether a liquid form can be ordered",
-        "Give one capsule only"
+        "Give one capsule only and record the dose as complete"
       ],
       "correctIndex": 2,
       "explanation": "Changing a dosage form requires checking with the pharmacist or provider. A liquid form is often available."
